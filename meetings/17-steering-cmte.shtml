@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 17th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">17th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p><strong>The 17th IAWN Steering Committee Meeting</strong>
+<br /><strong>Virtual, 13:00 UTC</strong>
+<br />26 Oct 2023 -- <a href="/documents/20231026_17th_virtual/17th_IAWN_Mtg_Summary.pdf">Meeting Notes</a></p>
+
+<dl>
+<dt>IAWN Steering Committee members in attendance:</dt>
+<dd>Sergio Camacho (INAOE)
+<br />Paul Chodas (JPL/CNEOS)
+<br />Alan Harris (DLR)
+<br />Lindley Johnson (NASA HQ/PDCO)
+<br />Patrick Michel (CNRS/OCA)
+<br />Richard Moissl (ESA/ESTEC/PDO)
+<br />Gonzalo Tancredi (International Astronomical Union)
+<br />Giovanni Valsecchi (NEODyS)
+</dd>
+
+<dt>IAWN permanent observers in attendance</dt>
+<dd>Detlef Koschny (ESA/SMPAG chair, representing ESA)
+</dd>
+
+<dt>IAWN Administration in attendance:</dt>
+<dd> James &quot;Gerbs&quot; Bauer, Tony Farnham, Elizabeth Warner (Univ. Maryland, NASA PDS SBN)</dd>
+<dd>Vishnu Reddy (Univ. Arizona/Univ. Maryland, NASA PDS SBN)</dd>
+
+<dt>IAWN Coordinating Officer:</dt>
+<dd>Kelly Fast (NASA HQ/PDCO)</dd>
+
+<dt>IAWN others attendees</dt>
+<dd>204 Italy - Luca Buzzi
+<br />6ROADS - Michal Zolnowski
+<br />Agenzia Spaziale Italiana (ASI) - Ettore Perozzi
+<br />Baldone Observatory - Ilgmars Eglitis
+<br />ESA/PDO/NEOCC - Juan Luis Cano, Luca Conversi, Dora Forhring, Marco Micheli, Paco Oca&ntilde;a
+<br />European Southern Observatory - Andrew Williams
+<br />G. Pascoli Obs (Astrobob K63) - Robert Bacci
+<br />GAL Hassin - Alessandro Nastasi
+<br />Great Shefford J95 - Peter Birtwhistle
+<br />Instituto de Astrofisica de Canarias - Javier Licandro
+<br />Iota Scorpii Observatory K78 - Giulio Scarfi
+<br />Israel Space Agency - Harel Ben-Ami
+<br />J87 La Ca&ntilde;ada - Juan Lacruz
+<br />JAXA - Makoto Yoshikawa, Seitaro Urakawa
+<br />KASI Korea - Hong-Kyu Moon
+<br />Keldysh Institute - Artem Mokhnatkin
+<br />Klet Observatory 246 - Jana Ticha, Milos Tichy
+<br />MAP W94 - Georges Attard
+<br />Mind's Eye Observatory W42 - &quot;Terry&quot; Grage
+<br />NAOC China - Hai Jiang
+<br />NASA PDCO U.S. - Linda Billings, Doris Daou, Josh Handal, Mike Kelley, Rob Landis
+	<ul>
+	<li>Minor Planet Center - Matthew Payne</li>
+	<li>JPL CNEOS - Davide Farnocchia</li>
+	<li>Catalina Sky Survey - Edward Beshore, Carson Fuls, Alex Gibbs</li>
+	<li>Spacewatch - Melissa Brucker</li>
+	<li>LINEAR - John Vaillancourt</li>
+	<li>Astronomical Research Institute (H21, 807) - Robert Holmes, Tyler Linder</li>
+	<li>University of Hawai'i - Dave Tholen</li>
+	<li>JPL Table Mountain Obs. - Jana Chesley</li>
+	<li>University of Central Florida- Estela Fernandez-Valenzuela, Xavier Inosencio</li>
+	</ul>
+<br />National Research Council, Canada - David Balam
+<br />NEKAAL Farpoint Obs. H36 - Gary Hug
+<br />NOAK Observatory/L02, Greece - Nick Sioulas
+<br />Northolt Branch Observatory, UK - Guy Wells
+<br />Romanian Academy, Institutul Astronomic - Mirel Birlan
+<br />SONEAR Observatory Y00 Y01 - Cristovao Jacques
+<br />Sormano Observatory 587 - Francesco Manca
+<br />Squirrel Valley Observatory W34 - Randy Flynn
+<br />University of New South Wales, Australia - Ed Kruzins, Edwin Peters, Shinji Horiuchi (CSIRO)
+<br />Virtual Telescope Project M50 - Gianluca Masi
+<br />Zwicky Transient Facility U.S. - George Helou
+</dd>
+
+<dt>Meeting observers and other attendees:</dt>
+<dd>
+<br />ISRO, India - Bulbul Mukherje
+<br />San Marcello Pistoiese 104 - Paolo Bacci
+<br />U.S. Dept. of State - Mark Iozzi
+</dd>
+</dl>
+
+<h2>Presentations</h2>
+<ul>
+<li><a href="/documents/20231026_17th_virtual/Bauer_SBNMPC_Annex.pdf">Bauer_SBNMPC_Annex</a></li>
+<li><a href="/documents/20231026_17th_virtual/Denneau_Atlas-update.pdf">Denneau_Atlas-update.pdf</a></li>
+<li><a href="/documents/20231026_17th_virtual/farnocchia_iawn_202310.pdf">farnocchia_iawn_202310.pdf</a></li>
+<li><a href="/documents/20231026_17th_virtual/Gibbs_NEOfixer-update.pdf">Gibbs_NEOfixer-update</a></li>
+<li><a href="/documents/20231026_17th_virtual/Grage_MEO_W42.pdf">Grage_MEO_W42</a></li>
+<li><a href="/documents/20231026_17th_virtual/IAWN-report-to-IAWN-SC.pdf">IAWN-report-to-IAWN-SC</a></li>
+<li><a href="/documents/20231026_17th_virtual/Koschny_SMPAG-status_20231015.pdf">Koschny_SMPAG-status_20231015</a></li>
+<li><a href="/documents/20231026_17th_virtual/Kruzin_UNSW.pdf">Kruzin_UNSW</a></li>
+<li><a href="/documents/20231026_17th_virtual/Micheli_ESA-S2P-PD-HO-0219_1_0_Estimating-and-reporting-astrometric-uncertainties.pdf">Micheli_ESA-S2P-PD-HO-0219_1_0_Estimating-and-reporting-astrometric-uncertainties</a></li>
+<li><a href="/documents/20231026_17th_virtual/NASA-update.pdf">NASA-update</a></li>
+<li><a href="/documents/20231026_17th_virtual/Payne_MPC-update.pdf">Payne_MPC-update</a></li>
+<li><a href="/documents/20231026_17th_virtual/Ticha_KletObs.pdf">Ticha_KletObs</a></li>
+
+</ul>
+
+
+<p>Welcome remarks from Kelly Fast, NASA Near-Earth Object Observations Program Manager and IAWN Coordination Officer</p>
+
+<ul>
+<li>Presentation by <a href="/documents/20231026_17th_virtual/NASA-update.pdf">Kelly Fast</a> regarding IAWN steering committee and administration
+	<ul>
+	<li>As of October 2023, IAWN includes 54 signatories from over 25 countries</li>
+	<li>Asteroid 2023 DZ2 turned an NEO close approach into an IAWN observation campaign</li>
+	<li>IAWN shall warn of predicted impacts exceeding a probability of 1% for all objects characterized to be greater than 10 meters in size</li>
+	<li>In the event of an impact, IAWN would notify the chair of the Space Mission Planning Advisory Group (SMPAG), the United Nations Office of Outer Space Affairs (UNOOSA), and UNOOSA would notify UN Member States
+		<ul>
+		<li>An example of this IAWN notification process was modeled at the 2023 Planetary Defense Conference (PDC) <a href="https://cneos.jpl.nasa.gov/pd/cs/pdc23/">hypothetical asteroid impact exercise</a></li>
+		</ul></li>
+	<li>The next IAWN meeting is planned for January 30, 2024 in Vienna, Austria (hybrid meeting)</li>
+	</ul></li>
+<li>Question from Vishnu Reddy from IAWN: Is there any insight into the timelines of next-generation surveys to help IAWN observation campaigns?
+	<ul>
+	<li>Kelly Fast response: Lindely Johnson, NASA Planetary Defense Officer, will present on NASA's NEO Surveyor mission. Additionally, the Rubin Observatory will be coming online in 2024-25.</li>
+	</ul></li>
+
+<li>Presentation by <a href="/documents/20231026_17th_virtual/NASA-update.pdf">Lindley Johnson</a>, NASA Planetary Defense Officer, regarding NASA's Planetary Defense Coordination Office (PDCO) and planetary defense efforts
+	<ul>
+	<li>The Planetary Defense Coordination Office (PDCO), was established in 2016 to manage NASA's planetary defense-related activities across NASA and coordinate with both U.S. interagency and international efforts to study and plan a response to the asteroid impact hazard</li>
+	<li>Earlier in 2023, NASA released an updated <a href="https://www.nasa.gov/directorates/smd/planetary-science-division/nasa-releases-agency-strategy-for-planetary-defense-to-safeguard-earth/">Planetary Defense Strategy and Action Plan</a> to complement the White House Office Science and Technology Policy's <a href="https://www.whitehouse.gov/ostp/news-updates/2023/04/03/new-planetary-defense-strategy-outlines-key-us-government-goals/">National Preparedness Strategy and Action Plan for NEO Hazards and Planetary Defense</a></li>
+	<li>As of October 23, 2023, over 33,300 near-Earth asteroids (NEAs) of all sizes have been found; over 10,650 NEAs 140 meters in size and larger have been found</li>
+	<li><a href="https://www.nasa.gov/science-research/planetary-science/from-impact-to-innovation-a-year-of-science-and-triumph-for-historic-dart-mission/">NASA's Double Asteroid Redirection Test (DART)</a> mission successfully demonstrated the kinetic impactor planetary defense technique and altered the orbit of its target asteroid, Dimorphos, by over 33 minutes</li>
+	<li>As of December 31, 2022, NASA has found less than half of NEAs 140 meters in size and larger</li>
+	<li><a href="https://www.jpl.nasa.gov/missions/near-earth-object-surveyor">NASA's NEO Surveyor mission</a> is currently in development and is expected for launch in no later than June 2028</li>
+	</ul></li>
+<li>Question from Vishnu Reddy from IAWN: When is NEO Surveyor expected to find 90% of NEOs 140 meters in size and larger
+	<ul>
+	<li>NEO Surveyor is designed for at least a 10 year mission. Modeling estimates exceeding the 90% threshold within about 8 years of operation, but that's an estimate and is dependent on other factors</li>
+	</ul></li>
+
+<li>Presentation from Richard Moissl, head of ESA's Planetary Defense Office, on ESA's planetary defense activities
+	<ul>
+	<li>ESA models its planetary defense activities on three pillars: Observation, Assessment, and Mitigation</li>
+	<li>ESA is currently studying a NEO mission in InfraRed (NEOMIR) to focus on detecting impactors coming from the Sun's direction, thus not detectable from the ground. Complementary to NEO Surveyor in the sense that NEOMIR will scan the sky at a shallower depth in a shorter time. Looking for imminent impactors. 
+		<ul>
+		<li>NEOMIR Phase A1 passed mid-term review</li>
+		</ul></li>
+	<li>Mitigation related missions: Support to Hera; Satis mission to Apophis; support to other concepts, including M-ARGO, and LUMIO</li>
+	<li>Hera testing is going well, and the mission is on track for October 2024 launch</li>
+	<li>The Near-Earth Object Coordination Center celebrated its 10th anniversary on May 22, 2023</li>
+	<li>FlyEye #1 has been declared a national asset for Italy
+		<ul>
+		<li>Construction preparations for test site (Matera) have started</li>
+		</ul></li>
+	<li>Highlight of asteroid 2023 CX1 - the seventh impactor detected before atmospheric entry and the second discovery by Hungarian observer Kriszti&aacute;n S&aacute;rneneckzky. Samples recovered.</li>
+	</ul></li>
+
+<li>Presentation from <a href="/documents/20231026_17th_virtual/Kruzin_UNSW.pdf">Ed Kruzins</a> from the University of New South Wales in Canberra, Australia, on deep space radar and optical detection of NEOs from the Southern Hemisphere
+	<ul>
+	<li>The Southern Hemisphere Asteroid Radar Program began its first scientific radar tests in 2015</li>
+	<li>In 2022 a program of augmenting RADAR observation with sub-metre-class 0.3-0.5 meter optical apertures began </li>
+	<li>Over the past year (2022-2023), there have been 12 Southern Hemisphere asteroid observations</li>
+	<li>The Southern Hemisphere Asteroid Research student program now includes graduate and post-graduate students</li>
+	<li>2024 activities include leveraging the progress from past NEO observations and to continue observation contributions towards IAWN campaigns</li>
+	</ul></li>
+
+<li>Presentation from <a href="/documents/20231026_17th_virtual/Ticha_KletObs.pdf">Jana Ticha</a>, director of KLET Observatory, on KLET observatory astronomy program
+	<ul>
+	<li>KLET observatory is located in the Czech Republic, south of the summit of Mount Klet, near the town of Cesk&eacute; Budejovice, and has been participating in NEO activities since 1992</li>
+	<li>The observatory has two primary telescopes:
+		<ul>
+		<li>1.06-m KLENOT telescope</li>
+		<li>0.57-m f/5.2 reflector</li>
+		</ul></li>
+	<li>In July of 2023, the president of the Czech Republic, Peter Pavel, visited KLET observatory and showed interest in the observatory's NEO observations and planetary defense contributions</li>
+	<li>KLET observatory is looking forward to continued NEO observation and support to IAWN</li>
+	</ul></li>
+
+<li>Presentation from Seitaro Urakawa, JAXA researcher, on JAXA asteroid observations
+	<ul>
+	<li>Bisei Spaceguard Center (BSGC) was built in 2000 and transferred to JAXA in 2017 
+		<ul>
+		<li>Main telescope is a 1.0m telescope</li>
+		<li>The observation work is carried out by the Japan Spaceguard Association (JSGA)</li>
+		<li>Observation targets include space debris and NEOs</li>
+		</ul></li>
+	<li>BSGC has successfully discovered over two NEOs (21826 and 2007 YZ) and one comet (C/2001W2)
+		<ul>
+		<li>BSGC has discovered more than 1,100 main belt asteroids</li>
+		<li>Ground observations support JAXA's Hayabusa and Hayabusa 2 missions</li>
+		</ul></li>
+	<li>BSGC utilizes a stacking method, which uses multiple CCD images to detect very faint NEOs that are undetectable on a single CCD image</li>
+	</ul></li>
+
+<li>Presentation by <a href="/documents/20231026_17th_virtual/Grage_MEO_W42.pdf">Terry Grage</a> from Mind's Eye Observatory (MEO) on how small telescopes can do big things
+	<ul>
+	<li>MEO is a private astronomical, satellite, and meteorological observatory located 45 miles south of NASA's Kennedy Space Center in Cape Canaveral, Florida</li>
+	<li>MEO embarked on its journey into astrometry in response to a request from a graduate student</li>
+	<li>MEO utilizes a trolley system that is designed to move effortlessly and accurately moved
+		<ul>
+		<li>The instrument trolley and tracks are isolated from variations from the observatory itself</li>
+		</ul></li>
+	<li>MEO currently employs two instruments: a Primary 0.3m SCT @ F3.3, and a Secondary 0.2m SCT @F1.9 
+		<ul>
+		<li>Both are equipped with high Quantum Efficiency (QE) cooled CMOS cameras</li>
+		</ul></li>
+	</ul></li>
+
+<li>Presentation from Georges Attard on the MAP project in San Pedro de Atacama, Chile
+	<ul>
+	<li>MAP was developed by amateur astronomers: Allain Maury, Georges Attard, and Daniel Parrott, with ongoing support from Florian Signoret and Jean-Marc Mari</li>
+	<li>Since January 2021, MAP has discovered 195 NEOs (8 of which are PHAs) and, 5 comets</li>
+	<li>MAP Survey uses off the shelf telescopes and scans the sky every night
+		<ul>
+		<li>Celestron wide field Rowe Ackermann Schmidt telescope, 11 inch F/2.2 telescope</li>
+		<li>ZWO 6200 CMOS cameras with Sony IMX 455 sensors</li>
+		</ul></li>
+	<li>MAP utilizes Tycho Tracker synthetic tracking to take 36 images of 30 seconds on the same field
+		<ul>
+		<li>The synthetic tracking software stacks the images in all the possible directions and then finds moving points</li>
+		</ul></li>
+	</ul></li>
+<li>Question: What type of computer is used for synthetic tracking?
+	<ul>
+	<li>Georges response: There are 36 images coming from four telescopes, and the synthetic tracking works in parallel with detection. There are two telescopes paired with one computer for synthetic tracking</li>
+	</ul></li>
+<li>Question from Estela Fern&aacute;ndez-Valenzuela of Florida Space Institute: There was a comment that space agencies put a lot of money toward discovering NEOs with large cameras that can be slower and inefficient. Why don't space agencies use CMOS cameras, which are faster and more efficient?
+	<ul>
+	<li>Georges response: When larger surveys are being designed, the optical architecture needs to be designed in tandem with the technology available. It takes time to build large observatories, so when things are finally built, it can be older hardware that is used to the amount of time it takes to design and build large observatories.</li>
+	</ul></li>
+
+
+<li>Presentation from <a href="/documents/20231026_17th_virtual/Koschny_SMPAG-status_20231015.pdf">Detlef Koschny</a>, Space Missions Planning Advisory Group (SMPAG) Chair, on SMPAG
+	<ul>
+	<li>SMPAG brings together space fairing nations to prepare an international response to a NEO impact threat</li>
+	<li>As of October 2023, SMPAG contains 18 member delegations, seven observers, and one ex-officio member</li>
+	</ul></li>
+
+<li>Presentation from Vishnu Reddy of IAWN on 2023 DZ2 asteroid observation campaign
+	<ul>
+	<li>Had a presentation as the Asteroids, Comets, and Meteors (ACM) conference, the PDC, and other community meetings</li>
+	<li>A paper should be submitted on this campaign by mid-November 2023</li>
+	</ul></li>
+
+<li>Presentation from Ettore Perozzi from the Italian Space Agency (ASI) on the European NEO Rapid Observation, Characterization and Key Simulations (NEOROCKS) project
+	<ul>
+	<li>NEOROCKS addresses the challenge of improving our knowledge of the physical characterization of NEOs and of the implications for their origin and evolution as well as for planetary defense</li>
+	<li>As of October 2023, the NEOROCKS team comprises eight  institutions, four companies, and seven countries </li>
+	<li>The basic call of NEOROCKS is to foster international cooperation and to make observations through existing assets
+		<ul>
+		<li>Did not have dedicated time - observations had to follow the standard process for securing observing time on existing observatories</li>
+		</ul></li>
+	<li>The NEOROCKS Technical Web portal is being migrated inside the ASI Space Science Data Center (SSDC) and will be made available to the entire NEO community
+		<ul>
+		<li>SSDC, established in 2000, hosts a collection of astronomical data and tools openly available to the scientific community</li>
+		</ul></li>
+	</ul></li>
+
+
+
+<li>Presentation from <a href="/documents/20231026_17th_virtual/Payne_MPC-update.pdf">Matthew Payne</a> and Frederica Spoto on an update from the Minor Planet Center (MPC)
+	<ul>
+	<li>MPC is the single worldwide location for receipt and distribution of positional measurements of minor planets, comets, and outer irregular natural satellites of the major planets</li>
+	<li>Over the past year (2022-2023), the MPC has released a monthly newsletter to increase communications and interaction with the community</li>
+	<li>Astrometric observations are disseminated in two different formats: the longstanding 80-character MPC1992 format, and the more recent Astrometric Data Exchanges (ADES) format
+		<ul>
+		<li>ADES was introduced with the goal of standardizing the exchange and storage of astrometric data</li>
+		<li>The majority of observations submitted to the MPC - especially from the major observatories - are being submitted in ADES format</li>
+		<li>MPC strongly encourages and prefers astronomers to transition over to ADES format, whenever possible, when submitting data to the MPC</li>
+		</ul></li>
+	<li>The MPC assigns new provisional designations when a new object is discovered
+		<ul>
+		<li>It is estimated that LSST will discover approximately 250,000 objects during its most productive months</li>
+		</ul></li>
+	<li>The MPC is working toward automating NEOCP processing 
+		<ul>
+		<li>The goal is to get the data out more smoothly and more quickly to the community</li>
+		<li>The code runs every 10 minutes, but only attempts to process objects</li>
+		<li>This automation does not automatically publish close-approachers / impactors</li>
+		</ul></li>
+	<li>Many tables of data are available to replicate from the MPC's postgres database via the Small Bodies Node - these are updated in near real-time, so there is not a delay in the data</li>
+	<li>There are now new services and APIs for astronomers to track their observations more easily</li>
+	<li>Over the coming months, MPC will continue to revamp its website to provide better documentation and better ways to access documentation</li>
+	<li>The MPC is migrating towards a database-centric system in preparation for LSST and NEO Surveyor
+		<ul>
+		<li>Also working to move internal services into internal clusters to help cope with the forecasted increase in data volume</li>
+		</ul></li>
+	</ul></li>
+<li>Question from Georges Attard: Do you intend to make digest2 software available?
+	<ul>
+	<li>Response from Matt Payne: There is a web form available to replicate - MPC will double check on this to ensure its up-to-date</li>
+	</ul></li>
+
+
+
+<li>Presentation from <a href="/documents/20231026_17th_virtual/Bauer_SBNMPC_Annex.pdf">James &quot;Gerbs&quot; Bauer</a> from the University of Maryland on PDS Small Bodies Node and MPC Annex 
+	<ul>
+	<li>There are several web pages that report the health of the MCP Database and Distribution (plan to retire mpcbeta Postgres database)
+		<ul>
+		<li>Encourage the community to switch over to the full database distribution</li>
+		</ul></li>
+	<li>There are several pages that list the annual counts of detections and discoveries on the MPC database by observatory code as well as totals by year (available in tabulated form)</li>
+	<li>MPEC Watch is a tool that sorts through all MPECs by year and by obscode
+		<ul>
+		<li>Recently, there have been OBSCOD Table Summaries, Observatory-specific break-downs, and machine readable table summaries available for download</li>
+		</ul></li>
+	<li>Recently launched a comet statistics page that is a summary of comets with plots and tables available with detections and discoveries available by comet type</li>
+	<li>Recently launched a dashboard to show the health of each distribution for database subscribers - more updates are anticipated to be rolled out in the coming months
+		<ul>
+		<li>Currently in the process for developing APIs for MPEC Watch and other tools as well</li>
+		</ul></li>
+	</ul></li>
+<li>Question from Vishnu Reddy for Gerbs Baur: Is there any way we can search for an observer in MPEC Watch?
+	<ul>
+	<li>Gerbs response: That functionality can be added. MPEC issues DOIs, and that data goes directly into NASA ADS, so author searches can be done that way. Alternatively, if you know the observatory code, you can search for them using that.</li>
+	</ul></li>
+<li>Question from Juan Lacrus for Matt Payne: A time ago there used to be a discovery status report that was sent on a monthly basis. This has since been interrupted. Will this report be reinstated?
+	<ul>
+	<li>Matt response: There is an interactive summary tool that will provide an overview of the total numbers of submitted numbers of observations and what their statuses are. This tool provides a breakdown by station code by station code basis. There are also plans to make a tool that would be available via an API that would compile this type of summary information. The intent is for MPC to roll this tool out over the coming months.</li>
+	</ul></li>
+
+
+<li>Presentation from <a href="/documents/20231026_17th_virtual/Micheli_ESA-S2P-PD-HO-0219_1_0_Estimating-and-reporting-astrometric-uncertainties.pdf">Marco Micheli</a> from ESA's Planetary Defense Office on estimating and reporting astrometric uncertainties
+	<ul>
+	<li>ADES offers a few extremely important capabilities for astrometry submission</li>
+	<li>Unfortunately, many observers are reporting uncertainty values that, after an orbital fitting is performed, prove to be significantly underestimated</li>
+	<li>The uncertainty of an astrometric measurement is the combination of three main components
+		<ul>
+		<li>Centroiding error, how well the &quot;center&quot; of the object detection is determined</li>
+		<li>Astrometric solution error, the error in the functions that translates pixels into RA and Dec</li>
+		<li>Any local bias of the astrometric solution due to other sources</li>
+		</ul></li>
+	<li>In April 2018, ESA released the second version of its Gaia astrometric catalog (DR2), containing extremely accurate astrometric positions and proper motions of more than a billion stars
+		<ul>
+		<li>Since the release of Gaia DR2, there is basically no valid reason to use any other astrometric catalog for optical asteroid astrometry</li>
+		</ul></li>
+	<li>Gaia allows us to basically neglect the uncertainty and biases of the stellar positions themselves; however, a few other sources of error remain:
+		<ul>
+		<li>How well the astrometric solution matches the actual distortions of the focal plane in the image</li>
+		<li>Chromatic biases (e.g. differential chromatic aberration), displacing each star with respect to the others of a different amount, and therefore creating &quot;noise&quot; in the solution itself</li>
+		</ul></li>
+	<li>In some cases, the dominant source of uncertainty in an astrometric position does not come from the measurement of the asteroid, but from the observer
+		<ul>
+		<li>Many MPC codes are associated to poorly determined coordinates</li>
+		<li>The coordinates themselves may be old, determined decades ago before the GPS era, and may be wrong by hundreds of meters</li>
+		<li>These issues can be easily addressed, and the MPC accepts coordinate corrections for known codes - please check the coordinates of your site and fix, if needed</li>
+		</ul></li>
+	<li>Recap
+		<ul>
+		<li>Use the new ADES format, and in particular report astrometric uncertainties</li>
+		<li>Never use any astrometric catalog that is not Gaia DR2 or subsequent releases</li>
+		<li>Don't trust the astrometric uncertainties produced by your software unless you are sure you are properly modeling every major aspect</li>
+		<li>Revise the geographical coordinates of your observatory</li>
+		</ul></li>
+	</ul></li>
+<li>Question from Vishnu Reddy of IAWN: How does what astrometric produces differ from what you are doing, and does Astrometrica give inputs?
+	<ul>
+	<li>Response from Marco: Yes, Astrometrica does give inputs, but the uncertainties that Astrometrica produces are not fantastic.Thus, still recommend using Astrometrica but checking residuals and double checking uncertainties using other methods described in Marco's presentation</li>
+	</ul></li>
+
+<li>Presentation from <a href="/documents/20231026_17th_virtual/farnocchia_iawn_202310.pdf">Davide Farnocchia</a> of NASA's Jet Propulsion Laboratory (JPL) on community best practices
+	<ul>
+	<li>CNEOS works to compute orbits and get best possible trajectories for astronomical objects</li>
+	<li>Reiteration to use Gaia DR2 or later, remove star catalog as source of error</li>
+	<li>How to properly stack images:
+		<ul>
+		<li>One valid approach to stack 10 images is to stack the first five images and the second five images to produces two stacks</li>
+		<li>Sometimes astronomers produce a third stack by using the the middle images (images three to seven) - do NOT do this / do not use the same position in multiple stacks</li>
+		</ul></li>
+	<li>Timing errors, especially if systematic, can bias the orbit solution
+		<ul>
+		<li>Calibrate time using GNSS satellites: <a href="https://www.projectpluto.com/gps_find.htm">www.projectpluto.com/gps_find.htm</a></li>
+		</ul></li>
+	<li>Reporting uncertainties:
+		<ul>
+		<li>&quot;A bad number is better than no number&quot; - please report uncertainties! If astronomers report uncertainties, CNEOS can better understand the uncertainties and see if they are inaccurate</li>
+		<li>&quot;If a bad number can be improved, it must be improved&quot; - try and come up with the best possible approach to estimate realistic uncertainties</li>
+		</ul></li>
+	<li>In general, three to five observations over an hour per night is preferred to avoid magnifying systematic issues
+		<ul>
+		<li>There may be exceptions: for example, an object that is on an impact trajectory may require more continuous tracking</li>
+		<li>If too many observations, downweighting and downsampling may need to occur</li>
+		</ul></li>
+	<li>Do not use fits to select observations
+		<ul>
+		<li>A fit could be a good sanity check, but observations need to be independent of ephemeris or fits</li>
+		<li>The selected sample may not reflect the true uncertainty of the data</li>
+		</ul></li>
+	<li>Carefully examine marginal detections, especially for archival images
+		<ul>
+		<li>Synthetic tracking software, such a Tycho Tracker, often requires significant experience to avoid submitting stacked noise</li>
+		</ul></li>
+	<li>Make sure observations are useful by selecting good targets:
+		<ul>
+		<li>NEOCP</li>
+		<li>Virtual Impactors</li>
+		<li>Recoveries</li>
+		<li>Large Uncertainties</li>
+		</ul></li>
+	<li>Additional recommendations
+		<ul>
+		<li>Reporting magnitudes is optional but highly desired</li>
+		<li>Apply for an observatory code for all permanent sites</li>
+		<li>Gravitational light bending should not be removed from the measured positions but is rather modeled by the fitting software</li>
+		<li>Differential color refraction should be corrected by the observer</li>
+		<li>Use Jira to contact the MPC!</li>
+		</ul></li>
+	<li>Unconfirmed Objects
+		<ul>
+		<li>As a community we have become much better at detecting and predicting short term impact and near misses to the NEOCP</li>
+		<li>However, NEOCP objects remain tentative and unconfirmed until designated</li>
+		<li>The MPC determines when the object is confirmed and the discovery MPEC is issued - until then, public states are to be avoided, though internal discussion is fine</li>
+		</ul></li>
+	<li>Only point to information that is available on public websites, such as Scout - anything else is internal for the community and should be treated as such</li>
+	</ul></li>
+<li>Comment from Dave Tholen from the University of Hawaii: If ADES versions of data are not being used, then the time precision for fast-moving objects may not be good enough
+	<ul>
+	<li>Response from Davide: This is a good point. It's going to take time to migrate the entire pipeline of data, but it's going to eventually happen</li>
+	</ul></li>
+
+<li>Presentation from <a href="/documents/20231026_17th_virtual/Gibbs_NEOfixer-update.pdf">Alex Gibbs</a> from Catalina Sky Survey (CSS) on <a href="https://neofixer.arizona.edu/site/500">NEOfixer</a>
+	<ul>
+	<li>Those interested in using NEOfixer can go ahead and register</li>
+	<li>On the NEOfixer website is a target list
+		<ul>
+		<li>Users can hover over cells to get more information on a particular target at a given time</li>
+		<li>On the &quot;filters&quot; tab, users can filter targets down by various criteria</li>
+		</ul></li>
+	<li>If an object in the target list is clicked on, more details about the particular target are shown</li>
+	<li>In addition to the NEOfixer webpage there is an API with six different data products
+		<ul>
+		<li>Get Ephemeris (ephem)</li>
+		<li>Get Observations (obs)</li>
+		<li>Get Orbit (orbit)</li>
+		<li>Reporting Observing Status (report)</li>
+		<li>Get Targets (target)</li>
+		<li>Get Uncertainty Offsets (uncert)</li>
+		</ul></li>
+	<li>Looking forward to continue advancing NEOfixer so it can become of greater use and benefit to the community</li>
+	</ul></li>
+<li>Question from Georges Attard of MAP: If MAP uses the NEOfixer API, will that data be included in the follow up report by the MPC?
+	<ul>
+	<li>Response from Alex: NEOfixer does not take observations - it only takes observing status. There is no link between the NEOfixer API and the MPC.</li>
+	</ul></li>
+
+<li>Remarks from Doris Daou from NASA on the International Year for Planetary Defense (IYPD)
+	<ul>
+	<li>In 2022, there was a proposal submitted to the UN to have 2029 be an IYPD - the same year as Apophis' close approach with Earth</li>
+	<li>Since then, a small working group has been created to put a proposal together that member nations can use when proposing for the IYPD
+		<ul>
+		<li>Some of the members from this working group are in IAWN and SMPAG</li>
+		</ul></li>
+	<li>Please, if you know your UN representative, get in touch with them and socialize the idea of the 2029 IYPD</li>
+	<li>More information to be forthcoming, including a public-facing placeholder website</li>
+	</ul></li>
+<li>Comment from Vishnu Reddy of IAWN: IAWN would like to do a campaign of Apophis during the close approach - will keep Doris and the IYPD working group updated to ensure everyone is coordinated
+	<ul>
+	<li>Response from Doris: Sounds great</li>
+	</ul></li>
+<li>Comment form Mike Kelly of NASA: Very much interested in opening up an observing campaign to the professional / amateur community due to the expected brightness of the Apophis flyby
+	<ul>
+	<li>Response from Doris: Would love to get everyone involved</li>
+	</ul></li>
+
+</ul>
+
+<p>Thanks and closing remarks from Kelly Fast</p>
+
+
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

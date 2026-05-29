@@ -1,0 +1,174 @@
+/** global **/
+body {margin:0px auto; padding:0; font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#333; background:#fff url('/obscamp/2005LW3/webdings/body-bg_blue.jpg') repeat-x; margin-left:10px;}
+
+* {Margin:0; padding:0;}
+
+/** element defaults **/
+table {width:100%; font-family:Arial, Helvetica, sans-serif; text-align:left;}
+
+th, td {padding:5px 10px;}
+
+th {border-top:1px solid #f4f4f4; border-bottom:1px solid #f4f4f4;}
+
+td {border-bottom:1px solid #f4f4f4;}
+td a {text-align: center;}
+
+code, blockquote {display:block; border-left:0px solid #ddd; padding:10px; margin-bottom:20px;} 
+blockquote p {font-style:italic; font-family:Georgia, "Times New Roman", Times, serif; margin:0; height: 1%;}
+
+/* p {line-height:1.4em; margin-bottom:10px;} */
+p {margin-top: .6em;
+margin-bottom: 1.4em;}
+
+.caption {font-style: italic;}
+
+a {color:#0D3C84;}
+
+a:hover {color:#0C3A85;}
+
+a:focus {outline:none;}
+
+fieldset {display:block; border:none; border-top:1px solid #e0e0e0;}
+
+fieldset legend {font-weight:bold; font-size:13px; padding-right:10px; color:#222;}
+
+fieldset form {padding-top:15px;}
+
+fieldset p label {float:left; width:150px; font-family:Arial, Helvetica, sans-serif;}
+
+fieldset form input, fieldset form select, fieldset form textarea {padding:5px; color:#333333; font-size:13px; font-family:Arial, Helvetica, sans-serif; border:1px solid #ddd;}
+
+fieldset form input.formbutton {margin-left:150px; background:#0C3A87; border:none; border-bottom:3px solid #082659; color:#ffffff; font-weight:bold; padding:5px 10px; font-size:13px;}
+
+h1 {font-size:45px; font-family:Arial, Helvetica, sans-serif;}
+
+h2 {color:#061C41; font-family:Arial,Helvetica,sans-serif; font-size:30px; font-weight:bold; letter-spacing:-1px; padding:0 5 5px; margin:5;}
+
+h3 {font-family:Arial,Helvetica,sans-serif; color:#0D357B; font-size:20px; padding-bottom:0px; letter-spacing:-1px;}
+
+h4 {font-family:Arial,Helvetica,sans-serif; padding-bottom:10px; font-size:15px; color:#0C3A85;}
+
+h5 {padding-bottom:10px; font-size:13px; color:#666666;}
+
+ul, ol {margin:0 0 5px 35px;}
+
+li {padding-bottom:3px;}
+ul.none {
+	list-style-image: none;
+	list-style: none;
+}
+
+/** wrapper **/
+div#wrapper {width:920px; margin:0px auto; padding:00;}
+
+/** sitename **/
+div#sitename h1 {font-size:48px; letter-spacing:-5px; margin:0; height:82px; padding:18px 0 0;} 
+div#sitename h1 a,
+div#sitename h1 a:hover {color:#fff; font-weight:normal; text-decoration:none;}
+
+/** header **/
+div#header {padding:35px 0 40px; margin:0 auto; height:px; background:transparent url('/obscamp/2005LW3/webdings/header-bg_blue.jpg') no-repeat; background-size:900px 111px; margin-left:-8px;}
+
+div#header h1 {color:#ffffff; padding-bottom:0; font-weight:normal; font-family:'Lucida Grande','Lucida Sans Unicode',Geneva,Verdana,Sans-Serif; font-size:36px; margin-left:125px; letter-spacing:-3;}
+
+div#header div.tagline {color:#C2D7F9; font-size:14px; padding-bottom:10px; font-family:Arial,Helvetica,sans-serif;}
+
+div#header div.tagline a {color:#ffffff;}
+
+/** body **/
+div#body {padding:10px 10; background:#fff url('/obscamp/2005LW3/webdings/content-bg.jpg') repeat-x scroll top left;}
+
+/** content+sidebar styles **/
+div#content {margin-top:10px; width:700px;}
+
+div.column-left {float:left; margin-right:0; background:#d6edf7;}
+
+div.column-right {float:right;}
+
+div#sidebar {width:200px; border-top:3px solid #000; border-bottom:3px solid #000;}
+
+div#sidebar dl {margin:-2px 0 7px 25px; padding:3; list-style:none;}
+
+div#sidebar dl dt a {text-decoration:none; color:DeepBlue;}
+
+div#sidebar dl dt a:hover {color:#09285E; text-decoration:underline;}
+
+div#sidebar ul {margin:0; padding:0; list-style:none;}
+
+div#sidebar li ul {margin-bottom:20px; width:200px;}
+
+div#sidebar li ul li {display:block; padding:5px 10px;}
+
+div#sidebar li ul li a {color:#333; text-decoration:none; font-family:Verdana, Geneva, sans-serif; font-weight:normal;}
+
+div#sidebar li ul li a:hover {color:#09285E; text-decoration:underline;}
+
+div#sidebar li a {text-decoration:none;}
+
+div#sidebar li a:hover {text-decoration:underline;}
+
+div#sidebar li ul.blocklist li {padding:0;}
+
+div#sidebar li ul.blocklist li.selected-item {border-bottom:none;}
+
+div#sidebar li ul.blocklist li.selected-item a {color:#3b33ff; font-weight:bold; border-bottom:1px solid #ddd;}
+
+div#sidebar li ul.blocklist li.selected-item a:hover {text-decoration:none;}
+
+div#sidebar li ul.blocklist li a {color:#000; width:260px; display:block; padding:5px 10px;}
+
+div#sidebar h4 {color:#0C367E; font-family:arial; font-size:16px; text-transform:uppercase; font-weight:bold; padding:7px 10px; margin:0; background-color:#9dd6ee;}
+
+div#sidebar h5 {color:#000; font-family:arial; font-size:5px; font-weight:normal; margin:-5pt 0pt 0 0; padding:0px 10px 7px; background-color:#9dd6ee;}
+
+div#sidebar hr {noshade:noshade;
+/**	color:#0C367E; **/ color:#000; color:#000; width:100%; size:1px;}
+
+/** footer **/
+div#footer {padding:20px 20px; color:#fff; border-top:1px solid #ccc;}
+
+div#footer p {color:#666; margin:0; font-size:11px; width:50%;}
+
+div#footer p.left {float:left;}
+div#footer p.right {float:right; text-align:right;}
+div#footer p a {color:#666; font-weight:bold; text-decoration:none; border-bottom:1px solid #999;}
+
+/** two columns **/
+article {float: left; width: 55%;}
+
+aside {float: right; width: 45%;}
+
+#wrap {width: 100%; margin: 0 auto;}
+
+/** clear fix **/
+.clear:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;}
+
+.clear {clear: both;}
+.left {float: left;}
+.right {float: right;}
+.center {margin: auto;}
+
+img {border: none;}
+img.left {margin: 0px 8px 5px 0;}		/* provides space around images when they are floated left */
+img.right {margin: 0px 0 5px 8px;}		/* provides space around images when they are floated right */
+
+hr {margin: 1em 0 0 0;}
+
+
+
+
+dl {margin-top: 0.5em;}
+dd {padding-bottom: 0.5em;
+margin-left: 2em;}
+
+#mdlogo {display: table-cell;
+vertical-align: middle;
+min-width: 200px;}
+
+#whotext {display: table-cell;
+vertical-align: middle;
+min-width: 230px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 0.7em;}
+
+.red {color: #ff0;}

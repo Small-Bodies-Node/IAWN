@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 18th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">18th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p><strong>The 18th IAWN Steering Committee Meeting</strong>
+<br /><strong>Virtual, 13:00 UTC</strong>
+<br />30 Jan 2024 -- <a href="/documents/20240130_18th_virtual/18th_IAWN_Mtg_Summary.pdf">Meeting Notes</a></p>
+
+<dl>
+<dt>IAWN Steering Committee members in attendance (* denotes virtual attendance):</dt>
+<dd>*Paul Chodas (JPL/CNEOS)
+<br />Alan Harris (DLR)
+<br />Lindley Johnson (NASA HQ/PDCO)
+<br />Richard Moissl (ESA/ESTEC/PDO)
+<br />*Giovanni Valsecchi (NEODyS)
+</dd>
+
+<dt>IAWN permanent observers in attendance</dt>
+<dd>Detlef Koschny (ESA/SMPAG chair, representing ESA)
+<br />Romana Kofler (UNOOSA)
+</dd>
+
+<dt>IAWN Coordinating Officer:</dt>
+<dd>Kelly Fast (NASA HQ/PDCO)</dd>
+
+<dt>IAWN Signatories and meeting observers (impromptu open session only):</dt>
+<dd>NAOC China - Hai Jiang
+<br />NAOC China - Liu Jing
+<br />UN SPIDER - *Juan Carlos Villagran
+</dd>
+
+</dl>
+
+
+<h2>IAWN membership update</h2>
+<p>Fast opened the meeting and convened an open session prior to the Steering Committee executive session.</p>
+<p><strong>2024 BX1</strong> - Fast reported on the 2024 BX1 impactor first observed by Kriszti&aacute;n S&aacute;rneczky. Koschny reported on the meteorite hunters who were already on their way to the predicted impact location prior to impact. The AllSky7 camera 15 km away picked up the fireball. The meteorite search region was difficult given the mud. Koschny noted that meteorite fall predictions need to take into account the winds at different altitudes, as fragmentation was assumed at the end of the path but the first fragmentation was at 50 km height. The meteorites were aubrites and therefore very bright with a bright, transparent melt crust. This was the first aubrite find in Europe in 180 years. It would be useful to have a tool to combine the fragmentation position in the atmosphere with the orbit computation (possible thesis topic).</p>
+
+<p><strong>ESA</strong> - Moissl reported that the contract for the NEOCC was successfully renewed. Since Oct 2023 the Flyeye telescope has, by decree of the national government of Italy, been declared an asset of national importance, which has simplified the administrative process. It is ready to ship to the Matera test site for commissioning during the first half of this year. It will be installed on Monte Mufara in Sicily after that. Two Apophis mission concepts are progressing and will go to the ESA ministerial for consideration - Ramses, a rebuild of Hera, or the smallsat alternative, Satis. The timeline for NEOMIR (an ESA study for a space-based IR mission to detect NEOs) is
+changing but it is still the next large mission after Hera and there might be impacts if Ramses is chosen.</p>
+
+<p><strong>NASA</strong> - Johnson mentioned that the Vera Rubin Observatory is finishing construction in Chile and expecting to see first light later this year and early operations with a commissioning camera in early 2025. NASA has been supporting the development of increased capacity at the Minor Planet Center to accommodate the volume of submissions. NEO Surveyor development in Phase C is progressing well. They have a full complement of the IR sensor chips and finalizing testing. They have enough sensor chips for flight and flight spares and more but procuring a few more. The project is in subsystem level CDR this year, full CDR in Feb/Mar 2025. Progressing to launch readiness in Sept. 2027. Awaiting NASA budget in U.S. but project not affected. Johnson noted that the NEO discovery rates were down in 2023, showing the need to wait for the population to come into detectable range for the current assets. A new population study yielded numbers consistent with previous studies, that the survey of the 140m+ population is 43-44% complete, hence 30-40 more years to complete without the upcoming survey capabilities.</p>
+
+<p><strong>NEODyS</strong> - Valsecchi reported that NEODyS will be transitioning to ASI. NEODyS now has a page for past impactors in the risk section of its website.</p>
+
+<p><strong>CNSA</strong> - Liu reported that China's government issued a 5-year planetary defense plan to support research, observations, orbit determination, and impact effects evaluation. They have also initiated a planetary defense impactor mission to launch in 2029. There is construction of a 2.5-meter telescope in northern China to find new objects. There are several telescopes that submit observations to the Minor Planet Center across China, like the 70 cm and 1.2 meter, telescopes, with good seeing conditions allowing observations to 22nd magnitude, and participation in IAWN campaigns. They also initiate campaigns for Asia Pacific space cooperation and LEO observations. There is also technology development. China also held a national planetary defense conference with 200-300 attending the meeting and with plans to expand the meeting internationally. There are bi-static radar observations with the 500 m radio telescope FAST https://en.wikipedia.org/wiki/Five-hundred-meter_Aperture_Spherical_Telescope</p>
+
+<p>Moissl noted that one of China's mission candidates 2015 XF261 will be observed with VLT in early February to provide astrometric measurements for updating the ephemeris. Johnson noted that the CNSA statement of intent for IAWN listed the 1.2 meter telescope but not some of the other mentioned assets, and noted that NASA's list of assets has also changed, and suggested that signatories update their asset lists in their signatory documentation on the IAWN website.</p>
+
+<p>Harris asked about the planetary radar situation in the U.S. Johnson noted that there are no substantial plans for replacement of the capability that Arecibo had. The Goldstone Solar System Radar remains the primary capability, and that there is discussion with NSF and others on future deep space radar capability. He noted that the Australia is actively involved in radar activities using NASA Deep Space Network facilities.</p>
+
+<p>CNSA and UN SPIDER representatives were excused for the Steering Committee executive session that followed.</p>
+
+<h2>IAWN Steering Committee - Executive Session (Steering Committee Only)</h2>
+<p>Fast initiated discussion on the future of the IAWN Steering Committee (SC). The current committee is largely the founding committee, and although there is now a Terms of Reference, one application from the previous year, and a few applications arriving the week of the meeting, there is still more that needs to be defined for the continuity of the SC.</p>
+
+<p>Johnson noted that the original SC purpose was to advocate for IAWN and for activities in the IAWN Statement of Intent. They were very successful in establishing IAWN and in worldwide participation, though not from all parts of the world yet. Now it is less about advocacy, and there are still policy issues and the notification process to address, but the upkeep of the technical viability of the network is also still important.</p>
+
+<p>Koschny noted success in adding to IAWN telescopes across large institutions and independent astronomers. There is day-to-day interaction between CNEOS and NEOCC, but there could be more. The next step is to address the notifications. Impact effect modeling is mainly done in the U.S. and there is some activity in Berlin, so the communities could be brought closer and for cross-validation.</p>
+
+<p>Valsecchi noted the need to foster theoretical studies, like revisiting the large objects on the risk list and leave more information for future generations.</p>
+
+<p>Chodas noted that the notification process is immature and that the SC should focus on content that should be contained in a notification.</p>
+
+<p>Johnson agreed with what was said on notification but noted that what needs to go in the notification is characterization. With an object of interest, there needs to be observations of a different nature than the astrometry that goes to the Minor Planet Center. The general characterization of classes of asteroids can inform initially, but there needs to be observations specific to the object of interest to learn as much as possible as fast as possible. That is not yet coordinated.</p>
+
+<p>Kofler noted that what has not yet gone to the STSC and to UNCOPUOS is a template for notification. Such documents are put in writing before the committee. IAWN reports orally but can put a conference room paper forward which can be referenced to inform member states. There was an IAWN notification template used for the Planetary Defense Conference but it was never presented as a template to member states. It can be presented as a conference room paper to the next STSC session and have it reflected in the next STSC report.</p>
+
+<p>Harris noted that we just had an example with the Brandenburg impact event, where the size was not estimated correctly because of the uncertainty on what ended up being very high albedo.</p>
+
+<p>A discussion of liability for IAWN ensued, as to whether there is liability for IAWN if a notification is wrong. Valsecchi noted caveats and limitations like available data and standard assumptions. Johnson noted that the SMPAG Ad Hoc Legal Working Group did take a look at responsibility and liability of notification in their report, but the outcome is that no one really knows. International law and treaties indicate that there is protection for honest attempts, but it is difficult to say. Kofler added that COPUOS noted that, should a credible threat of impact be discovered by the Network, available information would be provided by IAWN and disseminated to all Member States through the Office for Outer Space Affairs. So, there are no liability issues from that point of view.</p>
+
+<p>Chodas noted that the notification from the 2023 PDC did not have enough background on the characterization of size or on the impact probability profile. Fast noted that the notification is supposed to be brief and high level, and then any requests for additional information can be followed up by the subject matter experts in IAWN. Chodas suggested a guide to the template.</p>
+
+<p>Moissl said that IAWN should not wait to have the best notification before proposing it, because UN member states can then give feedback. Koschny noted that a short introduction and a sample would be a good starting point and a good indication of what member states could expect.</p>
+
+<p>Johnson noted that the Deputy Administrator of the Federal Emergency Management Agency in the U.S. has always said that he does not need to know how we got to the numbers, that he trusts that we are the experts, and that he just needs to know the uncertainty on the range of possible effects (from the asteroid size uncertainty).</p>
+
+<p>Koschny proposed a dedicated IAWN meeting so that groups that have a process in place can share them and then IAWN can update the template. Kofler can advise on shaping it into a conference room paper. Johnson suggested a one- or two-day workshop around the regular IAWN meeting.</p>
+
+<p>Fast brought up the issue of SC succession. Johnson suggested dissolving the current SC and determine what should be represented on the SC besides ESA and NASA which support the major search and data processing activities. Some positions can be filled by current SC members and the rest can be filled by application. But the SC should say that the founding SC is dissolved and this is how the new SC is being formed. The core of the SC is already defined in the SC Terms of Reference (ToR). There are core communities that provide important capabilities. The SC should also be diversified geographically. The SC members discussed and identified, based on the IAWN Statement of Intent, possible core areas to fill on the SC and with which to revise the SC ToR: Data Management, Archiving, and Distribution; Large-Scale Surveys; Astrometric Follow-up; Small Observatories/Independent Observers; Orbit Determination; Physical Characterization; Impact Effects Modeling; Interface to Emergency Management Organizations; Public/Media Information.</p>
+
+<p>The subject of press contacts came up. Johnson noted that the IAWN statement indicates that signatories are a source for communicating with their communities and can therefore be contacted by the press. Chodas noted that the press need to know where to go, and Fast noted that the IAWN website could be better organized so that signatories from different countries can easily be found.</p>
+
+<p>The issue of observer status in IAWN was discussed. SMPAG and UNOOSA have had permanent observer status since the founding of IAWN, and they are the notified entities. IAU status through SC member Tancredi was added later. Valsecchi noted that IAU had a historical role as the first entity that put attention to the problem, and Fast noted the IAU sanctioning of the Minor Planet Center. Chodas noted that there should not be additional permanent observers since IAWN is for the technical work of the network. Johnson noted that observers of IAWN meetings should be prospective IAWN members.</p>
+
+<p>Regarding the restructure of the SC, Fast will summarize the meeting and coordinate via email with the SC members (present and not present) on the addition of core areas to the ToR, the continuation of current SC members, and inviting applications with additional guidance on core areas.</p>
+
+<p>Regarding IAWN campaigns, Fast shared that the IAWN campaign team is looking at a comet as the next campaign target. Koschny noted that a campaign for the modeling community would also be valuable, such as modeling impact effects and comparing results. Continuing to treat campaign targets as hypothetical impactors to broaden the exercise was also encouraged, and campaign ideas should be solicited more broadly.</p>
+
+<p>Conference Room Paper 20 would be a paper from IAWN and SMPAG supporting an initiative for an international year of asteroid awareness and planetary defence, which Kofler would draft and coordinate.</p>
+
+<p>Fast adjourned the Steering Committee executive session.</p>
+
+
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

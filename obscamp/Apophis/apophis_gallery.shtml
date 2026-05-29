@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html data-bs-theme="light" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>99942 Apophis Observing Campaigns</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="/obscamp/Apophis/css-n-inc/styles.css">
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>99942 Apophis Galleries</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/Apophis/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<div class="container">
+<div>
+<ul class="nav nav-tabs" role="tablist">
+<li class="nav-item" role="presentation"><a class="nav-link" role="tab" data-bs-toggle="tab" href="#tab-1">2021</a></li>
+<li class="nav-item" role="presentation"><a class="nav-link active" role="tab" data-bs-toggle="tab" href="#tab-2">2027</a></li>
+<li class="nav-item" role="presentation"><a class="nav-link" role="tab" data-bs-toggle="tab" href="#tab-3">2028</a></li>
+<li class="nav-item" role="presentation"><a class="nav-link" role="tab" data-bs-toggle="tab" href="#tab-4">2029</a></li>
+</ul>
+<div class="tab-content">
+<div class="tab-pane" role="tabpanel" id="tab-1">
+<h2>2021</h2>
+<h2>IMAGES</h2>
+
+<p><a href="gallery/Apophis_phased_plot.png"><img src="gallery/Apophis_phased_plot.png" width="450" class="left" alt="" /></a>
+<br />Photometry data from UMD Astronomy Observatory (Elizabeth Warner) and Northolt Branch Observatories (Guy Wells &amp Daniel Bamberger).
+<br />Telescopes: 0.25-m f/8 Ritchey-Chretien, with a QHY42 CMOS camera, no filter (NBO)
+<br />0.178-m f/9 Astro-Physics refractor, with a SBIG ST-10 camera, Sloan r filter (UMD)
+<br />Courtesy of Daniel Bamberger
+</p>
+<div class="clear"></div>
+
+<p><strong>Evolution of the periodogram</strong><br />
+<a href="gallery/20210121_plot_abs_periodogram_fold.png"><img src="gallery/20210121_plot_abs_periodogram_fold.png" width="225" alt="" /></a>
+<a href="gallery/20210204_plot_abs_periodogram_fold.png"><img src="gallery/20210204_plot_abs_periodogram_fold.png" width="225" alt="" /></a>
+<a href="gallery/20210318_plot_abs_periodogram_fold.png"><img src="gallery/20210318_plot_abs_periodogram_fold.png" width="225" alt="" /></a>
+<br />21 Jan (left), 4 Feb (middle), 18 Mar (right)
+<br />Nic Erasmus, photometry lead for the Apophis 2021 Observing Campaign, has been collating photometric measurements from many observers participating in the exercise to observe Apophis as if it were a new object. To date, the observations show a full rotation-phase coverage and with the strongest periodogram peak at the known period. Data continues to be collected.</p>
+<ol>
+<li>ATLAS's HKO and MLO (c- and o-filter data, 120 data points, the ATLAS team)</li>
+<li>Calar Alto Observatory's Schmidt (V-filter data, 3323 data points, E. Petrescu and M. Micheli)</li>
+<li>Cerro Tololo's Prompt5 (R-filter data, 5 data points,  S. Zola)</li>
+<li>Meckering Observatory's Prompt-MO1 (R-filter data, 10 data points, S. Zola)</li>
+<li>Winer Observatory's 0.7-m (R-filter data, 168 data points, K. Kaminsky and M. K. Kaminska)</li>
+<li>Suhora Observatory's 0.6-m (R-filter data, 45 data points, M. Drozdz, W. Ogloza and M. Zejmo)</li>
+<li>Wise Observatory's 28-inch (clear filter data, 95 data points, D. Polishook)</li>
+<li>Kitt Peak's 1.8-m (SCHOTT OG-515 filter data, 598 data points, M. Brucker and J. Larsen)</li>
+<li>SAAO's Lesedi (V-filter data, 652 data points,  N. Erasmus, R. Lees and P. Janse van Rensburg)</li>
+<li>Kourovka Astronomical Observatory's 0.4-m SBG telescope (R-filter data, 322 data points, D. Glamazda, G. Kaiser, E. Kuznetsov and A. Perminov)</li>
+<li>UMD Astronomy Observatory's 7-inch (R-filter data, 405 data points,  E. Warner)</li>
+<li>Northolt Branch Observatory's 0.25-m (clear filter data, 366 data points,  G. Wells and D. Bamberger)</li>
+</ol>
+
+<p>Courtesy of Nic Erasmus and the above listed observers!</p>
+<div class="clear"></div>
+
+<p><a href="gallery/apophis_210116.jpg"><img src="gallery/apophis_210116.jpg" width="450" class="right" alt="" /></a>
+<br />Potential Earth-impactor (99942) Apophis on UT 2021 Jan. 16 (18:21 and 21:45). Exposure duration is 2520 and 2640 seconds. The FOV is 51x51 minutes of arc, orientation north-up/east-left. At the time of observation the object was 111.0 degrees from the sun and 0.204 AU from the Earth. The parallax effects of the spacecraft during nearly half an orbit (101 minute orbit) are seen in the star arcs. The radial profile of the object shows no sign of cometary activity. Canadian NEOSSat orbiting telescope (C53).
+<br />Courtesy of D. D. Balam (DAO), C. E. Spratt (ret), D. W. E. Green (CBAT) , J. Psotka (CSA) &amp; Canadian Space Agency.
+</p>
+<div class="clear"></div>
+
+<!-- <h3>Radar</h3>
+<a name="radar"></a>
+<div class="clear"></div> -->
+
+<hr />
+<h3>Spectra</h3>
+<a name="spectra"></a>
+<p><a href="gallery/Apophis_IRspec_MITHNEOS_IRTF_2021Jan.jpg"><img src="gallery/Apophis_IRspec_MITHNEOS_IRTF_2021Jan.jpg" width="450" class="left" alt="" /></a>
+<br />Reflectance spectrum of Apophis, observed with NASA's IRTF, matching a Sq-type.
+<br />Courtesy of David Polishook
+</p>
+<div class="clear"></div>
+
+<hr />
+<h2>MOVIES/ANIMATIONS</h2>
+<p>Please click on animations to see them full size.</p>
+
+<p><a href="gallery/20210318_Apophis_VODNIZA.gif"><img src="gallery/20210318_Apophis_VODNIZA.gif" width="350" class="right" alt="" /></a>
+<br />Courtesy of Alberto Quijano Vodniza, H78</p>
+<div class="clear"></div>
+
+<p><a href="gallery/20210311_Apophis_Wells+Bamberger.mp4">
+<video width="450" autoplay controls>
+<source src="gallery/20210311_Apophis_Wells+Bamberger.mp4" type="video/mp4">
+</video>
+</a>
+<br />2021 Mar 11, 22:27 - 23:22 UT
+<br />The bright, fast objects passing through are artificial satellites and space debris:
+<br />+ COSMOS 2479, a Russian military satellite. It is believed to be an Oko-class early warning satellite designed to detect missile launches with an infrared telescope. Launch date March 2012.
+<br />+ ARIANE 5 R/B rocket body. Launch date August 2002.
+<br />+ NSS-7, a communications satellite owned by SES World Skies. Launch date April 2002.
+<br />Courtesy of Northolt Branch Observatories (Daniel Bamberger &amp; Guy Wells)</p>
+<div class="clear"></div>
+
+<p><a href="gallery/20210307_Apophis_Warner.gif"><img src="gallery/20210307_Apophis_Warner.gif" width="450" class="right" alt="" /></a>
+<br />Apophis occulted 8.4-mag. NY Hydrae = SAO 136779 = HIP 45887 = HD 80747, spectal type G5V at 05:53 UT 2021 Mar 07. Although the UMD Observatory was way outside of the shadow path, the asteroid appears to just barely miss the star in this animation.
+<br />Hardware: 178mm f/9 Astro-Physics refractor, SBIG ST-10 CCD, Sloan r' filter
+<br />Exposure: 243 x 90s
+<br />Time: 23:51 to 06:51
+<br />Courtesy of Elizabeth Warner, UMD Observatory</p>
+<div class="clear"></div>
+
+<p><a href="gallery/20210307_Apophis_VODNIZA-long.gif"><img src="gallery/20210307_Apophis_VODNIZA-long.gif" width="350" class="left" alt="" /></a>
+<br />Courtesy of Alberto Quijano Vodniza, H78</p>
+<div class="clear"></div>
+
+<p><a href="gallery/20210306_Apophis_Warner.gif"><img src="gallery/20210306_Apophis_Warner.gif" width="450" class="right" alt="" /></a>
+<br />Apophis was very low in the SE sky. I started with 60s exposures and after a meridian flip switched to 90s. Only the pre-flip set are included in this animation.
+<br />Hardware: 178mm f/9 Astro-Physics refractor, SBIG ST-10 CCD, Sloan r' filter
+<br />Exposure: 195 x 60s
+<br />Time: 00:20 to 04:10
+<br />Courtesy of Elizabeth Warner, UMD Observatory</p>
+<div class="clear"></div>
+
+
+<p><a href="gallery/20210302_Apophis_SBeck.gif"><img src="gallery/20210302_Apophis_SBeck.gif" width="450" class="left" alt="" /></a>
+<br />Animation from 6x 60 sec. with an 8&quot; f/2.8 astrograph and CCD-Camera.
+<br />Courtesy of Stefan Beck, K40</p>
+<div class="clear"></div>
+
+
+<p><a href="gallery/20210204_Apophis_Lesedi.gif"><img src="gallery/20210204_Apophis_Lesedi.gif" width="450" class="right" alt="" /></a>
+<br />Telescope: SAAO's Lesedi Telescope in Sutherland (1-m aperture) with the high speed SHOC camera
+<br />Observer: Nic Erasmus
+<br />Exposure: 20 seconds (~3 min between frames)
+<br />Filter: V
+<br />Credit: Nic Erasmus
+</p>
+<div class="clear"></div>
+
+<p><a href="gallery/20201224_Apophis_Wise_Polishook.gif"><img src="gallery/20201224_Apophis_Wise_Polishook.gif" width="296" height="205" class="left" alt="" /></a>
+<br />Apophis as observed on Christmas eve from the Israeli desert (Wise Observatory, 097)
+<br />David Polishook, Wise Observatory
+</p>
+</div>
+
+<div class="tab-pane active" role="tabpanel" id="tab-2">
+<h2>2027</h2>
+
+</div>
+
+<div class="tab-pane" role="tabpanel" id="tab-3">
+<h2>2028</h2>
+
+</div>
+
+<div class="tab-pane" role="tabpanel" id="tab-4">
+<h2>2029</h2>
+
+</div>
+</div>
+</div>
+</div>
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/Apophis/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

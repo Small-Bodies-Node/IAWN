@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 2017 WA14 Geometry</title>
+<!--#include virtual="/css-n-inc/top.inc"-->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">2017 WA14 Geometry</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<h3>Heliocentric and Geocentric Distances</h3>
+<div class="image-caption-wrapper" style="width: 50%; float: left">
+<img src="/close-approaches/2017-WA14_geometry/2017-WA14_dist_2017.png" style="width: 100%; max-width: 600px;" alt="Heliocentric and Geocentric Distances of 2017 WA14 in the months around closest approach" class="art-lightbox">
+<p class="caption">Heliocentric and Geocentric Distances of 2017 WA14 in the months around closest approach</p>
+</div>
+<div class="cleared"></div>
+<p>&nbsp;</p>
+
+<h3>Solar Elongation and Solar Phase Angle</h3>
+<div class="image-caption-wrapper" style="width: 50%; float: left">
+<img src="/close-approaches/2017-WA14_geometry/2017-WA14_ang_2017.png" style="width: 100%; max-width: 600px;" alt="Solar Elongation and Solar Phase Angle of 2017 WA14 in the months around closest approach" class="art-lightbox">
+<p class="caption">Solar Elongation and Solar Phase Angle of 2017 WA14 in the <em>months</em> around closest approach</p>
+</div>
+
+<div class="image-caption-wrapper" style="width: 50%; float: right">
+<img src="/close-approaches/2017-WA14_geometry/2017-WA14_ang2_2017.png" style="width: 100%; max-width: 600px;" alt="Solar Elongation and Solar Phase Angle of 2017 WA14 in the days around closest approach" class="art-lightbox">
+<p class="caption">Solar Elongation and Solar Phase Angle of 2017 WA14 in the <em>days</em> around closest approach</p>
+</div>
+<div class="cleared"></div>
+<p>&nbsp;</p>
+
+<h3>Predicted Brightness</h3>
+<div class="image-caption-wrapper" style="width: 50%; float: left">
+<img src="/close-approaches/2017-WA14_geometry/2017-WA14_bright_2017.png" style="width: 100%; max-width: 600px;" alt="Predicted Brightness of 2017 WA14 in the months around closest approach" class="art-lightbox">
+<p class="caption">Predicted Brightness of 2017 WA14 in the months around closest approach</p>
+</div>
+<div class="cleared"></div>
+<p>&nbsp;</p>
+
+<h3>Orbit of 2017 WA14</h3>
+<div class="image-caption-wrapper" style="width: 50%; float: left">
+<img src="/close-approaches/2017-WA14_geometry/2017-WA14_orbit_plot.png" style="width: 100%; max-width: 600px;" alt="oblique view of orbit" class="art-lightbox">
+<p class="caption">Oblique view showing the positions of the asteroid and Earth (coinciding) on November 22, 2017, the date of closest approach. The thin lines show the projection of the asteroid's orbit projected onto the ecliptic plane, with tic marks denoting 15-day intervals.</p>
+</div>
+<p>&nbsp;</p>
+
+<div class="image-caption-wrapper" style="width: 50%; float: right">
+<img src="/close-approaches/2017-WA14_geometry/2017-WA14_orbit_plot_corot.png" style="width: 100%; max-width: 600px;" alt="co-rotating orbit plot" class="art-lightbox">
+<p class="caption">View of the orbit in a reference frame co-rotating with the Earth. Circles denote positions of the asteroid at intervals of 30 days relative to perihelion (filled circle). The upper plot shows the view from above the ecliptic plane and the low plot is the view along the ecliptic plane.</p>
+</div>
+<div class="cleared"></div>
+<p>&nbsp;</p>
+
+<p>Graphs courtesy Dr. Tony Farnham</p>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper"-->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc"-->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

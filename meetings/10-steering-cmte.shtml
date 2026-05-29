@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 10th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">10th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p><strong>The 10th IAWN Steering Committee Meeting - </strong>
+<br /><strong>Vienna International Centre, Vienna, AUSTRIA</strong>
+<br />05 February 2020 -- <a href="/documents/20200205_10th_Vienna/10th_IAWN_Mtg_Summary.pdf">Meeting Notes</a></p>
+
+<dl>
+<dt>IAWN steering committee members in attendance:</dt>
+<dd>Paul Chodas (JPL/CNEOS, remote)
+<br />Alan Harris (DLR)
+<br />Lindley Johnson (NASA HQ/PDCO)
+<br />Detlef Koschny (ESA/PDO)
+<br />Boris Shustov (Russian Academy of Sciences)
+<br />Giovanni Valsecchi (INAF)</dd>
+
+<dt>IAWN permanent observers in attendance:</dt>
+<dd>Gerhard Drolshagen (ESA/U. Oldenburg, SMPAG chair)
+<br />Romana Kofler (UN-OOSA)</dd>
+
+<dt>IAWN signatory representatives in attendance:</dt>
+<dd>Harel Ben-Ami (ISA)
+<br />Gennady Borisov (Observatory MARGO)
+<br />Sungki Cho (KASI)
+<br />Hyong-Ku Moon (KASI)
+<br />Andrew Williams (ESO)</dd>
+
+<dt>IAWN.net representatives in attendance:</dt>
+<dd>Timothy Spahr (NEO Sciences, LLC/NASA PDS SBN)</dd>
+
+<dt>10th IAWN Meeting Observers:</dt>
+<dd>Fatima Alaydaroos (UAESA)
+<br />Rudolf Albrecht (Austrian Space Forum)
+<br />James Bauer (U of Maryland, NASA PDS SBN, remote)
+<br />Linda Billings (NASA PDCO, remote)
+<br />Michael Egan (NASA PDCO)
+<br />Alissa Haddaji (Harvard U)
+<br />Juan Carlos Villagran de Leon (UN-SPIDER)
+<br />Makoto Yoshikawa (JAXA)</dd>
+
+<dt>10th IAWN Meeting Convener:</dt>
+<dd>Kelly Fast (NASA HQ/PDCO)</dd>
+</dl>
+
+<h2>Opening</h2>
+<p>Fast convened the meeting. All participants introduced themselves. No additions or changes to the agenda were proposed.</p>
+
+<h2>Status of IAWN</h2>
+<p><a href="/documents/20200205_10th_Vienna/presentations/iawn_update.pdf">Spahr gave an update</a> on 2019 NEO discoveries, noting that the 140-meter asteroid discovery rate is now flat, apparently having reached capacity for existing systems. The most exciting discoveries of the past year include the second interstellar object and the first confirmed interstellar comet, comet 2I/Borisov (C/2019 Q4 (Borisov)), and 2020 AV2 whose orbit is entirely interior to that of Venus, discovered by the Zwicky Transient Facility. </p>
+<p>Spahr brought forward four institutions that have applied for membership in IAWN as signatories to the IAWN statement of intent, and the steering committee considered each: </p>
+<ul>
+<li>Instituto de Astrofisica de Canarias (IAC) - Koschny commented on the use of IAC in support of DART and Hera, noting that they are their own consortium with which ESA closely works. Valsecchi noted their participation in NEOROCKS. Spahr called a vote and IAC is now part of IAWN.</li>
+<li>Paus Observatory B49 - Spahr noted the productivity of B49, a small follow up group in Spain, and called a vote. B49 is now part of IAWN.</li>
+<li>Deep Space Communications Radar (Australia) - Johnson asked about their contribution to NEOs. Spahr noted that Lance Benner said they have just started a program for NEOs. Johnson noted that they are not providing routine observations yet, only testing, and should do more first. The steering committee will reconsider the application at the next meeting.</li>
+<li>ISA (Israel Space Agency) - Spahr summarized the contribution, noting that David Polishook uses the WISE observatory and collaborates with the U.S. on algorithms for streak detections and trailed asteroids, and does asteroid characterization. Ben-Ami noted their proposal in Israel was chosen due to experience, facility, a unique algorithm, and a unique niche to IAWN. Spahr called a vote and ISA is now part of IAWN.</li>
+</ul>
+<p>The three additions bring the number of IAWN signatories to 25. Moon suggested organizing by signatories by type of organization.</p>
+<p>Fast noted the new content on iawn.net and invited all to visit and to give suggestions.</p>
+
+<h2>IAWN Reports</h2>
+<ul>
+<li>Valsecchi reported on NEOROCKS addressing a need to establish a quick-acting chain from discovery to astrometric follow-up to characterization follow-up. EU Horizon 2020 awarded a 2.5-year project that includes Italy, UK, Czechia and SpaceDyS (running NEODyS at Pisa) among others, working to improve astrometry to enable physical observations. Spahr referenced a Galache paper in noting that if you want to learn something about a small NEO, you have to catch it on the first apparition.</li>
+<li>Koschny noted space safety program, including Hera and space debris removal (there is a contract with a Swiss consortium to remove space debris, re-entry). The core space safety activity excluding Hera is to continue on roughly the same level, including orbit computation, impact monitoring, mitigation (information to European emergency response agencies), and active follow-up observations with a consortium in Europe. The ESA focus will be on astrometry with some spectroscopy, and also lunar impact flash observations (groups in Greece). There are also fireball cameras, and alert system with the University of Oldenburg (not a managed network, but a monitoring social media and more to gather information). There are two TestBed telescopes (TBT) , one in Spain and one to be commissioned in Chile. They will be used for both NEOs and for space debris. Fly-eye 1.2m survey telescope development continues, which splits the field-of-view out to 16 separate standard 4K cameras. There was factory acceptance testing in December 2019 and production has started on the other 15 cameras. A road will be built to the mountain of the future telescope sight in Sicily. ASI wants the telescope in a test location first, which should happen this year, and it should get to mountain in 2021. SpaceDys continues to run NEODyS in collaboration with the University of Pisa team. Orbit determination computations are now running at the NEOCC, while the impact monitoring results are still mirroring those of NEODyS. In the meantime acceptance testing is going on on the new impact monitoring system that will be run entirely at the NEOCC. When this will be online, NEODyS will switch its focus on new developments of impact monitoring, exploring the possibility to extend in special cases the time span covered by the computations, and developing new algorithms for quick assesment of short term hazard.</li>
+<li><a href="/documents/20200205_10th_Vienna/presentations/2020Feb05_IAWN_KASI_report_2.pdf">For KASI</a>, Moon presented on the Korea Microlensing Telescope Network (KMTNet). He gave an update on near-Earth asteroid (4179) Toutatis (albedo from direct measurements) and on light curve observations of 2012 TC4 during that observing campaign. A period change for 2012 TC4 was observed, which Moon noted may be the first confirmed period change for an asteroid after close encounter with Earth. One-meter telescopes were used to observe the DESTINY+ target Phaethon, noting no surface variation in the southern hemisphere. 2018 PM28 and 2018 PP29 were discoveries. 2018 PP29, has an interesting orbit beyond Jupiter and is on the Sentry impact risk list. 2018 PM28 has a PHA orbit similar to Earth's but is small, so it is a potential exploration target. 2I/Borisov was also observed. Sungki Cho reported on a new NEO survey telescope, 1.5m class. Cooperation with the Catalina Sky Survey is ongoing. System design is being worked with the NOAO team and site selection underway. There would be a 9K CCD camera with &lt;2 degree field-of-view.</li>
+<li>For the Russian Academy of Sciences, Shustov spoke on the status of IAWN activities in Russia, and is encouraging a systematic approach to NEOs. He noted that TsNIIMash is preparing a concept of a national program, but right now individuals work largely at local level.</li>
+</ul>
+
+<h2>Invited Talk - The Discovery of Comet 2I Borisov (Gennady Borisov, MARGO)</h2>
+<p><a href="/documents/20200205_10th_Vienna/presentations/IAWN-Cr.pdf">Borisov began hunting</a> for comets as an amateur 15 years ago with different telescopes improved over the years. The Mobile Astronomical Robotics Genon Observatory (MARGO) L51 has a 0.65m and two 0.3m telescopes, 25 square degrees on smaller, fast optical design, sharp images in focal plane, to see comets or star-shaped objects. Observing regularly since 2012 9 comets and 5 NEOs have been discovered, with a focus on the pre-dawn sky and the Milky Way region. For 2I, fields in Milky Way were involved, some near the horizon (solar elongation 40-50 degrees) with a 4.5 square degree FOV. The comet was detected at the edge of the field-of-view. Astrometry was sent to the MPC, it was placed on the Potential Comet Confirmation Page, and after 10 days it became clear it was unique and hyperbolic. The 2I designation came from IAU on 9/24. The last MARGO observation was on Dec 7, 2019, then it moved into the southern hemisphere sky.</p>
+<p><a href="/documents/20200205_10th_Vienna/presentations/CometBorisov-by-NEOWISE.pdf">Comet Borisov by NEOWISE</a></p>
+
+<h2>Status of the IAU Minor Planet Center and Related Issues</h2>
+<p><a href="/documents/20200205_10th_Vienna/presentations/MPC_update.pdf">Spahr noted new MPC</a> staff hires. The NEOCP and PCCP updating has improved. The new ADES astrometric format contains the estimate of 2-axis uncertainty as measured by the observer will especially help short-term impact predictions. Over 930,000 orbits have been calculated. There has been progress on linking items in the Isolated Tracklet File and on heliocentric linking, and an intention to number multi-opposition objects.</p>
+<p>Many new MPC products are in beta testing and MPC has part-time systems engineering support. The notional NASA guidelines ranking the importance of observations was noted (collision probability > 0, large NEOs, close approaches, large orbital uncertainty, spacecraft targets). Valsecchi noted that two "priority lists" were developed in Europe, one running now at the NEOCC, driven mostly by orbital uncertainty and observability window, and the other developed by the NEOSHIELD-2 project, mostly focused on highlighting good candidates for physical observations. However, in prioritizing observations, there should be other factors to be considered, like hunting in unfavored regions of the sky (e.g., Borisov). Fast noted that articles on priorities on the IAWN.net site could be valuable so observers can understand why agencies and MPC and others have certain priorities. Harris noted that it would be good to have a list of objects that have contradictory results in the literature.</p>
+
+<h2>9th IAWN Action: Revisit IAWN Statement of Intent and IAWN Steering Committee</h2>
+<p>Fast brought up the action to consider the composition of the steering committee. Valsecchi noted that when IAWN started, there were more steering committee members than members. It was noted that there should always be representatives from core areas, including the impact modeling area, and that the committee should think of adding a few members, It was noted that this is the edge of a transition, and that in four years when the new telescopes come into play, the size of the problem will change. It was noted that it is not good to rotate off people just before this change. Johnson noted that the current size of eight is not too large, a few more would be reasonable, and asked about categories that represent the community. Fast suggested working with iawn.net on the categories.</p>
+
+<h2>Erice School</h2>
+<p>Kofler gave an update. The week-long programme would involve scientific aspects, policy and legal aspects, disaster preparedness and response, and communication on NEOs. The Erice Foundation advances scientific problems. If an announcement is made on OOSA, then partners would need to link to the web page. OOSA would set up a registration platform and list by September, then have the selection. Koschny suggested a focus on the communication aspect if there is room in the program. </p>
+
+<h2>Walk-on Updates</h2>
+<p>Fatima Alaydaroos (UAESA) spoke of the UAE Meteor Monitoring Network consisting of three observational towers, each with 17 cameras, covering all directions, in Sharjah, Al-Yahar, and Liwa. A total 15,000+ meteors have been observed. It uses UFO Capture software and UFO Analyzer to output maps. They have been talking to the International Meteor Organization.</p>
+<p>Makoto Yoshikawa (JAXA) reported on a new algorithm and FPGA board for a stacking method developed to reduce analysis time for finding NEOs. In ground testing one fast moving object was found and 10 NEOs were discovered. Spahr notes that such work has been discussed by many but JAXA was the group first group to put it into practice. An intermediate case could be a wide-field telescope with the technique, which could go fainter and fill in the gap between current survey capabilities (Catalina Sky Survey and Pan-STARRS) and future capabilities (Vera Rubin Obsevatory/LSST and NEO Surveyor). </p>
+<p>Avi Blasberger, Director, Israel Space Agency (ISA) visited the meeting and gave the following remarks in response to the IAWN Steering Committee's vote to admit ISA as an IAWN signatory:</p>
+<blockquote>
+<p><em>Madam Chair, Distinguished Delegates
+<br /><br />On behalf of Israel Space Agency (ISA) we are pleased to participate in the International Asteroid Warning Network (IAWN) in order to assist its highly important activities and support the work of the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS). Israel Space Agency is funding an astronomical research for characterization of Near-Earth Asteroids (NEAs), to be performed by researchers at the Weizmann Institute of Science. The research will utilize the new constructed telescope, W-FAST, at the Wise Observatory facility, a new algorithm and more. We hope this is just the beginning and pray for growing and fruitful cooperation with COPUOS Subcommittees, space agencies, space industries and academic institutions.
+<br /><br />Thank you, Mme Chair</em></p>
+</blockquote>
+
+<h2>UN-SPIDER cooperation with IAWN, including work on Hazard Terminology and Classification by the UNDRR/ISC Expert Group</h2>
+<p>Villagren reported that UN-SPIDER works to ensure that all countries have access to and develop capacity to use all types of space-based information, to connect disaster management and space communities. It has technical advisory support, knowledge portal, and a network of regional support offices. The UNDRR/ISC hazard terminology task was noted. The workshop in Geneva October 2019 was where terminology produced by IAWN was presented. Example hazards: Depletion of mangrove forests in coastal areas, collapse of poorly constructed buildings, etc. Eight hazard types, 41 hazard clusters, 336 hazards. Extraterrestrial (airburst, emp, space weather, NEOs, radio blackout, UV radiation, etc.). </p>
+<p>The four elements of efficient people-centered early warning is risk knowledge, monitoring and warning service, dissemination and communication, response capability. The IAWN page on the UN-SPIDER knowledge portal is http://un-spider.org/space-application/international-asteroid-warning-network There is also a page devoted to space natural hazards, with NEOs, with background on global tsunami early warning efforts, and the message and warning process. It was mentioned to consider an expert meeting between IAWN and experts of selected national disaster mgmt. agencies in large countries and Europe to identify ways to move forward to implement EW efforts within the scope of national disaster management agencies. This would be an action prior to tabletop exercises. </p>
+<p>Koschny noted that the Planetary Defence Conference can be exploited to work the interface with emergency management on how to warn different groups. There could be a focused session on how to involve UN-SPIDER. Johnson liked the idea of meeting with emergency response from multiple countries, which would also benefit the PDC organizers who want to draw more of the emergency response community to the conference. As for the report on hazards, IAWN contributed text on NEOs. Some disasters we can help with, others outside of our expertise, but we can help with the few in our areas. Fast will receive inputs for review. </p>
+
+<h2>Impact of Artificial Satellite Constellations on NEO Survey and Follow-up</h2>
+<p><a href="/documents/20200205_10th_Vienna/presentations/starlink.pdf">Spahr led the discussion</a>. Johnson noted that there are 23,000 objects of interest in LEO. Valsecchi said the majority are ~10cm in size. Large objects comparable to Starlinks number ~5000. Low LEO has 1000-2000 objects. Starlinks can streak over the exposure time for wide-field surveys. There is no regulation of space visually, only an advertising ban. Radio spectrum is regulated. Andy Williams is tasked with satellite mega-constellations for ESO, and shared of their study that assumed various distributions of 26,000 sats using data provided by SpaceX and Amazon and others. For a one square degree field-of-view, different exposures, and the probability that an exposure will be affected, it is not too bad for VLT. Longest exposures in twilight might lose 1% of the frames (meaning a satellite is in frame, so it is extreme to say it is lost). The problem lies with the surveys. For the Vera Rubin Observatory up to 40% of exposures would be lost during twilight, and 10-25% the following few hours. Rubin Observatory has a fundamental detector problem with saturation issue making subtraction difficult. For the majority of telescopes, with careful scheduling there will not be an issue. For surveys, streaks will have to be processed out. For infrared, a short stacked exposures, there will not be a problem. The main concern is in the submillimeter (e.g., ALMA) where a small ITU-protected band has Starlinks legally able to operate on broader band on top. ESO wants good communication with companies on the radio side and will not get too irate on the optical side at this stage.</p>
+<p>Spahr noted that for NEO community, twilight surveys will be affected. Williams noted that if twilight hours are suspended, then the Rubin Observatory will have to extend operations a few years. Harris noted the good argument for NEOSM at L1. Shustov noted that Russia will add to the problem with a program called Sphere. </p>
+
+<h2>Asteroid Impact Effect Units Based on Historical Impacts</h2>
+<p><a href="/documents/20200205_10th_Vienna/presentations/shoemaker_scale.pdf">Spahr reviewed an effort</a> to remove nuclear terminology to better communicate impact energies and likelihood with the public. The current units are confusing and outdated (megatons TNT, comparison to atomic bomb) and there is confusion since there is non-radioactive fallout with an impact. A suggestion of a Shoemaker scale was made at an NEO community meeting at the University of Arizona, but Carolyn Shoemaker has not been consulted. It would be a scale of 0 to 10, and impact energy scales with probability nicely (bigger impacts are rarer). Chelyabinsk would be a unit used for airburst, and at center of the scale (5). Likely to never see that or higher in our lifetimes. Barringer would be used for actual impacts (6). Fast noted the different audiences - the public, the press, decision makers and templates, UN-SPIDER and agencies - and they would need consistent terminology. Egan noted that as we get away from the Cold War the analogies will hopefully fade, but analogies to hurricanes and earthquakes have equivalent energies, and perhaps those could be examples. Drolshagen noted that it is a good idea to break down smaller objects into classes since they are the most frequent, but for scientific purposes a new scale not needed, and prefers analogies to a numbering scale. Harris agreed that a number scale is of limited value, like Torino. The Steering Committee will continue to respond to Spahr with comments.</p>
+
+<h2>9th IAWN Action: Terminology for Objects Below the &quot;Potentially Hazardous&quot; Threshold in Notifications and Public Releases</h2>
+<p><em>Paul Chodas, NASA/JPL/CNEOS (remote)</em></p>
+<p><a href="/documents/20200205_10th_Vienna/presentations/Chodas_IAWN10.pdf">Chodas put forward</a> Potential Close Approacher or PCA, using MOID &lt;= 0.05 AU, which does not use inappropriate words. The threshold on the CNEOS close-approach table is 0.05 AU. Another name could be Potential Close Approach Object - PCO. Many liked that name, and asked about the historical origin of 0.05 AU as there is not clear justification in literature. Chodas noted that a MOID can change one Earth radius per year. A MOID of 0.05 is 1200 Earth radii and would cover objects that could cross Earth's orbit in 1000 years. 1950 DA, has a MOID of 0.04. A well-determined orbit can propagate into the future with confidence. Most did not want to change the definition of PHA. Shustov noted that when asking for funding, they say they will find potentially close approachers, a neutral term, since many small objects will be used. But for governments, all bodies that could bring danger are around a decameter size. A limit on size will keep the list small. Chodas noted that the number of objects that would qualify is half the catalog, so maybe a MOID of .05 AU is too inclusive, and consider lowering to 10 or 5 lunar distances. Valsecchi noted the interesting point, that everything currently in this catalog that is small necessarily has a small moid because it is only currently possible to discover objects this small when very near the Earth. Also, it takes many apparitions to sort out the Yarkovsky, etc. If a 28th magnitude object is discovered, then it already has a low MOID, and future predictions can become shaky quickly.</p>
+<p>Johnson noted that only astronomers think in AU, and in millions of miles, public asks why they should care, and suggested lowering the threshold to talk in terms that the public might understand, which is lunar distances. Also, 0.05 AU is roughly 20 LD, so maybe lowered to something that is a close approach - 5 LD? 4 LD is 1,000,000 miles, but not round in km. </p>
+<p>Drolshagen note that objects not on the risk list are not a worry, but that many on the list are not either, so another category is needed that still has a chance to impact. Moon agreed, noting that a name is supposed to communicate with the public. Compare the terms NEA with PCO, a degree of awareness has been downgraded since Earth is in NEA. Earth-Crossing Approacher (ECA) was suggested. Spahr noted that Tom Gehrels called them Earth-Crossing Asteroids. Chodas noted that MOID evolution could be studied in more detail, on a century time frame, but that a lower limit might not be justified at this point. Also, a close approach at 20 LD is not that exciting. PCO - Potentially Close Object - reasonable but does not include approach.</p>
+<p>Koschny suggested developing close approach fact sheets distributed to emergency management agencies, with magnitude brighter than 11 (less than two a year so as not to bore). Shustov noted that there needs to be a sense of risk, otherwise it is perceived as too academic, which is in the size (energy/consequences) and distance (approach). Johnson noted that what is proposed for these smaller objects is different than the terminology on the risk list. When talking of the risk list, it is agreed there is a need to incorporate size, since they may attract media attention. Harris said Earth-Approaching Object, Chodas said Potential Earth Approacher. Johnson asked everyone to follow up with their favorite term by email so that can be collected and put together, and have some virtual communication.</p>
+
+<h2>IAWN Communication - Follow-up from 9th IAWN discussion</h2>
+<p>Fast noted insufficient time to address this agenda item, and the 9th IAWN Action involving templates and other communication topics will be addressed at the next IAWN meeting. </p>
+
+<h2>Final topics</h2>
+<p>The next IAWN meeting is tentatively planned for 23 September 2020 in Cambridge, Massachusetts, USA, hosted by the Minor Planet Center. SMPAG will follow on 24 September.</p>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

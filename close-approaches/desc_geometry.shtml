@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: Geometry Description</title>
+<!--#include virtual="/css-n-inc/top.inc"-->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">Description of Geometry Graphics</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p></p>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper"-->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc"-->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

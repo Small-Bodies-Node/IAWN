@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: Credits</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">Credits</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<h2 class="art-postheader">About the banner:</h2>
+<p>The banner image was created by Dan Durda.</p>
+
+<h2 class="art-postheader">About the website:</h2>
+<p>Designed in Artisteer, then finished using Macromedia's Homesite, it is best viewed in newer browsers that render xhtml and CSS properly. We utilize include files for common portions. I have tried to make it as accessible as possible. Please let me know of any problems.</p>
+
+<!-- <h2 class="art-postheader">Credits:</h2> -->
+<!-- <dl>
+<dt>term</dt>
+<dd>description</dd>
+</dl> -->
+
+<h2 class="art-postheader">Contributors:</h2>
+<dl>
+<dt>Dr. Tim Spahr</dt>
+<dd>numerous articles: Tenagra interview, Case Study,...</dd>
+
+<dt>Dr. Tony Farnham</dt>
+<dd>geometry graphs</dd>
+
+<dt>Dr. Andrei Mamoutkine</dt>
+<dd>close approach automation scripts</dd>
+</dl>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

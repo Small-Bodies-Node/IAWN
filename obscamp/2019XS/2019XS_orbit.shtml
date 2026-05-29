@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>2019&nbsp;XS: 2021 Timing Campaign -- Orbit</title>
+<link rel="stylesheet" href="/obscamp/2019XS/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>2019&nbsp;XS Timing Campaign-- Orbit</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/2019XS/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>Orbit of Asteroid 2019&nbsp;XS</h2>
+
+<p>Orbital elements listed here are taken from the <a href="https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2019XS">Small-Body Database Lookup</a>, and represent the current best solution.</p>
+
+<h3>Orbital Elements (Solution JPL#17)</h3>
+<table style="width:100%; border-spacing:0px;">
+
+<tr>
+<td>Epoch</td>
+<td>2459396.5 (2021-Jul-01.0) TDB</td>
+</tr>
+
+<tr>
+<td>Perihelion Time</td>
+<td>T = 2021-Aug-30.69883136</td>
+</tr>
+
+<tr>
+<td>Perihelion Time (JD)</td>
+<td>T = 2459457.198831361998</td>
+</tr>
+
+<tr>
+<td>Orbital Period</td>
+<td>P = 367.5056129520568 (d)
+<br />1.006175531696254 (y)</td>
+</tr>
+
+<tr>
+<td>Semi-major Axis</td>
+<td>a = 1.004100152609608 au</td>
+</tr>
+
+<tr>
+<td>Perihelion Distance</td>
+<td>q = 0.6753743807699805 au</td>
+</tr>
+
+<tr>
+<td>Eccentricity</td>
+<td>e = 0.3273834497338589</td>
+</tr>
+
+<tr>
+<td>Inclination (J2000)</td>
+<td>i = 4.190689721619465&deg;</td>
+</tr>
+
+<tr>
+<td>Ascending Node (J2000)</td>
+<td>&Omega; = 49.68901673728195&deg;</td>
+</tr>
+
+<tr>
+<td>Argument of Perihelion (J2000)</td>
+<td>&omega; = 249.9776179027736&deg;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Close Approach Time</strong></td>
+<td>t = 2021-Nov-09 03:48 UT</td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Close Approach Distance</strong></td>
+<td>&Delta; = 0.0038. au
+<br/>&Delta; = 574,000 km</td>
+</tr>
+
+<tr>
+<td><strong>Velocity with respect to Earth <br /> at closest approach</strong></td>
+<td>10.68 km/s</td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Min. Orbital Intersection Dist. </strong></td>
+<td>MOID = 0.00387188 au</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+</table>
+
+
+<!--
+<h3>Orbit Solution Preclude...</h3>
+<p></p>
+-->
+
+<h3>Full Orbit From Above</h3>
+<p>View of Asteroid 2019&nbsp;XS 2021's pre-encounter orbit as seen from the North ecliptic pole with the asteroid and planets shown at the time of the asteroid's closest approach to Earth. <i>From the JPL Small-Body Database Browser.</i></p>
+<p><a href="Orbits/2019XS_orbit_full.png" title="View of 2019&nbsp;XS' full orbit"><img src="Orbits/2019XS_orbit_full.png" width="80%" alt="View of 2019&nbsp;XS' entire orbit." /></a></p>
+<br/>
+
+<h3>Orbit in Oblique View</h3>
+<p>Oblique view of the portion of Asteroid 2019&nbsp;XS 2021's orbit around close approach, viewed from 30&deg; above the ecliptic plane. The black dot denotes the asteroid's and Earth's positions at close approach (2019-May-25). 
+<br /><a href="Orbits/2019XS_orbit_plot.png" title="Oblique view of 2019&nbsp;XS' orbit"> <img src="Orbits/2019XS_orbit_plot.png" width="80%" alt="Oblique view of 2019&nbsp;XS' orbit." /></a> 
+<br /><a href="Orbits/2019XS_orbit_plot.pdf">PDF Version</a></p>
+
+
+<h3>Orbit in Earth Co-Orbital View</h3>
+<p>The orbit of Asteroid 2019&nbsp;XS around perihelion, in the Earth's co-orbital reference frame, as seen from above (top panel) and in the ecliptic plane (bottom panel). The black circle denotes the asteroid's position at perihelion (INSERT DATE) and the open circles show positions at 30-day intervals.
+<br /><a href="Orbits/2019XS_orbit_plot_corot.png" title="Orbit of 2012 TC4 in the Earth co-orbital reference frame"> <img src="Orbits/2019XS_orbit_plot_corot.png" width="80%" alt="Plot of 2019&nbsp;XS' orbit in Earth-co-orbital frame."/></a>
+<br /><a href="Orbits/2019XS_orbit_plot_corot.pdf">PDF Version</a></p>
+
+
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/2019XS/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

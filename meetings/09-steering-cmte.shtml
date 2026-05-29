@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 9th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">9th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p><strong>The 9th IAWN Steering Committee Meeting - </strong>
+<br /><strong>European Southern Observatory (ESO), Garching, GERMANY</strong>
+<br />12 September 2019 -- <a href="/documents/20190912_9th_Garching/9th_IAWN_Mtg_Summary.pdf">Meeting Notes</a></p>
+
+<dl>
+<dt>IAWN steering committee members in attendance:</dt>
+<dd>Paul Chodas (JPL/CNEOS)
+<br />Lindley Johnson (NASA HQ/PDCO)
+<br />Ruediger Jehn (ESA/PDO)
+<br />Detlef Koschny (ESA/PDO)
+<br />Giovanni Valsecchi (INAF)</dd>
+
+<dt>IAWN permanent observers in attendance:</dt>
+<dd>Gerhard Drolshagen (ESA/U. Oldenburg)
+<br />Romana Kofler (UN-OOSA)</dd>
+
+<dt>IAWN.net representatives in attendance:</dt>
+<dd>James &quot;Gerbs&quot; Bauer (UMD/NASA PDS SBN)</dd>
+
+<dt>9th IAWN Meeting Observers</dt>
+<dd>Rudolf Albrecht (Austrian Space Forum)
+<br />Linda Billings (NASA PDCO, remote)
+<br />Coen Bussink (UN-SPIDER, remote)
+<br />Ryan Guglietta (US Department of State)
+<br />Olivier Hainaut (ESO)
+<br />Rosa Jesse (ESA Space Safety Communications)
+<br />Leviticus &quot;LA&quot; Lewis (US FEMA)
+<br />Felicitas Mokler (free-lance journalist)
+<br />Juan Villagran de Leon (UN-SPIDER, remote)</dd>
+
+<dt>9th IAWN Meeting Host</dt>
+<dd>Andrew Williams (ESO)</dd>
+
+<dt>9th IAWN Meeting Convener</dt>
+<dd>Kelly Fast (NASA HQ/PDCO)</dd>
+</dl>
+
+<h1>Opening</h1>
+<p>Kelly Fast convened the meeting. All participants introduced themselves. No additions or changes to the agenda were proposed.</p>
+
+<h2>Status of IAWN: Current Membership and Process for Joining</h2>
+<p>Gerbs Bauer presented IAWN membership status, the guidance given for joining, and the status of the website. IAWN membership has grown to 17 (4 recent new members). Since the last Steering Committee meeting, IAWN has welcomed Sormano Observatory (Italy), Northolt Branch Observatories (UK), Zwicky Transient Facility (US), Vi&#154;njan Observatory (Croatia). 
+<br />There was discussion of the website, whether there should be a form for applicants rather than instructions, a private area for the steering committee, stricter guidance criteria for joining, and solicitation for membership through other websites and newsletters.
+<br />Discussion concluded that for IAWN membership, the criteria should not be too strict, but strict enough to get the right people. Members are not automatically on the Steering Committee, but the members and their areas of expertise should be adequately represented on the Steering Committee (e.g., professional astronomers, amateur astronomers, modelers). It was noted that a venue for calling members is through the UN-OOSA STSC, which could bring more attention. The IAWN Statement of Intent is 5 years old and it was agreed that a review is in order.</p>
+
+<blockquote><p><span class="highlight">ACTION:</span> Members of the Steering Committee will look at the current Statement of Intent to see if revisions or updates are needed, and consider guidelines Steering Committee members and terms of membership (whether a Terms of Reference or something less formal), prior to the next Steering Committee Meeting in early 2020.</p></blockquote>
+
+<h2>Status of the IAU Minor Planet Center</h2>
+<p>Gerbs Bauer gave an update of the IAU Minor Planet Center (MPC). The Planetary Data System Small Bodies Node (SBN) has assumed responsibility from MPC for the Light Curve DataBase (LCDB), for IAWN responsibilities and website, and for hosting the live MPC database record. SBN has upgraded hardware to support these activities and supports observing campaigns through the IAWN website like the recent NEO characterization campaign targeting the binary asteroid 1999 KW4.
+<br />MPC operational improvements have included pipeline development, legacy migration off of VMS, cross-team training to eliminate &quot;single points of success&quot;, some hiring, elements stood up for communication with the community, and improvement in logistical support and space at the host facility. This is due to expected growth of data in the coming years. MPC receives 25 million observations per year currently, up from 68,000 in 1990. LSST will have first light 2020, and NEOCam still expected. Will need better automation and processing. Migration of legacy code has been a large project. The recent VMS disk failure accelerated migration, and it was not without problems. A new communication policy with the community in place. There will be a move toward automation.
+<br />The Astrometry Data Exchange Standard (ADES) is allowing more parameters to be reported. It still remains to export the database with ADES (uncertainties, etc.) included, which the community anticipates. Exposure information to be captured, led by MPC project scientist Matt Payne. There is a new web form for cometary activity. Pipeline development will fold in more database-centric NEOCP operations (e.g., comet physical characteristics, observatory code request, pointing data).
+<br />In response to service outages in June 2019 due to the VMS disk failure, there is now a &quot;red box&quot; policy for the front website to contain status updates, anticipated downtime, and other details, until normal operations resume. The community has input to the MPC through NEO operations workshops often held at the annual Division for Planetary Sciences (DPS) meeting, through webform comments on the MPC and SBN websites, and through the rotating membership of the MPC Users Group.
+<br />Moving forward, priorities include a more rigorous systems engineering component to development plans, a fully-developed database schema, and the means to keep MPC products and services current. Heliocentric linking should increase fidelity with respect to fitted distances of objects. Also, a generalized MPChecker, more accurate products, a support for debiased models. 
+<br />Discussion included whether criteria will be established for interstellar objects. MPC has a definition, probably 3 sigma or greater, but it depends on the assumed weighting for the data and on the arc length. It was noted that MPC is very much aware of the desire to verify quickly the interstellar status of comet Borisov.</p>
+
+<h2>2006 QV89, Negative Detections, and Removing Objects from Risk Lists</h2>
+<p>Detlef Koschny presented on the recent case of 2006 QV89, where the September 2019 virtual impactor was not observed, but there is the question of how to communicate on such situations when it comes to removal from the risk list. There are parallel conversations. ESA has a scientific consultancy group that needs to be formally established to get approval from the scientists on what to communicate (ESA internal issue). 
+<br />There were questions on how to deal with non-detections mathematically and with communications. It was proposed that all sign an agreement that all information should be shared (e.g., SpaceDys and JPL) and determine when to go public, maybe an IAWN statement on how to share information. It was noted that an empty image does not mean anything without information on calibration. Also, the data in this case were immediately public, though data processing knowledge was needed to interpret. MPC can take in information but had no way to distribute yet, though that would be the proper way.</p>
+
+<blockquote><p><span class="highlight">ACTION:</span> A statement on this issue should be drafted for the minutes (Koschney).</p></blockquote>
+
+<blockquote><p>RESPONSE: ESO/ESA have performed a 'non-detection' of asteroid 2006 QV89 at a position where the asteroid would have been if it had been an impact threat to Earth in Sep 2019. These types of observations will need to be performed more and more as more virtual impactors (VIs) are of concern. IAWN recognises the need to agree on internal information distribution policies for this type of event. This is to allow the different orbit computers to double-check the non-observation. In addition, currently we do not have the means to ingest a non-observation into the orbit prediction software tools. IAWN recognises that this should be done, and IAWN recommends that both JPL Sentry and the ESA/NEODyS develop tools to take this information into account to eventually implement a solution.</p></blockquote>
+
+<p>A virtual impactor of 2007 FT3 is coming up October 3, at a very miniscule probability, but it is ~300 meters in size. The question was raised as to what probability and size should a virtual impactor be addressed. 
+<br />The asteroid 2011 ES4 was brought up as a possible candidate for the next IAWN observing campaign/exercise.</p>
+
+<h2>Terminology for Objects Below the &quot;Potentially Hazardous&quot; Threshold in Notifications and Public Releases</h2>
+<p>Lindley Johnson led the discussion of this issue. Potentially Hazardous Asteroid came from NASA NEO Science Definition Team (SDT) in 2003, in establishing what would be the threshold after finding the 1-km+ objects. The 140m+ threshold established as next step in potentially hazardous NEOs to Earth, so PHA is associated with 140m+ threshold. But even 50m in a populated area could cause significant devastation. The community has wrestled with redefinition or a new term. The 2003 report was used by Congress to define direction to NASA. The 2017 NEO SDT was asked to look at definition but there was no consensus, so no finding. 
+<br />Since the name is established in the literature, a new name is needed for something that might cross Earth in the next century, for instance. PHA combines MOID and size. ESA had a discussion when defining survey goals, about a term that should complement, and so not be `hooked to size but to a certain impact probability. They used the term threatening object - everything on the risk list. By not tying it to a size, most of what is found will be small, and people will be accustomed to small impacts to Earth, and astronomers will only warn if significant. The question was raised as to how to communicate a situation that is significant.
+<br />Lewis (FEMA) noted that the initiative is with the space agency, because the emergency management community is concerned with current issues (e.g., hurricane season). If there is a non-zero threat of impact, he noted that is when emergency management will need to pay attention to that.
+<br />For Europe, ESA will provide factual information on the asteroid impact threat and the emergency response agencies will communicate on the effect.
+<br />The United Nations Office for Outer Space Affairs would work with IAWN to have a template in place to provide information from IAWN to member states, something generic to have in place.
+<br />The discussion returned to the size issue, noting that ESA has no size limits. But there are IAWN/SMPAG thresholds, roughly 10m+ and an impact probability of >1%. It was asked whether the term &quot;potentially threatening&quot; could be applied to those criteria. It was brought up that threatening is a loaded word, and perhaps the term could be potentially impacting object (PIO) which would include comets. The communications colleagues observing suggested not using the word &quot;threatening&quot;, and to use something more specific. Although there are two audiences, those who must act and the public, it was noted that the information must be the same in order for there to be trust. The term Potentially Impacting Object (PIO) was seen as a promising, specific, descriptive term. (It was noted later in the meeting that new terminology will need to be run through the IAU.)</p>
+
+<blockquote><p><span class="highlight">ACTION:</span> Define Potentially Impacting Object (PIO) for discussion at the next Steering Committee meeting in early 2020 (Chodas).</p></blockquote>
+
+<h2>Possible IAWN Input on Terminology Related to Extraterrestrial Hazards through UNOOSA/UNSPIDER to the UN Office for Disaster Risk Reduction (UNDRR)</h2>
+<p>Romana Kofler presented and led the discussion. UNSPIDER connects space and emergency response management and was contacted by technical working group on hazards. No NEO terminology exists for extraterrestrial hazards. This is a chance to put NEOs on the list of hazards. IAWN is to consider input on classification of NEOs as a hazard for this technical working group. Draft text needed for the October 2019 meeting and the final report in December 2019. NASA, ESA, and Action Team 14 had definitions, some with sizes. It was asked how IAWN would like to proceed to give input on NEOs as a natural hazard, to place NEOs among the natural hazards in a global framework. Space assets were also brought up as affected. 
+<br />A simple definition is needed, and the thresholds that IAWN and SMPAG would use for notification could be referenced rather than defining something new. It was noted that new terminology should be run through the IAU (i.e., PIO).</p>
+
+<blockquote><p><span class="highlight">ACTION:</span> Take simple definition of NEO, refine, add threshold criteria (IAWN/SMPAG), circulate for comments, have draft text for UNSPIDER (needed by mid-October) (Kofler)</p></blockquote>
+
+<h2>IAWN Communication with the Signatories</h2>
+<p>It was discussed whether there should be a newsletter, or an email exploder on changes to the close approach table. When there are Steering Committee meetings, any signatory could attend and observe, and minutes and IAWN information is on the website. It was noted that the minutes of the Steering Committee meeting could be sent to the signatories, and the information is on the website. For campaigns, the IAWN signatories should be included. 
+<br />It was noted that an email list of IAWN signatory points-of-contact should be maintained in a password-protected area of the IAWN website for use in communicating.</p>
+
+<h2>IAWN Communication outside IAWN - Triggers</h2>
+<p>Prior to the meeting, the question had been posed as to whether IAWN should receive fireball alerts or whether that should that be left to existing web pages (e.g., International Meteor Organisation).
+<br />Gerhard Drolshagen presented on NEMO (NEar real-time MOnitoring system, whose objective is to combine existing sources on fireballs/debris (IMO, social media, CTBTO, CNEOS fireballs, etc.). If there is an interesting event, then a NEMO fireball alert is issued. Right now, these alerts are sent just to ESA for the most part, but alerts can be made wider.
+<br />Fast presented slides on the NASA Meteoroid Environment Office (MEO) provided by the director, William Cooke. MEO is organized under NASA's Office of Safety and Mission Assurance, addressing issues of safety to NASA's orbital assets (meteoroids/natural debris). It pulls from various sources and rolls up information internally, and then alerts NASA's Public Affairs Office and posts to a public-facing website.
+<br />Following these presentations, it was noted that IAWN is a warning network, and there are already sources of good information on fireball events. IAWN does not need to be a conduit. The data of these events are used in population and effects modeling, but not warning. Links to fireballs websites will be added to the IAWN site in order to redirect to the appropriate sources of information.
+<br />In the case of false information circulating in news and social media, it was noted that it should usually be ignored unless there is a reason to take action.</p>
+
+<h2>IAWN Communication outside IAWN - Methods</h2>
+<p>It was discussed how IAWN would communicate with the public. For instance, in the Planetary Defense Conference impact scenarios, IAWN issues press releases, but there is not currently an avenue for that. It was noted that IAWN could leverage one of the agencies or the IAU if a press release is needed, and that trusted agencies could be the voice for IAWN as an organization/collaboration. 
+<br />It was noted that OOSA would be facilitator of information to the UN member states. OOSA would need templates to finalize and put in the languages of the member states. It was asked whether there is authority behind IAWN. Information only would be distributed from IAWN by OOSA to membership. 
+<br />IAWN is to be an international entity in which member states can participate for the development of the information on a potential impact, and a source that the international community and member states can look to for the definitive information on an impact event. IAWN is developed as a collaborative effort to be the recognized source of information.
+<br />It was noted that media would likely be reluctant to report on IAWN and SMPAG and more likely to report on ESA or NASA. The coordination should be seen as a smooth process.
+<br />A statement posed was &quot;Signatories and agencies will coordinate through/within IAWN.&quot; Guidelines and language are needed for use in the next PDC scenario and in agency press releases to refer to IAWN.</p>
+
+<blockquote><p><span class="highlight">ACTION:</span> Work on templates for the next PDC and practice using the templates. Use the last PDC data as a discussion point, and use Apophis, and work templates with the Steering Committee. Come up with guidelines and language to use for the scenario and in our press releases to refer to IAWN (collaboration avenue for entities)</p></blockquote>
+
+<h1>Final topics</h1>
+<p>An interdisciplinary school on NEOs in Erice, Italy was proposed for 20-24 April 2020, but the foundation has not replied on the status. It does not seem promising at this point that it could be organized in time.
+<br />The next IAWN meeting will be held in Vienna, Austria on Wednesday, 5 February, just prior to and in coordination with SMPAG on Thursday, 6 February.</p>
+
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

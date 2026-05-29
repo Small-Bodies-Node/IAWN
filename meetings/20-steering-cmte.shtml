@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 20th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">20th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p><strong>20th Meeting of the<br>International Asteroid Warning Network</strong>
+<br><strong>Vienna, Austria</strong>
+<br>04 February 2025 -- <a href="/documents/20250204_20th_Vienna/20th_IAWN_Mtg_Summary.pdf">Meeting Notes</a></p>
+
+<p>* in person</p>
+
+<dl>
+<dt>IAWN Steering Committee members in attendance:</dt>
+<dd>Paul Chodas (JPL/CNEOS) - Orbit Determination
+<br>Alan Harris* (DLR) - Physical Characterization
+<br>Lindley Johnson* (NASA HQ/PDCO)
+<br>Patrick Michel (CNRS/OCA) - Public/Media Information
+<br>Richard Moissl* (ESA/ESTEC/PDO)
+<br>Boris Shustov (Institute of Astronomy, Moscow)
+<br>Michal Zolnowski* (6ROADS) - Small Observatories/Independent Observers
+</dd>
+
+<dt>IAWN permanent observers in attendance</dt>
+<dd>Detlef Koschny* (SMPAG chair on behalf of ESA)
+<br>Romana Kofler* (UNOOSA)
+</dd>
+
+<dt>IAWN Administration in attendance:</dt>
+<dd>James "Gerbs" Bauer, Elizabeth Warner (Univ. Maryland, NASA PDS SBN)
+<br>Tim Spahr (NEO Sciences/Univ. Maryland, NASA PDS SBN)
+</dd>
+
+<dt>IAWN Coordinating Officer:</dt>
+<dd>Kelly Fast (NASA HQ/PDCO)</dd>
+
+<dt>IAWN attendees:</dt>
+<dd>6ROADS - David Gedek
+<br>ASI - Marco Castronuovo*, Vaisliki Petropoulou*
+<br>ESA/PDO/NEOCC - Juan Luis Cano, Luca Conversi, Marco Micheli, Maxime Devogele, Tobias Hoffman, Francisco Ocana
+<br>ESO - Olivier Hainaut*
+<br>FAI, Kazakhstan - Aleksander Serebryanskiy
+<br>G. Pascoli Obs K63/D63 - Roberto Bacci
+<br>Iota Scorpii Observatory K78 - Giulio Scarfi
+<br>Israel Space Agency - Harel Ben-Ami
+<br>JAXA and P93 Bisei Spaceguard Center - Makoto Yoshikawa*, Nana Higashio*, Seitaro Urakawa
+<br>KAO UrFU - Eduard Kuznetzov
+<br>KASI - Hong Kyu Moon
+<br>KIAM RAS/ISON - Viktor Voropaez
+<br>Klet Observatory, Czech Republic
+<br>Konkoly Observatory - Norton Szab&oacute;
+<br>Minor Planet Center - Matthew Payne, Federica Spoto
+<br>NAOC China - Liu Jing*, Hai Jiang*
+<br>NOAK Observatory/L02, Greece - Nick Sioulas
+<br>NASA PDCO U.S. - Linda Billings, Josh Handal, Adelle Helble
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Johns Hopkins APL - Andy Rivkin
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Astronomical Research Institute (H21, 807) - Robert Holmes, Tyler Linder
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Catalina Sky Survey - Carson Fuls, Alex Gibbs
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JPL CNEOS - Davide Farnocchia, Ryan Park
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Magdalena Ridge Observatory - Eileen Ryan
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEO Surveyor / Caltech - Joe Masiero
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spacewatch U of AZ - Melissa Brucker, Cassandra Lejoly, Bob McMillan
+<br>Schiaparelli 204, Italy - Luca Buzzi
+<br>SONEAR Observatory, Brazil - Cristovao Jacques
+<br>Sormano Observatory - Francesco Manca
+<br>University of New South Wales, Australia - Ed Kruzins
+<br>UK Space Agency - Edward Baker*
+</dd>
+
+<dt>Meeting observers and other attendees:</dt>
+<dd>CNES, France - Pierre Bousquet*
+<br>CSA, Canada - Viqar Abbasi*
+<br>ISRO, India - Bulbul Mukherje 
+</dd>
+
+</dl>
+
+<h1>Presentations</h1>
+<ul>
+<li><a href="/documents/20250204_20th_Vienna/Alex_Gibbs_NEOfixer_Update_IAWN_2025.pdf">Alex_Gibbs_NEOfixer_Update_IAWN_2025.pdf</a></li>
+<li><a href="/documents/20250204_20th_Vienna/ESA-S2P-PD-HO-0261_1_0_2024_YR4_Astrometry_at_IAWN.pdf">ESA-S2P-PD-HO-0261_1_0_2024_YR4_Astrometry_at_IAWN.pdf</a></li>
+<li><a href="/documents/20250204_20th_Vienna/IAWN Update to IAWN 2025-02-04.pdf">IAWN Update to IAWN 2025-02-04.pdf</a></li>
+<li><a href="/documents/20250204_20th_Vienna/ESA-S2P-PD-HO-0262.pdf">ESA-S2P-PD-HO-0262.pdf</a></li>
+<li><a href="/documents/20250204_20th_Vienna/MPC_Payne_Spoto.pdf">MPC_Payne_Spoto.pdf"</a></li>
+<li><a href="/documents/20250204_20th_Vienna/2024YR4_IAWN.pdf">2024YR4_IAWN.pdf</a></li>
+<li><a href="/documents/20250204_20th_Vienna/IAWN_CometCampaign_UPDATE.pptx">IAWN_CometCampaign_UPDATE.pptx</a></li>
+<li><a href="/documents/20250204_20th_Vienna/IAWN_Apophis_Overview_Fast.pptx">IAWN_Apophis_Overview_Fast.pptx</a></li>
+</ul>
+
+
+
+
+
+<h2>IAWN Steering Committee (SC) executive sessions</h2>
+
+<h3>2024 YR4 - Future Notification Planning</h3>
+<ul>
+<li>Following the first formal IAWN notification to UNOOSA and SMPAG concerning 2024 YR4, the SC discussed future notifications for this asteroid.  and determined that IAWN will again formally notify if:
+	<ul>
+	<li>The impact probability rises beyond 10% (agreed threshold for terrestrial planning)</li>
+	<li>The impact probability drops below the 1% notification threshold (an "all clear" notification)</li>
+	<li>The impact probability remains above the 1% notification threshold at the end of the current apparition (around April 2025), for reporting last information known about 2024 YR4 until it will be observable again around June 2028</li>
+	</ul></li>
+</ul>
+
+<h3>Steering Committee membership</h3>
+<ul>
+<li>The SC reviewed 9 applications for open positions on the SC (see SC ToR)</li>
+<li>The SC plans to finalize new members by 2025 March</li>
+<li>The SC will receive any additional applications by 1 March to represent the following core areas of IAWN: Data Management, Archiving, and Distribution; Large-Scale Surveys; Astrometric Follow-up; Physical Characterization; Impact Effects Modeling; Orbit Determination.</li>
+</ul>
+
+<h3>IAWN reporting to 62nd UNCOPUOS STSC</h3>
+<ul>
+<li>The IAWN SC contributed to conference room paper 6 on the status of IAWN and SMPAG that included the 2024 YR4 notification, reference to agreed thresholds and criteria, and the SMPAG exercise for the 2025 IAA Planetary Defense Conference. It can be found at this link: <a href="https://www.unoosa.org/res/oosadoc/data/documents/2025/aac_105c_12025crp/aac_105c_12025crp_6_0_html/AC105_C1_2025_CRP06E.pdf">https://www.unoosa.org/res/oosadoc/data/documents/2025/aac_105c_12025crp/aac_105c_12025crp_6_0_html/AC105_C1_2025_CRP06E.pdf</a></li>
+<li>Video of the agenda item 9 on Near-Earth Objects video can be found starting at 29:10 at this link: <a href="https://webtv.un.org/en/asset/k1a/k1ad4k1m9e">https://webtv.un.org/en/asset/k1a/k1ad4k1m9e</a> 
+	<ul>
+	<li>The full text of the IAWN statement that was entered into the record can be found at this link: <a href="https://www.unoosa.org/documents/pdf/copuos/stsc/2025/Statements/9_IAWN_statement_long_for_webpage.pdf">https://www.unoosa.org/documents/pdf/copuos/stsc/2025/Statements/9_IAWN_statement_long_for_webpage.pdf</a></li>
+	<li>The full text of the SMPAG statement that was entered into the record can be found at this link: <a href="https://www.unoosa.org/documents/pdf/copuos/stsc/2025/Statements/9_SMPAG.pdf">https://www.unoosa.org/documents/pdf/copuos/stsc/2025/Statements/9_SMPAG.pdf</a></li>
+	</ul></li>
+</ul>
+
+<h2>Open session with the IAWN Signatory community</h2>
+
+<h3>Opening remarks: Kelly Fast</h3>
+<ul>
+<li>We are using the Steering Committee open session as an opportunity to brief and discuss the status of 2024 YR4 among the IAWN signatory community</li>
+<li>2024 YR4 marks the first time IAWN has had to formally notify due to an asteroid surpassing a 1% impact probability</li>
+</ul>
+
+<h3>IAWN Update: Kelly Fast (<a href="/documents/20250204_20th_Vienna/IAWN_Update-to-IAWN_2025-02-04.pdf">see slides</a>)</h3>
+<ul>
+<li>IAWN (chaired by NASA) works closely with SMPAG (chaired by ESA) to address the asteroid impact hazard
+	<ul>
+	<li>In the event of a credible impact threat, IAWN would notify UNOOSA for member state notification, and SMPAG</li>
+	</ul></li>
+<li>61 signatories from 28 countries (as of Feb. 2025); welcome United Kingdom Space Agency</li>
+<li>IAWN.net has been updated and refocused, and there is a page on 2024 YR4 with more information </li>
+<li>The Steering Committee continues to consider membership applications and plans to finish that process soon to name new committee members
+	<ul>
+	<li>There will be one more invitation for applications before committee makes final selections - would like to see a broad pool of applications across IAWN</li>
+	</ul></li>
+</ul>
+
+<h3>2024 YR4 Orbit Computation: Davide Farnocchia (<a href="/documents/20250204_20th_Vienna/2024YR4_IAWN.pdf">see slides</a>)</h3>
+<ul>
+<li>2024 YR4 was discovered on Dec. 27, 2024 by ATLAS Rio Hutardo, Chile after its close approach at 2.2 lunar distances
+	<ul>
+	<li>Precoveries from Catalina were obtained on Dec. 26 and from ATLAS on Dec. 25</li>
+	</ul></li>
+<li>Orbit eccentricity - 0.66; semi-major axis 2.5 au; period 4 years; inclination 3.5 degrees
+	<ul>
+	<li>The asteroid will have another Earth flyby encounter in 2028 and again in 2032</li>
+	</ul></li>
+<li>Risk list results assessed possibility of impact in 2032
+	<ul>
+	<li>Recognized early as a potential impactor</li>
+	<li>The probability has been steadily increasing over time until it crossed 1% on Jan. 27, 202</li>
+	</ul></li>
+<li>2024 YR4 reached a Torino scale rating of 3, which is the highest rating since Apophis
+	<ul>
+	<li>Torino scale moved from 0 to 1 on Dec. 29 and eventually to 3 on Jan. 27</li>
+	<li>A 1% impact probability for an object this size is a 1-in-50-year event</li>
+	</ul></li>
+
+
+<li>There was much coordination between NASA JPL CNEOS, ESA NEOCC, and NEODyS to assess the impact probability (which was ~0.5% and rising) and to:
+	<ul>
+	<li>Compare results and understand sources of differences</li>
+	<li>Assess data weights, outlier rejections, timing errors, reliability and stability of orbital solutions</li>
+	<li>Set expectations going forward</li>
+	</ul></li>
+<li>2024 YR4 remains observable through early April 2025
+	<ul>
+	<li>See slides for statistical analysis of possible impact probability evolution as of IAWN meeting date</li>
+	<li>Assume 50 mas astrometry in the future</li>
+	</ul></li>
+<li>The probability is likely to drop below 0.1%, but there is a non-negligible possibility that of having a significant residual impact probability at the end of the apparition </li>
+<li>Lessons Learned
+	<ul>
+	<li>ADES reported uncertainties are extremely valuable
+		<ul>
+		<li>It is also extremely important to have direct communication to key observers</li>
+		</ul></li>
+
+	<li>Multiple orbit computation centers performing calculations is beneficial
+		<ul>
+		<li>Comparison of results and sensitivity to different software and assumptions</li>
+		<li>Mitigate risk of one center being offline</li>
+		</ul></li>
+
+	<li>Multiple observers tracking YR4 prevented chasing single-station biases</li>
+	<li>Tracking the orbital evolution important for assessing reliability of predictions</li>
+	<li>Need to mitigate the risk of bad data analyses
+		<ul>
+		<li>Precovery searches and submissions should include trusted observers</li>
+		<li>Negative observations are hard to interpret correctly. Use as last resort and with appropriate peer-review processes</li>
+		</ul></li>
+	<li>Simulating the possible impact probability evolution helps us to be prepared for what comes next</li>
+	</ul></li>
+<li>Comment from Detlef: If an observer attempts negative observations, please follow procedures outlined on MPC: <a href="https://minorplanetcenter.net/mpcops/documentation/negative-observations/">https://minorplanetcenter.net/mpcops/documentation/negative-observations/</a> </li>
+</ul>
+
+<h3>2024 YR4 Discovery, Prediscovery, and Early Follow-Up: Marco Micheli (<a href="/documents/20250204_20th_Vienna/ESA-S2P-PD-HO-0261_1_0_2024_YR4_Astrometry_at_IAWN.pdf">see slides</a>)</h3>
+<ul>
+<li>Right after discovery there were some tracklets that enabled the initial observing arc to be well understood</li>
+<li>Trailing and timing had to be considered to better understand the astrometry of 2024 YR4</li>
+<li>2024 YR4 was bright enough that several dedicated follow-up teams, as well as independent observers, provided follow-up throughout early January</li>
+<li>Due to enhanced interest from the professional community on 2024 YR4, a lot of people are doing physical characterization with available data, which has also been helpful to extract astrometry</li>
+<li>2024 YR4 became fainter at about 1/10th of a magnitude per day, so it's becoming fainter and not easy to observe</li>
+<li>Eventually, smaller facilities will have difficulty observing the asteroid, so larger facilities will be necessary for continued observations </li>
+<li>In early March, the full Moon will come and things will get harder as the object will cross into magnitude 26, so the largest telescopes on Earth will be needed to continue observations
+	<ul>
+	<li>JWST and Hubble could also be useful during this time</li>
+	</ul></li>
+<li>Observers should coordinate and not ask for duplicative time on the same telescopes</li>
+<li>We also don't want to be stuck with just one telescope as we wouldn't have confirmation that particular telescope biases are affecting the astrometry (two or three telescopes is preferred for cross-checking)</li>
+<li>We only want to have the option for the largest facilities ready if the object continues to have a high impact probability - there is an ask for individuals to preemptively start asking for time to be ready "just in case"</li>
+<li>There was an apparition in 2016 (August/September) where people may have stumbled upon the object because of how visible it was - people just may have missed it in their images, so there is an effort for observatories to go back through their archives to see if there is any further data or images that can further refine the astrometry and trajectory</li>
+<li>Negative precoveries are tricky and not needed yet as we still have opportunity to continue observing 2024 YR4
+	<ul>
+	<li>Negative precoveries are not as easy as it might seem due to orbital mechanics (not a trivial computation) and due to observational constraints (there are phase effects that could make light curves significantly larger and skew data)</li>
+	</ul></li>
+<li>As of 2021, a protocol was agreed to validate and handle negative observations for planetary defense purposes: <a href="https://minorplanetcenter.net/mpcops/documentation/negative-observations/">https://minorplanetcenter.net/mpcops/documentation/negative-observations/</a> </li>
+</ul>
+
+<h3>2024 YR4 Physical Characterization: Maxime Devogele (<a href="/documents/20250204_20th_Vienna/ESA-S2P-PD-HO-0262.pdf">see slides</a>)</h3>
+<ul>
+<li>The H magnitude by three main centers:
+	<ul>
+	<li>MPC: 23.94</li>
+	<li>JPL: 23.96 +/- 0.27</li>
+	<li>NEOCC: 23.9
+		<ul>
+		<li>These estimates are obtained through the regular automated pipelines from each institution considering all observations submitted to the MPC</li>
+		<li>Potential issues can arise when combining observations obtained in different filters, calibrated using different catalogs and with poor photometric accuracy</li>
+		</ul></li>
+	</ul></li>
+<li>Lightcurve is formed from magnitude, and a partial lightcurve was recovered from Catalina Sky Survey I54 observations</li>
+<li>Not much information to share about 2024 YR4's shape
+	<ul>
+	<li>Lightcurve suggest a moderate to highly elongated shape depending on the aspect at which the object is observed, but too much uncertainty to know for sure</li>
+	</ul></li>
+<li>Composition / Taxonomy: Most probably an S-type asteroid, but other taxonomic classes (L-type, K-type) cannot be excluded
+	<ul>
+	<li>Object type affects albedo, which further constrains size</li>
+	</ul></li>
+<li>Right now, it is not possible to constrain the diameter (JWST observations would be needed)
+	<ul>
+	<li>2024 YR4 enters JWST observing window in March until 20 May 2025</li>
+	<li>JWST can constrain the diameter to ~10% and with multi-epoch observations the thermal inertial and regolith properties</li>
+	<li>A JWST proposal has been submitted by the planetary defense community</li>
+	</ul></li>
+<li>Question from Allen: Is it possible to get a copy of the JWST proposals?
+	<ul>
+	<li>A: They utilize a dual anonymous review process. Kelly can ask about it at NASA but don't want to impede on DAPR process</li>
+	</ul></li>
+</ul>
+
+<h3>2024 YR4 Communications: Kelly Fast </h3>
+<ul>
+<li>If you are at an institution with a public affairs or communications office, please work through them if you interact with the press, as they will help you and make it easier.  If your institution or observatory does not have such resources, other signatories can assist (e.g., NASA and ESA that host the major orbit computation activities)</li>
+<li>This is a good chance to explain what IAWN and the planetary defense community does. IAWN signatories are encouraged to highlight their activities and the significance of 2024 YR4, but to avoid speaking on behalf of other signatories or to speculate outside of IAWN responsibilities</li>
+<li>Moissl: ESA going in lockstep with NASA with initial web publications has been impressive to people, with ESA and NASA going out at the same time and sharing coordinated information</li>
+<li>Michel: We need to recognize the wonderful international coordination and response that we have put in place, which is very efficient and effective</li>
+<li>Koffler: This is the first time that the UN received notification from IAWN to provide information to member states. UNOOSA has disseminated information and the notification via a "circular" to national delegations</li>
+</ul>
+
+<h3>Minor Planet Center Update: Frederica Spoto (<a href="/documents/20250204_20th_Vienna/MPC_Payne_Spoto.pdf">see slides</a>)</h3>
+<ul>
+<li>Everything from the MPC side was very smooth regarding 2024 YR4
+	<ul>
+	<li>A reminder that MPC is still in preparation mode, so can't delete observations that have already been published, but will be able to delete once MPC is out of preparatory mode</li>
+	<li>Have been contacted by several observers via Jira regarding remeasurements - always happy to help and work together so that submitted observations are very reliable</li>
+	</ul></li>
+<li>Have a new technical lead: Peter Williams. </li>
+<li>Monthly Newsletter is always available on the MPC website
+	<ul>
+	<li>Contains information about recent developments, recommendations for the community, updates on MPC staff, recent resolved issues or recurring problems and future plans  <a href="https://minorplanetcenter.net/mpcops/new/newsletters/">https://minorplanetcenter.net/mpcops/new/newsletters/</a> </li>
+	</ul></li>
+<li>Work in progress: working towards getting ready to receive and process new influx of information coming from Vera Rubin Observatory/LSST (August 2025) and NEO Surveyor (late 2027)
+	<ul>
+	<li>Improve and adapt current systems</li>
+	<li>Create new interfaces that will allow easier access to data</li>
+	<li>Improve documentation</li>
+	<li>Develop new pipelines to better handle vast amount of data</li>
+	</ul></li>
+<li>MPC Explorer is a new functionality to replace the MPC search functionality
+	<ul>
+	<li><a href="https://data.minorplanetcenter.net/explorer/">https://data.minorplanetcenter.net/explorer/</a> </li>
+	</ul></li>
+<li>From the last newsletter (Jan. 2025)
+	<ul>
+	<li>ADES is very valuable to MPC so please, if you can, submit observations in ADES</li>
+	<li>MPC would like to see trend of ADES submissions increase moving forward</li>
+	</ul></li>
+<li>Work behind the scenes
+	<ul>
+	<li>Virtualization: Multiple machines running on a single server, creating a more flexible, scalable and reliable computing environment
+		<ul>
+		<li>As part of this effort, the astrometry processing system database will be migrated to a virtual machine.</li>
+		</ul></li>
+
+	<li>Ongoing tests with NEO Surveyor and VRO/LSST Teams
+		<ul>
+		<li>Testing ingestion, linkages and orbit fitting</li>
+		</ul></li>
+
+	<li>Comet processing
+		<ul>
+		<li>Automation of important parts of comet processing</li>
+		</ul></li>
+
+	<li>Publications
+		<ul>
+		<li>Improve our current system to produce better and more reliable publications</li>
+		</ul></li>
+	</ul></li>
+<li>More than 44 million observations were submitted to the MPC in 2024!</li>
+</ul>
+
+<h3>Catalina Sky Survey NEOFixer Update: Alex Gibbs (<a href="/documents/20250204_20th_Vienna/Alex_Gibbs_NEOfixer_Update_IAWN_2025.pdf">see slides</a>)</h3>
+<ul>
+<li>NEOFixer is designed to make follow-up easier, more efficient and more beneficial by providing customized target lists that are customized for your specific telescope</li>
+<li>One of the major updates with NEOFixer is that near-Earth comets are now included</li>
+<li>There is an Activity page that shows everyone's current activity as reported to NEOFixer
+	<ul>
+	<li>Shows all telescopes that are submitting observations to NEOFixer</li>
+	</ul></li>
+<li>The activity table is available via the API: <a href="https://neofixerapi.arizona.edu/activity/?site=all">https://neofixerapi.arizona.edu/activity/?site=all</a> </li>
+<li>NEOFixer benefit plot for 2024 YR4 was shown</li>
+<li>Near-term plans:
+	<ul>
+	<li>Longer look-aheads (improve urgency scores; aid planning for time on larger telescopes)</li>
+	<li>Improve coordination tools</li>
+	<li>Observation activity, especially for near-Earth comets</li>
+	<li>Load handling</li>
+	<li>160 registered telescopes</li>
+	</ul></li>
+</ul>
+
+<h3>Update on Observing Campaigns: Kelly Fast/Gerbs Bauer (<a href="/documents/20250204_20th_Vienna/IAWN_CometCampaign_UPDATE.pptx">see slides</a>)</h3>
+<ul>
+<li>The IAWN website has updates on future campaigns for <a href="/documents/20250204_20th_Vienna/IAWN_Apophis_Overview_Fast.pptx">Apophis</a> and potentially a comet
+	<ul>
+	<li>Regarding the Apophis campaign: Broken up into three close approach opportunities</li>
+	<li>2027 and 2028 will be more accessible to large glass</li>
+	<li>As April 2029 approaches it will be easier for broader participation</li>
+	</ul></li>
+<li>Still investigating when to trigger an IAWN call for observations for a risk list object, and looking at lessons learned (e.g., determining a "solid" Torino Scale 1) but still looking at possibilities</li>
+</ul>
+
+<h3>Small Mission Planning Advisory Group (SMPAG) Update: Detlef Koschny</h3>
+<ul>
+<li>In the middle of an exercise that was then interrupted by 2024 YR4</li>
+<li>The SMPAG steering committee met in a video conference last Friday and agreed that it is too early to start imminent activities
+	<ul>
+	<li>There is a statement on the SMPAG webpage that states SMPAG will follow the evolution of the object with interest and will have another meeting to determine if any mission studies or space-based activity recommendations are needed as the impact probability evolves</li>
+	</ul></li>
+<li>Currently SMPAG will continue to focus on the exercise
+	<ul>
+	<li>Have an in-person meeting on Wed. and Thurs. to do normal agenda</li>
+	<li>Would like to discuss how to communicate information in the STSC</li>
+	<li>Would like to present Epoch 1 of the exercise to the wider participants and delegation in attendance</li>
+	</ul></li>
+</ul>
+
+<h2>Brief IAWN Signatory Updates</h2>
+
+<h3>ESA: Richard Moissl</h3>
+<ul>
+<li>In general, over the last month ESA has updated a lot of tools (NEO toolkit and a new visualization tool)</li>
+<li>There has been significant progress for the first Flyeye telescope being assembled in Matera, Italy, with appreciation for ASI colleagues. Cameras are being aligned, and commissioning level first light anticipated before April. Monte Mufaro in Sicily ready for construction on site and to come online early next year.</li>
+</ul>
+
+<h3>NASA: Kelly Fast</h3>
+<ul>
+<li>NEO Surveyor is having its Critical Design Review this week</li>
+</ul>
+
+<h3>UK Space Agency</h3>
+<ul>
+<li>Pleased to be joining IAWN - especially in the wake of 2029 being declared the International Year of Asteroid Awareness and Planetary Defence</li>
+<li>UK space agency is looking more closely at the planetary defense risk and is looking forward to seeing how to make that more of a focus</li>
+</ul>
+
+<h3>2029 International Year: Romana Koffler</h3>
+<ul>
+<li>With the support of Romania who proposed the draft resolution, the UN General Assembly on Dec. 4, 2024 adopted the resolution of 2029 as the International Year of Asteroid Awareness and Planetary Defense (IYAPD)</li>
+<li>The webpage is live on the UN site: <a href="https://www.un.org/en/observances/asteroid-awareness-year">https://www.un.org/en/observances/asteroid-awareness-year</a></li>
+<li>Asteroid Day: <a href="https://www.un.org/en/observances/asteroid-day#:~:text=In%202024%2C%20the%20General%20Assembly,raise%20global%20awareness%20about%20asteroids">https://www.un.org/en/observances/asteroid-day#:~:text=In%202024%2C%20the%20General%20Assembly,raise%20global%20awareness%20about%20asteroids</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

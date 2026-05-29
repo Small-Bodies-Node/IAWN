@@ -1,0 +1,5 @@
+AuthUserFile /www/2012tc4/project/.thatfile
+AuthGroupFile /dev/null
+AuthName "2012 TC4 Science Team"
+AuthType Basic
+require user 2012tc4

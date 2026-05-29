@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>NEA (66391) 1999&nbsp;KW4 Observing Campaign -- Physical Properties</title>
+<link rel="stylesheet" href="/obscamp/1999KW4/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>NEA (66391) 1999&nbsp;KW4 -- Physical Properties</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/1999KW4/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>What is Known about (66391) 1999&nbsp;KW4?</h2>
+
+<p></p>
+
+
+
+<h3>Physical Properties</h3>
+
+<table style="width:100%; border-spacing:0px;">
+
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+
+<tr>
+<th>Property</th>
+<th>Value (primary)</th>
+<th>Reference<sup>1</sup></th>
+<th>Value (secondary)</th>
+<th>Reference<sup>1</sup></th>
+</tr>
+
+<tr>
+<td><strong>Effective Diameter</strong></td>
+<td>1.317km</td>
+<td><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?doi=10.1126/science.1133622"  onclick="this.target='_blank'">Ostro et al.</a></td>
+<td>0.451 km</td>
+<td><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?doi=10.1126/science.1133622"  onclick="this.target='_blank'">Ostro et al.</a></td>
+</tr>
+
+<tr>
+<td><strong>Axial Ratio</strong></td>
+<td>1.532 x 1.495 x 1.347 km</td>
+<td><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?doi=10.1126/science.1133622"  onclick="this.target='_blank'">Ostro et al.</a></td>
+<td>0.571 x 0. 463 x 0.349 km</td>
+<td><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?doi=10.1126/science.1133622"  onclick="this.target='_blank'">Ostro et al.</a></td>
+</tr>
+
+<tr>
+<td><strong>Spectral Type</strong></td>
+<td>S</td>
+<td><a href="http://adsabs.harvard.edu/abs/2004Icar..170..259B"  onclick="this.target='_blank'">Binzel et al.</a></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Colors</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>H<br />G</strong></td>
+<td>16.5<br />0.150</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Rotation Period</strong></td>
+<td>2.7645 h</td>
+<td><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?doi=10.1126/science.1133622"  onclick="this.target='_blank'">Ostro et al.</a></td>
+<td>average rotation synchronous with orbit period of ~17.4 hours</td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Albedo</strong></td>
+<td>0.26</td>
+<td><a href="http://www.minorplanet.info/PHP/GenerateALCDEFPage_Local.php?AstInfo=66391%7C"  onclick="this.target='_blank'">LCDB</a></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Radar Properties</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Shape Model</strong></td>
+<td colspan="4">
+<ul>
+<li>Primary: <a href="/obscamp/1999KW4/gallery/kw4a.cmod">cmod</a>, <a href="/obscamp/1999KW4/gallery/kw4a.obj">obj</a>, <a href="/obscamp/1999KW4/gallery/kw4a.wrl">wrl</a></li>
+<li>Secondary: <a href="/obscamp/1999KW4/gallery/kw4b.cmod">cmod</a>, <a href="/obscamp/1999KW4/gallery/kw4b.obj">obj</a>, <a href="/obscamp/1999KW4/gallery/kw4b.wrl">wrl</a></li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td><strong>Lightcurves</strong></td>
+<td>&Delta; 0.12 mag</td>
+<td><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2006Icar..181...63P">Pravec et al.</a></td>
+<td></td>
+<td></td>
+</tr>
+
+</table>
+<p><sup>1</sup>Unpublished references are for informational purposes only. Contact the authors before citing or reporting on the results they contain.</p>
+
+<div class="center"><img src="/obscamp/1999KW4/gallery/kw4-physical-properties.png" width="800" alt="" /></div>
+
+<ul>References
+<li><a href="http://adsabs.harvard.edu/abs/2004Icar..170..259B"  onclick="this.target='_blank'">Binzel et al. (2004) Icarus 170, 259-294</a></li>
+<li><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?doi=10.1126/science.1133622"  onclick="this.target='_blank'">Ostro et al. 2006, Science 314, 1276-1280.</a></li>
+<li><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2006Icar..181...63P"  onclick="this.target='_blank'">Pravec et al. 2006,  Icarus. 181 (1): 63-93.</a></li>
+
+
+</ul>
+
+
+
+<ul>Links
+<li><a href="https://en.wikipedia.org/wiki/(66391)_1999_KW4"  onclick="this.target='_blank'">Wikipedia Entry</a></li>
+<li><a href="http://mel.epss.ucla.edu/jlm/research/NEAs/1999KW4/"  onclick="this.target='_blank'">RADAR OBSERVATIONS OF 1999 KW4</a></li>
+<li><a href="https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=66391"  onclick="this.target='_blank'">JPL Small-Body Database Browser</a></li>
+</ul>
+
+<h3>Comments</h3>
+
+<!-- <p><strong>Lightcurve Observations:</strong> </p> -->
+
+<!-- <p><strong>Support for Radar Observations:</strong> </p> -->
+
+<!-- <p><strong>Radar Observations:</strong> </p> -->
+
+
+
+<!-- <h3>Other Phenomena</h3> -->
+<!-- <ul>
+<li>??</li>
+</ul> -->
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/1999KW4/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

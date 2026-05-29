@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Comet 2I/Borisov Observing Campaign</title>
+<link rel="stylesheet" href="/obscamp/Borisov/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>Comet 2I/Borisov Observing Campaign</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/Borisov/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>Introduction</h2>
+
+<p>Welcome to the website for the comet 2I/Borisov (2019 Q4) Observing Campaign. This is the second object to be found to have an interstellar origin, and the first for which an extensive observing campaign is possible.  Our intention is to provide a central clearinghouse for basic information about 2I/Borisov and about the observations that will be obtained during its apparition.</p>
+<p>This site will contain background information about Comet 2I/Borisov, a list of observations that are planned/scheduled/obtained, and status reports on any events or discoveries that occur during the apparition.</p>
+
+
+<!----
+<h2>News</h2>
+<ul>
+  <li>2020-01-01: <a href="">Link and description</a></li>
+</ul>
+-->
+
+<h2>Summary of the 2019/2020 Apparition</h2>
+
+<h3>Comet 2I/Borisov is the second object found to have an interstellar origin</h3>
+
+
+<ul>
+<li> Perihelion on Dec 08, 2019 at 13:21 UT  (Orbit solution JPL#36)
+	<ul>
+	<li>Heliocentric distance 2.007 AU</li>
+	<li>Geocentric Distance @perihelion 1.994 AU </li>
+	<li>Minimum Geocentric Distance Dec 28, 2019 -  1.936 AU </li>
+	</ul></li>
+</ul>
+
+
+<h3>Brightness</h3>
+
+<p>Current estimates suggest it will peak in brightness peak around mag 16.4 at perihelion</p>
+
+
+<h3>Observing conditions (for observations at visible wavelengths)</h3>
+
+<p>Conditions are poor during the comet's approach to perihelion, with only a few hours of visibility in both the Northern and Southern hemispheres.  Around perihelion, the conditions in the Southern hemisphere improve dramatically, and the comet will be visible most/all night from February through April.  The comet is lost to the northern hemispher shortly after perihelion.  For more information, see the Observing geometry page.
+
+
+<!-- <h3>NASA Bulletins</h3> -->
+
+
+<h2>History</h2>
+<h3>Discovery</h3>
+<p>Borisov was discovered Aug 30 2019 by Gennady Borisov at the MARGO observatory near
+Nauchnij, Crimea.  After a week of observations, orbit solutions were already indicating the hyperbolic orbit.</p>
+
+
+<!-- <h3 class="clear">Mailing List</h3>
+<p>We are maintaining an email list for broadcasting occasional updates regarding Borisov, and for making announcements regarding short-term transient events that might prompt follow-up observations.</p>
+
+<p>If you want to be added to (or removed from) this list, then send your name, affiliation and email address to the <a href="/obscamp/Borisov/contact.shtml" title="Contact us web form">Contact Web Form</a></p> -->
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/Borisov/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

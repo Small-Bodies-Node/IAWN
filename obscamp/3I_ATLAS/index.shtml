@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IAWN Comet Astrometry Campaign -- 3I/ATLAS</title>
+<link rel="stylesheet" href="/obscamp/3I_ATLAS/css-n-inc/styles.css" type="text/css" />
+<!--#include virtual="/obscamp/3I_ATLAS/css-n-inc/analytics.inc" -->
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>3I/ATLAS: Comet Astrometry Campaign</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/3I_ATLAS/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>NOTE</h2>
+<p><strong>While it poses no threat, comet 3I/ATLAS presents a great opportunity for the IAWN community to perform an observing exercise due to its prolonged observability from Earth and high interest to the scientific community.This 3I/ATLAS campaign is the <a href="/campaigns.shtml">8th IAWN observing exercise</a> since 2017 - IAWN holds these exercises roughly once a year. IAWN had been planning to do a Fall 2025 comet campaign since 2024 to exercise capabilities for measuring the position of comets, which pose additional astrometric challenges as they appear as fuzzy extended objects compared to point-like asteroids in a telescope's field of view.</strong></p>
+
+
+<h2>Introduction</h2>
+
+<p>As posted in <a href="https://www.minorplanetcenter.net/mpec/K25/K25UE2.html">M.P.E.C. 2025-U142</a>: </p>
+<p>Comets present unique challenges for accurate astrometric measurements and orbit predictions. Cometary bodies are extended with morphological features (comae and tails) that can systematically pull their centroid measurements off their central brightness peak, presenting challenges to estimate comet trajectories.</p>
+
+<p>The International Asteroid Warning Network (IAWN) announces a comet campaign from November 27, 2025, through January 27, 2026 to introduce methods for improving astrometry from comet observations. The campaign will target comet 3I/ATLAS (C/2025 N1) to exercise the capability of the observing community to extract accurate astrometry. To prepare for the campaign, we will hold a workshop on techniques to correctly measure comet astrometry.</p>
+
+<h3>Registration</h3>
+<p>Registration is closed (17:00 UTC 2025 Nov 07).</p>
+<!-- <p><a href="https://forms.gle/1nf33cwMzV5KyBeQ8">Registration is required</a> by November 7th for the workshop and only those participants that attend the workshop can participate in the campaign. Only those with an active MPC Code for their observatory are invited to participate.</p> -->
+
+<h3>3I/ATLAS Comet Astrometry Campaign -- Important Dates</h3>
+<ul>
+<li><strong>Registration Deadline</strong> for Workshop: Nov. 7, 2025, 17:00 UTC</li>
+<li><em>Comet Astrometry Workshop:</em> Nov. 10, 2025, 15:00 UTC</li>
+<li><em>Campaign Kick Off EMAIL Notification:</em> Nov. 25, 2025</li>
+<li><strong>Observing Window Opens:</strong> November 27, 2025</li>
+<li><em>Mid-Campaign Check-in Telecon:</em> December 9, 2025, 15:00 UTC</li>
+<li><strong>Observing Window Closes:</strong> January 27, 2026</li>
+<li><em>Close-out Telecon:</em> February 3, 2026, 15:00 UTC</li>
+</ul>
+
+
+
+
+
+<h3>Recommendations for Observers</h3>
+<ul>
+<li>Observers should calibrate their timing systems 
+	<ul>
+	<li><a href="https://www.projectpluto.com/gps_expl.htm">Calibrating timing of astronomical images using navigation satellites</a></li>
+	<li><a href="https://birtwhistle.org.uk/MethodsCheckTiming.htm">Check system timing accuracy (using astrometry of GNSS satellites)</a></li>
+	</ul></li>
+<li>Data submissions will be using the <a href="https://minorplanetcenter.net/iau/info/ADES.html">ADES format</a>.</li>
+<li>Use the GAIA catalog!</li>
+</ul>
+<hr />
+
+
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/3I_ATLAS/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

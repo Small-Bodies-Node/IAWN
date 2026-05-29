@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>2023&nbsp;DZ2: 2023 Rapid Response Campaign</title>
+<link rel="stylesheet" href="/obscamp/2023DZ2/css-n-inc/styles.css" type="text/css" />
+<!--#include virtual="/obscamp/2023DZ2/css-n-inc/analytics.inc" -->
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>2023&nbsp;DZ2: Rapid Response Characterization</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/2023DZ2/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>International Asteroid Warning Network (IAWN) Rapid Response Characterization Campaign</h2>
+
+<p>On March 16, 2023, the Minor Planet Center announced the discovery of near-Earth asteroid 2023 DZ2: <a href="https://www.minorplanetcenter.net/mpec/K23/K23F12.html">https://www.minorplanetcenter.net/mpec/K23/K23F12.html</a>. The asteroid is headed for a close approach within half the lunar distance from the Earth on March 25, 2023. Based on its absolute magnitude H=23.7, the expected size of 2023 DZ2 is in the range 50 m to 110 m.</p>
+<p>This close approach represents an ideal opportunity for an IAWN rapid response characterization campaign - an IAWN campaign to exercise the capability of the planetary defense community to collect observations and physically characterize the object on a very short notice.</p>
+<p>You are receiving this notice because you participated previously in the IAWN campaign to observe and characterize 99942 Apophis, and you are invited to participate in this campaign. New participants are welcome to join. If you know of another facility or individual who would like to get involved in IAWN campaigns, please have them contact us to sign up for the group. Contact email vishnureddy@arizona.edu.</p>
+<p>While the focus of the present campaign is restricted to physical characterization (rotational properties, binary nature, compositional properties, albedo, diameter, shape etc.) of 2023 DZ2, participants may report astrometry to the Minor Planet Center. However, astrometric observations are not the focus of this campaign.</p>
+<p>Observers reporting astrometric measurements must ensure that their timing is accurate and must avoid reporting an excessive number of observations (three or four per night are generally sufficient) to avoid biasing the orbital calculations.</p>
+<p>The campaign kicks off officially on Monday March 20, 2023, at 13:00 UTC and ends on Monday March 27, 2023, at 13:00 UTC. Characterization data collected only during this window will be used for the campaign.</p>
+<p>There will be three telecons during this limited observing window to discuss the results of the campaign as they become available. The first kickoff teleconference will be held on Tuesday March 21, 2023, at 1300 UTC. The second teleconference will be held on Thursday March 23, 2023, at 1300 UTC and the final closeout teleconference will be held on Monday March 27, 2023, at 1300 UTC. Teleconferences will be for 1-hour duration and the dial-in details are provided at the end of this email.</p>
+<p>We hope all of you can participate and contribute observations to this campaign. Regards,</p>
+
+<p>Vishnu Reddy
+<br>IAWN Campaign Coordinator
+
+<br><br>Michael Kelley
+<br>PDCO Program Scientist
+<br>NASA Headquarters</p>
+
+
+
+<p><br /><br /><br /><br /></p>
+<p><br /><br /><br /><br /></p>
+
+<h2>Register</h2>
+<p>By registering for this campaign you will be provided with the summary analysis for the observations you reported to the MPC.</p>
+<h3>REGISTRATION is closed for this campaign.</h3>
+
+
+<hr />
+
+
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/2023DZ2/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

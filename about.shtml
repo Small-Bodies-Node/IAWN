@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: About IAWN</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">About IAWN</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p>The International Asteroid Warning Network (IAWN, pronounced <em>&#x61;&#x26a;&#x77;&#x251;&#x6e;</em>) is a worldwide collaboration of asteroid astronomers and modelers that was recommended by United Nations resolution, along with the Space Mission Planning Advisory Group (<a href="https://www.cosmos.esa.int/web/smpag/">SMPAG</a>), to implement recommendations for an international response to the near-Earth object (NEO) impact threat.
+<br>IAWN is coordinated by <a href="https://science.nasa.gov/planetary-defense/">NASA</a>.</p>
+
+<!-- <h4 class="art-postheader">Pronunciation</h4>
+<p>A very rough English phonetic representation would be &quot;eye-wahn.&quot; &quot;&#x61;&#x26a;&#x77;&#x251;&#x3a;&#x6e;&quot; captures how most in the USA tend to pronounce it, with &quot;&#x61;&#x26a;&#x77;&#x251;&#x6e;&quot; being also acceptable.</p>
+ -->
+<h3 class="art-postheader">IAWN's functions are:</h3>
+
+<ol class="lowa">
+<li>To discover, monitor, and physically characterize the potentially hazardous NEO population using optical and radar facilities and other assets based in both the northern and southern hemispheres and in space;</li>
+<li>To provide and maintain an internationally recognized clearing house function for the receipt, acknowledgement and processing of all NEO observations;</li>
+<li>To act as a global portal, serving as the international focal point for accurate and validated information on the NEO population;</li>
+<li>To coordinate campaigns for the observation of potentially hazardous objects;</li>
+<li>To recommend policies regarding criteria and thresholds for notification of an emerging impact threat;</li>
+<li>To develop a database of potential impact consequences, depending on geography, geology, population distribution and other related factors;</li>
+<li>To assess hazard analysis results and communicate them to entities that should be identified by Member States as being responsible for the receipt of notification of an impact threat in accordance with established policies</li>
+<li>To assist Governments in the analysis of impact consequences and in the planning of mitigation responses.</li>
+</ol>
+
+<p>More information of how these functions and IAWN's participation fit in to the <a href="http://www.unoosa.org/" onclick="this.target='_blank'">UN's Office for Outer Space Affair</a>'s (UNOOSA) partnerships regarding NEOs and Planetary Defense is provided in UNOOSA's <a href="https://www.unoosa.org/oosa/sk/ourwork/topics/neos/index.html">Near-Earth Objects website</a>.</p>
+
+<p>IAWN was established following a recommendation by the Working Group on Near-Earth Objects of the Scientific and Technical Subcommittee of the United Nations (UN) Committee on the Peaceful Uses of Outer Space. This recommendation was endorsed by the Subcommittee during its fiftieth session in February 2013. Subsequently, the UN General Assembly endorsed the establishment of IAWN through its resolution 68/75 on 16 December 2023.</p>
+
+<p>In its resolution 70/82 of 9 December 2015, the General Assembly acknowledged the establishment of IAWN, alongside the Space Mission Planning Advisory Group (SMAPG). The Committee's annual reports emphasize that, in the event of a credible asteroid impact threat, IAWN will provide relevant information, which will then be disseminated to all Member States through the UN Office of Outer Space Affairs (UNOOSA).</p>
+
+<p>Under General Assembly resolution 78/72, paragraph 14, UNOOSA disseminates updates on the activities of IAWN and SMPAG in its capacity as the permanent secretariat of SMPAG. The threshold of issuing an impact warning is a probability of impact greater than 1% for an object estimated to be larger than 10 meters (33 feet), as established in the criteria and thresholds outlined in the report submitted to the Scientific and Technical Subcommittee of the Committee on the Peaceful Uses of Outer Space.</p>
+
+
+
+<h3 class="art-postheader">Supporting Documents and References::</h3>
+<ul>
+<li><a href="https://www.unoosa.org/pdf/reports/ac105/AC105_1038E.pdf">Report of the Scientific and Technical Subcommittee on its fiftieth session, held in Vienna from 11 to 22 February 2013</a>, including the Report of the Working Group on Near-Earth Objects (Fifty-sixth session; A/AC.105/1038, para. 179-198 and annex III)</li>
+
+<li>Report on the Committee on the Peaceful Uses of Outer Space on 12-21 June 2013 (Fifty-sixth session; A/68/20, para. 144)</li>
+
+<li><a href="https://www.unoosa.org/pdf/gares/A_RES_68_075E.pdf">Resolution adopted by the General Assembly on 11 December 2013</a> (Sixty-eighth session; A/Res.68/75, para. 8)</li>
+
+<li>Resolution adopted by the General Assembly on 9 December 2015 (Seventieth session; 70/82. International cooperation in the peaceful uses of outer space)</li>
+
+<li>Report on the Committee on the Peaceful Uses of Outer Space on 31 May - 9 June 2023 (Sixty-sixth session; A/78/20, para. 119)</li>
+
+<li>Resolution adopted by the General Assembly on 7 December 2023 (Seventy-eighth session; 78/72. International cooperation in the peaceful uses of outer space, para. 14)</li>
+
+<li><a href="https://www.unoosa.org/res/oosadoc/data/documents/2017/aac_105c_12017crp/aac_105c_12017crp_25_0_html/AC105_C1_2017_CRP25E.pdf">Status report by the International Asteroid Warning Network (IAWN) and the Space Mission Planning Advisory Group (SMPAG)</a> (Fifty-fourth session; A/AC.105/C.1/2017/CRP.25)</li>
+
+<li><a href="https://documents.un.org/doc/undoc/gen/n24/398/37/pdf/n2439837.pdf">Resolution adopted by the General Assembly on 4 December 2024</a>, 79/86, International Year of Asteroid Awareness and Planetary Defence, 2029 (Seventy-night session; A/Res/79/86)</li>
+</ul>
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

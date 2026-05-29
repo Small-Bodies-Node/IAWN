@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: Campaigns</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">Observing</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<div class="art-content-layout">
+<div class="art-content-layout-row">
+
+<!-- LEFT BOX -->
+<div class="art-layout-cell layout-item-0" style="width: 33%">
+<p>IAWN Campaigns</p>
+<ul>
+<li><a href="/obscamp/3I_ATLAS/" onclick="this.target='_blank'">3I/ATLAS Comet Astrometry</a> (Nov 2025 - Jan 2026)</li>
+<li><a href="/obscamp/2025FA22/" onclick="this.target='_blank'">2025 FA22</a> (Sep-Oct 2025)</li>
+<li><a href="/obscamp/Apophis/" onclick="this.target='_blank'">Apophis</a> (2020-2021, 2027-2029)</li>
+<li><a href="/obscamp/2023DZ2/" onclick="this.target='_blank'">2023 DZ2 Rapid response</a> (2023)</li>
+<li><a href="/obscamp/2005LW3/" onclick="this.target='_blank'">2005 LW3 Timing Assessment</a> (2022)</li>
+<li><a href="/obscamp/2019XS/" onclick="this.target='_blank'">2019 XS Timing Assessment</a> (2021)</li>
+<li><a href="/obscamp/1999KW4/" onclick="this.target='_blank'">1999 KW4</a> (Spring - Summer 2019)</li>
+<li><a href="http://2012tc4.astro.umd.edu/" onclick="this.target='_blank'">2012 TC4</a></li>
+</ul>
+
+<p>Other NEO &amp; SB Campaigns</p>
+
+<ul>
+<li><a href="http://wirtanen.astro.umd.edu/" onclick="this.target='_blank'">The Comet Wirtanen Campaign</a></li>
+</ul>
+</div>
+
+<!-- RIGHT BOX -->
+<div class="art-layout-cell layout-item-0" style="width: 33%">
+<p>Targets of Interest</p>
+<ul>
+<li><a href="obscamp/2024YR4/index.shtml">2024 YR4</a></li>
+</ul>
+</div>
+
+</div>
+</div>
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

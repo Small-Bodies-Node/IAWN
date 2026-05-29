@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 7th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">7th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p>The 7th International Asteroid Warning Network (IAWN) gathering was held on the margins of the 56th Science Technology Subcommittee (STSC) meeting of the United Nations Committee of the Peaceful Uses of Outer Space (UNCOPUOS). This time, our IAWN meeting was a working meeting, primarily to discuss and work on the Space Mission Planning Advisory Group's (SMPAG) Action [Work] Item 5.6 and concur upon the next asteroid target for the IAWN community.</p>
+
+<p>The attendees included:</p>
+
+<ul>
+<li>Rudolf Albrecht (Austrian Space Forum)</li>
+<li>Michel Doyon (Canadian Space Agency)</li>
+<li>Hong-Kyu Moon (KASI)</li>
+<li>Sunki Cho (KASI)</li>
+<li>Andrew Williams (ESO)</li>
+<li>Harel (Hary) Ben-Ami (Israel Space Agency)</li>
+<li>Alan Harris German (DLR)</li>
+<li>Philipp Weyes (DLR)</li>
+<li>Gerhard Drolshagen (Univ. Oldenburg, representing ESA)</li>
+<li>R&uuml;diger Jehn (ESA)</li>
+<li>Romana Kopler (UNOOSA)</li>
+<li>James (Gerbs) Bauer (University of Maryland)</li>
+<li>Jing Liu (CNSA)</li>
+<li>Rob Landis (NASA)</li>
+</ul>
+
+<p>Remote (on Skype):</p>
+<ul>
+<li>Marco Micheli (ESA)</li>
+<li>Lindley Johnson (NASA)</li>
+</ul>
+
+<p>After initial introductions, Hong-Kyu Moon (KASI) shared a current status "Highlights of NEO Research Activities: Ground-based Studies in 2018" which outlined the Korea Astronomy and Space Science Institute's (KASI) activities, to include the KTMNet as well as other facilities (i.e., Bohyun Optical Astronomical Observatory (BOAO), Sobaek Optical Astronomical Observatories (SOAO), Mt. Lemmon Optical Astronomical Observatory (LOAO), and the Optical Wide-field Patrol Network (OWL-net)).</p>
+
+<p>Observational highlights included the KTMNet's photometric observations of 2012 TC4; 3200 Phaethon (target for JAXA's DESTINY+ mission; tentatively slated for launch in 2022); lightcurves for 2078 Nanking; and more. Hong-Kyu finished with a discussion on an ecliptic survey in an attempt to measure discovery probability of various small body populations in terms of their orbits. A follow-on test survey is planned to discover more interesting objects.</p>
+
+<p>R&uuml;diger Jehn (ESA) provided a brief oral report of the ESA-sponsored "NEO &amp; Debris Detection Conference" [https://neo-sst-conference.sdo.esoc.esa.int] held at the European Space Operations Centre (ESOC) in Darmstadt, Germany. The proceedings of the Darmstadt gathering have been posted [https://conference.sdo.esoc.esa.int]. </p>
+
+<p>Gerbs Bauer shared the latest details with the new IAWN website to include information on breaking news items such as the bolide event over western Cuba on 1 February 2019. The IAWN webpage is located at: https://www.iawn.net.</p>
+
+<p>Finally, NASA provided a brief update on IAWN status. There are currently 15 signatories to IAWN, the most recent being the Vi&#154;njan Observatory in Croatia. Vi&#154;njan Observatory was established in 1992 as a public observatory; however, specializing in astrometry and the search for new asteroids. In 2009, a new facility was opened near the village of Ti?an. Korado Korlevi? is the director. (Further details on Vi&#154;njan may be found at their website: http://www.astro.hr .)</p>
+
+<p>The remainder of the meeting focused on SMPAG Action Item 5.6, which is to lay out Communication Guidelines (in the event of a credible threat per IAWN). We agreed to break down our notifications/alerts into four (4) basic levels: standard notifications and then Level 1, 2, and 3 Alerts. A description for each follows below.</p>
+
+<p><strong>Notification(s)</strong></p>
+
+<p>General notifications of close approaches of NEOs are already done by both ESA and NASA. There are many examples. Below is an example of the 2012 DA14 close approach on 15 February 2013.</p>
+
+<blockquote>
+<p>A small asteroid, designated 2012 DA14, will safely skirt past our planet next month. Discovered a year ago by the La Sagra Sky Survey operated by the Astronomical Observatory of Mallorca in Spain, 2012 DA14 is approximately 45 meters (~150 feet) across. The asteroid will pass within 27,800 kilometers (17,300 miles) of the Earth's surface, dipping just below the communications and weather satellites orbiting 35,890 km (22,300 miles) above the Earth. While this celestial object does not pose any threat to Earth or satellites, it creates a unique opportunity for researchers to observe and learn more about asteroids.
+
+<br /><br />Closest Earth approach will be on 15 February 2013 at about 18:30 UTC (2:30 PM EST) at just less than 1/10th the distance of the Earth to the Moon (or, ~4.5 Earth radii). Apparent magnitude at closest approach will be ~7, rendering it invisible to the unaided eye. However, amateur astronomers with a small telescope or solidly mounted binoculars may sight the apparition of this near-Earth asteroid.
+
+<br /><br />On the date of closest approach (15 February) the asteroid will not be in a location for any NASA assets to observe during its time of closest approach because it will be passing on the other side of the globe. Still, in the days after the close flyby of the Earth, NASA's Goldstone Station in the Mojave Desert are scheduled to observe asteroid 2012 DA14 on 16, 18, 19 and 20 February 2013.
+
+<br /><br />While 2012 DA14 will not impact the Earth, the forthcoming very close flyby of our home planet will shorten the asteroid's orbital period from 366 days to 317 days. The next very close approach to the Earth will be on 16 February 2046.
+
+<br /><br />For a view of the path asteroid 2012 DA14 with respect to the Earth, Moon and geosynchronous satellites, please see:
+<br /><a href="http://neo.jpl.nasa.gov/news/news174.html">neo.jpl.nasa.gov/news/news174.html</a></p>
+</blockquote>
+
+<p><strong>Level 1 Alert</strong> ( &ge; 1% probability of impact)</p>
+
+<p>Per SMPAG 5.1 (Thresholds for Action for Potential NEO Impact Threat), IAWN shall warn of predicted impacts exceeding a probability of 1% for all objects characterized to be greater than 10 meters in size. </p>
+
+<p>The Level 1 alert would be issued by the IAWN if an NEO is discovered and identified to have a 1% or greater probability of impact. As laid out in the notification example above, the template should provide:</p>
+<ul>
+<li>Asteroid name/designation</li>
+<li>Asteroid characteristics - size (metric and standard), brightness, etc.</li>
+<li>Discovery details (observatory, follow-up, characteristics [if known], next observations)</li>
+<li>(current) Predicted orbit</li>
+<li>Next observations</li>
+<li>Expected date of next impact risk update</li>
+<li>URL(s) for more information from responsible orgs</li>
+<li>Standard Statement as to what IAWN and SMPAG is; communication via UNOOSA</li>
+</ul>
+
+<p><strong>Level 2 Alert</strong> ( &gt; 10% probability of impact)</p>
+
+<p>A Level 2 Alert would be issued if the probability of an impact increases to 10%. Also, per SMPAG 5.1 (Thresholds for Action for Potential NEO Impact Threat), terrestrial preparedness planning should begin when warned of a possible impact:</p>
+<ul>
+<li>Predicted to be within 20 years,</li>
+<li>Probability of impact is assessed to be greater than 10%, and</li>
+<li>Object is characterized to be greater than 20 meters in size, or roughly equivalent to absolute magnitude of 27 if only brightness data can be collected.</li>
+</ul>
+
+<p>The Level 2 alert should provide:</p>
+<ul>
+<li>Asteroid name/designation</li>
+<li>Date of original notification (i.e., on xx/yy/zz date IAWN issued a Level 1 Alert with a xx% probability)</li>
+<li>(updated) Asteroid characteristics - size (metric and standard), brightness, etc.</li>
+<li>(updated) Details (observatory(ies), follow-up, characteristics [if known], next observations)</li>
+<li>(updated) Predicted orbit and impact predictions</li>
+</ul>
+<p>Members of the international Space Mission Planning Advisory Group (SMPAG) are proceeding with a plan to develop a mission to deflect (<em>asteroid designation</em>) off its orbital path, should observers determine that impact is certain, the deflection mission will be ready to launch </p>
+
+<div class="center">- OR -</div>
+
+<p>Based on follow-up observations of the asteroid since then, experts now predict that the asteroid will impact Earth on <em>day/month/year</em>. The international Space Mission Planning Advisory Group (SMPAG) has determined that this impact can be prevented by launching a mission to deflect the asteroid off its orbital path, so that it passes by Earth on <em>day/month/year</em>. The (<em>name the space agency or agencies that will be building and launching the deflection mission</em>) will build a spacecraft (<em>or multiple spacecraft</em>) that will be launched on <em>day/month/year</em>. <em>(Will there be a reconnaissance mission before the deflection mission?)</em> This spacecraft will arrive at the asteroid in <em>month/year</em> and will use the (<em>identify deflection method</em>) method (<em>has the method been demonstrated?</em>) to deflect the asteroid off its impact course with Earth.</p>
+<ul>
+<li>Expected date of next update</li>
+<li>URLs for more information</li>
+<li>Standard Statement as to what IAWN and SMPAG is; communication via UNOOSA</li>
+</ul>
+
+<p><strong>Level 3 Impact Alert</strong> (Preparation for Impact)</p>
+
+<p>As with the previous alert levels discussed above, IAWN would issue this in coordination with UNOOSA and UN-SPIDER. The Level 3 Impact Alert message would be issued when deflection is not an option and/or the deflection campaign failed, and when a mitigation civil defense plan is in place.</p>
+
+<p>The Level 3 Impact Alert should provide:</p>
+<ul>
+<li>Date, time and location of impact</li>
+<li>Asteroid name/designation</li>
+<li>Asteroid characteristics - size (metric and standard), type (spectral), structural (solid, rubble pile, other)</li>
+<li>Predicted asteroid trajectory/angle of entry, predicted impact velocity (specify atmospheric interface or impact on the ground)</li>
+<li>Type of impact - atmospheric impact over water or over land, surface impact on water or on land</li>
+<li>Predicted energy release</li>
+<li>Geographic range and gradation of effects</li>
+</ul>
+
+<p>As a review, the notification(s) and alert particulars should include:</p>
+<ul>
+<li>Asteroid name/designation</li>
+<li>Asteroid characteristics - size (metric and standard), composition (if known), brightness/albedo, etc.</li>
+<li>Observational history (discovery information, follow-up)</li>
+<li>Prediction of asteroid trajectory including closest distance to Earth (surface, not center) and date and time of close approach.</li>
+<li>A colloquial (non-statistical) qualifier of impact probability</li>
+<li>Hazard to space assets (if any)</li>
+<li>Future observations</li>
+<li>Visibility, visual magnitude (i.e., amateur astronomers be able to see the object)</li>
+<li>Consistent terms of measurement: "size" rather than "diameter" of object, brightness/albedo of object, etc.</li>
+<li>Authoritative source(s) for more information (i.e., IAWN, SMPAG)</li>
+</ul>
+
+<hr />
+<p>One of the last remaining topics of the IAWN working meeting was what the next observational campaign should be (<em>&agrave; la</em> 2012 TC4; but with a yet very different focus, as in a characterization campaign to better prepare for DART's impact into the moonlet of Didymos).</p>
+
+<p>Gerbs Bauer led the discussion possible candidates (1999 KW4 and 2004 FG11 - both NEAs which are also binary systems), close approach geometries, relative merits, etc. After some discussion, IAWN attendees concurred to better characterize 1999 KW4. Rob Landis will be the point-of-contact (POC) for coordinating the voluntary observatory logistics and participation under IAWN. Mike Kelley will review and consult on science data capabilities and science characterization results.</p>
+
+<p>This most recent IAWN meeting concluded with agreeing to meet next on 27 April 2019 at the University of Maryland in College Park, Maryland, USA. This will be just prior to the Planetary Defense Conference (PDC) from 29 April - 3 May 2019 in College Park. The 8th IAWN gathering is anticipated to be a similar working meeting to concur upon the final language for SMPAG Action Item 5.6 - which will also be utilized during the next PDC scenario.</p>
+
+<p>The 9th IAWN gathering will be held at the European Southern Observatory (ESO) facilities in Garching, Germany on 12 September 2019. SMPAG will hold its next regular meeting the following day on 13 September, also at ESO.</p>
+
+
+
+
+
+
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

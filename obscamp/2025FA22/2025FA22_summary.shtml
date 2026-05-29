@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>2025&nbsp;FA22 IAWN Campaign -- Summary</title>
+<link rel="stylesheet" href="/obscamp/2025FA22/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>2025&nbsp;FA22 -- Campaign Summary</h1>
+</div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/2025FA22/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>2025&nbsp;FA22 IAWN Campaign Summary</h2>
+
+<p>Stay tuned!</p>
+
+<h3>Publication: Rules of the Road</h3>
+
+<p>The campaign will publish a summary paper capturing the results from the working group and any lessons learned in Planetary Science Journal.</p>
+
+<p>Individual PIs are free to publish their own papers at anytime based on the data they collected. Just let us know about your plans so we can coordinate the content of the summary paper and cite your publication in the summary paper.</p>
+
+<p>Author list for the summery paper will be similar to previous campaigns. After the campaign lead, the working group leads will be listed in alphabetical order followed by all campaign participants in alphabetical order. We might invite WG leads to nominate one person who as made significant contributions to the working group to an elevated author position. These names will follow the WG leads in the author list in alphabetical order.</p>
+
+<p>All communication about the campaign or the publication will be through your respective working group leads. We typically have &gt;100 authors/participants and we simply do not have resource to respond to individual emails or changes to the paper. Please communicate them through your WG leads.</p>
+
+<!-- CONTENT -->
+
+</div>
+<!-- DIV close wrap -->
+</div>
+<!-- DIV close content -->
+</div>
+<!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/2025FA22/css-n-inc/footer.inc" -->
+<p class="right">Last updated:
+<!--#config timefmt="%A %B %d, %Y"-->
+<!--#echo var="LAST_MODIFIED" -->
+</p>
+</div><!-- close id footer -->
+</div>
+<!-- DIV close wrapper -->
+</body>
+
+</html>

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 19th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">19th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p><strong>19th Meeting of the<br>International Asteroid Warning Network</strong>
+<br /><strong>Virtual, 13:00 UTC</strong>
+<br />17 Sep 2024 -- <a href="/documents/20240917_19th_virtual/19th_IAWN_Mtg_Agenda.pdf">Agenda</a>, <a href="/documents/20240917_19th_virtual/19th_IAWN_Mtg_Summary.pdf">Meeting Notes</a></p>
+
+<dl>
+<dt>IAWN Steering Committee members in attendance:</dt>
+<dd>Paul Chodas (JPL/CNEOS) - Orbit Determination
+<br>Alan Harris (DLR) - Physical Characterization
+<br>Lindley Johnson (NASA HQ/PDCO)
+<br>Patrick Michel (CNRS/OCA) - Public/Media Information
+<br>Richard Moissl (ESA/ESTEC/PDO)
+<br>Boris Shustov (Institute of Astronomy, Moscow)
+<br>Michal Zolnowski (6ROADS) - Small Observatories/Independent Observers
+</dd>
+
+<dt>IAWN permanent observers in attendance</dt>
+<dd>Detlef Koschny (ESA/SMPAG chair, representing ESA)
+<br />Romana Kofler (UNOOSA)
+</dd>
+
+<dt>IAWN Administration in attendance:</dt>
+<dd>James &quot;Gerbs&quot; Bauer, Elizabeth Warner (Univ. Maryland, NASA PDS SBN)
+<br>Vishnu Reddy (Univ. Arizona/Univ. Maryland, NASA PDS SBN)
+<br>Tim Spahr (NEO Sciences/Univ. Maryland, NASA PDS SBN)
+</dd>
+
+<dt>IAWN Coordinating Officer:</dt>
+<dd>Kelly Fast (NASA HQ/PDCO)</dd>
+
+<dt>IAWN attendees:</dt>
+<dd>6ROADS - Patryk Liniewicz
+<br>932 - Monty Robson
+<br>Al Khatim Observatory M44 - Mohammad Odeh
+<br>Astronomical Institute of the Romanian Academy - Madalina Trelia
+<br>Baldone Observatory - Ilgmars Eglitis
+<br>CAS - Xu Yang
+<br>CDSCC/CSIRO - Shinji Horiuchi
+<br>Fesenkov Astronomical Institute - Yerlan Aimuratov
+<br>ESA/PDO/NEOCC - Juan Luis Cano, Luca Conversi, Marco Micheli
+<br>NEKAAL Farpoint Obs. H36 Sandlot - Gary Hug
+<br>G. Pascoli Obs K63/D63 - Roberto Bacci
+<br>GAL Hassin L34/M57 - Alessandro Nastasi
+<br>Great Shefford J95 - Peter Birtwhistle
+<br>Instituto de Astrofisica de Canarias - Javier Licandro
+<br>INAOE - Sergio Camacho
+<br>Iota Scorpii Observatory K78 - Giulio Scarfi
+<br>Israel Space Agency - Harel Ben-Ami
+<br>J87 La Ca&ntilde;ada - Juan Lacruz
+<br>JAXA and P93 Bisei Spaceguard Center - Makoto Yoshikawa, Seitaro Urakawa, Kasahara
+<br>KIAM/Castelgrande L28 Italy - Sergei Schmalz
+<br>KIAM RAS - Viktor Voropaez
+<br>Konkoly Observatory / Norton Szab&oacute; (Oliv&eacute;r Norton Szab&oacute;)
+<br>MAP W94 - Ale Maury
+<br>Mind&#39;s Eye Observatory W42 - &quot;Terry&quot; Grage
+<br>Minor Planet Center - Matthew Payne
+<br>NAOC China - Hai Jiang, Cheng Haowen
+<br>NASA PDCO U.S. - Linda Billings, Doris Daou, Josh Handal, Mike Kelley, Rob Landis
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Astronomical Research Institute (H21, 807) - Robert Holmes, Tyler Linder
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Catalina Sky Survey - Carson Fuls, Alex Gibbs, Rob Seaman
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JPL CNEOS - Davide Farnocchia
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JPL Radar - Lance Benner
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JPL Table Mountain Obs. - Jana Chesley
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LINEAR MITLL - John Vaillancourt
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lowell Obs/MANOS - Nick Moskovitz, Teddy Kareta
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NASA GSFC - Brent Barbee
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEOWISE C51 - Joe Masiero
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spacewatch U of AZ - Melissa Brucker
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Hawai&#39;i - Dave Tholen
+<br>NEODyS, Italy - Giovanni Valsecchi
+<br>NOAK Observatory/L02, Greece - Nick Sioulas
+<br>Northolt Branch Observatory Z80, UK - Guy Wells
+<br>Schiaparelli 204, Italy - Luca Buzzi
+<br>University of New South Wales, Australia - Ed Kruzins
+<br>University of Western Australia - David Coward
+<br>UTAS - Guifre Molera
+<br>Virtual Telescope Project M50 - Gianluca Masi
+<br>Zwicky Transient Facility U.S. - George Helou
+</dd>
+
+<dt>Meeting observers and other attendees:</dt>
+<dd>ISRO, India - Bulbul Mukherje, Bikram Pradhan
+<br>UK Space Agency - Edward Baker
+</dd>
+
+</dl>
+
+<h1>Presentations</h1>
+<ul>
+<li><a href="/documents/20240917_19th_virtual/Bauer_IAWNcometCampaign_final2.pptx">Bauer_IAWNcometCampaign_final2.pptx</a></li>
+<li><a href="/documents/20240917_19th_virtual/Coward_IAWN_Sept_2024_v4.pptx">Coward_IAWN_Sept_2024_v4.pptx</a></li>
+<li><a href="/documents/20240917_19th_virtual/IAWN_2024_Kareta.pdf">IAWN_2024_Kareta.pdf</a></li>
+<li><a href="/documents/20240917_19th_virtual/IAWN_Apophis_Overview.pptx">IAWN_Apophis_Overview.pptx</a></li>
+<li><a href="/documents/20240917_19th_virtual/IAWN_Fall2024_Meeting_Nastasi.pdf">IAWN_Fall2024_Meeting_Nastasi.pdf</a></li>
+<li><a href="/documents/20240917_19th_virtual/IAWN-Update-to-IAWN.pdf">IAWN-Update-to-IAWN.pdf</a></li>
+<li><a href="/documents/20240917_19th_virtual/konkoly_nortonszabo_introduction.pdf">konkoly_nortonszabo_introduction.pdf</a></li>
+<li><a href="/documents/20240917_19th_virtual/NASA-PDCO_IAWN-Update.pdf">NASA-PDCO_IAWN-Update.pdf</a></li>
+<li><a href="/documents/20240917_19th_virtual/NEOFixer_IAWN_2024b.pptx">NEOFixer_IAWN_2024b.pptx</a></li>
+<li><a href="/documents/20240917_19th_virtual/Odeh_2024_IAWN.pdf">Odeh_2024_IAWN.pdf</a></li>
+<li><a href="/documents/20240917_19th_virtual/Payne_MPC.pdf">Payne_MPC.pdf</a></li>
+<li><a href="/documents/20240917_19th_virtual/SBNMPCannex_updateIAWN24B.pptx">SBNMPCannex_updateIAWN24B.pptx</a></li>
+</ul>
+
+<h2>IAWN Update</h2>
+<p>Kelly Fast (IAWN Coordinating Officer, NASA/PDCO) opened the meeting and invited introductions from each of the signatory representatives. <a href="/documents/20240917_19th_virtual/IAWN-Update-to-IAWN.pdf">She gave an IAWN status update</a>, noting background on IAWN and its administration and recent signatories. She summarized the IAWN Steering Committee Meeting of 30 January 2024, which addressed the future of the IAWN Steering Committee by detailing, for the Terms of Reference and based on the IAWN Statement of Intent, the core IAWN capabilities to be represented by a geographically and organizationally diverse representation from among IAWN signatories. The IAWN Steering Committee will continue to work on responsibilities outlined in the ToR (such as IAWN's process for impact threat notification) at their meetings on the margins of the UNCOPUOS Scientific and Technical Subcommittee Meetings and at other times as needed. The full IAWN membership will meet once a year (generally in the autumn) and at other times for IAWN campaigns and other meetings as needed.</p>
+
+<h2>IAWN Signatory Updates</h2>
+<p><a href="/documents/20240917_19th_virtual/NASA-PDCO_IAWN-Update.pdf">NASA/PDCO (Johnson)</a> - shared how NASA's and the United States' work falls in sectors as outlined in the national strategy and action plan for planetary defense. One U.S.-led initiative is to conduct regular interagency exercises to work with other U.S. government agencies like FEMA to address the NEO impact hazard. The jointly led NASA-FEMA 5 th interagency tabletop exercise (TTX5) occurred in April of 2024, and it was the first to be conducted since the release of the 2023 update to the national strategy and action plan for planetary defense. TTX5 was also the first to include international participation and included members from IAWN, ESA, SMPAG, UNOOSA, and more. NEOWISE has been decommissioned and is predicted to reenter Earth's atmosphere early November. NEOWISE, which was activate in 2013 for planetary defense purposes, was a good prototype for NASA's upcoming NEO Surveyor mission. NEO Surveyor will have a field of regard that looks along Earth's orbit and is being optimized to find PHAs over the course of a 10-year lifetime. Development on NEO Surveyor is progressing, and the team is working toward launch readiness in the fall of 2027. SPECTRE, which was developed for IRTF, is expected to have first light in 2027. Johnson noted asteroid 2024 RW1, first observed by the Catalina Sky Survey, and reiterated that NASA JPL CNEOS and ESA's NEOCC posted advance notice on social media, which resulted in many viewing the bolide event. The bolide event was detected by U.S. government sensors, and the resulting data was posted on the NASA CNEOS website.</p>
+
+<p>ESA (Moissl) - Moissl noted that there was a recommendation for an ESA concept for an Apophis mission following an Apophis flyby workshop at ESTEC. ESA is investigating the possibility of moving forward with the RAMSES mission, which would rendezvous with Apophis in April 2028 to characterize Apophis before and through its Earth close approach. RAMSES would be a reuse of technology and a smaller rebuild of Hera, which is go for launch. Hera was transferred to NASA's Kennedy Space Center at the end of August and is on track for launch in October. Moissl also noted the NEOMIR mission will enter Phase A2 in the coming months with full implementation intended to start in 2028. NEOMIR would complement NEO Surveyor's field of regard but NEOMIR will focus on finding closer and smaller objects. Moissl also noted an ion beam deflection study that is being done in collaboration with NASA/JPL. There was an update on Flyeye and a note that the first Flyeye has been packed up and is ready for reassembly at the Monte Mufara test site with first light anticipated for the end of the year. There was reiteration of asteroid 2024 RW1 and the mention that imminent impactors provide an excellent training opportunity.</p>
+
+<p><a href="/documents/20240917_19th_virtual/IAWN_Fall2024_Meeting_Nastasi.pdf">Alessandro Nastasi from GAL Hassin</a> in Sicily discussed their outreach efforts and NEO monitoring. There was mention that the observatory has upgraded its equipment, including the addition of a new CMOS camera with higher sensitivity that allows for observations beyond magnitude 20. Natasi noted the facility also operates the remotely controlled M57 telescope. The observatory's location at high altitude on Monte Mufara enables a unique telescope network in the Mediterranean, especially with the support of the Flyeye telescope, which will soon be installed there.</p>
+
+<p><a href="/documents/20240917_19th_virtual/Odeh_2024_IAWN.pdf">Mohammad Odeh from Al-Khatim Observatory</a>, which was built near Abu Dhabi by the International Astronomical Center (IAC) in January 2021, shared how their observatory plays a crucial role in filing observational gaps and is the only robotic observatory in the area. The observatory is remote controlled, which allows for quick observing of gamma-ray bursts and NEO monitoring. Odeh mentioned that the team uses NEOfixer, which has enabled their discovery of 35 asteroids. Odeh also mentioned an organized campaign to find meteorites but noted the difficulty posed by the sandy land.</p>
+
+<p><a href="/documents/20240917_19th_virtual/konkoly_nortonszabo_introduction.pdf">S&aacute;rneczky/Szab&oacute; from Konkoly Observatory</a> in Hungary highlighted their longstanding work in NEO discoveries. The observatory has been operational since the 1960s, with recent upgrades enabling more efficient observations. The representatives noted that NEO discoveries mostly happened after a 2020 upgrade to large CCD camera, and also noted that the observatory has discovered 227 confirmed NEOs, including imminent impactors like 2022 EB5, 2023 CX1, 2024 BX1. There was mention that the quick reduction of images after observations makes impactor discovery possible.</p>
+
+<p><a href="/documents/20240917_19th_virtual/IAWN_2024_Kareta.pdf">Teddy Kareta from MANOS</a> (NASA/Lowell Observatory) described their focus on pushing to more faint object astrometry, such as the discovery of asteroid 1015 DK200 at magnitude 25.1. Kareta mentioned that MANOS works with the Lowell Discovery Telescope (LDT) and is involved in 11 of 17 new Yarkovsky detections, 8 of which were exclusively by LDT. Kareta mentioned that their Target of Opportunity program has enabled detailed tracking of objects like 2024 PT5, whose orbit and motion indicate to be a rocket body or lunar ejecta.</p>
+
+<p><a href="/documents/20240917_19th_virtual/NEOFixer_IAWN_2024b.pptx">Alex Gibbs from Catalina Sky Survey (NASA) shared updates on NEOfixer</a>, which is a tool that provides customized target lists for specific telescopes to help streamline asteroid follow-up observations and provide beneficial astrometry. Gibbs mentioned that if people feed observing status updates into NEOfixer, users can coordinate and adjust priorities based on other astronomers' activities. Gibbs noted that new features to NEOfixer include the addition of near-Earth comets and a live activity table to see what users are currently doing to make it easier for the astronomical community to coordinate observations and track each other's efforts.</p>
+
+<h2>2025 Planetary Defense Conference</h2>
+<p>Brent Barbee (NASA/Goddard) noted that abstracts for the <a href="https://iaaspace.org/event/9th-iaa-planetary-defense-conference-2025/">2025 Planetary Defense Conference</a> are now open and being accepted through Nov 29.</p>
+
+<h2>Space Missions Planning Advisory Group (SMPAG)</h2>
+<p>Detlef Koschny noted that SMPAG members can be found on smpag.net. Koschny noted that SMPAG is participating in the PDC asteroid impact exercise and is providing recommendations for the kind of space missions that could be viable for the exercise.</p>
+
+<h2>International Year of Planetary Defense</h2>
+<p>Romana Kofler (UNOOSA) shared updates on the International Year of Planetary Defense and noted that a letter of partnership has been created to help formalize activities. There was also mention of the upcoming Planetary Defense Conference and that conversations are occurring to advance the various conference subgroup themes and focus areas. Kofler emphasized the importance of international collaboration on planetary defense and noted the work of the International Asteroid Warning Network (IAWN) and Space Mission Planning Advisory Group (SMPAG) in this domain. Kofler also mentioned the unique opportunity of the 2029 close approach of Apophis, and also stated that the <a href="https://www.unoosa.org/oosa/documents-and-resolutions/search.jspx?view=documents&amp;match=A/79/20">2024 Report of the Committee on the Peaceful Uses of Outer Space</a> (A/79/20) is available in official UN languages.</p>
+
+<h2>Minor Planet Center (MPC) and MPC Annex Report</h2>
+<p><a href="/documents/20240917_19th_virtual/Payne_MPC.pdf">Matt Payne provided various updates related to the MPC</a>. Payne shared an update on MPC communicates and noted there is a monthly newsletter to announce new products and services, provide advice to community, and to solicit for community feedback. Payne noted the newsletter is available on the MPC website and that interested individuals may subscribe. Payne also noted that the MPC utilizes a Jira helpdesk to solicit for community feedback, suggestions, and other MPC communications. There was mention of MPC Explorer, which is a tool to search for asteroid designations. There was also mention of the ADES Github repository, which is maintained by MPC and JPL, and noted that most data submitted to the MPC is in the ADES format and that the MPC encourages submission in ADES format moving forward. Payne also noted the MPC's efforts to anticipate the influx of data expected from LSST/Rubin and NEO Surveyor once they come online and noted that MPC is working hard to ensure that systems are ready for this expected spike in data volume. There was also mention of improved software management regarding orbit fitting and a note that the orbit fitting has been rewritten to run in fail-safe way. Payne also noted that 40% of MPC publication is done by automated processes and that the goal is to continue working to increase this automation rate.</p>
+
+<h2>IAWN Plans for an Apophis Campaign</h2>
+<p><a href="/documents/20240917_19th_virtual/IAWN_Apophis_Overview.pptx">Reddy/Thomas provided updates</a> on IAWN's plan to conduct a pre-encounter Apophis observing campaign and noted that 2027 and 2028 would be restricted to large telescopes. The focus of the campaigns would be on lightcurves and visible spectra from Apophis to learn more about its physical properties.</p>
+
+<p>Kofler noted there is a Scientific and Technical Subcommittee meeting in February of 2025 and noted that presentation of the IAWN's plan to have a dedicated Apophis observation campaign would be a good technical presentation during the meeting.</p>
+
+<h2>IAWN Comet Observing Campaign</h2>
+<p><a href="/documents/20240917_19th_virtual/Bauer_IAWNcometCampaign_final2.pptx">Bauer noted that comets</a> provide challenges for astrometry, and as such the IAWN is planning a campaign to sharpen the network's comet observations skills. Baur noted that the various major comet classifications (long-period, short-period, Jupiter family, Halley type comets, active Centaurs, main belt comets, etc) and noted that relatively low impact risk near-Earth comets pose to Earth. Baur concluded that most astrometry is poor for comets and reiterated the need for an IAWN campaign to advance comet astrometry and observations.</p>
+
+<h2>Best Practices for Comet Astrometry</h2>
+<p>Micheli/Tholen/Farnocchia shared that comets are difficult to observe and provided a few tips to help improve comet astrometry. Micheli shared that comet astrometry requires good imaging resolution, which requires good seeing to get the &quot;false nucleus&quot; of the comet. Micheli noted the difficulty of this and mentioned that for comet Borisov, the false nucleus did not match the HST nucleus.</p>
+
+<p>Tholen noted that most astrometric software is designed for streaks or point sources and noted that comets are neither. Tholen also discussed some of the possible techniques to resolve and extrapolate from large to small aperture to get the true center of the comet.</p>
+
+<p>Micheli noted that the astrometric software available does not do the technique mentioned by Tholen but that Astrometrica can be &quot;tricked&quot; to extrapolate from large to small aperture. Tholen cautioned to not let the comet tail drive shifting.</p>
+
+<h2>Walk-on topics and additional IAWN signatory updates</h2>
+<p>Detlef Koschny mentioned the need for an IAWN campaign involving modeling.</p>
+
+<p>Hari Ben Ami from ISA mentioned that a planetary defense team has been stood up, noted that two ISA experts are in IAWN, also that two experts are involved in the SMPAG exercise and in the SMPAG legal working group.</p>
+
+<p>Alexandar Serebryanskiy from Fesenkov Astrophysical Institute in Kazakhstan mentioned plans to develop 10 to 12 1.5-meter telescopes that would be remotely controlled for spectroscopy of asteroids.</p>
+
+<p>Alain Maury noted that the MAPS program started in 2021 and has discovered 200 NEOs from the southern hemisphere. There was also mention that MAPS was the first to use CMOS and Tycho Tracker.</p>
+
+<h3>Adjourn</h3>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

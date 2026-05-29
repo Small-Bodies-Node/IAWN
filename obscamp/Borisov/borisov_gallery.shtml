@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Comet 2I/Borisov Observing Campaign -- Gallery</title>
+<link rel="stylesheet" href="/obscamp/Borisov/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header">
+<h1>Comet 2I/Borisov -- Gallery</h1>
+</div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/Borisov/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+
+<h2>IMAGES</h2>
+
+<h3>Radar</h3>
+<a name="radar"></a>
+
+<div class="clear"></div>
+
+<h3>Spectra</h3>
+<a name="spectra"></a>
+
+<div class="clear"></div>
+
+
+<h2>MOVIES/ANIMATIONS</h2>
+
+
+<a name="discovery"></a>
+<h3>Borisov Discovery</h3>
+
+
+
+<h3>Orbit Animation</h3>
+
+
+
+
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/Borisov/css-n-inc/footer.inc" -->
+<p class="right">Last updated:
+<!--#config timefmt="%A %B %d, %Y"-->
+<!--#echo var="LAST_MODIFIED" -->
+</p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+
+</html>

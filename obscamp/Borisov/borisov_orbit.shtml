@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Comet 2I/Borisov Observing Campaign -- Orbit</title>
+<link rel="stylesheet" href="/obscamp/Borisov/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>Comet 2I/Borisov -- Orbit</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/Borisov/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>Orbit of Comet 2I/Borisov</h2>
+
+<p>Orbital elements listed here are taken from the <a href="https://ssd.jpl.nasa.gov/horizons.cgi#top">JPL Horizons website</a>, and represent the current best solution.  </p>
+
+<h3>Orbital Elements (Solution JPL#36)</h3>
+<table style="width:100%; border-spacing:0px;">
+
+<tr>
+<td>Epoch</td>
+<td>2458825.5 (2019-Dec-08)</td>
+</tr>
+
+<tr>
+<td>Perihelion Time (TDB)</td>
+<td>T = 2019-Dec-08 13:05</td>
+</tr>
+
+<tr>
+<td>Perihelion Time (TDB)</td>
+<td>T = 2458826.04543 </td>
+</tr>
+
+<tr>
+<td>Perihelion Distance</td>
+<td>q = 2.007 AU</td>
+</tr>
+
+<tr>
+<td>Eccentricity</td>
+<td>e = 3.357</td>
+</tr>
+
+<tr>
+<td>Inclination (J2000)</td>
+<td>i = 44.05&deg;</td>
+</tr>
+
+<tr>
+<td>Ascending Node (J2000)</td>
+<td>&Omega; = 308.15&deg;</td>
+</tr>
+
+<tr>
+<td>Argument of Perihelion (J2000)</td>
+<td>&omega; = 209.12&deg;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+</table>
+
+
+<!--
+<h3>Orbit Solution Preclude...</h3>
+<p></p>
+-->
+
+<h3>Full Orbit From Above</h3>
+<p>View of Comet 2I/Borisov's pre-encounter orbit as seen from the North ecliptic pole with the at the time of the comet's perihelion. <i>From the JPL Small-Body Database Browser.</i></p>
+<p><a href="Orbits/2I_borisov_orbit1.png" title="View of 2I/Borisov's full orbit"><img src="Orbits/2I_borisov_orbit1.png" width="80%" alt="View of 2I/Borisov's entire orbit." /></a></p>
+<br/>
+
+<h3>Orbit in Oblique View</h3>
+<p>Oblique view of the portion of Comet 2I/Borisov's orbit around perigee, viewed from 30&deg; above the ecliptic plane.</p> 
+<br /><a href="Orbits/2I_borisov_orbit2.png" title="Oblique view of Borisov's orbit"> <img src="Orbits/2I_borisov_orbit2.png" width="80%" alt="Oblique view of Borisov's orbit." /></a> 
+<br /></p>
+
+
+<h3>Orbit in Earth Co-Orbital View</h3>
+<p>The orbit of Comet 2I/Borisov around perihelion, in the Earth's co-orbital reference frame, as seen from above (top panel) and in the ecliptic plane (bottom panel). The black circle denotes the comet's position at perigee (2019-Dec-28) and the open circles show positions at 30-day intervals.
+<br /><a href="Orbits/2I_orbit_plot_corot.png" title="Orbit of 2I/Borisov in the Earth co-orbital reference frame"> <img src="Orbits/2I_orbit_plot_corot.png" width="80%" alt="Plot of Borisov's orbit in Earth-co-orbital frame."/></a>
+<br /><a href="Orbits/2I_orbit_plot_corot.pdf">PDF Version</a></p>
+
+-->
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/Borisov/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

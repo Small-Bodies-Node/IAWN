@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: CAID Geometry</title>
+<!--#include virtual="/css-n-inc/top.inc"-->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">CAID Geometry</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<h3>Heliocentric and Geocentric Distances</h3>
+<div class="image-caption-wrapper" style="width: 50%; float: left">
+<img src="/close-approaches/GEOMID_geometry/GEOMID_dist.png" style="width: 100%; max-width: 600px;" alt="Heliocentric and Geocentric Distances of CAID in the months around closest approach" class="art-lightbox" />
+<p class="caption">Heliocentric and Geocentric Distances of CAID in the months around closest approach</p>
+</div>
+<div class="cleared"></div>
+<p>&nbsp;</p>
+
+<h3>Right Ascension and Declination</h3>
+<div class="image-caption-wrapper" style="width: 50%; float: left">
+<img src="/close-approaches/GEOMID_geometry/GEOMID_RA_Dec.png" style="width: 100%; max-width: 600px;" alt="Right ascension and declination of CAID in the months around closest approach" class="art-lightbox" />
+<p class="caption">Celestial coordinates of CAID in the 6 months around closest approach to Earth. Tick marks denote intervals of 15 days, and the width of the line estimates the relative brightness during the time interval.</p>
+</div>
+<div class="cleared"></div>
+<p>&nbsp;</p>
+
+<h3>Predicted Brightness</h3>
+<div class="image-caption-wrapper" style="width: 50%; float: left">
+<img src="/close-approaches/GEOMID_geometry/GEOMID_bright.png" style="width: 100%; max-width: 600px;" alt="Predicted Brightness of CAID in the months around closest approach" class="art-lightbox" />
+<p class="caption">Predicted Brightness of CAID in the months around closest approach</p>
+</div>
+<div class="cleared"></div>
+<p>&nbsp;</p>
+
+<h3>Solar Elongation and Solar Phase Angle</h3>
+<div class="image-caption-wrapper" style="width: 50%; float: left">
+<img src="/close-approaches/GEOMID_geometry/GEOMID_ang.png" style="width: 100%; max-width: 600px;" alt="Solar Elongation and Solar Phase Angle of CAID in the months around closest approach" class="art-lightbox" />
+<p class="caption">Solar Elongation and Solar Phase Angle of CAID in the <em>months</em> around closest approach</p>
+</div>
+
+<div class="image-caption-wrapper" style="width: 50%; float: right">
+<img src="/close-approaches/GEOMID_geometry/GEOMID_ang2.png" style="width: 100%; max-width: 600px;" alt="Solar Elongation and Solar Phase Angle of CAID in the days around closest approach" class="art-lightbox" />
+<p class="caption">Solar Elongation and Solar Phase Angle of CAID in the <em>days</em> around closest approach</p>
+</div>
+<div class="cleared"></div>
+<p>&nbsp;</p>
+
+<h3>Proper Motion</h3>
+<div class="image-caption-wrapper" style="width: 50%; float: left">
+<img src="/close-approaches/GEOMID_geometry/GEOMID_rates.png" style="width: 100%; max-width: 600px;" alt="Proper motion rate of CAID in the months around closest approach" class="art-lightbox" />
+<p class="caption">Proper motion rate of CAID in the <em>months</em> around closest approach</p>
+</div>
+
+<div class="image-caption-wrapper" style="width: 50%; float: right">
+<img src="/close-approaches/GEOMID_geometry/GEOMID_rates2.png" style="width: 100%; max-width: 600px;" alt="Proper motion rate of CAID in the days around closest approach" class="art-lightbox" />
+<p class="caption">Proper motion rate of CAID in the <em>days</em> around closest approach</p>
+</div>
+<div class="cleared"></div>
+<p>&nbsp;</p>
+
+<h3>True Anomaly</h3>
+<div class="image-caption-wrapper" style="width: 50%; float: left">
+<img src="/close-approaches/GEOMID_geometry/GEOMID_trueanomt.png" style="width: 100%; max-width: 600px;" alt="Orbital true anomaly of CAID in the months around closest approach" class="art-lightbox" />
+<p class="caption">Orbital true anomaly of CAID in the months around closest approach</p>
+</div>
+<div class="cleared"></div>
+<p>&nbsp;</p>
+
+<h3>Near-Earth Trajectory</h3>
+<div class="image-caption-wrapper" style="width: 50%; float: left">
+<img src="/close-approaches/GEOMID_geometry/GEOMID_orbit_plot_lunar.png" style="width: 100%; max-width: 600px;" alt="Near-Earth trajectory of CAID" class="art-lightbox" />
+<p class="caption"> Path of CAID in the Near-Earth region, shown from above and within the ecliptic plane. The large dot denotes the point of closest approach to the Earth, with tick marks every 2 hours. The lunar orbit is also shown, with the position of the Moon at the time of closest approach.</p>
+</div>
+<div class="cleared"></div>
+<p>&nbsp;</p>
+
+<h3>Orbit of CAID</h3>
+<div class="image-caption-wrapper" style="width: 50%; float: left">
+<img src="/close-approaches/GEOMID_geometry/GEOMID_orbit_plot.png" style="width: 100%; max-width: 600px;" alt="oblique view of orbit" class="art-lightbox" />
+<p class="caption">Oblique view showing the positions of the asteroid and Earth (coinciding) on the date of closest approach. The thin lines show the projection of the asteroid's orbit projected onto the ecliptic plane, with tic marks denoting 15-day intervals.</p>
+</div>
+<p>&nbsp;</p>
+
+<div class="image-caption-wrapper" style="width: 50%; float: right">
+<img src="/close-approaches/GEOMID_geometry/GEOMID_orbit_plot_corot.png" style="width: 100%; max-width: 600px;" alt="co-rotating orbit plot" class="art-lightbox" />
+<p class="caption">View of the orbit in a reference frame co-rotating with the Earth. Circles denote positions of the asteroid at intervals of 30 days relative to perihelion (filled circle). The upper plot shows the view from above the ecliptic plane and the low plot is the view along the ecliptic plane.</p>
+</div>
+<div class="cleared"></div>
+<p>&nbsp;</p>
+
+<h4>Graphs courtesy Dr. Tony Farnham.</h4>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper"-->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc"-->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>2005&nbsp;LW3: 2022 Timing Campaign</title>
+<link rel="stylesheet" href="/obscamp/2005LW3/css-n-inc/styles.css" type="text/css" />
+<!--#include virtual="/obscamp/2005LW3/css-n-inc/analytics.inc" -->
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>2005&nbsp;LW3: Timing Assessment</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/2005LW3/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>Introduction</h2>
+
+<p>IAWN will conduct a second campaign to check the accuracy of the observation times reported by asteroid observers. The goal of the campaign is to provide an opportunity for observers to voluntarily check their timing accuracy by observing near-Earth asteroid 2005&nbsp;LW3 on November 23-24, 2022, when the asteroid will be as close as 2.97 lunar distances to Earth on November 23, 2022. The high plane-of-sky rate of motion during the encounter enables the assessment of the accuracy of the reported observation times. Astrometry obtained as part of this campaign should be submitted to the Minor Planet Center as part of the regular submission process by November 30th, 2022. Observers interested in contributing to the campaign are encouraged to sign up at the IAWN website (https://iawn.net/obscamp/2005LW3/). Pre- and post-flyby teleconferences will be organized to answer any questions and discuss the outcomes of the campaign. Other asteroids with high rates of motion could be considered as additional targets of the campaign in 2023. IAWN campaign coordinator Vishnu Reddy (vishnureddy@arizona.edu) is the point of contact for this campaign.</p>
+
+<ul>
+<li>Close approach to Earth: 2022 November 23 at 10:06 UT, distance = 2.97 LD</li>
+<li>Observations on 2022 November 23-24. Maximum rate of motion 2.4 arcsec/s</li>
+<li>Submit astrometry to the MPC by 2022 November 30 at 23:59 EST. ADES is the preferred format.</li>
+</ul>
+
+<h3>Process</h3>
+<img src="gallery/Farnocchia_2022_Fig7-r.png" width="350" class="left" alt="Fig 7 Right from paper" />
+<p>We will conduct an analysis analogous to what was done for the 2019 XS campaign (<a href="https://iopscience.iop.org/article/10.3847/PSJ/ac7224" onclick="this.target='_blank'">Farnocchia et al., 2022</a>).</p>
+
+<p class="caption"><a href="https://iopscience.iop.org/article/10.3847/PSJ/ac7224" onclick="this.target='_blank'">Figure 7.</a> Estimated mean timing error (b<sub>T</sub>) for each tracklet of observations considered in our analysis. Crosses correspond to survey data, and circles correspond to follow-up data. The dashed line corresponds to the orbital uncertainty mapped into the along-track direction in the plane of sky and converted to time using the rate of motion.</p>
+
+
+<p><br /><br /><br /><br /></p>
+<p><br /><br /><br /><br /></p>
+
+<h2>Register</h2>
+<p>By registering for this campaign you will be provided with the summary analysis for the observations you reported to the MPC.</p>
+<h3>REGISTRATION is closed for this campaign.
+<!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXrqTai8LIGaR2DeUkSKIOKCLb3TjsUZPCYMj-30vsMnS-nw/viewform"  onclick="this.target='_blank'">REGISTER</a> --></h3>
+
+<ul>
+<li>Register (by 2022 Nov 18, 23:59 UT) if you plan on observing 2005 LW3.</li>
+<li>Observe 2005 LW3 sometime over 2022 Nov 23-24.</li>
+<li>Submit your observation reports as usual to the MPC.</li>
+<li>Our team will then look at the observations submitted to the MPC and analyse.</li>
+<li>Registered campaign observers will receive a report back by the end of the year.</li>
+</ul>
+
+<h2>Tip/Hints</h2>
+<h3>Telescope Location</h3>
+<p>An error in telescope location contributes to the astrometric error and might affect the analysis of the error in the time of the observation. Therefore, participants in the 2005 LW3 campaign should confirm the accuracy of the coordinates of their observatory: <a href="https://www.minorplanetcenter.net/iau/lists/ObsCodes.html" onclick="this.target='_blank'">www.minorplanetcenter.net/iau/lists/ObsCodes.html</a>. In particular, the proper elevation to use is with respect to the WGS84 reference ellipsoid, not with respect to mean sea level.</p>
+<ol>
+<li>Here is a general information link: <a href="https://minorplanetcenter.net/iau/info/ObservatoryCodes.html" onclick="this.target='_blank'">minorplanetcenter.net/iau/info/ObservatoryCodes.html</a></li>
+<li>Here is a link to the MPC's Jira Helpdesk: <a href="https://minorplanetcenter.net/contact" onclick="this.target='_blank'">minorplanetcenter.net/contact</a>. <em>Please submit any updated coordinates via the Jira helpdesk.</em></li>
+</ol>
+
+<h3>CALIBRATING TIME</h3>
+
+<p>Observers should calibrate their time using tools such as Project Pluto's <a href="https://projectpluto.com/gps_expl.htm" onclick="this.target='_blank'">Calibrating timing of astronomical images using navigation satellites</a>.</p>
+
+<p>The most important step observers can take to address timing errors is to remove any measured bias from the calibration.</p>
+
+<p>In addition, observers should consider providing time uncertainty information, which would inform the statistical treatment of observations on the orbit determination side.</p>
+
+<p>The ADES field <em>rmsTime</em> is meant to communicate the random component of the timing error. As an example, if a GPS satellite is observed multiple times over a short time frame, the scatter of the timing error relative to the mean is a sensible way to estimate such random error.</p>
+
+<p>On the other hand, the ADES field <em>uncTime</em> is meant to presumed level of systematic error in timing. This quantity can be harder to quantify, though measuring the time bias over multiple nights and quantifying how much it changes from one night to the other can serve as a proxy.</p>
+
+<h3>TEST STACKING</h3>
+
+<p>We encourage observers to try both unstacked and stacked positions and report both to ensure that no additional time error stems from an incorrect stacking procedure.</p>
+
+<p>While stacking is unnecessary to detect 2005 LW3 during its close approach, for the purpose of verifying the correctness of the stacking procedure, observers are encouraged to report both unstacked and stacked astrometric positions.</p>
+
+<p>For instance, observers could report a tracklet with a number (e.g., 5) of unstacked positions from individual images.</p>
+
+<p>Then, they could report a second tracklet where the measured positions are obtained by stacking a few (e.g., 3) images.</p>
+
+<p>It is important that each reported position be independent of the others, e.g., the images used for the unstacked positions cannot be used for the stacks, and the different stacks cannot have any images in common.</p>
+
+<p>The stacked position needs to be properly flagged with the stack flag <strong>K</strong> upon submission.</p>
+
+<h3>Exposure time</h3>
+<p>Given the high plane-of-sky rate of motion, short exposure times can help reduce trailing errors.</p>
+
+<h3>Format &amp; Time Precision</h3>
+<p>Observers are encouraged to use ADES to report their observations to the MPC, including the estimated astrometric position and time uncertainties. All significant digits in time should be reported. Observers that use the MPC 80-column observation format should report the observation time to a precision of 0.000001 days.</p>
+
+
+
+
+<hr />
+
+<h2>IAWN 2005 LW3 Campaign Telecon Notes</h2>
+<p>Oct. 31, 2022</p>
+
+<h3>Speaker: Vishnu Reddy</h3>
+<ul>
+<li>Introduced the campaign and the plan for the next month</li>
+<li>LW3 campaign is a follow on to 2019 XS campaign we did last year that was <a href="https://iopscience.iop.org/article/10.3847/PSJ/ac7224" onclick="this.target='_blank'">published in PSJ</a></li>
+<li>Participating in last year's campaign is not a pre-requisite for participating in this year's campaign</li>
+<li>Next zoom call on Nov. 21 18:00 UTC just before the flyby on Nov. 23</li>
+</ul>
+
+<h3>Speaker: Davide</h3>
+<ul>
+<li>Presented the slides from the IAWN meeting about the LW3 campaign including observational circumstances.</li>
+<li>2019 XS campaign suggested a -0.5 second bias across the board. As a community, we should like to figure out where that is coming from and correct it.</li>
+<li>Motion of the LW3 not as fast as 2019 XS but still usable for timing reason</li>
+<li>Best to observe it when it is moving at highest rate (around time of closest approach at 10 UTC on Nov. 23rd)</li>
+<li>Calibrate your clocks before making the observations, e.g., by observing GPS satellites</li>
+<li>Object will be bright (V. Mag. 13-14) during close approach so no need to stack images.</li>
+<li>Send your observations to the MPC as usual. Taking more data (up to 10 or 20 astrometric positions) than usual is okay given the goals of the campaign. In general, 3 or 4 per night are recommended.</li>
+<li>Deadline for sending observations to the MPC is end of November</li>
+<li>V17 MPC code timing report from 2019 XS campaign was used to show what to expect for participating observatories after the 2005 LW3 campaign is over.</li>
+<!-- <li>Slides will be posted on IAWN website for review</li> -->
+<li>Use ADES if possible, otherwise use full time precision allowed by 80-column format</li>
+</ul>
+
+<h3>Speaker: Matt Payne</h3>
+<ul>
+<li>MPC will process observations as usual</li>
+<li>ADES format is strongly encouraged</li>
+<li>Do not use same subframes to create multiple stacks</li>
+</ul>
+
+<h3>Discussion</h3>
+<ul>
+<li><strong>Dave Tholen:</strong> Observe GPS satellites before and after observing target NEOs each night; Requested physical characterization for LW3 so phase functions could be constrained</li>
+<li><strong>Tim Lister:</strong> Enquired about physical characterization (spectroscopy) of the target</li>
+<li><strong>Mike Kelley:</strong> Focus will be on timing for this campaign. Any physical characterization would not hurt for scientific purposes and is left to observers but is not part of this campaign. A full on campaign is planned for next year</li>
+<li><strong>Vishnu:</strong> Next full on campaign will be a short notice one. One week notice and campaign itself might be 1-2 weeks long before 'impact.'</li>
+<li><strong>Rob Seaman:</strong> Suggested Raspberry Pi based solutions to obtain accurate timing although they are now backordered</li>
+<li><strong>Marco:</strong> Use different exposure times for observing GPS satellites</li>
+<li><strong>Bill Gray:</strong> Even if people are using GPS based time checks, it is important to do timing campaigns</li>
+<li><strong>Kelly Fast:</strong> Very pleased with the campaign participation, looking forward to the results</li>
+</ul>
+
+<h3>Useful Weblinks</h3>
+
+<p>GPS Based Timing Check:</p>
+<ul>
+<li><a href="https://www.projectpluto.com/gps_expl.htm">www.projectpluto.com/gps_expl.htm</a></li>
+<li><a href="https://birtwhistle.org.uk/MethodsCheckTiming.htm">birtwhistle.org.uk/MethodsCheckTiming.htm</a></li>
+</ul>
+<p>IAWN Campaign Webpage:</p> 
+<ul>
+<li><a href="https://iawn.net/obscamp/2005LW3/">iawn.net/obscamp/2005LW3/</a></li>
+</ul>
+
+<hr />
+<h2>Results</h2>
+
+<video width="600" height="400" controls autoplay>
+<source src="gallery/2005LW3_20221123_T214943_VReddy.mov" type="video/mp4">
+</video>
+<p class="caption">Near-Earth asteroid 2005 LW3, target of IAWN Timing Campaign, observed from MPC Code V17 on Nov. 24, 2022 UTC.
+<br />Credit: V. Reddy, MPC V17</p>
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/2005LW3/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

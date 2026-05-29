@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 6th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">6th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p>The 6th meeting of the International Asteroid Warning Network (IAWN) took place on 19 October 2018, in Knoxville, Tennessee, in conjunction with the meetings of the <a href="https://www.cosmos.esa.int/web/smpag/meeting-11-oct-2018-" onclick="this.target='_blank'">Space Mission Planning Advisory Group (SMPAG)</a> on 18 October and the meeting of the <a href="https://aas.org/meetings/dps50" onclick="this.target='_blank'">Division for Planetary Sciences</a>, 21- 26 October. The meeting was hosted by NASA, the recurrent IAWN Coordinator.</p>
+
+<ol>
+<li><strong>Convene</strong>
+<br />The meeting was convened and the IAWN concurred on the agenda items. An addition from ESA regarding a discussion of physical properties and computation of magnitudes was added to the agenda. Introductions were made in the conference room and online for those attending remotely.
+<br />As NASA's Planetary Defense Officer made welcoming remarks, a small (~3 meters in size) newly discovered asteroid, 2018 UA was discovered (and would pass within a couple Earth radii midway through the day).
+	<ol type="a">
+	<li><em>Attendance</em>
+	<br />The following agencies and institutions were represented at the meeting (AEM, CNSA, ESA, ISA, KASI, NASA, ESA, INAOE/CRECTEALC). Observers for IAA, IAU and UNOOSA participated at the meeting. Experts from the Czech Republic also participated as observers. The meeting was also attended by technical experts from Jet Propulsion Laboratory's (JPL's) CNEOs project, the US State Department, the University of Maryland (UMD), the Massachusetts Institute of Technology (MIT), Palmer Divide Observatory, University of Arizona, the Lunar Planetary Institute, and the University of Hawaii.</li>
+	
+	<li><em>Meeting announcement</em>
+	<br />ESA's <a href="https://neo-sst-conference.sdo.esoc.esa.int/page/welcome" onclick="this.target='_blank'">Conference on NEOs and Orbital Debris</a>, 22-24 January 2019, at ESOC, Darmstadt, Germany.
+	<br />(deadline for abstracts was 1 October)</li>
+	</ol></li>
+
+<li><strong>Status Reports from Members</strong>
+	<ol type="a">
+	<li><em>ESA Status</em>: Detlef Koschny et al. (ESA) <a href="/documents/201810_6th_Knoxville/6th_IAWN_ESA.pdf">provided a review of observations and telescopes</a> including:
+		<ul>
+		<li>0.56-m test-bed telescope is being installed on LaSilla, Chile; </li>
+		<li>1.2-m flyeye telescope that will go to Sicily, Mt Mufara. (The camera has a 45 square degree field-of-view (FOV). Follow up observations would be from a 1-m telescope on Tenerife, (Canary Islands, Spain), and </li>
+		<li>a space-based camera is also being planned for Earth-facing monitoring of meteors.</li>
+		</ul>
+	<br />NEODyS orbit determination software is currently in the process of being re-located to the ESA Space Research Institute (ESRIN) in Frascati, Italy.
+	<br />Detlef also shared details of ESA's NEO close-approach fact sheets (based upon the SMPAG/IAWN Action Item 5.1 (Threshold Criteria).</li>
+
+	<li><em>Korea Astronomy and Space Science Institute (KASI) Report (verbal)</em>: KASI participated in the IAWN observing campaign of 2012 TC4. Current analysis of observational data is underway to product high resolution shape models. The first phase of KASI NEO observation projects has ended; however, a three-year observation phase for IAWN-related projects has been approved.</li>
+
+	<li><em>Chinese National Space Administration (CNSA) Report (verbal)</em>: Given by Hai Jiang (Space Debris Observation and Data Application Center, CNSA). Membership of CNSA into SMPAG and IAWN was approved at the January 2018 meeting. China's NEO telescope in Xuyi discovered two asteroids of particular interest: 2018 DH1, a PHA, and 2018 RR2, a Centaur object. China's NEO telescope in Jilin already has observation capabilities and can conduct NEO observations.</li>
+
+	<li><em>ZTF Status</em>: Tom Prince, the principal investigator (PI) for the Zwicky Transient Facility (ZTF) also shared a status report on the ZTF. Although not funded by NASA's PDCO, the ZTF is a new member of IAWN. The 1.2-m telescope on Mt. Palomar surveys 3500 square degrees per hour of observing time. The NEO work uses existing pointing cedances for other surveys and extracts the NEO detections from those observations. Image differencing and moving object detection pipelines are both in place and report observations of NEOs and other moving objects to the MPC. ZTF has reported several NEO discoveries. ZTF detects NEOs on a rate of about 1 per night for objects &lt;15m in size.</li>
+
+	<li> <em>Israel Space Agency (ISA)</em>: Hary Ben-Ami reported that ISA is working on the right formats to connect the Wise Observatory to IAWN. [Wise Observatory is operated by Tel Aviv University and located in southern Israel in the Negev Desert, ~5 km west of the town of Mitzpe Ramon.]</li>
+
+	<li><em>PDCO Status</em>: NASA's <a href="/documents/201810_6th_Knoxville/6th_IAWN_NASA.pptx">Planetary Defense Coordination Office (PDCO)</a> shared its status with IAWN members. A summary of NASA NEO survey activities was provided, including contributions from NEOWISE, Catalina Sky Survey (CSS), Pan-STARRS, ATLAS, and LINEAR/SST (which has been re-located and is now being reassembled in western Australia). Various updates and status of PDCO missions (i.e., NEOWISE, DART [currently in Phase C], and NEOCam [continuing development as an instrument]) and several other efforts were also presented. NASA's current IAWN status presentation has been posted.</li>
+
+	<li><em>Small Bodies Node Report</em>: The NASA Planetary Data System's Small Bodies Node (SBN) representatives gave overviews of the ongoing activities at SBN, current work on MPC-SBN integration, development and migration of the IAWN website and observational support activities:
+	<ul>
+	<li>The <a href="/documents/201810_6th_Knoxville/6th_IAWN_InformationFlow.pptx">flow of information</a> was traced by the SBN PI James (Gerbs) Bauer (UMD) from observers, through the data ingest and analysis entities like the Minor Planet Center (MPC), the NEO Confirmation Page, JPL's Center for NEO Studies (CNEOS), and ESA's NEO Coordination Centre (NEOCC) located at ESRIN, to IAWN and the community. Their respective roles in orienting information and decision making was also summarized, as was the main role that the IAWN website plays in orienting entities, verification of information, and notifying the community of NEO close approaches. Planned future efforts include developing landing pages for objects of interest containing information about physical properties such as diameters and rotation rates, and providing links to CNEOS and other information.
+	<br />A brief discussion followed regarding posting information about all NEOs working in conjunction with CNEOS. The SBN-IAWN content manager supported the idea, as the main goal is to make more information available on Close Approach objects, in particular physical properties. CNEOS mentioned they have a different Close Approach (CA) page, which lists all CAs, accumulates and sorts them with date and orbital information.</li>
+
+		<li>Meeting Resumed with an update on the close-approaching NEO -- Paul Chodas (JPL) led a discussion about the NEO 2018 UA (<em>which received its designation from the MPC during the course of the meeting</em>) which would come within 2-3 earth radii to the earth's center, within the orbit of geosynchronous satellites. CNEOs presented an animated view of the object's' trajectory. Observations were made at approximately 04:00 UTC from CSS. Three observations were made and the animation shows the object flew close. The size of the object was estimated to be about 3 meters. Close approach time was UTC 14.46 (about 9:28am US EDT). Following the presentation, a discussion at a later date was proposed regarding size limits and their impact on threshold requirements.</li>
+
+		<li>IAWN website: The IAWN webmaster Elizabeth Warner (UMD) gave a <a href="/documents/201810_6th_Knoxville/6th_IAWN_website_tour.pptx">tour of the new IAWN website</a> hosted at the University of Maryland (UMD). The new website gives automated updates for the most recent, and imminent close approach (CA) events, for newly designated objects. The CA table, auto-generates plots when an object is added to CA list. The homepage, iawn.net, also hosts informative content for the community. The goal is to host verified content explaining NEO populations and observing programs. IAWN participants were encouraged to provide information regarding any news, updates, feedback, and information on assets. Such information should be submitted to the SBN IAWN manager or webmaster, and would be used in feature articles posted on the website. Q and A followed: A no-logo approach is desired for the website, and the website is scalable for cell phone viewing.</li>
+
+		<li>Observing Campaign website: The SBN observing campaign coordinator Tony Farnham (UMD) gave an overview of the observing campaign website, which provides information that might be useful for observing and characterizing the properties of PHOs. The site is intended to be a collection of data, that will help the community in the planning and execution of their programs. Content includes the current brightness and status of the object, known physical properties, orbital information, and observation plans submitted by observers. In 2017, the 2012 TC4 observing campaign was used to test and simulate the process that would be used in the case of a newly discovered object. A second test case is desired to further improve the process, especially for items that should be automated for rapid turnaround. Suggestions on content and presentation are welcome.
+		<br />An overview was also presented regarding observing campaigns, and the next steps on object giving information such as to whether or not it is hazardous, its size, compositional knowledge (if known), impact details, and so on.
+		<br />Vishnu Reddy (University of Arizona) led the 2012 TC4 observing campaign. As with prior and ongoing comet observation campaigns, the SBN page was also used to test and simulate progress with the campaign page passing along information to the community.
+		<br />Tony Farnham and Elizabeth Warner pointed out that the observing campaign page is still in a testing process to know what is important in NEOs. The intent is to serve (and demonstrate) that this is a single point of information that is collected and utilize the inputs to maintain an observation log from community/members working on it such as: plans, observations, reference pages, instruments used, goals of observations, who is doing what.</li>
+
+		<li><em>Discussions/Q&amp;A: 
+		<br />Vishnu: what is the turnover time for observations to be posted/ made available? Is there any staff to update 24/7? Or as soon as available? 
+		<br />Tony: TC4 has a daily update. 2 to 3 times a day. If something is critical, we can have an alert system for someone to make changes and knows to automate things and if things can be automated. [Verify] 
+		<br />Vishnu: Are we doing anything to co-ordinate or just update?
+		<br />Tony: Presently, Update. We will have future workshops or telecons. 
+		<br />[The discussion centered around lessons learned from similar campaigns that Vishnu was involved with in the past. These could have benefited from centralized data processing and collection. Data which goes to a central environment could undergo similar tests to verify the data quality.]
+		<br />Tony: If things are critical to update, we can have an alerting system to update. Like IAWN, we can do similar things with campaign.
+		<br />Paul Chodas (CNEOs, JPL): Future: automation is key, schedule is usually compressed, and quick approximating few days.</em></li>
+		</ul></li>
+	
+	<li><em>UNISPACE+50 Outbrief</em>
+	<br />Romana Kofler, OOSA representative, shared an <a href="/documents/201810_6th_Knoxville/6th_IAWN_UNISPACE+50.pptx">outbrief</a> that highlighted that links to both SMPAG and IAWN are prominent on the <a href="http://www.unoosa.org/oosa/en/ourwork/topics/neos/index.html" onclick="this.target='_blank'">UNOOSA NEO page</a>, noting that awareness of both is increasing. Since the last meeting, a proposal to rename &quot;STSC&quot; to &quot;NEO and Planetary Defence&quot; was unsuccessful (use of the word &quot;defence&quot; invoked other possibilities and interpretations). An <strong><em>Acta Astronautica</em></strong> article <a href="https://doi.org/10.1016/j.actaastro.2018.07.023" onclick="this.target='_blank'">International Coordination on Planetary Defence: the work of the IAWN and SMPAG</a> was produced earlier in the year describing SMPAG and IAWN activities by UNOOSA and collaborators. There was also discussion of information flow between IAWN -- UNOOSA -- Member States and working with UN SPIDER for some of the information dissemination. Both the NASA PDS SBN (the IAWN website hosting entity) and UNOOSA representatives agreed to coordinate communication interfaces subsequent to the meeting.</li>
+	
+	<li><em>MIAPP Workshop Report</em>
+	<br />Detlef Koschny (ESA) shared details from the <a href="http://www.munich-iapp.de/programmes-topical-workshops/2018/near-earth-objects-properties-detection-resources-impacts-and-defending-earth/" onclick="this.target='_blank'">Munich Institute for Astro- and Particle Physics (MIAPP) NEO workshop</a> that was held over a ~four-week period in Bavaria, Germany this past summer. Organized to have discussions on a variety of asteroid and NEO topics which included a few formal presentations. Some of the topics discussed at the workshop included: communicating science, asteroid mining, international collaboration in case of a possible threat, and work of IAWN and SMPAG. The Workshop will creat a white paper targeted for November release summarizing the activities.</li>
+	
+	<li><em>Minor Planet Center (MPC) Status</em>
+		<ul>
+		<li>Matt Holman (MPC director) provided a <a href="/documents/201810_6th_Knoxville/6th_IAWN_MPC.pdf">detailed update on the status of the MPC</a>, now operating as a subnode of the SBN. He reviewed the current personnel structure, roles, and responsibilities. Initiatives include preparing for large data volumes expected from upcoming surveys, moving towards the ADES format and other software improvements, updating from VMS to Linux machines and some services possibly getting moved into the cloud, and training staff to remove single point failures. MPC Checker and Heliocentric linking should help with reducing number of objects on NEO confirmation page (NEOCP) so that follow-up observers can focus on NEOs and not faint main belt objects. 
+		<br />[Note: Next MPC Users Group (MUG) meeting will be at the University of Maryland in December.]</li>
+
+		<li><a href="/documents/201810_6th_Knoxville/6th_IAWN_metrics.pptx">MPC Metrics</a>: A meeting between the SBN and the MPC earlier in the year came up with a list of items to track to better understand time NEOs are on the NEOCP until getting numbered. The IAWN content manger, Tim Spahr (NEO Sciences) presented. Several graphics were shown, but the early conclusion is there are not enough assets doing follow up particularly on fainter objects from surveys, whereas surveys regularly catch brighter targets often. Moving forward, the goal of the metrics are to serve to guide the MPC toward a larger number of cataloged objects to and reduce the time objects spend on the NEOCP, ultimately reducing the number of NEOCP candidates to follow up. The metrics also serve to demonstrate to the community and public the considerable volume and throughput of the MPC's processing tasks.</li>
+		</ul></li>
+
+	<li><em>JPL's Center for NEO Studies (CNEOS) Status</em>: Paul Chodas, CNEOS Director, <a href="/documents/201810_6th_Knoxville/6th_IAWN_CNEOS.pptx">Center for NEO Studies (CNEOS) Status</a> gave a tour of its website (https://cneos.jpl.nasa.gov), highlighting general information and the various tools available. He provided quick tutorials on using some of the tools as well as the available APIs for incorporating some of the database into other websites were also discussed. The director also provided an overview on a new small body mission design tool for asteroid-focused observations. Finally, the CNEOS dIrector also provided an overview of the initial data for the upcoming 2019 PDC impact scenario. Future work, including implementation of ADES processing into the CNEOS pipeline, was also discussed.</li>
+	
+	<li><a href="/documents/201810_6th_Knoxville/6th_IAWN_CSS.pdf">Catalina Sky Survey Update</a>: Eric Christensen (University of Arizona) shared a quick overview of the Catalina Sky Survey (CSS) telescopes and recently completed detector upgrades was provided. Also further discussion involved the development of NEOfixer, a routine that recommends follow up targets for an observer based on a variety of criteria. CSS introduced future projects, including a proposal to relocate the 2-m MAGNUM telescope that was at Haleakala Observatory, Hawaii to Mt Lemmon, Arizona and recommission it to develop a turn key observatory.
+	<br />Efforts toward developing a Neofixer that recommends target, most valuable observation at a given time. Process involves scoring neo's based on importance,orbit,cost to observe, community interaction [more discussion here]</li>
+	
+	<li><a href="/documents/201810_6th_Knoxville/6th_IAWN_Pan-STARRS.pdf">Pan-STARRS Update</a>: Robert Weryk (University of Hawaii/IfA) provided an update on the twin 1.8-m Pan-STARRS telescopes Pan-STARRS observatories are 90% funded for NEO surveys. A DPS presentation will discuss the first known insterstellar small body, ?Oumuamua (1I/2017 U1); discovered by Pan-STARRS. Currently, Pan-STARRS is working on an internal website for determining an optimizing to follow up targets. Observing statistics show that they are currently down due, owing to weather and hardware issues on PS1. PS2 is still in commissioning with a press release planned when it is completed. Some discussion was also provided concerning PS missing tracklets caused by incomplete chains of detections from gaps in the detector arrays.</li>
+	
+	<li><a href="/documents/201810_6th_Knoxville/6th_IAWN_ATLAS.pptx">ATLAS Status</a>: Operations of ATLAS are funded through 2020. Larrey Denneau from the University of Hawaii presented an update of ATLAS operations. A Robotic automatic pipeline for calibration and moving object detection is emplaced. 2018 LA was observed by ATLAS prior to impact (but was not reported until after the impact event). Over 200 NEO discoveries have been attributed to ATLAS, which covers the sky every 2 nights of observation. ATLAS is undertaking simulation efforts to improve the survey and assess performance. Telescopes are planned for Sutherland, South Africa and Chilean sites. This will allow for the potential of 24 hour coverage of the sky.</li>
+	
+	<li><a href="/documents/201810_6th_Knoxville/6th_IAWN_2018LA.pptx">Review of 2018 LA Observations and Impact</a>: Davide Farnocchia (JPL) presented an overview of the 2018 LA impact. With only 7 observations in 1.5 hours, 2014 AA exemplified the necessity for systematic ranging techniques for NEO close-approaches. Scout is based on systematic ranging and successfully predicted the impact of 2018 LA. Based on the first 11 CSS observations, Scout predicted a possible impact and location, with a 30% probability, which was first confirmed by the America Meteoritical Society. The ATLAS observations (see ATLAS update) collapsed the impact corridor to agree with the reported observations of the meteor. There were 8.5 hours between discovery and the impact of 2018 LA over Botswana. Future improvements may include reducing the delay between CSS and NEOCP posting and between the ATLAS observations and submissions.</li>
+	
+	<li><em>NEOWISE and NEOCam Project Status</em>: Amy Mainzer (JPL) shared latest details of NEOWISE and NEOCam. The NEOWISE mission is scheduled to end ~31 December 2018, but operations may be extended beyond that date. Due to orbital precession, NEOWISE will cease to function (due to either sunlight entering the aperture or the slowly increasing temperatures pushing the camera temperatures beyond operating tolerances). NEOWISE data products are released on a regular schedule.
+	<br />NEOCam continues onward as an instrument and about to proceed with instrument definition reviews through Phase B. NEOCam is a dual channel imager, 50 cm telescope with two 16-mega-pixel HgCdTe focal plane detectors with bandpasses at 4-5.6 microns and 6-10 microns. Prototyping of NEOCam science data popline components is underway.</li>
+	</ol></li>
+
+<li><strong>Other Reports/Discussions</strong>
+	<ol type="a">
+	<li>Discussion: <a href="/documents/201810_6th_Knoxville/6th_IAWN_discussion_phys_prop.pdf">What kind of information should we use for physical properties information in our asteroid databases?</a>
+	<br />Subsequent comments and discussion led to the conclusion, it was proposed that it was necessary to produce a white paper outlining the desired physical properties and basis for their selection. NEO databases should include updated information from NEOWISE that would apply the derived albedos or assumptions of albedo based on the statistical distribution from the data from such surveys. For example, the NEOWISE data determined mean NEO albedos to be in the range of 17% rather than the more commonly used 12%. It was important to capture in the work the interplay between photometric parameters, including the phase curve and absolute magnitude parameter constant distributions (the IAU-defined h and g parameters, for example) for NEOs. These relationships won't change the IAWN thresholds, but the recent size and albedo information should feed into and inform the current thresholds. A longer discussion is proposed for the next IAWN gathering.</li>
+	
+	<li><a href="/documents/201810_6th_Knoxville/6th_IAWN_RadarChar.pptx">RADAR Characterization of NEAs</a>
+	<br />Marina Brozovic (JPL) presented a status update on planetary radar to include both Goldstone and Arecibo results. A summary of the current state of operations, repairs, proposed upgrades and spare components was presented. Statistics for observations, insights into NEA shapes and history of observations were discussed. Future efforts include a schedule for upcoming RADAR target observations (https://echo.jpl.nasa.gov ), which yield highly valuable and uniquely detailed information on physical parameters of NEOs, as well as direct measurements of orbit-related distances.</li>
+	
+	<li><a href="/documents/201810_6th_Knoxville/6th_IAWN_TC4-and-future.pptx">Future Observing Campaign Candidates</a> (for IAWN)
+	<br />Vishnu Reddy (University of Arizona) led the discussion of possible candidates and forms of future IAWN observing campaigns. The group discussion centered on whether the next campaign would observe binary NEA or something more akin to the 2012 TC4 close approach. If a binary NEA is decided upon, perhaps the close approaches of 1999 KW4 (in 2019) or 2004 FG11 (in 2020) may provide a precursory step to prepare for DART's impact to Didymos' moonlet in 2022.
+	<br />A final decision was not agreed upon. Both binary candidates (ala Didymos observations for DART) or non-numbered NEAs (ala 2012 TC4-like campaign) are included in Reddy's presentation.</li>
+	
+	<li><a href="/documents/201810_6th_Knoxville/6th_IAWN_SMPAG_5.6_Oct2017_RevC.pptx">SMPAG Action Item 5.6</a> (Communication Guidelines (in the event of a credible threat per IAWN)
+	<br />SMPAG/IAWN Action Item 5.1 discusses threshold criteria that qualifies as a threat. Action Item 5.6 is to provide guidelines as to how an asteroid hazard (or threat) is to be communicated (and agreed upon within IAWN) before official communications go forward to SMPAG and UNOOSA (in turn, UNOOSA informs appropriate entities and member states of the credible threat).
+	<br />The key contents of that notification should include:
+		<ul>
+		<li>Asteroid designation </li>
+		<li>Basic facts (i.e., discovery information, size estimation, composition)</li>
+		<li>Impact location</li>
+		</ul>
+	<br />During the course of this discussion Tim Spahr, Linda Billings and Rob Landis agreed to have more mature materials ready for the next IAWN in winter 2019 and utilized for the next PDC exercise this spring.</li>
+	</ol></li>
+
+</ol>
+
+
+
+
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

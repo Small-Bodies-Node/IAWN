@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>2024&nbsp;YR4: </title>
+<link rel="stylesheet" href="/obscamp/2024YR4/css-n-inc/styles.css" type="text/css" />
+<!--#include virtual="/obscamp/2024YR4/css-n-inc/analytics.inc" -->
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>International Asteroid Warning Network</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/2024YR4/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>2024&nbsp;YR4</h2>
+
+<p>March 5, 2026: The probability of asteroid 2024 YR4 impacting the Moon on Dec. 22, 2032 has dropped to zero as determined by NASA and ESA using astrometry from JWST acquired in February 2026.</p>
+<ul>
+<li>NASA announcement: <a href="https://science.nasa.gov/blogs/planetary-defense/2026/03/05/new-nasa-asteroid-observations-eliminate-chance-of-2032-lunar-impact/" onclick="this.target='_blank'">New NASA Asteroid Observations Eliminate Chance of 2032 Lunar Impact</a></li>
+<li>ESA announcement: <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_2024_YR4_will_not_impact_the_Moon" onclick="this.target='_blank'">Asteroid 2024 YR4 will not impact the Moon</a></li>
+</ul>
+
+<p>2024 YR4 is an asteroid that in late January 2025 rose above the IAWN notification threshold of 1% probability for a future impact with Earth on 22 December 2032 and later dropped (late February 2025) well below the notification threshold.</p>
+
+<ul>
+<!-- <li>2024 YR4 presently has an <a href="https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4">impact probability of 0.01 (about a 99% likelihood it will miss the Earth) and a Torino Scale rating of 1</a>.</li> -->
+
+<li>The asteroid was <a href="https://www.minorplanetcenter.net/mpec/K24/K24YE0.html">first observed by the ATLAS Chile site</a> (MPC Code W68) on 27 December 2024, with precovery images extending back to 25 December 2024.</li>
+
+<li>Observations by the world wide network of observers can be found on the <a href="https://minorplanetcenter.net/db_search/show_object?utf8=%E2%9C%93&object_id=2024+YR4">MPC 2024 YR4 page</a>.</li>
+
+<li>The <a href="https://cneos.jpl.nasa.gov/glossary/h.html">absolute magnitude</a> value is <a href="https://minorplanetcenter.net/db_search/show_object?utf8=%E2%9C%93&object_id=2024+YR4">approximately 24</a>. Its size is estimated to be in the 40-90 meter range.</li>
+
+<li>The asteroid's spectra has been observed, and is consistent with possibly an S or L spectral type (J. de L&egrave;on, on the GTC, and N. Moskovitz, on the LDT).</li>
+
+<li>VLT data (M. Devogele) and La Silla 1.54 meter data (P. Pravec) indicate a rotational period near 19.5 minutes. The VLT observers have also obtained phase curve coverage from 5 to 35 degrees.</li>
+
+<li>JWST obtained measurements of 2024 YR4 on 26 March 2025. Modeling of the spectral energy distribution indicates an estimated diameter of 60 &plusmn; 7 m. The JWST observing team produced a <a href="gallery/YR4_memo_final_27mar25.pdf">report for IAWN</a>.</li>
+</ul>
+
+<!-- <p>Additional information concerning 2024 YR4 can be obtained through the <a href="https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4">CNEOS (2024 YR4)</a>, <a href="https://neo.ssa.esa.int/-/latest-cafs">NEOCC</a>, and <a href="https://newton.spacedys.com/neodys/index.php?pc=1.1.0&n=2024YR4">SpaceDys</a> websites, as can more general information regarding NEOs and PHAs.</p> -->
+
+<h3>Orbit Modeling Centers -- Object Pages</h3>
+<ul>
+<li><a href="https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4">NASA JPL CNEOS</a></li>
+<li><a href="https://neo.ssa.esa.int/search-for-asteroids?tab=possimp&des=2024YR4">ESA NEOCC</a></li>
+<li><a href="https://newton.spacedys.com/neodys/index.php?">NEODyS-2</a></li>
+</ul>
+
+<h2>IAWN Notifications</h2>
+<ul>
+<li>2025.02.24: <a href="/documents/NOTIFICATIONS/2024-YR4_IAWN_Final-Notification_20250224.pdf">Final Notification: 2024 YR4</a> -- No Significant Potential for Future Impact with Earth</li>
+<li>2025.01.29: <a href="/documents/NOTIFICATIONS/2024-YR4_IAWN_Potential-Impact-Notification_20250129.pdf">Notification of Potential Impactor: Asteroid 2024 YR4</a></li>
+</ul>
+
+<h3>Other Documents</h3>
+<ul>
+<li><a href="https://www.minorplanetcenter.net/mpec/K24/K24YE0.html">MPC MPEC</a></li>
+<li><a href="https://neo.ssa.esa.int/-/latest-cafs">ESA Close Approach Fact Sheet (CAFS)</a></li>
+<li><a href="https://minorplanetcenter.net/mpcops/documentation/negative-observations/">Protocol for Negative Observations of Virtual Impactors on MPC Documents Page</a></li>
+<li>Discussion and presentations from the open session of <a href="/meetings/20-steering-cmte.shtml">20th Meeting of the IAWN Steering Committee</a>, 4 Feb 2025</li>
+</ul>
+
+<h3>Impact Probablity Evolution</h3>
+<!-- 2025.02.28 -->
+<p class="center"><img src="gallery/2024YR4_IP_and_models.png" width="600" alt="shows how the impact probability evolved compared to models" /></p>
+<p class="caption">This plot shows how the impact probability evolved compared to models.
+<br>Credit: NASA/JPL/CNEOS/Chesley</p>
+
+<h3>Observability Plots</h3>
+
+<p class="center">
+<a href="gallery/2024yr4_ephem_2000_2030.png"><img src="gallery/2024yr4_ephem_2000_2030.png" width="330" alt="30-yr (2000-2030) ephemeris of 2024 YR4" /></a>
+&nbsp;&nbsp;
+<a href="gallery/2024yr4_ephem_2024_2030.png"><img src="gallery/2024yr4_ephem_2024_2030.png" width="330" alt="6-yr (2024-2030) ephemeris of 2024 YR4" /></a></p>
+<p class="caption">LEFT: 30-yr (2000-2030) Ephemeris of 2024 YR4 and RIGHT: 2024-2030 Ephemeris of 2024 YR4
+<br>Courtesy NASA/JPL-Caltech/CNEOS</p>
+
+
+<h3>2024 YR4 Imagery</h3>
+<video controls="controls" width="500" name="CSS 2024 YR4">
+ <source src="gallery/2024YR4_CSS_20250106.mov">
+</video>
+<p class="caption">Looped animation of 4 images taken by Catalina Sky Survey of 2024&nbsp;YR4 on the night of 6 January 2025 UT.
+<br>Courtesy NASA/Catalina Sky Survey/Seaman et al (DOI 10.26033/80fq-dn90)</p>
+
+
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/2024YR4/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>NEA (66391) 1999&nbsp;KW4 Observing Campaign -- Gallery</title>
+<link rel="stylesheet" href="/obscamp/1999KW4/css-n-inc/styles.css" type="text/css" />
+
+
+<style>
+.model { 
+  animation: spin 10s linear infinite;
+ }
+
+ @keyframes spin {
+   to {
+     transform: rotateY(1turn)
+   }
+ }
+</style>
+
+
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>NEA (66391) 1999&nbsp;KW4 -- Gallery</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/1999KW4/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+
+
+
+
+
+<h2>SHAPE MODEL</h2>
+<ul>
+<li>Primary: <a href="/obscamp/1999KW4/gallery/kw4a.cmod">cmod</a>, <a href="/obscamp/1999KW4/gallery/kw4a.obj">obj</a>, <a href="/obscamp/1999KW4/gallery/kw4a.wrl">wrl</a></li>
+<li>Secondary: <a href="/obscamp/1999KW4/gallery/kw4b.cmod">cmod</a>, <a href="/obscamp/1999KW4/gallery/kw4b.obj">obj</a>, <a href="/obscamp/1999KW4/gallery/kw4b.wrl">wrl</a></li>
+</ul>
+
+
+
+
+
+  <x-model class="model" src="/obscamp/1999KW4/gallery/kw4a.obj"></x-model>
+  <p>If everything worked OK, there should be a rotating 3D model above.</p>
+
+<script src="/obscamp/1999KW4/css-n-inc/assets-js/custom-element-polyfill.min.js" type="text/javascript"></script>
+<script src="/obscamp/1999KW4/css-n-inc/assets-js/three.min.js" type="text/javascript"></script>
+<script src="/obscamp/1999KW4/css-n-inc/assets-js/three-gltf-loader.min.js" type="text/javascript"></script>
+<script src="/obscamp/1999KW4/css-n-inc/assets-js/model-element.min.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/1999KW4/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>
