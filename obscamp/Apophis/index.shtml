@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html data-bs-theme="light" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>99942 Apophis Observing Campaigns</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="/obscamp/Apophis/css-n-inc/styles.css">
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>99942 Apophis Observing Campaigns</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/Apophis/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<div class="container">
+<h2>Introduction</h2>
+
+<p>Welcome to the website for the Apophis Observing Campaigns. Near-Earth asteroid (NEA) 99942 Apophis is interesting because it will make an exceptionally close approach of the Earth in 2029 at a geocentric distance of 38,000 km making it the closest known flyby by a large NEA. Our intention is to provide a central clearinghouse for basic information about Apophis and about the observations that will be obtained during its upcoming 2027-28 and 2029 apparitions</p>
+
+<p><a href="http://iawn.net/index.shtml">International Asteroid Warning Network (IAWN)</a> conducts campaigns to test the operational readiness of the global coalition of observers, modelers, and decision makers to tackle a potential NEO impact hazard. In preparation for the 2029 close approach of Apophis, the IAWN is planning a two-phased campaign: a pre-encounter large-aperture and spacecraft phase in 2027 and 2028 that will be focused on NEO science, and a 2029 close approach phase focused on planetary defense with citizen science participants.</p>
+
+<p>Due to Apophis' relatively faint visual magnitude and short observing windows, the 2027 and 2028 opportunities will concentrate on refining its rotation state and gathering additional visible spectra. The IAWN will coordinate the large ground-based telescopes and space telescopes observing efforts. Observers will self-organize but will be advocated by the IAWN when they apply for telescope time. Scientific results from these efforts will be published independently by respective PIs with coordination from the IAWN. The 2029 close approach will be the primary focus for more direct IAWN efforts. Some of the campaign themes we are exploring include: a traditional IAWN campaign treating Apophis as a newly-discovered NEA, which would be similar to our 2021 Apophis campaign; enabling participation of small telescopes (&lt;1 meter aperture) that is aligned with the proposed International Year of Planetary Defense; better coordination with Planetary Defense Conference exercise if there is one planned around Apophis in 2029 and integrating results from spacecraft rendezvous missions planned at or near the Apophis closest approach.</p>
+
+<p>This site will contain background information about Asteroid 99942 Apophis, a list of observations that are planned/scheduled/obtained for the apparitions in 2027, 2028, and 2029, and <a href="apophis_status.shtml">status reports</a> on the events leading up to the encounter. We have an email exploder for disseminating updates to subscribers. Experienced observers may contact Campaign Lead <a href="mailto:reddy@lpl.arizona.edu">Dr. Vishnu Reddy</a> to subscribe. Campaign communications to the broader IAWN community will begin a a few months prior to the campaign observing window.</p>
+
+<!-- <p>Welcome to the website for the 99942 Apophis Observing Campaigns. Our intention is to provide a central clearinghouse for basic information about the near Earth asteroid Asteroid 99942 Apophis and about the observations that will be obtained during its upcoming 2021 apparition. Although the 2021 apparition is not very close to the Earth, Apophis is of particular interest because in 2029, it will approach to within ~40,000 km.</p>
+<p>These campaigns are organized by the <a href="http://iawn.net/index.shtml">International Asteroid Warning Network (IAWN)</a> to exercise the observing resources and characterization capabilities that may be applied to a near-Earth object on a reasonably short timescale. The 2021 Apophis campaign was the third such campaign to be organized by IAWN, the first being organized for the <a href="http://2012tc4.astro.umd.edu/">2012 TC4 close approach</a> in October of 2017.</p>
+<p>This site will contain background information about Asteroid 99942 Apophis, a list of observations that are planned/scheduled/obtained for the apparitions in 2021, 2027, 2028, and 2029, and <a href="apophis_status.shtml">status reports</a> on the events leading up to the encounter. We have an email exploder for disseminating updates to subscribers. Experienced observers may contact Campaign Lead <a href="mailto:reddy@lpl.arizona.edu">Dr. Vishnu Reddy</a> to subscribe.</p> -->
+
+</div>
+
+<div class="container">
+<div>
+<ul class="nav nav-tabs" role="tablist">
+<li class="nav-item" role="presentation"><a class="nav-link" role="tab" data-bs-toggle="tab" href="#tab-1">2021</a></li>
+<li class="nav-item" role="presentation"><a class="nav-link active" role="tab" data-bs-toggle="tab" href="#tab-2">2027</a></li>
+<!-- <li class="nav-item" role="presentation"><a class="nav-link" role="tab" data-bs-toggle="tab" href="#tab-3">2028</a></li> -->
+<!-- <li class="nav-item" role="presentation"><a class="nav-link" role="tab" data-bs-toggle="tab" href="#tab-4">2029</a></li> -->
+</ul>
+<div class="tab-content">
+<div class="tab-pane" role="tabpanel" id="tab-1">
+<h2>2021 News</h2>
+	<ul>
+	<li>REMINDER: Deadline Jan 31, the <a href="https://iaaspace.org/event/7th-iaa-planetary-defense-conference-2021/">Planetary Defense Conference abstracts due!</a> The PDC will include a session on <strong>Characterization Opportunities from NEO Close Approaches</strong>.</li>
+	<li>21 Jan 2021: The campaign exercise, to observe Apophis as a "new" object to test the followup and calculation activities is going well with participants meeting every other week via telecon.</li>
+	<li>17 Jan 2021: Dave Balam provided <a href="apophis_gallery.shtml">2 orbit stacks</a> taken with the Canadian NEOSSat.</li>
+	<li>7 Jan 2021: David Polishook submitted an <a href="apophis_gallery.shtml">animation</a> from Wise Observatory.</li>
+	</ul>
+	
+<h2>Summary of the 2021 Apparition</h2>
+<h3>Asteroid 99942 Apophis is a near-Earth asteroid</h3>
+<h3>Brightness</h3>
+<p>Current estimates suggest it should peak around mag 16.2 at closest approach.</p>
+	<ul>
+	<li>Closest approach to the Earth occurs on 2021 Mar 06 1:06 UT
+		<ul>
+		<li>Speed with respect to Earth is 4.658 km/sec</li>
+		</ul></li>
+	<li>Geocentric Distance (current best value - JPL#199)
+		<ul>
+		<li>0.1126 au</li>
+		<li>43.8 Lunar distances</li>
+		<li>1.685 &times; 10<sup>7</sup> km</li>
+		</ul></li>
+	</ul>
+<h3>Observing conditions (for observations at visible wavelengths)</h3>
+<p>The 2021 apparition is not particularly close to the Earth, so conditions do not change dramatically around close approach. The viewing geometry is such that it is visible from mid-latitudes (both North and South) for several months around close approach.</p>
+</div>
+
+<div class="tab-pane active" role="tabpanel" id="tab-2">
+<h2>2027 News</h2>
+<ul>
+<li>Apophis will approach Earth in late 2027, and with an apparent peak magnitude of ~19.1 mV, will be best viewed through larger aperture telescopes.</li>
+</ul>
+
+<h2>Summary of the 2027 Apparition</h2>
+<h3>Brightness</h3>
+<p>Current estimates suggest .....</p>
+	<ul>
+	<li>Closest approach to the Earth occurs on 2027-Dec-29 14:2 UT.
+		<ul>
+		<li>Speed with respect to Earth is ??? km/sec</li>
+		</ul></li>
+	<li>Geocentric Distance (current best value - JPL#???)
+		<ul>
+		<li>0.29361 au</li>
+		<li>114 Lunar distances</li>
+		<li>4.3 &times; 10<sup>6</sup> km</li>
+		</ul></li>
+	</ul>
+<h3>Observing conditions (for observations at visible wavelengths)</h3>
+<p>The 2027 apparition ......</p>
+</div>
+
+<!-- <div class="tab-pane" role="tabpanel" id="tab-3">
+<h2>2028 News</h2>
+	<ul>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	</ul>
+
+<h2>Summary of the 2028 Apparition</h2>
+<h3>Brightness</h3>
+<p>Current estimates suggest .....</p>
+	<ul>
+	<li>Closest approach to the Earth occurs on ...
+		<ul>
+		<li>Speed with respect to Earth is ??? km/sec</li>
+		</ul></li>
+	<li>Geocentric Distance (current best value - JPL#???)
+		<ul>
+		<li>0.??? au</li>
+		<li>??? Lunar distances</li>
+		<li>??? &times; 10<sup>7</sup> km</li>
+		</ul></li>
+	</ul>
+	
+<h3>Observing conditions (for observations at visible wavelengths)</h3>
+<p>The 2028 apparition ......</p>
+</div> -->
+
+<!-- <div class="tab-pane" role="tabpanel" id="tab-4">
+<h2>2029 News</h2>
+	<ul>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	</ul>
+
+<h2>Summary of the 2029 Apparition</h2>
+<h3>Brightness</h3>
+<p>Current estimates suggest .....</p>
+	<ul>
+	<li>Closest approach to the Earth occurs on ...
+		<ul>
+		<li>Speed with respect to Earth is ??? km/sec</li>
+		</ul></li>
+	<li>Geocentric Distance (current best value - JPL#???) 
+		<ul>
+		<li>0.??? au</li>
+		<li>??? Lunar distances</li>
+		<li>???<sup>7</sup> km</li>
+		</ul></li>
+	</ul>
+	
+<h3>Observing conditions (for observations at visible wavelengths)</h3>
+<p>The 2029 apparition ......</p>
+</div> -->
+
+</div>
+</div>
+</div>
+
+<div class="container">
+<h2>History</h2>
+<h3>Discovery</h3>
+<p></p>
+</div>
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/Apophis/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>2005&nbsp;LW3: 2022 Timing Campaign -- Contact page</title>
+<link rel="stylesheet" href="/obscamp/2005LW3/css-n-inc/styles.css" type="text/css" />
+<!--#include virtual="/obscamp/2005LW3/css-n-inc/analytics.inc" -->
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>2005&nbsp;LW3 Timing Campaign-- Contact Us</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/2005LW3/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>Contact Us</h2>
+
+<p>If you have questions or comments about this site, the asteroid in general, please feel free to contact us.</p>
+<br />
+<br />
+<form name="contactform" method="post" action="/obscamp/2005LW3/css-n-inc/send_form_email.php">
+<table style="width:85%; border-spacing:0px;">
+<tr>
+<td valign="top"><label for="first_name">First Name *</label></td>
+<td valign="top"><input type="text" name="first_name" maxlength="50" size="30" /></td>
+</tr>
+
+<tr>
+<td valign="top"><label for="last_name">Last Name *</label></td>
+<td valign="top"><input type="text" name="last_name" maxlength="50" size="30" /></td>
+</tr>
+
+<tr>
+<td valign="top"><label for="email">Email Address *</label></td>
+<td valign="top"><input type="text" name="email" maxlength="80" size="30" /></td>
+</tr>
+
+<tr>
+<td valign="top"><label for="subject">Subject</label></td>
+<td valign="top"><input type="text" name="subject" maxlength="30" size="30" /></td>
+</tr>
+
+<tr>
+<td valign="top"><label for="comments">Comments *</label></td>
+<td valign="top"><textarea name="comments" maxlength="1000" cols="60" rows="6"></textarea></td>
+</tr>
+
+<tr>
+<td colspan="2" style="text-align:center"><input type="submit" value="Submit" /></a></td>
+</tr>
+</table>
+</form>
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/2005LW3/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

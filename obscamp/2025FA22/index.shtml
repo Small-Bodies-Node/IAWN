@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>2025&nbsp;FA22 IAWN Campaign</title>
+<link rel="stylesheet" href="/obscamp/2025FA22/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>2025&nbsp;FA22 IAWN Campaign</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/2025FA22/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>Introduction</h2>
+
+<p>2025 FA22 will make a close approach on September 18, 2025, UTC at a distance of 2 lunar distances. This close approach  prsents a perfect opportunity for an IAWN campaign.</p>
+
+<p>The goal of the 2025 FA22 campaign is to exercise our capability to collect position and physical characterization data on this former virtual impactor. For the purpose of the exercise, we will treat this object as a current virtual impactor with a Torino Scale &gt;= 1 with a hypothetical impact on September 19, 2089.</p>
+
+<p>The campaign will start with the optical 'recovery' around September 17, 2025, when the object is between 40-60 deg. Solar elongation. The orbital improvement from recovery data is meant to facilitate rapid characterization of the target.</p>
+
+
+<h3>2025 FA22 Campaign Team &amp; Working Group Leads</h3>
+<ul>
+<li><strong>NASA HQ POC:</strong> Dr. Kelly Fast</li>
+<li><strong>IAWN Campaign Coordinator:</strong> Dr. Vishnu Reddy (University of Arizona)</li>
+<li><strong>Astrometry WG Lead:</strong> Dr. Davide Farnocchia (JPL CNEOS)</li>
+<li><strong>Photometry WG Lead:</strong> Dr. Adam Battle (University of Arizona)</li>
+<li><strong>Spectroscopy WG Lead:</strong> Dr. Cristina Thomas (Northern Arizona University)</li>
+<li><strong>Radar WG Lead:</strong> Dr. Shantanu Naidu (JPL CNEOS)</li>
+<li><strong>Polarimetry WG Lead:</strong> Dr. Maxime Devogele (ESA NEOCC)</li>
+<li><strong>Hazard Modeling:</strong> Dr. Jessie Dotson (NASA Ames)</li>
+<li><strong>IAWN Campaign Communications:</strong>  Elizabeth Warner</li>
+</ul>
+
+<h3>2025 FA22 Campaign -- Important Dates</h3>
+<ul>
+<li><em>Campaign Kick Off Telecon:</em> Aug. 22, 2025, 15:00 UTC</li>
+<li><em>Second Telecon:</em> September 15, 2025, 15:00 UTC (for Q&amp;A, optional)</li>
+<li><strong class="red">Campaign Start:</strong> September 16, 2025</li>
+<li><em>Mid-Campaign Check-in Telecon:</em> October 14, 2025, 15:00 UTC</li>
+<li><strong class="red">Campaign End:</strong> October 30, 2025</li>
+<li><em>Close-out Telecon:</em> November 6, 2025, 15:00 UTC</li>
+</ul>
+
+<h3>Working Group Guidelines</h3>
+<p>Clicking on these files will open them in the browser (good to take a look first). To download files, right-click-save-link-as.</p>
+<ul>
+<li>Photometry -- Adam Battle
+	<ul>
+	<li><a href="gallery/IAWN-Photometry-Guidelines-2025-update.pdf">IAWN-Photometry-Guidelines-2025-update.pdf</a> (updated 15 Sep 2025 after Q&amp;A discussion)</li>
+	<li><a href="gallery/20250929UTC_ADES-Example_2025FA22_0004_Sr.psv">20250929UTC_ADES-Example_2025FA22_0004_Sr.psv</a> (revised 23 Sept, AB)</li>
+	<li><a href="gallery/20250929UTC_Min-Requirement-Example_2025FA22_0004_Sr.txt">20250929UTC_Min-Requirement-Example_2025FA22_0004_Sr.txt</a> (revised 23 Sept, AB)</li>
+	</ul></li>
+
+
+</ul>
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/2025FA22/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

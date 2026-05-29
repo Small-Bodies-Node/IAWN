@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 15th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">15th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p><strong>The 15th IAWN Steering Committee Meeting - </strong>
+<br /><strong>Virtual</strong>
+<br />17-18 Oct 2022 -- <a href="/documents/20221018_15th_virtual/15th_IAWN_Mtg_Summary.pdf">Meeting Notes</a></p>
+
+<dl>
+<dt>IAWN Steering Committee members in attendance:</dt>
+<dd>Sergio Camacho (INAOE)
+<br />Paul Chodas (JPL/CNEOS)
+<br />Lindley Johnson (NASA HQ/PDCO)
+<br />Detlef Koschny (ESA/PDO)
+<br />Patrick Michel (CNRS/OCA)
+<br />Boris Shustov (Russian Academy of Sciences)
+<br />Gonzalo Tancredi (International Astronomical Union)
+<br />Giovanni Valsecchi (INAF/NEODyS)
+</dd>
+
+<dt>IAWN permanent observers in attendance:</dt>
+<dd>Detlef Koschny (ESA/SMPAG chair)
+<br />Romana Kofler (UNOOSA)</dd>
+
+<dt>IAWN.net in attendance:</dt>
+<dd>James Bauer, Elizabeth Warner (Univ. Maryland, NASA PDS SBN)
+<br />Vishnu Reddy (Univ. Arizona/Univ. Maryland, NASA PDS SBN)
+<br />Tim Spahr (NEO Sciences, LLC/Univ. Maryland, NASA PDS SBN)
+</dd>
+
+<dt>IAWN Coordinating Officer:</dt>
+<dd>Kelly Fast (NASA HQ/PDCO)</dd>
+
+<dt>IAWN others attendees:</dt>
+<dd>204 Italy - Luca Buzzi
+<br />Agenzia Spaziale Italiana (ASI) - Ettore Perozzi, Angelo Zinzi
+<br />Chinese Academy of Sciences /PMO - Zhao Haibin, Bin Li
+<br />CNSA China - Yao Zhang
+<br />Dominion Astrophysical Observatory Canada - David Balam
+<br />ESA/PDO - Richard Moissl
+<br />European Southern Observatory - Andrew Williams
+<br />Northolt Branch Observatory, UK - Guy Wells
+<br />Golden Ears Observatory Canada - Balaji Kumar
+<br />Great Shefford/K95 UK - Peter Birtwhistle
+<br />Instituto de Astrofisica de Canarias - Javier A. Licandro Goldaracena
+<br />Israel Space Agency - Harel Ben-Ami
+<br />ISRO India - Krunal Joshi, Bikram Pradhan, Bulbul Mukherjee
+<br />KASI Korea - Hong-Kyu Moon
+<br />Keldysh Institute, Russia - Artem Mokhnatkin
+<br />National Astronomical Observatories, Chinese Academy of Sciences, China - Jiang Hai, Cheng Haowen
+<br />NASA - Tyler Linder (ARI); Chengxing Zhai (JPL/654); Davide Farnocchia (JPL/CNEOS); Eric Christensen (Univ. Arizona/Catalina Sky Survey); Melissa Brucker, Robert McMillan (Univ. Arizona/Spacewatch); Linda Billings, Doris Daou, Alyse Beauchemin (NASA HQ/PDCO); Krista Mangiardi (NASA/OIIR)
+<br />NOAK Observatory/L02, Greece - Nick Sioulas
+<br />Romanian Academy, Institutul Astronomic - Mirel Birlan
+<br />SONEAR/Y00 Brazil - Cristovao Jacques
+<br />Sormano Observatory/587 Italy - Francesco Manca
+<br />Squirrel Valley Observatory/W34 U.S. - Randy Flynn
+</dd>
+</dl>
+
+
+<p><strong>Kelly Fast</strong> (NASA/PDCO) welcomed the participants and led introductions around the virtual room. She mentioned that representatives from the Indian Space Agency (ISRO) were observing the meeting.</p>
+
+<p><strong>Lindley Johnson</strong> (NASA/PDCO) gave an update on the DART mission which impacted Dimorphos on Sept 26, 2022. He noted the classic rubble pile nature of Dimorphos, and that it was a challenging mission because it was not visible until less than 1 hour before impact. Post impact shows a double tail like a comet. The orbital period of Dimorphos about Didymos was reduced by 32 minutes +/-2 minutes. Observatories around the world participated in observations during and after the impact, including the Hubble and James Webb space telescopes.</p>
+
+<p><strong>Ettore Perozzi</strong> (ASI) reported on LICIACube, which successfully obtained 668 images as planned and its closest distance was 57.87 km from Dimorphos. The LEIA camera's off-nominal focus problem was improved, and the Luke camera was nominal. The flyby images gave an indication of the shape and features on Didymos and the shape of Dimorphos. Raw and calibrated FITS files will have attached PDS4 XML labels. ASI is collecting images faster than expected.</p>
+
+<p>During the question period, <strong>Vishnu Reddy</strong> (NASA/UA) asked how many years would be needed for deflection if an asteroid like Dimorphos were on impact trajectory. Johnson noted that this was a test to see if the spacecraft performed according to expectations. And asteroid in heliocentric orbit and the size of Dimorphos would need a few decades for deflection with a spacecraft the size of DART, but DART was a test and was not a kinetic impactor (KI) sized to change the orbit of an asteroid in heliocentric orbit. The timescale would be shorter if the KI mass was larger. It is very scenario-dependent: asteroid size, orbit, composition, and deflection technique contribute. A heavier KI (without disrupting) or series of KIs could be used. It is a viable technique but a lot of analysis remains to be done. Spahr asked if ejecta onto the primary asteroid could change the orbital period, and whether the reflectivity altered. Johnson noted that the DART investigation team is looking at that.</p>
+
+<p><strong>Paul Chodas</strong> (NASA/JPL/CNEOS) noted that, as he reported at Division for Planetary Sciences Meeting, a larger spacecraft would be needed to deflect an asteroid off the Earth but disruption is a significant issue. He asked Johnson to say something about radar, a significant contributor, especially early on. Johnson noted that no one knew if the deflection would be observable by radar, so the mission had been based on optical-only techniques. But radar gave good results quickly and confirmed an orbit change within a day after the impact. It was a valuable second source of confirmation of the orbit change. Reddy asked whether the answer is to find asteroids early and Chodas said yes. Reddy asked if LICIACube is going to fly by anything else. Angelo Zinzi said they are studying whether it is possible and feasible to have another encounter. The mission nominally lasts 6 months after the impact, but it is not likely to find something else to visit because of the delta-v possible with LICIACube; there is no known asteroid reachable in the next few years.</p>
+
+<p><strong>Kelly Fast</strong> (NASA/PDCO) gave an update on the other Planetary Defense Coordination Office activities at NASA besides DART, which included an overview of NEO survey and follow-up assets, the first PHA discovered with TESS, the 2022 EB5 impactor, the U.S. National Near-Earth Object Preparedness Strategy and Action Plan, and NEO survey status including 140 meters and larger. A key milestone was that the NEO Surveyor space-based infrared telescope has passed Preliminary Design Review in September 2022.</p>
+
+<p><strong>Detlef Koschny</strong> (ESA/PDO) gave an updated for ESA's Planetary Defense Office, noting that Richard Moissl is now the head and he supports. The office is tasked by European Commission with activities funded by it. He mentioned an upcoming workshop on imminent impactors, triggered by 2022 EB5, and invited participation. He noted that there is internal discussion on the definition of a close approach. The ESA Ministerial will be in Nov 2022, which determines funding. There is a study ongoing about a telescope array rather than dedicated telescopes, with no surprise results thus far. It was reported that Flyeye has all 16 cameras installed and the factory acceptance test has concluded with some performance issues, especially at the edge of the field-of-view. Negative observations of 2021 RF12 using the VLT were made, where it was pointed at location of the virtual impactor and nothing was found. There was a discussion last year with JPL and others on how to deal with such objects, such as independent peer review. David Tholen (U. Hawaii) recovered the object afterward, so it is known for sure now that the object does not pose an impact thread, but this protocol will continue to be exercised in the future. ESA is looking at a space-based infrared telescope that would focus on the imminent impactors, and there is funding for a phase 0/A study. An internal study for an Apophis mission has concluded, will be addressed in the SMPAG meeting. A final review is approaching for a tool to look at effects of impacts for emergency response agencies. Koschny discussed a document to teach people what an asteroid threat really means - the &quot;hitchhikers guide to the asteroid impact threat.&quot; ESA has regular coordination meetings with the Minor Planet Center. New tools have been developed: orbit and flyby visualizers, and planning tools, at <a href="https://neotools.ssa.esa.int/">neotools.ssa.esa.int</a>.</p>
+
+<p><strong>Francesco Manca</strong> (Sormano) presented on identification of asteroids and comets and the methods and results at Sormano Astronomical Observatory IAU code 587. Their database is based on MPC published objects and updated monthly. Tools include IdaW for comparing orbital elements, and Mappa2W to plot the motions and angles and look for linkages with other objects. They hope that these tools can be useful to linkages for NEAs or other objects without orbital elements such as NEOWISE or for other objects with orbital elements of low accuracy.</p>
+
+<p><strong>Harel ben Ami</strong> (Israel Space Agency) reported observations following the DART impact at Wise and also using data from IRTF and Swift.</p>
+
+<p><strong>Hong-Kyu Moon</strong> (KASI) reported observing the DART impact a member of the DART investigation team. Images were taken from Wise in Israel showing the progress of the ejecta, and observations continue using facilities in Korea and abroad.</p>
+
+<p><strong>Luca Buzzi</strong> (204) led a discussion on image stacking practices for astronomy. Large telescope surveys make asteroid discoveries with single images and 45 or 60 second exposures. To follow up, smaller telescopes need to stack images just to see the asteroid. Amateur astronomers do not have pristine skies and they have small to medium telescopes, commercial CCDs, and a lot of passion. Buzzi is near lights in northern Italy. In a 60 second exposure he can reach 19-19.5 so stacking is a must just to reach fainter magnitudes. But there is a correct way to do stacking in his opinion; the correct procedure is to get 3 stacks for the Minor Planet Center and to never use the same images for multiple stacks. He sees good residuals with 15 minutes for each stack. But he sees in many MPECs something strange and not correct in his opinion, with moving stacks incorporating the same images. He showed in an example MPEC that from one stack to another there was only 4 seconds separation in time, so the position was almost the same and the same images would have been used in multiple stacks. He calls it the ethics of astronomy, that every stack must be independent. If one image has something wrong in it, like a cosmic ray hit, then every stack that uses the image will have it. Buzzi does not think that follow-up is a race, and all should do the best with what they have. Robert McMillan (U. Arizona/Spacewatch) asked if he is filtering out light pollution and Buzzi said no since he would have to expose longer. <strong>Davide Farnocchia</strong> (NASA/JPL/CNEOS) supported what was said about not using the same image in multiple stacks. He noted that orbit determination assumes independent observations, and that he would de-weight stations that use the same images in multiple stacks. <strong>Farnocchia</strong> thought that stations should submit a single stack to MPC if that's all they have in order to keep independent observations, and Buzzi thought that MPC should take stacks of single positions. It is tricky to understand from the MPEC if a station is doing correct work because the timing and the condition of the telescope would also need to be noted. Reddy asks Buzzi of the aperture, and it can go to magnitude 21.5 in 60 minutes. Peter Birtwhistle (Great Shefford) asked if stacking information could be put into ADES.</p>
+
+<p><strong>Eric Christensen</strong> (NASA/U. Arizona/Catalina Sky Survey) reported that NEOFixer is now publicly available, with a stable public release and a beta version in the background. It is a target brokering service for NEO observers. The purpose is to improve the NEO orbit catalog, guided by planetary defense principles concerning large objects, close objects, and orbit improvement. Its reference is what is happening now, and it provides a list of priority-sorted target to consider. It is important to eliminate objects that do not need observations, and there is also a coordination aspect. It looks at all catalogued NEOs, the NEOCP, and the potential comet page. If an observer registers they will receive customized targets for their capabilities, instrumentation, position on the globe, etc. Priorities are dynamic and change as new information comes in. As the cost to observe an object changes (airmass, Moon, etc), NEOFixer will reprioritize objects. When new astrometry is published, then NEOFixer will pick up new objects. The primary source is astrometry from MPC databases. It looks at external lists (Scout, Sentry, NHATS, radar, Yarkovsky). Orbits, ephemerides, and uncertainties are independently calculated from Find_Orb from Bill Gray. NEOFixer looks at 5 independent quantities: importance and confidence per object and the cost, benefit, and urgency of each observation. Longstanding issues are coordination and communication to avoid duplicating efforts or leaving objects behind. Observers with an account can receive information but also tell NEO Fixer what they are going to observe or that an observation has been reported, and that information will go into the "interest" weighting. Increased interest will decrease the priority, but that is still a work in progress since they do not want to deprioritize objects too soon. Messages can be sent through the website or an API can be used to get info to and from NEOFixer. Everything is done in the open to see who else is planning to observe or who has observed. NEOFixer has been operating for several months, with ~100 user accounts, 75 unique telescope sites (MPC codes, usually a single telescopes), and a variety of systems from small to large telescopes; 0.2m to 8m. More sites are welcome. NEOFixer was designed for the Catalina Sky Survey to better schedule their follow-up but they realized that it would be a better full-time global coordination tool. NEOFixer can predict sky-plane uncertainty and predict benefit of observing, but it can also be backward-looking by taking any tracklet reported to MPC and coming up with a number for how much that tracklet benefitted the orbit. It is iterative; starting with the first tracklet, generate sky uncertainty at the time of the observation and immediately after, and determine how it benefited the orbit. Benefit can be weighted by NEOFixer's object importance which assigns a value (how large and close). Some observations don't contribute much benefit. Some observations, especially the night after discovery, can have the most benefit. Precovery observations are also beneficial. Long arc extensions are beneficial. Once there is an aggregate benefit, then targeted follow up produces the most benefit. The hope is that NEOFixer will steer observers from less beneficial observations to more beneficial ones. See <a href="https://neofixer.arizona.edu/">neofixer.arizona.edu/</a> There is a FAQ and a contact form for questions and comments.</p>
+
+<p><strong>Davide Farnocchia</strong> (NASA/JPL/CNEOS) presented an update on IAWN Observing Campaigns. Past campaigns included: 2017-Recovery, tracking and physical characterization of 2012 TC4; 2019-Physical characterization of binary (66391) Moshup; 2020-2021-Discovery exercise, follow-up, characterization of (99942) Apophis; 2021-Timing campaign of 2019 XS. The next campaign is a timing campaign of 20005 LW3 in order to measure progress compared to last year. There was good participation in the previous timing campaign with 957 observations from 71 stations. Timing is a factor in astrometric measurements; it can introduce errors that affect orbit determination downstream. Reported times were biased earlier, so there is a need to assess and fix the bias. All observers received individual reports. More than half were reported using ADES which had useful information, and its broad adoption is encouraged. The organizers tried to identify timing errors (shutter delays, timetags, etc), and assess whether the uncertainties reported by observers matched the actual errors. Marco Micheli came up with a recipe for credible error bars. The 2005 LW3 close approach will 0.0007 AU on 2022 Nov. 23. It is not as close of a MOID, being an order of magnitude further. The object is coming from the daytime sky so it will be observable after the encounter with Earth. Proper motion will be 2.5"/sec, so not as fast as 2019 XS which was 4"/s, but there will still be useful information on timing errors. The goal is to have a second iteration on assessing timing accuracy, an to quantify the improvement in reported times and estimated uncertainties. The goal is to move the bias from +0.4 sec to just noise around zero.</p>
+
+<p><strong>Doris Daou</strong> (NASA/PDCO) shared about successful international year discussions at Europlanet. There was good conversation with European and Moroccan colleagues. Daou can provide emails so IAWN members to reach out to interested parties in their own countries for focused efforts, and she asked for suggestions. The next step is to get the member states to sign the proposal for the international year. Romana Kofler (UNOOSA) added that it is important to build context and to engage scientific societies, the IAU, and ESA. The working group has a good text proposal that takes into account the guidelines for UN-designated international years. But a member states will have to sponsor such a proposal. It is important to engage more organizations to make it easier to sponsor by member states as the funding of such a year is brought into discussion. The year targeted will be 2029 because of the approach of Apophis. There is interest in ESO involvement because of the International Year of Astronomy. Reddy asks whether the year is approved. Kofler answered no, and said that the working group is informal, but it has good composition, and a proposal must be sponsored by member states.</p>
+
+<p><strong>Reddy</strong> notes IAWN members from different countries and it would be good to have a one-pager on IYPD and who they could contact in their own country. Sergio Camacho (INAOE) added that 15-20 members states are needed to support, and they should be distributed regionally through all 5 regions of the UN. If no one has reservations then the S&TSC chairperson can approve, then COPUOS can approve, then the General Assembly can approve, then there is the mandate. It must be shown that there no cost to the UN. The next meeting 16-17 February 2023 in person, representation of IAWN will present, so that will be a good step in addition to the regular reporting.</p>
+
+<p><strong>Detlef Koschny</strong> (ESA) presented a Space Mission Planning Advisory Group (SMPAG) update. 
+<br />SMPAG and IAWN were created after a conference in 1999 where Action Team 14 was created and tasked to look at the asteroid threat. From 2008-2013 was the definition phase at meetings twice a year. IAWN includes the observers, orbit predictors, etc. SMPAG includes the space-faring nations and offices. Current criteria and thresholds for notifications were presented from this document at <a href="https://www.cosmos.esa.int/web/smpag/">smpag.net/</a> SMPAG currently has 18 member delegations, 7 observers, 1 ex-officio (IAWN), a few applicants in the pipeline. SMPAG is conduction a hypothetical asteroid impact scenario, prepared by Italian Space Agency ASI, with three sprints. The first one is done and responses are being collected, with reporting at the SMPAG meeting to follow. SMPAG is looking at the next steps and at later involving IAWN. Reddy asked how IAWN interfaces with SMPAG and suggested that IAWN and SMPAG come together for a campaign for the international year. The thresholds were discussed. Chengxing Zhai (NASA/JPL/654)) asked about size versus magnitude in the thresholds. Tim Spahr noted that one cannot use average albedo because of peaks in the distribution of from NEOWISE data. So that is why both diameter and H magnitude are noted in the thresholds.</p>
+
+<p><strong>Matthew Payne</strong> (MPC) gave an update on the <a href="https://minorplanetcenter.net/">Minor Planet Center (minorplanetcenter.net/)</a> He presented the organization chart showing about a dozen staff, including a new software developer. The flow for submitted observations was shown, including receipt and validation, and the split of known, undesignated NEOs and undesignated other objects, which are redirected across processing queues (undesignated objects to the NEOCP or to isolated tracklet file, designated objects to updates). Orbit evaluations are performed and published. There were over 50 million observations submitted to date during 2022, with 360M in the data archive. The vast majority are main belt asteroids and a few hundred thousand are known NEOs or NEOCP objects. The Jira Helpdesk is the way that the community should interact with the MPC as it really helps to organize and answer questions as a team rather than through emails to individual team members. Software development continues, and a database transition is underway from MariaDB to PostgressDB. The entire observation table is in the PostgressDB and updated on a live basis. The goal is to add an updated orbit table and to move away from the fixed character line to a full JSON format with uncertainties, non-gravitational parameters, etc. Future development is to prepare for the large surveys and to provide other services.</p>
+
+<p><strong>James &quot;Gerbs&quot; Bauer</strong> (Univ. Maryland, NASA PDS SBN) presented on the <a href="https://sbnmpc.astro.umd.edu/">MPC Annex (sbnmpc.astro.umd.edu/)</a> which serves the database to the community and distributes other requested products out to the community. There is a large effort to distribute the observation table, which is being reviewed by the users group. It is available to anyone on request, but a smaller copy of the database without the observation table and with the NEOCP and orbit tables is also available. There are a number of different tools to support the database and show its health, observations totals that are plotted according to the database, and then the familiar by-year and by-observatory-code totals previously compiled. An MPEC watch utility has been developed for use by observatories and for others, as well as tables with observatory-specific breakdowns. Future work includes adding program codes, customizing date ranges, and looking at API development for most tools.</p>
+
+<p>It was noted in answer to a question that NEODyS does indeed have the latest data. <strong>Zhai</strong> asked about sending negative detections. <strong>Payne</strong> noted that there are mailing lists to communicate among observers, but that the MPC does not have a formal means for negative observations. <strong>Farnocchia</strong> went through previous cases of formalizing negative observations between CNEOS and ESA, but noted that an object could still be there if the observations do not go faint enough. There is no standardized process other than finding the object and reporting it to rule out the virtual impactors. Single submissions were discussed. <strong>Payne</strong> clarified that if people are doing good work and can only do a single observation, then they should send it in. They should not artificially split, or re-use subsets.</p>
+
+<p><strong>Andy Williams</strong> (ESO) gave a Dark &amp; Quiet Skies update. Wide-field facilities are quite affected, far more than narrow field facilities, by the growing satellite constellations. ESO has a fiber-fed spectroscopic telescope with a 4-degree field-of-view and 2-5% of all fibers will be affected, which will not be known until data analysis. A solution is to set up a field monitoring camera and retrospectively determine the affected fibers. Not only ground-based telescopes are affected. The Hubble Space Telescope (HST) is already seeing between 1-3% of images affected depending on exposure and instrument. If one assumes 60,000 satellites in the future then the affect exposures will go up to 20%. The SpaceX proposal to raise HST to its original orbit above Starlinks could help. Last year, there was a working paper at the UNCOPUOS Scientific and Technical Subcommittee meeting. There is discussion for ways to address as an agenda item. There are new challenges, such as SpaceMobile's BlueWalker 3 satellite at 64 square meters which will be very reflective. The purpose is to beam to cell phone directly, not to a ground station, so they have applied to use a terrestrial frequency which is different from what the radioastronomy community has had to deal with previously. There is a slow erosion of radio-quiet zones for astronomy. SpaceX is also getting in on transmitting direct to cell phone and they are changing the design of Starlinks to much larger phased array antennas. Starship could launch Starlinks with very large solar panels. With 30,000 in orbit, 5% would be visible at any one time. The IAU Centre for the Protection of the Dark and Quiet Sky from Satellite constellation Interference, or the IAU CPS, is led by the IAU and hosted by NOIRlab and SKAO at <a href="https://cps.iau.org/">cps.iau.org/</a>. The CPS is organized into four hubs that handle astronomy resources, policy, public engagement, and industry/technology. Some agencies have agreements with industries to share information but CPS wants to go broader to have a sustainable pat forward.</p>
+
+<p><strong>Spahr</strong> asked about governments and policies versus just publishing TLEs. CPS has started discussion with those providers. There are often commercial sensitivities. Reddy noted challenges with measuring bright objects at fast speeds, and that technical guidance helpful, but also publishing in the peer-reviewed literature. For Starlinks, the TLEs are precise enough to plan around. But since BlueWalker3 will be in the negative magnitudes, having a hundred will be a larger problem. Williams also noted that second generation Starlinks will be larger and that SpaceX has worked on a dielectric coating tested in the lab, which could help reduce reflection.</p>
+
+<p><strong>Fast</strong> closed the meeting. The next IAWN meeting will be February 7, 2023 in Vienna, Austria on the margins of the UNCOPUOS Scientific and Technical Subcommittee meeting.</p>
+
+
+
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

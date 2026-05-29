@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 8th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">8th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p><strong>The 8th IAWN Steering Committee Meeting</strong>
+<br /><strong>University of Maryland, College Park, Maryland, United States</strong>
+<br />27 April 2019 - <a href="/documents/20190427_8th_CollegePark/8th_IAWN_Mtg_Notes_final_RevA.pdf">Meeting Notes</a></p>
+
+<p>The 8th IAWN meeting opened with a review of the agenda. There were no dissenting opinions nor additions and the agenda was adopted.</p>
+
+<div class="image-caption-wrapper" style="width: 60%; float: right">
+<img src="/gallery/mtg_pics/8th_group.png" style="width: 100%; max-width: 800px;" alt="IAWN attendees sitting at tables having a discussion." class="art-lightbox" />
+<p class="caption">8th IAWN Steering Committee Meeting at the University of Maryland, College Park, Maryland on 27 April 2019.</p>
+</div>
+
+<p>Attendees included:</p>
+<ul>
+<li>Linda Billings (NASA)</li>
+<li>Rosa Jesse (ESA)</li>
+<li>Kelly Fast (NASA)</li>
+<li>Lindley Johnson (NASA) *</li>
+<li>Alex Karl (IAF)</li>
+<li>Rudi Albrecht (ASF)</li>
+<li>Patrick Taylor (LPI)</li>
+<li>Rob Weryk (Univ Hawaii)</li>
+<li>Marco Micheli (ESA)</li>
+<li>Shmish Ravan (OOSA)</li>
+<li>Don Yeomans (NASA)</li>
+<li>Gonzalo Tancredi (IAU)</li>
+<li>Romana Kofler (OOSA)</li>
+<li>Detlef Koschny (ESA) *</li>
+<li>R&uuml;dinger Jehn (ESA)</li>
+<li>Tony Farnham (U of Md.)</li>
+<li>Gerbs Bauer (U of Md.) *</li>
+<li>Nancy Wolfson (IAF)</li>
+<li>Amy Mainzer (JPL)</li>
+<li>Jeffrey Larsen (USNA)</li>
+<li>Tim Spahr (NEO Sci.)</li>
+<li>Rob Landis (NASA)</li>
+<li>Gerhard Drolshagen (Oldenburg) *</li>
+<li>Giovanni Valsecchi (INAF/IAU - tied in remotely) *</li>
+</ul>
+<p>*IAWN Steering Committee members</p>
+
+<p>As this was deemed a working meeting informal oral updates from NASA and ESA were provided as to the current status(es) of respective surveys and follow-up assets. [Note: the next IAWN gathering in September in Garching, Germany will be for the full day and a more formal status of various facilities is anticipated.]</p>
+
+<p>Tim Spahr put forth David Balam, a research astronomer with University of Victoria, as a possible signatory to IAWN. Balam has access to the 1.82-meter Plaskett Telescope (National Research Council - Canada; located on Observatory Hill in Saanich, British Columbia) with which he conducts an optical transient survey.</p>
+
+<h2>IAWN Update</h2>
+
+<p>Tim shared a general update on IAWN, noting there are now 15 signatories. Statements are available on the website. He reminded attendees that IAWN is inclusive, including Peter Birtwhistle, an amateur in Great Britain who utilizes his own 0.5-m telescope to aid in astrometric follow-up.</p>
+
+<p>Notable events</p>
+<ul>
+<li>Bering Sea impact - various media outlets reported and hinted that NASA hid the bolide information</li>
+<li>1999 KW4 campaign (also discussed later)</li>
+<li>SMPAG 5.6 and striving towards more formal communications standards (primary focus of this IAWN working meeting). Communication standards are a challenge due to nuances and cultural differences across languages.</li>
+<li>There is more press interest/awareness in/of IAWN. A Japanese journalist asked about whether there is anyone in Japan in IAWN. Landis commented that Makoto Yoshikawa (JAXA) has been to many IAWN meetings; however, he is busy with Hayabusa2 ongoing critical operations since arrival at Ryugu. Yoshikawa is the point-of-contact to the Bisei Survey and National Astronomical Observatories of Japan (NAOJ). All entities have been gently reminded of the opportunity to join the IAWN. The 1999 KW4 observing campaign may very well will bring in signatories. (In fact, originally KASI had indicated that they would not be able to participate in the KW4 effort due to high-priority exoplanet science, but have now readjusted those priorities will provide and share essential photometry as KW4 approaches from the Southern Hemisphere.</li>
+<li>Getting more requests to observers to attend meeting.</li>
+</ul>
+
+<p>Spahr has the action to go back to Dave Balam to resolve further details (i.e., crisper details, nature of the Statement of Intent from Balam, capabilities, etc.). Landis asked if there were objection to approaching Balam about IAWN; to eventually possibly include his signing on to IAWN. [There were no objections.]</p>
+
+<h2>North Bering Sea Event of 18 December 2018</h2>
+
+<p>Lindley Johnson (NASA HQ) <a href="/documents/20190427_8th_CollegePark/Bering Sea Event.pptx">shared his thoughts</a> on the North Bering Sea Event of 18 December 2018. He pointed out that it can take some time for the data to make it through the system as it is not the primary job for the operators involved. It is a manual process, on a time-available basis.</p>
+
+<p>Normally it does not take this long as it is usually a few days down to a few hours. However, this event had a unique signature. It was not immediately releasable under the agreement we have on these systems for releasing the data. It looked unique, probably due to the trajectory over the pole at high velocity (probably in a short period comet-type orbit from the velocity vector); and, hence, as a result - a significant energy profile; equivalent to ~173 kT TNT.</p>
+</p>
+
+<div class="image-caption-wrapper" style="width: 40%; float: left">
+<img src="/gallery/mtg_pics/8th_trajectory.png" style="width: 100%; max-width: 500px;" alt="Final Approach Trajectory of the Bering Sea Impactor" class="art-lightbox" />
+<p class="caption">JPL CNEOS graphical depiction based on trajectory vector from data as this small asteroid traversed the atmosphere. Note there are many uncertainties as to this final trajectory given the few data points through the Earth's atmosphere.</p>
+</div>
+
+<p>The object was not seen prior to impact. Further, a survey would have had to be looking at the Polaris to have detected it. </p>
+
+<p>Tim Spahr notes that ATLAS can point there. But, if the observer goes over the pole one cannot do a single solution for that field of view. If it was above +84&deg; declination, it would probably have been impossible for the Catalina Sky Survey (CSS) or ATLAS to detect (and orbital solution plotted).</p>
+
+<p>Two civilian Earth orbiting satellites, one in low-Earth orbit (<em>Terra</em>) and a weather satellite in geosynchronous orbit (<em>Himawari-8</em>) captured the impact event. Typically, these images occur in a sequence of time; you see these data points through the atmosphere in the time sequence. One assumes these points are the motion of the bolide through the atmosphere and the time yields the velocity. Infrasound does not provide direction and estimate of energy release (or velocity vector). Infrasound only gives geolocation and a derived time. It is necessary to triangulate from several infrasound sensors when the object impacts and then project backward to the point of the event in order to derive a time (with the associated uncertainty).</p>
+
+<div class="image-caption-wrapper" style="width: 40%; float: right">
+<img src="/gallery/mtg_pics/8th_plume.png" style="width: 100%; max-width: 500px;" alt="plume visible in Himawari-8 images" class="art-lightbox" />
+<p class="caption">North Bering Sea bolide event: These images are taken by the Japanese weather satellite Himawari-8 (from geosynchronous orbit) starting at 23:50 UTC (times indicated above are local to Kamchatka region) on 18 December 2018 at 10-minute intervals. The small asteroid entered nearly vertically (with respect to the local horizon). The dark streak is actually the shadow of the entry plume cast upon the lower cloud deck.</p>
+</div>
+
+<p>There was a question from the group about Peter Brown deriving a size for the small asteroid. </p>
+
+<p>Lindley responded that the energy release was compared with Brown and then the size is backed out assuming an average composition. The infrasound data indicates an event of ~40 kT TNT equivalent. This was also part of the delay in communicating the event: to determine the derived energy release because of the different numbers.</p>
+
+<p>There was a question about this delay in communicating the impact in a more timely manner.</p>
+
+<p>Answer: Must take into account where on the Earth the event occurred (i.e., remote and practically uninhabited location and other reasons). Further, this particular bolide event had a different thermal signature than usual. So, it took some time to determine it was, indeed, a natural (atmospheric) impact event.</p>
+
+<p>Gerhard Drolshagen (Orenburg Univ./SMPAG chair for ESA) pointed out that the ESA NEMO also could not report. NEMO relies on worldwide events solely on infrasound they do not have immediate access. (NEMO is near real-time.) On 18 December 2018, when the event occurred, it was noted but, not with much attention due the remoteness; and so, there was no follow up.</p>
+
+<p>Gerhard (and Detlef) pointed out that we must request infrasound data. There is now an agreement to get that data, but only for requested events. In this case, this was not realized at the time; hence, no request for that data. Normally social media triggers such attention, but the North Bering Sea is remote. When the actual notification was made public on 8 March 2019; all data from all stations was requested followed with a detailed analysis. The calculated energy release (based on only infrasound data) was 50 kT TNE equivalent. There is a PDC poster on it, showing station. Energy calibrations might not be too well-validated. There are various reasons why the datasets were late.</p>
+
+<p>Lindley pointed out that there is an ongoing effort to automate this process. Further, it's a <span class="underline">manual</span> process. Working to automate that process so that it can be automatically collected and analyzed to produce a report and make it available for manual release. In the future, these reports, assuming they meet the agreed-to profile for release, should come quicker. Bering Sea signature looked different, so we still might not have known about quickly. Coupled with the Christmas and New Year's holidays, NASA was also on furlough in the days and weeks after the North Bering Sea event.</p>
+
+<p>Tim Spahr asked if this was a smaller size, does this fit into the frequency we expect?</p>
+
+<p>Lindley: We use these data to anchor the bottom end of the population curve. Yes, this is more frequent than we might expect, but just a few points (more frequent). In this case, we only have two points of data and it is challenging to draw any definitive conclusions from that.</p>
+
+<p>Comment: Peter Brown recently presented a colloquium at GSFC. He had mentioned Chelyabinsk 1 in 100 years. Bering Sea a few in 100 years.</p>
+
+<p>Spahr - Size distribution at 10 meters influences size distribution at 100 m in the population model. We need to know what the number is.</p>
+
+<p>There is no actual role for IAWN in these bolide events as the reporting for these is after IAWN's responsibilities. A small blurb appeared in the IAWN webpage once the Bering Sea event was public; IAWN still communicates, but is not responsible for reporting.</p>
+
+
+<h2>1999 KW4 Observation Campaign Status</h2>
+
+<p>Vishnu Reddy, Gerbs Bauer, and Rob Landis considered <a href="/documents/20190427_8th_CollegePark/1999KW4_IAWN_obs_campaign_RevA.pptx">next campaign target</a> after 2012 TC4 campaign had concluded. The idea of examining a binary NEA began to float about and had semi-settled upon the notion of pursuing 1999 KW4. The previous IAWN gathering in Vienna, the signatories agreed to make KW4 the next campaign target as it 1) is a follow-on the 2012 TC4 effort; 2) serves as an analog for other binary NEAs, 3) can serve as test preparation for DART impact with Didymos' moonlet, and 4) attempt to tickle the various interfaces to large glass on short notice for maximum utility.</p>
+
+<table>
+<caption>1999 KW4 at a Glance</caption>
+<tr><td>Discovery (LINEAR)</td><td>20 May 1999</td></tr>
+<tr><td>Provisional Designation</td><td>1999 KW4 (closest known binary to Sun)</td></tr>
+<tr><td>Perihelion</td><td>0.2000 AU (Mercury crosser)</td></tr>
+<tr><td>Aphelion</td><td>1.0845 AU</td></tr>
+<tr><td>Heliocentric semi-major axis (a)</td><td>0.6422 AU</td></tr>
+<tr><td>Eccentricity (e)</td><td>0.6886</td></tr>
+<tr><td>Orbital period (about the Sun)</td><td>188 days</td></tr>
+<tr><td>Orbital heliocentric inclination (i)</td><td>38.884&deg;</td></tr>
+<tr><td>Rotational period</td><td>2.7650 hours (primary body)</td></tr>
+<tr><td>Orbital period of moonlet</td><td>~17.4 hours</td></tr>
+<tr><td>Diameter of primary</td><td>~1.3 km (complex 'muffin' shape)</td></tr>
+<tr><td>Diameter of moonlet</td><td>~0.5 km (elongated triaxial ellipsoid)</td></tr>
+<tr><td>System mass</td><td>2.488 &plusmn; 0.054 &times; 1012 kg</td></tr>
+<tr><td>Density</td><td>~2 g/cm3 (50% porosity)</td></tr>
+<tr><td>Spectral type</td><td>S-type</td></tr>
+<tr><td>Next close approach</td><td>2036</td></tr>
+</table>
+
+<p>Mike Kelley (NASA HQ) is leading the science coordination effort for KW4. The effort has been split into five (5) disciplines with respective leads:</p>
+<ul>
+<li>Direct imaging - Marco Micheli (ESA)</li>
+<li>Photometric lightcurve - Petr Pravec (Ond&rcaron;ejov Observatory)</li>
+<li>Radar - Patrick Taylor (LPI)</li>
+<li>Spectroscopy - Vishnu Reddy (Univ. of Arizona)</li>
+<li>Modeling - Jessie Dotson (NASA ARC)</li>
+</ul>
+<p>Director's discretionary (DD) time (5.5 hours) on the VLT using SPHERE (Spectro-Polarimetric High-contrast Exoplanet REsearch; an adaptive optics facility) was recently awarded. Both Gemini North and South, plan to utilize speckle interferometry (with 'Alopeke and Zorro instruments, respectively), to directly image and resolve both bodies. One orbit of HST time requested via a DD proposal to WFC3 (Wide-Field Camera 3). HST has the best sensitivity and spatial resolution for planetary objects in visible light. Further, the close approach of 1999 KW4 provides an opportunity to test several aspects of the HST guidance system, including the acquisition of objects very near the Earth, tracking them (perhaps requiring drop to gyro control during the observations), management of large numbers of short exposures, and rapid turnaround of the data obtained. 
+<sup>1</sup></p>
+
+<p>Marco Micheli (ESA) mentioned that the VLT team might get to use a thermal instrument on VLT, test exposures, engineering time, test of technology, not science work. Might actually allow for quicker release.</p>
+
+<p>A question was asked on how quickly can the data be put into a report that Jessie Dotson can use for modelling.</p>
+
+<p>Answer: the VLT data will be almost immediately available (after reduction). Steve Howell (lead for the Gemini speckle interferometry effort) will make his team's data available. And, if HST time is granted, that raw data (along with calibration files, dark current, flat fields, etc.) will also be publicly available as soon as placed on the servers.</p>
+
+<p>Patrick Taylor (LPI) pointed out that the Goldstone DSS-14 (70-meter) might not be ready to observe as the 70-meter dish is in need of a working Klystron.  Backup plan is to use DSS-13 (34-meter dish).  Whichever dish is ultimately utilized, plan is to do bi-static radar with Green Bank. Unfortunately, Arecibo will not get the same quality of imagery as in 2001.</p>
+
+<p>Per Vishnu Reddy, the goal is to get the IRTF spectroscopic data to Jessie Dotson quickly for impact modeling.</p>
+
+<p>R&uuml;dinger Jehn (ESA) stated that there may be possible spectroscopy with ISON (International Scientific Optical Network; also known as 'PulkON' in Russia) as ESA has a contract with Keldysh Institute (which manages ISON); however, ISON personnel may not have the ability to fully analyze the data and share all the results quickly. Within this arrangement, polarimetry was also discussed, but no promises.</p>
+
+<p><sup>1</sup> Since these IAWN meeting notes were first composed, the HST DD time was declined. STScI pointed out that while the observations were technically possible, the degree of effort and resources required to execute such observations did not justify the cost to STScI to consider further (and implement).</p>
+
+<h2>SMPAG/IAWN Work Item 5.6 - Communication Guidelines in the Event of a Credible Threat</h2>
+
+<p>The primary purpose of this IAWN meeting was to make it a working meeting to get agreement/concurrence from IAWN members and steering committee to settle on the format and nature of the notifications and alerts associated with NEA close approaches and/or probable impacts. The first order of business on this topic was Landis noted all work items, pointed out 5.6's very title - " ... in the Event of a Credible Threat" asking if that is the language we wish to keep for this work item title. After much discussion, for internal purposes to IAWN and SMPAG we will continue to use the phraseology such as 'threat;' however, for external communication outside and beyond the NEO community - we will use appropriate language such as 'potential hazardous impact event' or such.</p>
+
+<p>See the <a href="/documents/20190427_8th_CollegePark/Landis_IAWN_Alert_levels_SMPAG5_6_RevB.pptx">attached charts</a> for the examples of notifications and alerts (and alert levels).</p>
+
+<h3>Notifications - ESA &amp; NASA Examples</h3>
+
+<p>Notification examples were shared (using 2018 WV1 - both from NASA and ESA). However, there is no similar IAWN notification. The resulting action - is for the next IAWN meeting this fall - will be to present and share an example IAWN notification.</p>
+
+<p><span class="highlight">Action:</span> For the next IAWN meeting, we'll expand on example of what an IAWN announcement of a close approach should look like. The suggested IAWN announcement will probably more closely resemble what ESA does, with some sort of an IAWN "mark." (Could add links to ESA and NASA sources, will show the info comes from credible sources). Spahr noted that the IAWN notifications need to be searchable.</p>
+
+<p>There was a question about the intended audience. Answer: The audience is everyone although the language is in English. (When it comes to the alerts, IAWN informs OOSA; the UN would translate/interpret into the six languages of the UN.)</p>
+
+<p>Linda Billings pointed that one of the recommendations of the IAWN communications workshop was to establish a 5-year plan for IAWN becoming the global source for communications. While that plan was not written/published, we continue to carry that plan.</p>
+
+<p><strong>Alerts</strong></p>
+
+<p>Originally, at one point, we initially had created five (5) alerts levels. We have now reduced it to three (3) alert levels.</p>
+
+<h3>Level 1 Alert (for &gte; 1% probability of impact)</h3>
+
+<p>Message content should contain at a minimum:</p>
+
+<blockquote>
+<ul>
+<li>Asteroid name/designation</li>
+<li>Asteroid characteristics - size (metric and standard), brightness, etc.</li>
+<li>Discovery details (observatory, follow-up, characteristics [if known], next observations)</li>
+<li>(current) Predicted orbit</li>
+<li>Next observations</li>
+<li>Expected date of next impact risk update</li>
+<li>Contact information for spokespeople or URLs for more information from 	responsible organization(s)</li>
+</ul>
+</blockquote>
+
+<p>And, include a statement to the effect that SMPAG has been informed and OOSA (this needs to be updated with the appropriate words):</p>
+
+<blockquote>
+<p>The United Nations Office for Outer Space Affairs (OOSA) is disseminating the present information pursuant to General Assembly resolution 71/90, paragraph 9, concerning the work carried out by the International Asteroid Warning Network (IAWN) and the Space Mission Planning Advisory Group (SMPAG) and in its capacity as the permanent secretariat of SMPAG.</p>
+</blockquote>
+
+<p><span class="highlight">Action:</span> Need to update language to include others besides SMPAG to notify.</p>
+
+<p>A subsequent discussion ensued. It is unclear for IAWN as to whom the primary point-of-contact is. (For NASA; within NASA -- spokespeople are identities.) Linda suggested actual individuals. Tim Spahr has been de facto spokesman, but what about other nations? To wit, Tim replied, "in an ideal situation, you would have people around the world to serve in that role. A Level 1 Alert will happen in our careers; especially once LSST and NEOCam are operational. But, probably not a Level 3 Impact Alert."</p>
+
+<p>A discussion ensued on how much time and what level (percentage) warrants a warning for emergency entities (i.e., UN-SPIDER, Global Disaster Alert Coordination System (GDACS), national emergency management agencies). Detlef pointed out that internal to ESA, the discussion with their respective emergency response agencies (six countries were represented), they had settled on a greater than 1% probability over the next 50 years. Tim pointed out this is probably a binary/bi-modal distribution in terms of warning time (i.e., decades [~25+ years] of warning or only days to possibly a few weeks of warning). Further, tailoring the Level 1 Alert is different than tailoring the Level 3 Impact Alert.</p>
+
+<p>Towards that end, two actions resulted: placing the IAWN mission statement at the end of the boilerplate as well as the UN-endorsement statement (that relates how and why such alert messages are generated).</p>
+
+<p><span class="highlight">Actions:</span></p>
+<ol>
+<li>put IAWN mission statement as boilerplate at the end of alerts (but, not notification statement).</li>
+<li>A message akin to: The International Asteroid Warning Network (IAWN) is disseminating this information in collaboration with the Space Mission Planning Advisory Group, pursuant to United Nations General Assembly resolution 71/90, paragraph 9. IAWN is an international network of organizations that detect, track and characterize potentially hazardous asteroids. IAWN will publish updates when additional information becomes available [for the duration of the event].</li>
+</ol>
+
+<p>Lindley pointed out that it's not IAWN's job to inform the world what SMPAG is doing.</p>
+
+<p><span class="highlight">Action:</span> Landis to remove SMPAG references and details out of Alert messages, just not notification and some context.</p>
+
+<p>Alert Level 2 Message</p>
+
+<h3>Level 2 Alert (for > 10% probability of impact)</h3>
+
+<p>Message content should contain at a minimum:</p>
+
+<blockquote>
+<ul>
+<li>Asteroid name/designation</li>
+<li>Date of original notification (i.e., on xx/yy/zz date IAWN issued a Level 1 alert ...with a 1% probability)</li>
+<li>(updated) Asteroid characteristics - size (metric and standard), brightness, etc.</li>
+<li>(updated) Details (observatory(ies), follow-up, characteristics [if known], next observations)</li>
+<li>(updated) Predicted orbit and impact predictions</li>
+</ul>
+
+<p>IAWN was established as a result of the United Nations' efforts and subsequent endorsement to create an international group of organizations involved in detecting, tracking, and characterizing NEOs.</p>
+
+<p>The United Nations Office for Outer Space Affairs (OOSA) is disseminating the present information pursuant to General Assembly resolution 71/90, paragraph 9, concerning the work carried out by the International Asteroid Warning Network (IAWN) and the Space Mission Planning Advisory Group (SMPAG) and in its capacity as the permanent secretariat of SMPAG.</p>
+</blockquote>
+
+<p><span class="highlight">Action:</span> Consider adding terrestrial planning to the Level 2 alert message. Insert a few sentences on which emergency management entities have been notified in the event of an impact. </p>
+
+<h3>Level 3 Impact Alert</h3>
+
+<p>Intent is that Level 3 utilized when there is a high probability of impact.</p>
+
+<p>IAWN Provides:</p>
+
+<blockquote>
+<ul>
+<li>Date, time and location of impact</li>
+<li>Asteroid name/designation</li>
+<li>Asteroid characteristics - size (metric and standard), type (spectral), structural (solid, rubble pile, other)</li>
+<li>Predicted asteroid trajectory/angle of entry</li>
+<li>Type of impact - atmospheric impact over water or over land, surface impact on water or on land</li>
+<li>Predicted energy release</li>
+<li>Geographic range and gradation of effects</li>
+<li>Impact mitigation measures in place (evacuation, shutdowns, etc.)</li>
+<li>Civil Defense measure (i.e., tell people what they can/should do)</li>
+<li>Authoritative source(s) for more information (who's in charge of what)</li>
+</ul>
+</blockquote>
+
+<div class="image-caption-wrapper" style="width: 30%; float: right">
+<img src="/gallery/mtg_pics/8th_alert.png" style="width: 100%; max-width: 400px;" alt="NEO Alert Process" class="art-lightbox" />
+<p class="caption">This version of this high-level look at the alert process to be updated.</p>
+</div>
+
+<p>A few actions resulted from the Level 3 Impact Alert template discussion.</p>
+
+<p><span class="highlight">Action:</span> Take out lines having to do with emergency response responsibilities. </p>
+
+<p><span class="highlight">Action:</span> (Reference to the NEO alert slide) put Planetary Defense/SSA entities, something generic, in the NEO Alert Process. Also, in the SMPAG block, indicate agencies and entities who are signatories. The blue churn will require a refinement, like a recipe book, for us to use. Detlef thinks churn looks like an iteration, and he thinks it's an information flow. So churn belongs under IAWN block. </p>
+
+<p><span class="highlight">Action:</span> For the example (Level 3 Impact Alert) we discussed within IAWN, the scenario resulted in a harmless object. Landis has the action to create impact alert templates for 2018 LA, North Bering Sea event, Chelyabinsk event, and Meteor Crater.</p>
+
+<h2>1999 KW4 Webpage off of the IAWN Website</h2>
+
+<p>Gerbs Bauer shared the latest details on the 1999 KW4 campaign webpage (which is off of the IAWN website). See: <a href="http://www.iawn.net/obscamp/1999KW4/">www.iawn.net/obscamp/1999KW4/</a></p>
+
+<p>In addition to the most recent planning notes, observing geometries, coordination of plans, data sharing, etc. are included. Next KW4 meeting will be 9 May 2019 at 14:00 UTC.</p>
+
+<h2>NEOWISE (and NEOCam) Status</h2>
+
+<p>Amy Mainzer <a href="/documents/20190427_8th_CollegePark/IAWN2019_Mainzer.pptx">shared latest status</a> on NEOWISE and the current plan forward for NEOCam.</p>
+
+<div class="image-caption-wrapper" style="width: 30%; float: left">
+<img src="/gallery/mtg_pics/8th_albedos.png" style="width: 100%; max-width: 400px;" alt="graph showing apparent bi-modal distribution of asteroid albedos" class="art-lightbox" />
+<p class="caption">Per the NEOWISE data, there is an apparent bi-modal distribution in albedos for NEOs. There is a population of very dark NEOs (3% albedo), and a population of less dark ones (17% albedo). 
+<br />(Of course, the recent results from Ryugu and Bennu confirm very low albedos.)
+</p>
+</div>
+
+<p>Launched nearly a decade ago, NEOWISE remains healthy (for the moment). WISE was deactivated and placed into hibernation in 2011; and then, brought out of hibernation in late 2013 in 'warm mode' (i.e., operating only in 3.4 and 4.6 &micron;m channels).</p>
+
+<p>Amy provided comparisons [of asteroid diameters] with other missions such was IRAS and Akari. There are 1,993 objects in common, and the respective sizes are very nearly identical. Also, interestingly, the NEOWISE data seems indicate a bi-modal distribution in albedos (i.e., very dark NEOs and then relative brighter NEOs).</p>
+
+<p>NEOWISE's orbit has not precessed at the rate originally predicted; hence, NEOWISE operations continue on a periodic, renewing basis.</p>
+
+<p>NEOCam is now being carried as a directed effort out of PDCO. Whereas NEOWISE is a re-purposed astrophysics, NEOCam would be optimized for NEO detection, follow-up and characterization. Additionally, NEOCam will characterize risks posed by PHOs as individual objects and as well as populations. It provides critical decision support for stakeholders who must assess the risks of NEO impacts to Earth and must identify potential mitigation strategies. NEOCam is currently being carried as an instrument development project supported by PDCO. The team passed a pre-KDP-B instrument review in November 2018. At the moment, it is unclear when NASA will hold KDP-B. Likely depends on the outcome of the current NEO study underway with the National Academy of Sciences (NAS).</p>
+
+<div class="image-caption-wrapper" style="width: 30%; float: right">
+<img src="/gallery/mtg_pics/8th_neocam.png" style="width: 100%; max-width: 400px;" alt="Graphic showing fields -of-regard of NEOCam" class="art-lightbox" />
+<p class="caption">A depiction of the field(s)-of-regard of the space-based NEO survey telescope, NEOCam, located at SEL1. Optimized in the infrared, this telescope looks for objects in the leading and trailing portions of the Earth's orbit to find and catalog PHOs.</p>
+</div>
+
+<p>NEOCam at a glance (to date):</p>
+
+<p>Dual-channel imager operating in a single step-and-stare survey mode</p>
+<ul>
+<li>0.5-meter telescope</li>
+<li>Two 16 megapixel HgCdTe focal planes at 4-5.4 & 6-10 ?m simultaneously imaged</li>
+<li>Detectors passively cooled to 40&deg;K</li>
+<li>Sun-Earth L1 orbit</li>
+<li>First proposed 2005</li>
+<li>Awarded technology development funding in 2011 Discovery</li>
+<li>Awarded Extended Phase A in 2016</li>
+<li>System Requirements Review/Mission Definition Review (passed February 2018)</li>
+<li>Pre-KDP-B review for instrument (passed November 2018)</li>
+</ul>
+
+<h2>Next IAWN Meeting</h2>
+
+<p>We re-affirmed that the next IAWN will be 12 September 2019 at the ESO facilities in Garching, Germany. (SMPAG will also meet on 13 September at ESO.)</p>
+
+<p>We adjourned the 8th IAWN meeting at ~3:00 PM local time, 27 April 2019.</p>
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>2025&nbsp;FA22 IAWN Campaign -- Orbit</title>
+<link rel="stylesheet" href="/obscamp/2025FA22/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>2025&nbsp;FA22 -- Orbit</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/2025FA22/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>Orbit of Asteroid 2025&nbsp;FA22</h2>
+
+<p>Orbital elements listed here are taken from the <a href="https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2025FA22">Small-Body Database Lookup</a>, and represent the current best solution.</p>
+
+<h3>Orbital Elements (Solution JPL#24)</h3>
+<table style="width:100%; border-spacing:0px;">
+
+<tr>
+<td>Epoch</td>
+<td>2460800.5 (2025-May-05.0) TDB</td>
+</tr>
+
+<tr>
+<td>Perihelion Time</td>
+<td>T = 2025-Aug-07.45775528</td>
+</tr>
+
+<tr>
+<td>Perihelion Time (JD)</td>
+<td>T = 2460894.957755283065</td>
+</tr>
+
+<tr>
+<td>Orbital Period</td>
+<td>P = 675.8736715608278 (d)
+<br>1.850441263684676 (y)</td>
+</tr>
+
+<tr>
+<td>Semi-major Axis</td>
+<td>a = 1.507224927171019 au</td>
+</tr>
+
+<tr>
+<td>Perihelion Distance</td>
+<td>q = 0.881854537849641 au</td>
+</tr>
+
+<tr>
+<td>Eccentricity</td>
+<td>e = 0.4149151052691022</td>
+</tr>
+
+<tr>
+<td>Inclination</td>
+<td>i = 7.547080562816133&deg;</td>
+</tr>
+
+<tr>
+<td>Ascending Node</td>
+<td>&Omega; = 356.5060673228913&deg;</td>
+</tr>
+
+<tr>
+<td>Argument of Perihelion</td>
+<td>&omega; = 304.9130604138977&deg;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Close Approach Time</strong></td>
+<td>t = 2025-Sep-18 07:42</td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Close Approach Distance</strong></td>
+<td>&Delta; = 0.00563 au
+<br>&Delta; = 841988 km</td>
+</tr>
+
+<tr>
+<td><strong>Velocity with respect to Earth <br> at closest approach</strong></td>
+<td>10.79 km/s</td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Min. Orbital Intersection Dist. </strong></td>
+<td>MOID = 0.00173467 au</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+</table>
+
+
+<!--
+<h3>Orbit Solution Preclude...</h3>
+<p></p>
+-->
+
+<h3>Full Orbit From Above</h3>
+<p>View of Asteroid 2025&nbsp;FA22 orbit as seen from above the ecliptic plane with the asteroid and planets shown at the time of the asteroid's closest approach to Earth. <i>From the <a href="https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2025fa22">JPL Small-Body Database Browser</a>.</i></p>
+<p><a href="Orbits/2025FA22_orbit_full.png" title="View of 2025&nbsp;FA22' full orbit"><img src="Orbits/2025FA22_orbit_full.png" width="80%" alt="View of 2025&nbsp;FA22' entire orbit." /></a></p>
+<br>
+
+<h3>Orbit in Oblique View</h3>
+<p>Oblique view of the portion of Asteroid 2025&nbsp;FA22 orbit around close approach, viewed from 30&deg; above the ecliptic plane. The black dot denotes the asteroid's and Earth's positions at close approach (2025-09-18).
+<br><a href="Orbits/2025FA22_orbit_plot.png" title="Oblique view of 2025&nbsp;FA22' orbit"> <img src="Orbits/2025FA22_orbit_plot.png" width="80%" alt="Oblique view of 2025&nbsp;FA22' orbit." /></a> 
+<!-- <br><a href="Orbits/2025FA22_orbit_plot.pdf">PDF Version</a> --></p>
+
+
+<h3>Orbit in Earth Co-Orbital View</h3>
+<p>The orbit of Asteroid 2025&nbsp;FA22 around perihelion, in the Earth's co-orbital reference frame, as seen from above (top panel) and in the ecliptic plane (bottom panel). The black circle denotes the asteroid's position at perihelion (INSERT DATE) and the open circles show positions at 30-day intervals.
+<br><a href="Orbits/2025FA22_orbit_plot_corot.png" title="Orbit of 2012 TC4 in the Earth co-orbital reference frame"> <img src="Orbits/2025FA22_orbit_plot_corot.png" width="80%" alt="Plot of 2025&nbsp;FA22' orbit in Earth-co-orbital frame."/></a>
+<!-- <br><a href="Orbits/2025FA22_orbit_plot_corot.pdf">PDF Version</a> --></p>
+
+
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/2025FA22/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

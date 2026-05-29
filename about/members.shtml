@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: Members</title>
+<!--#include virtual="/css-n-inc/top.inc"-->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">Membership</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<h2 class="art-postheader">Steering Committee</h2>
+<p><a href="/documents/charter/IAWN_Steering_Committee_ToR_2024.pdf">IAWN Steering Committee Terms of Reference</a></p>
+
+
+<h3>Assignments</h3>
+
+<table>
+<tr>
+<td>NASA PD Ofc. / IAWN Coord. Ofc.</td>
+<td>Kelly Fast</td>
+</tr>
+
+<tr>
+<td>ESA Head of PD Office</td>
+<td>Richard Moissl</td>
+</tr>
+
+<tr>
+<td>SMPAG chair (permanent observer)</td>
+<td>Detlef Koschny</td>
+</tr>
+
+<tr>
+<td>UNOOSA (permanent observer)</td>
+<td>Romana Kofler</td>
+</tr>
+
+<tr>
+<td>IAU (permanent observer)</td>
+<td>Gonzalo Tancredi</td>
+</tr>
+
+</table>
+
+<h3>Core Areas</h3>
+
+<table>
+<tr>
+<td>Data Management, Archiving, and Distribution</td><td>Matthew Payne (MPC)</td>
+</tr>
+
+<tr>
+<td>Orbit Determination</td><td>Davide Farnocchia (NASA/JPL/CNEOS)</td>
+</tr>
+
+<tr>
+<td>Large-Scale Surveys</td><td>Carson Fuls (NASA/UA/CSS)</td>
+</tr>
+
+<tr>
+<td>Astrometric Follow-up</td><td>Marco Micheli (ESA/NEOCC)</td>
+</tr>
+
+<tr>
+<td>Physical Characterization</td><td>Vasiliki Petropoulou (ASI)</td>
+</tr>
+
+<tr>
+<td>Small Observatories/ Independent Observers</td><td>Michal Zolnowski (6ROADS)</td>
+</tr>
+
+<tr>
+<td>Impact Effects Modeling</td><td>Donovan Mathias (NASA/ARC/ATAP)</td>
+</tr>
+
+<tr>
+<td>Public/Media Information</td><td>Patrick Michel (CNRS/OCA)</td>
+</tr>
+
+<tr>
+<td>Interface to Emergency Management Organizations</td><td><em>unfilled</em></td>
+</tr>
+
+</table>
+
+
+<h2 class="art-postheader">IAWN Signatories and their capabilities</h2>
+
+<p>Below are the current signatories of the IAWN Statement of Intent.</p>
+<ol>
+<li>Peter Birtwhistle, West Berkshire, England:</li>
+<li>CNSA (Chinese National Space Administration): <a href="/documents/signatories/CNSA_statement.pdf" onclick="this.target='_blank'">CNSA statement</a></li>
+<li>CrAO (Crimean Astrophysical Observatory, Russian Academy of Sciences): <a href="/documents/signatories/CrAO_statement.pdf" onclick="this.target='_blank'">CrAO statement</a></li>
+<li>ESA (European Space Agency): <a href="/documents/signatories/ESA_statement.pdf" onclick="this.target='_blank'">ESA statement</a></li>
+<li>ESO (European Southern Observatory): <a href="/documents/signatories/ESO_statement.pdf" onclick="this.target='_blank'">ESO statement</a></li>
+<li>INAOE (the National Institute of Astrophysics, Optics, and Electronics in Cholua, Mexico): <a href="/documents/signatories/INAOE_statement.pdf" onclick="this.target='_blank'">INAOE statement</a></li>
+<li>INASAN (the Institute of Astronomy, Russian Academy of Sciences): <a href="/documents/signatories/INASAN_statement.pdf" onclick="this.target='_blank'">INASAN statement</a></li>
+<li>ISTP (Institute of Solar-Terrestrial Physics, Russian Academy of Sciences): <a href="/documents/signatories/ISTP_statement.pdf" onclick="this.target='_blank'">ISTP statement</a></li>
+<li>KAO UrFU (Kourovka Astronomical Observatory of the Ural Federal University): <a href="/documents/signatories/KAO_UrFU_statement.pdf" onclick="this.target='_blank'">KAO UrFU statement</a></li>
+<li>KASI (Korea Astronomy Space Science Institute, Daejeon, South Korea): <a href="/documents/signatories/KASI_statement.pdf" onclick="this.target='_blank'">KASI statement</a></li>
+<li>SAO RAS (Special Astrophysical Observatory of the Russian Academy of Sciences): <a href="/documents/signatories/SAO-RAS_statement.pdf" onclick="this.target='_blank'">SAO RAS statement</a></li>
+<li>NASA (National Aeronautics and Space Administration, United States): <a href="/documents/signatories/usa_statement.pdf" onclick="this.target='_blank'">USA statement</a></li>
+<li>University of Narino, Pasto, Colombia: </li>
+<li>Vi&#154;njan Observatory, Croatia: <a href="/documents/signatories/Visnjan_statement.pdf" onclick="this.target='_blank'">Vi&#154;njan Observatory statement</a></li>
+<li>Zwicky Transient Facility (ZTF): <a href="/documents/signatories/ZTF_statement.pdf" onclick="this.target='_blank'">ZTF statement</a></li>
+<li>NBO (Northolt Branch Observatories): <a href="/documents/signatories/NBO_statement.pdf" onclick="this.target='_blank'">NBO statement</a></li>
+<li>Sormano Astronomical Observatory: <a href="/documents/signatories/Sormano_statement.pdf" onclick="this.target='_blank'">Sormano statement</a></li>
+<li>David Balam, Spaceguard Consulting, Canada: <a href="/documents/signatories/SGC_statement.pdf" onclick="this.target='_blank'">Spaceguard statement</a></li>
+<li>Patrick Wiggins, United States: <a href="/documents/signatories/Wiggins_statement.pdf" onclick="this.target='_blank'">Wiggins statement</a></li>
+<li>SONEAR Observatory, Brazil: <a href="/documents/signatories/SONEAR_statement.pdf" onclick="this.target='_blank'">SONEAR statement</a></li>
+<li>Instituto de Astrofisica de Canarias (IAC): <a href="/documents/signatories/IAC_statement.pdf" onclick="this.target='_blank'">IAC statement</a></li>
+<li>Fondazione GAL Hassin: <a href="/documents/signatories/GALHassin_statement.pdf" onclick="this.target='_blank'">GAL Hassin statement</a></li>
+<li>Jordi Camarasa, Paus Observatory (B49): <a href="/documents/signatories/Camarasa_statement.pdf" onclick="this.target='_blank'">Camarasa statement</a></li>
+<li>Israel Space Agency (ISA): <a href="/documents/signatories/ISA_statement.pdf" onclick="this.target='_blank'">ISA statement</a></li>
+<li>Gennady Borisov, Mobil Astronomical Robotics Genon Observatory (MARGO): <a href="/documents/signatories/Borisov_statement.pdf" onclick="this.target='_blank'">Borisov statement</a></li>
+<li>Keldysh Institute of Applied Mathematics of the Russian Academy of Sciences (KIAM RAS): <a href="/documents/signatories/KIAM_statement.pdf" onclick="this.target='_blank'">KIAM statement</a></li>
+<li>Agenzia Spaziale Italiana (ASI): <a href="/documents/signatories/ASI_statement.pdf" onclick="this.target='_blank'">ASI statement</a></li>
+<li>Baldone Astrophysical Observatory, Latvia: <a href="/documents/signatories/BALDONE_statement.pdf" onclick="this.target='_blank'">Baldone statement</a></li>
+<li>Osservatorio Astronomico &quot;G.V. SCHIAPARELLI&quot;, Italy: <a href="/documents/signatories/Schiaparelli_statement.pdf" onclick="this.target='_blank'">Schiaparelli Observatory statement</a></li>
+<li>Observatoire de la C&ocirc;te d'Azur: <a href="/documents/signatories/OCA_statement.pdf" onclick="this.target='_blank'">OCA statement</a></li>
+<li>Xingming Observatory: <a href="/documents/signatories/XingmingObservatory_statement.pdf" onclick="this.target='_blank'">Xingming Observatory statement</a></li>
+<li>6ROADS Company: <a href="/documents/signatories/6ROADS_statement.pdf" onclick="this.target='_blank'">6ROADS statement</a></li>
+<li>Squirrel Valley Observatory (Columbus, North Carolina, USA): <a href="/documents/signatories/Squirrel_Valley_statement.pdf">SVO statement</a></li>
+<li>Golden Ears Observatory (Maple Ridge, British Columbia, Canada): <a href="/documents/signatories/Golden-Ears-Obs_statement.pdf">GEO statement</a></li>
+<li>Astronomical Institute of the Romanian Academy: <a href="/documents/signatories/Romanian_Academy_statement.pdf">AIRA statement</a></li>
+
+<!-- added 07 Jan 2022 -->
+<li>MAP, Alain Maury, San Pedro De Atacama, Chile: <a href="/documents/signatories/MAP_statement.pdf">MAP statement</a></li>
+<li>Hampshire Astronomical Group, David Briggs, United Kingdom: <a href="/documents/signatories/HampshireAG_J69_statement.pdf">Hampshire Astronomical Group statement</a></li>
+<li>NOAK Observatory, Nick Sioulas, Greece: <a href="/documents/signatories/NOAK_statement.pdf">NOAK statement</a></li>
+
+<!-- added 10 Mar 2022 -->
+<li>La Ca&ntilde;ada Observatory (MPC-J87): <a href="/documents/signatories/J87_statement.pdf">La Ca&ntilde;ada statement</a></li>
+<li>Gr.A.M. (Gruppo Astrofili Montelupo, MPC-K83): <a href="/documents/signatories/K83_statement.pdf">Gr.A.M. statement</a></li>
+
+<!-- added 26 Jan 2023 -->
+<li>MPC-H36, Farpoint Observatory, Kansas: <a href="/documents/signatories/H36_statement.pdf">H36 statement</a></li>
+<li>MPC-L73, Blessed Hermann Observatory, Italy: <a href="/documents/signatories/L73_statement.pdf">L73 Statement</a></li>
+<li>MPC-D63, G. Pascoli, Italy: <a href="/documents/signatories/D63_statement.pdf">D63 statement</a></li>
+
+<!-- added 3 Aug 2023, although first 6 should have been added in May -->
+<li>Kle&tcaron; Observatory, &Ccaron;esk&eacute; Bud&ecaron;jovice, Czech Republic: <a href="/documents/signatories/046_statement.pdf">046 statement</a></li>
+<li>The University of Western Australia (Zadko Telescope, MPC-D20), Australia: <a href="/documents/signatories/D20_statement.pdf">D20 statement</a></li>
+<li>PASTIS Observatory (MPC-K19), France: <a href="/documents/signatories/K19_statement.pdf">K19 statement</a></li>
+<li>Mind's Eye Observatory (MPC-W42), Florida: <a href="/documents/signatories/MEO_statement.pdf">MEO statement</a></li>
+<li>Japan Aerospace Exploration Agency (JAXA): <a href="/documents/signatories/JAXA_statement.pdf">JAXA statement</a></li>
+<li>University of New South Wales Canberra, Australia: <a href="/documents/signatories/UNSW_statement.pdf">UNSW statement</a></li>
+<li>Fesenkov Astrophysical Institute, Kazakhstan: <a href="/documents/signatories/FAI_statement.pdf">FAI statement</a></li>
+<li>Gianluca Masi, Virtual Telescope Project (MPC-M50), Italy: <a href="/documents/signatories/VT_M50_statement.pdf">Virtual Telescope Project statement</a></li>
+<li>Kysuck&aacute; Observatory (MPC-G02), Kysuck&eacute; Nov&eacute; Slovakia: <a href="/documents/signatories/G02_statement.pdf">Kysuck&aacute; Observatory statement</a></li>
+
+<!-- added 25 Oct 2023 -->
+<li>Iota Scorpii Astronomical Observatory (MPC-K78), Italy: <a href="/documents/signatories/K78_statement.pdf">K78 statement</a></li>
+
+<!-- added 4 Dec 2023 -->
+<li>ABObservatory (L90), Italy: <a href="/documents/signatories/L90_statement.pdf">L90 statement</a></li>
+
+<!-- added 2 Feb 2024 -->
+<li>Gruppo Astrofili Montagna Pistoiese (GAMP) (MPC-104), Italy: <a href="/documents/signatories/104_statement.pdf">104 statement</a></li>
+
+<!-- added 8 July 2024 -->
+<li>John J. McCarthy Observatory (MPC-932), Connecticut: <a href="/documents/signatories/McCarthyObs_statement.pdf">932 statement</a></li>
+<li>Konkoly Observatory, HUN-REN Research Centre for Astronomy and Earth Sciences (MPC-461, 561 and K88): <a href="/documents/signatories/Konkoly_statement.pdf">Konkoly statement</a></li>
+<li>Al-Khatim Observatory (MPC-M44), United Arab Emirates: <a href="/documents/signatories/M44_statement.pdf">M44 statement</a></li>
+
+<!-- added 22 January 2025 -->
+<li>United Kingdom Space Agency: <a href="/documents/signatories/UKSA_statement.pdf">UK Space Agency statement</a></li>
+
+<!-- added 16 Feb 2025 -->
+<li>Toni Scarmato (L92), Italy: <a href="/documents/signatories/MPCL92_Scarmato.pdf">MPC L92 statement</a></li>
+<li>Associazione Astrofili Spezzini, Italy: <a href="/documents/signatories/MPC126__astrofilispezzini.pdf">MPC126 statement</a></li>
+
+<!-- added 23 Feb 2025 -->
+<li>Shasta Valley Observatory (MPC-U52), California:<a href="/documents/signatories/U52_statement.pdf">U52 statement</a></li>
+<li>Light Bridges (MPC-Y65, Y66, Y68), Spain: <a href="/documents/signatories/LightBridges_statement.pdf">Light Bridges statement</a></li>
+<li>Hagerstown Observatory (MPC-W53), Maryland: <a href="/documents/signatories/W53_statement.pdf">W53 statement</a></li>
+<li>Montsec Observatory, Spain: <a href="/documents/signatories/IEEC_statement.pdf">IEEC statement</a></li>
+
+<!-- added 04 Mar 2025 -->
+<li>Instituto de Astronom&iacute;a of the Universidad Nacional Aut&oacute;noma de Mexico: <a href="/documents/signatories/IA-UNAM_statement.pdf">IA-UNAM statement</a></li>
+<li>Teerasak Thaluang, Akin Observatory (MPC-O51), Thailand: <a href="/documents/signatories/O51_statement.pdf">O51 statement</a></li>
+
+<!-- added 21 Mar  2025 -->
+<li>AstroCO Network and the Astronomical Observatory of the Universidad Tecnol&oacute;gica de Pereira, Colombia: <a href="/documents/signatories/AstroCO_UTP_statement.pdf">AstroCO and UTP statement</a></li>
+<li>Zlatko Orbani&cacute;, Explorer Observatory (MPC-M19), Croatia: <a href="/documents/signatories/Orbanic_Croatia_M19.pdf">M19 statement</a></li>
+<li>Associazione Romana Astrofili (A.R.A.) (MPC-157), Italy: <a href="/documents/signatories/MPC-157.pdf">ARA statement</a></li>
+
+<!-- added 23 Mar 2025 -->
+<li>Sharjah Astronomical Observatory (MPC-M47), United Arab Emirates: <a href="/documents/signatories/M47_statement.pdf">M47 statement</a></li>
+
+<!-- added 19 May 2025 -->
+<li>Bill Gray, Project Pluto, Maine: <a href="/documents/signatories/Gray_Project_Pluto_statement.pdf">Project Pluto statement</a></li>
+<li>Chabot Space &amp; Science Center (MPC-G58), California: <a href="/documents/signatories/G58_statement.pdf">G58 statement</a></li>
+
+<!-- added 03 Jun 2025 -->
+<li>Thuringian State Observatory (MPC-033), Germany: <a href="/documents/signatories/033_statement.pdf">033 statement</a></li>
+
+<!-- added 18 Jun 2025 -->
+<li>Charles Triana, AstroExplor Observatory (MPC-W60), Colombia: <a href="/documents/signatories/W60_statement.pdf">W60 statement</a></li>
+<li>Spanish Space Agency (AEE), Spain: <a href="/documents/signatories/AEE_statement.pdf">AEE statement</a></li>
+
+<!-- added 25 Sep 2025 -->
+<li>Christophe Ratinaud, Landehen Observatory (MPC-Z43), France: <a href="/documents/signatories/Z43_statement.pdf">Z43 statement</a></li>
+<li>Marco Iozzi, H.O.B. Astronomical Observatory (MPC-L63), Italy: <a href="/documents/signatories/L63_statement.pdf">L63 statement</a></li>
+
+<!-- added 1 Oct 2025 -->
+<li>Gianni Galli, GiaGa Obs. (MPC-203), Italy: <a href="/documents/signatories/203_statement.pdf">203 statement</a></li>
+<li>Nello Ruocco, Osservatorio Nastro Verde (MPC-C82), Italy: <a href="/documents/signatories/C82_statement.pdf">C82 statement</a></li>
+<li>Matteo Lombardo, Zen Observatory (MPC-M26), Italy: <a href="/documents/signatories/M26_statement.pdf">M26 statement</a></li>
+
+
+<!-- added 19 Oct 2025 -->
+<li>Mario Feraco, Observatory BiAnto (MPC-L85), Italy: <a href="/documents/signatories/L85_statement.pdf">L85 statement</a></li>
+<li>Astronomical Observatory of the &quot;Rasvan Angheluta&quot Natural Sciences Museum Complex Galati (MPC-C73), Romania: <a href="/documents/signatories/C73_statement.pdf">C73 statement</a></li>
+<li>Luca Grazzini, BAS Observatory (MPC-G17), Italy: <a href="/documents/signatories/G17_statement.pdf">G17 statement.pdf</a></li>
+
+<!-- added 26 Nov 2025 -->
+<li>Vincenzo della Vecchia, 45th Parallel Observatory (MPC-D43), Italy: <a href="/documents/signatories/D43_statement.pdf">D43 statement</a></li>
+<li>Arina &amp; Radu Anghel, PS Observatory (MPC-M35), Romania: <a href="/documents/signatories/M35_statement.pdf">M35 statement</a></li>
+<li>John J. Maikner, Comet Hunter Observatory 2 (MPC-W62), USA: <a href="/documents/signatories/W62_statement.pdf">W62 statement</a></li>
+<li>Felician Ursache, Starhopper Observatory (MPC-M45), Romania: <a href="/documents/signatories/M45_statement.pdf">M45 statement</a></li>
+
+
+<!-- added 22 Jan 2026 -->
+<li>Gruppo Astrofili Rozzano, Civico Osservatorio Astronomico di Rozzano (MPC-D66), Italy: <a href="/documents/signatories/D66_statement.pdf">D66 statement</a></li>
+<li>Enrico Prosperi, Castelmartini Observatory (MPC-160), Italy: <a href="/documents/signatories/160_statement.pdf">160 statement</a></li>
+
+<!-- added 31 Jan 2026 -->
+<li>Indian Space Research Organisation (ISRO), India: <a href="/documents/signatories/ISRO_statement.pdf">ISRO statement</a></li>
+
+<!-- added 13 Feb 2026 -->
+<li>Armagh Observatory, UK: <a href="/documents/signatories/Armagh_statement.pdf">Armagh statement</a></li>
+
+<!-- added 15 May 2026 -->
+<li>The National Astronomical Observatory of Japan (NAOJ): <a href="/documents/signatories/NAOJ_statement.pdf">NAOJ statement</a></li>
+
+</ol>
+
+<p>Readers will note a broad range of expertise among the signatories, from amateur astronomers providing follow-up astrometry of NEOs through space agencies. We suggest interested parties give the <a href="/documents/iawn_statement_of_intent.pdf"
+onclick="this.target='_blank'">Statement of Intent</a> a look, and <a href="/misc/contacts.shtml">contact us</a> if you are currently participating in NEO-related activities and interested in signing.</p>
+
+<a name="join_IAWN"></a>
+<h2 class="art-postheader">How to Join IAWN</h2>
+
+<p>As the list of IAWN Signatories (above) grows, we would like to provide a bit of information for other groups wishing to apply. First, please review <a href="/about.shtml">IAWN's functions and supporting documents</a> as well as the <a href="/documents/iawn_statement_of_intent.pdf"
+onclick="this.target='_blank'">Statement of Intent</a>.</p>
+
+<p>Then, if you feel your group falls within the roles described here, to <a href="mailto:%69%61%77%6E%40%61%73%74%72%6f%2e%75%6d%64%2e%65%64%75">apply to IAWN</a>, please:</p>
+<ol>
+<li>If you are an observing station performing astrometric measurements, please be sure you have obtained an observatory code from the Minor Planet Center before applying for IAWN membership.</li>
+<li>Provide a signed PDF (scanned, emailed copy is fine) indicating you understand your roles and responsibilities according to the Statement of Intent.</li>
+<li>In the same PDF, briefly describe your facility, personnel, and capabilities as they apply to IAWN.</li>
+</ol>
+
+<p>Please note a half page to a full page is completely fine for our purposes. Please see the statements of various IAWN members (above). These can serve as models or templates for your application materials.</p>
+
+<p>Applications files should be sent to <a href="mailto:%69%61%77%6E%40%61%73%74%72%6f%2e%75%6d%64%2e%65%64%75">IAWN application</a>.</p>
+
+<p>Your packet will be voted upon by the IAWN Steering Committee.</p>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper"-->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc"-->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+
+</html>

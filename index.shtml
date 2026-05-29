@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: IAWN Home</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">International Asteroid Warning Network</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<div class="art-content-layout">
+<div class="art-content-layout-row">
+
+<!-- TOP BOX -->
+<div class="art-layout-cell layout-item-0" style="width: 100%">
+
+<p>IAWN is a world-wide planetary defense collaboration of organizations and individual astronomers recommended by United Nations resolution who collectively work to detect, monitor, and characterize potentially hazardous asteroids and Near-Earth Objects (NEOs). If an asteroid threat were ever identified, IAWN would act as a centralized hub for disseminating information to governments to aid with analysis of impact consequences and with planning of mitigation response options.</p>
+<p>For comments or update requests for this website, contact <a href='mai&#108;to&#58;war%6Eer&#101;m%40&#37;6&#49;st%72o&#46;um%&#54;&#52;&#46;%65&#100;&#37;75'>Elizabeth Warner</a>.</p>
+
+</div>
+
+</div>
+</div>
+
+<div class="art-content-layout">
+<div class="art-content-layout-row">
+
+<!-- NOTIFICATION BOX -->
+<div class="art-layout-cell layout-item-0" style="width: 100%">
+<h2>IAWN Notifications</h2>
+<ul>
+<li>2025.02.24: <a href="/documents/NOTIFICATIONS/2024-YR4_IAWN_Final-Notification_20250224.pdf">Final Notification: 2024 YR4</a> -- No Significant Potential for Future Impact with Earth</li>
+<li>2025.01.29: <a href="/documents/NOTIFICATIONS/2024-YR4_IAWN_Potential-Impact-Notification_20250129.pdf">Notification of Potential Impactor: Asteroid 2024 YR4</a></li>
+</ul>
+</div>
+
+</div>
+</div>
+
+<!-- ************************* ROW 2 CONTENT ************************* -->
+
+<div class="art-content-layout">
+<div class="art-content-layout-row">
+
+<!-- LEFT BOX -->
+<div class="art-layout-cell layout-item-0" style="width: 33%">
+<h3>Current Activities</h3>
+<p>March 5, 2026: The probability of asteroid 2024 YR4 impacting the Moon on Dec. 22, 2032 has dropped to zero as determined by NASA and ESA using astrometry from JWST acquired in February 2026.</p>
+<ul>
+<li>NASA announcement: <a href="https://science.nasa.gov/blogs/planetary-defense/2026/03/05/new-nasa-asteroid-observations-eliminate-chance-of-2032-lunar-impact/" onclick="this.target='_blank'">New NASA Asteroid Observations Eliminate Chance of 2032 Lunar Impact</a></li>
+<li>ESA announcement: <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_2024_YR4_will_not_impact_the_Moon" onclick="this.target='_blank'">Asteroid 2024 YR4 will not impact the Moon</a></li>
+</ul>
+</div>
+
+<!-- MIDDLE BOX -->
+<div class="art-layout-cell layout-item-0" style="width: 33%">
+<h3>Recent Signatories</h3>
+<ul>
+
+<!-- added 15 May 2026 -->
+<li>The National Astronomical Observatory of Japan (NAOJ)</li>
+
+<!-- added 13 Feb 2026 -->
+<li>Armagh Observatory</li>
+
+<!-- added 31 Jan 2026 -->
+<li>Indian Space Research Organisation (ISRO)</li>
+
+
+</ul>
+<p><a href="/about/members.shtml" class="art-button">All IAWN Members</a></p>
+</div>
+
+<!-- RIGHT BOX -->
+<div class="art-layout-cell layout-item-0" style="width: 33%">
+<h3>Quick Links</h3>
+<ul>
+<li><a href="/about/members.shtml">IAWN Signatories (Members)</a></li>
+<li><a href="/documents/iawn_statement_of_intent.pdf">IAWN Statement of Intent</a></li>
+<li><a href="/documents/charter/IAWN_Steering_Committee_ToR_2024.pdf">IAWN Steering Committee Terms of Reference</a></li>
+<li><a href="https://www.unoosa.org/oosa/en/ourwork/topics/neos/index.html">UN Office of Outer Space Affairs NEO Page</a></li>
+<li><a href="https://www.cosmos.esa.int/web/smpag">Space Mission Planning Advisory Group (SMPAG)</a></li>
+<li><a href="https://www.un.org/en/observances/asteroid-awareness-year">International Year of Asteroid Awareness and Planetary Defense (IYAPD 2029)</a></li>
+</ul>
+
+</div>
+
+</div>
+</div>
+
+<hr />
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+
+</html>

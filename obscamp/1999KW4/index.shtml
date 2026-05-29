@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>NEA (66391) 1999&nbsp;KW4 Observing Campaign</title>
+<link rel="stylesheet" href="/obscamp/1999KW4/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>NEA (66391) 1999&nbsp;KW4 Observing Campaign</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/1999KW4/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>Introduction</h2>
+
+<p>Welcome to the website for the (66391) 1999&nbsp;KW4 Observing Campaign. Our intention is to provide a central clearinghouse for basic information about the near Earth asteroid (66391) 1999&nbsp;KW4 and about the observations that will be obtained during its upcoming apparition.</p>
+<p>This campaign is organized by the <a href="http://iawn.net/index.shtml">International Asteroid Warning Network (IAWN)</a> to exercise the observing resources and characterization capabilities that may be applied to a near-Earth object on a reasonably short timescale. It is the second such campaign to be organized by IAWN, the first being organized for the <a href="http://2012tc4.astro.umd.edu/">2012 TC4 close approach</a> in October of 2017.</p>
+<p>This site will contain background information about (66391) 1999&nbsp;KW4, a list of observations that are planned/scheduled/obtained, and status reports on the events leading up to the close approach. We will also produce an email list where updates can be broadcast to subscribers.</p>
+
+
+<h2>News</h2>
+				<ul>
+				<li>2019-06-04: <a href="https://www.theregister.co.uk/2019/06/04/binary_asteroid_nasa_dart/">Bad news. Asteroid 1999 KW4 flew by, did not hit Earth killing us all. Good news: Another one, Didymos, is on the way</a></li>
+				<li>2019-06-03: <a href="https://www.eso.org/public/news/eso1910/">ESO contributes to protecting Earth from dangerous asteroids</a></li>
+				</ul>
+
+<h2>Summary of the 2019 Apparition</h2>
+
+<h3>NEA (66391) 1999&nbsp;KW4 is a near-Earth asteroid</h3>
+
+
+<ul>
+<li>Closest approach to the Earth occurs on 2019-May-25 23:04 UT 
+	<ul>
+	<li>Speed with respect to Earth is 21.17 km/sec</li>
+	</ul></li>
+<li>Geocentric Distance (current best value - JPL#265)
+	<ul>
+	<li>0.03464 AU</li>
+	<li>13.5 Lunar distances</li>
+	<li>5.1800&times;10<sup>6</sup> km</li>
+	</ul></li>
+</ul>
+
+<!-- Lunar Dist 384400 km, Earth Radius 6378 km km2miles 0.621375 -->
+
+
+<h3>Brightness</h3>
+
+<p>Current estimates suggest it should peak around mag 12.5 shortly after closest approach</p>
+
+
+<h3>Observing conditions (for observations at visible wavelengths)</h3>
+
+<p>Conditions are poor during the asteroid's approach to the Earth, so it may not be highly observable until shortly before the close approach. Conditions improve after close approach, so that is likely when much of the characterization will occur. (See the Observing Geometry link for more details.)</p>
+
+<ul>
+<li><strong>Before Close Approach</strong>
+	<ul>
+	<li>In southern skies (Dec ~-40&deg;)</li> 
+	<li>Within 40&deg; of the Sun until late April</li>
+	</ul></li>
+</ul>
+
+<ul>
+<li><strong>After Close Approach</strong>
+	<ul>
+	<li>Close to the equator </li>
+	<li>Large solar elongations and moderate phase angles</li>
+	</ul></li>
+</ul>
+<br />
+
+<h3> (66391) 1999&nbsp;KW4 is a binary object</h3>
+<ul>
+<li>Radar observations from 2006 showed that it is a binary asteroid
+	<ul>
+	<li>The secondary has dimensions approximately 1/3 of the primary</li>
+	<li>Secondary orbits with a period ~17.4 hrs </li>
+	<li>Secondary's rotation is synchronous with its orbit </li>
+	</ul></li>
+</ul>
+
+<!-- <h3>NASA Bulletins</h3> -->
+
+
+
+<h2>History</h2>
+<h3>Discovery</h3>
+<p>1999 KW4 was discovered May 20, 1999 by the Lincoln Near-Earth Asteroid Research (LINEAR) project located near Socorro, New Mexico.</p>
+
+
+
+
+
+
+<!-- 2017.10.16: since we are past the event, and never actually sent out any updates, thought it best to temporarily comment out the info about the mailing list -->
+
+<!-- <h3 class="clear">Mailing List</h3>
+<p>We are maintaining an email list for broadcasting occasional updates regarding the 1999&nbsp;KW4, and for making announcements regarding short-term transient events that might prompt follow-up observations.</p>
+
+<p>If you want to be added to (or removed from) this list, then send your name, affiliation and email address to the <a href="/obscamp/1999KW4/contact.shtml" title="Contact us web form">Contact Web Form</a></p> -->
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/1999KW4/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

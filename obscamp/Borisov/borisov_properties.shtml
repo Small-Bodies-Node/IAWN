@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Comet 2I/Borisov Observing Campaign -- Physical Properties</title>
+<link rel="stylesheet" href="/obscamp/Borisov/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>Comet 2I/Borisov -- Physical Properties</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/Borisov/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>What is Known about Comet 2I/Borisov?</h2>
+
+<p></p>
+
+
+
+<h3>Physical Properties</h3>
+
+<table style="width:100%; border-spacing:0px;">
+
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+
+<tr>
+<th>Property</th>
+<th>Value (primary)</th>
+<th>Reference<sup>1</sup></th>
+<th>Value (secondary)</th>
+<th>Reference<sup>1</sup></th>
+</tr>
+
+<tr>
+<td><strong>Effective radius</strong></td>
+<td>0.7 - 3.3 km</td>
+<td><a href="https://ui.adsabs.harvard.edu/abs/2019arXiv190912144F/abstract"  onclick="this.target='_blank'">Fitzsimmons et al.</a></td>
+<td>&lt;3.8 km </td>
+<td><a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...886L..29J/abstract"
+       onclick="this.target='_blank'">Jewitt & Luu</a></td>
+</tr>
+
+<tr>
+<td><strong>Axial Ratio</strong></td>
+<td>UNK</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Rotation Period</strong></td>
+<td>UNK</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Carbon chain depleted</strong></td>
+<td>Yes</td>
+<td><a href="https://ui.adsabs.harvard.edu/abs/2019A%26A...631L...8O/abstract">Opitom
+       et al.</a></td>
+<td></td>
+<td></td>
+</tr>
+
+
+</table>
+
+<div class="center"><img src="/obscamp/Borisov/gallery/2I-physical-properties.png" width="800" alt="" /></div>
+
+<ul>References
+<li><a href="https://ui.adsabs.harvard.edu/abs/2019arXiv190912144F/abstract"
+       onclick="this.target='_blank'">Fitzsimmons et al., 2019, arXiv:1909.12144  </a></li>
+<li><a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...886L..29J/abstract"
+       onclick="this.target='_blank'">Jewitt & Luu, 2019, Ap. J. Lett. 886,
+       29.</a></li>
+<li><a href="https://ui.adsabs.harvard.edu/abs/2019A%26A...631L...8O/abstract"
+       onclick="this.target='_blank'">Opitom et al., 2019, A & A Lett 631, 8.</a></li>
+</ul>
+
+
+
+<ul>Links
+<li><a href="https://en.wikipedia.org/wiki/2I/Borisov"  onclick="this.target='_blank'">Wikipedia Entry</a></li>
+<li><a href="https://ssd.jpl.nasa.gov/sbdb.cgi?ID=dK19Q040"  onclick="this.target='_blank'">JPL Small-Body Database Browser</a></li>
+</ul>
+
+<h3>Comments</h3>
+
+<!-- <p><strong>Lightcurve Observations:</strong> </p> -->
+
+<!-- <p><strong>Support for Radar Observations:</strong> </p> -->
+
+<!-- <p><strong>Radar Observations:</strong> </p> -->
+
+
+
+<!-- <h3>Other Phenomena</h3> -->
+<!-- <ul>
+<li>??</li>
+</ul> -->
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/Borisov/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

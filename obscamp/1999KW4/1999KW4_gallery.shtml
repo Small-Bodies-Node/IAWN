@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>NEA (66391) 1999&nbsp;KW4 Observing Campaign -- Gallery</title>
+<link rel="stylesheet" href="/obscamp/1999KW4/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header">
+<h1>NEA (66391) 1999&nbsp;KW4 -- Gallery</h1>
+</div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/1999KW4/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+
+<h2>IMAGES</h2>
+
+<h3>Radar</h3>
+<a name="radar"></a>
+<p><a href="/obscamp/1999KW4/gallery/1999KW4_Arecibo_2019May29-31_30mx0p3Hz.png"><img src="/obscamp/1999KW4/gallery/1999KW4_Arecibo_2019May29-31_30mx0p3Hz.png" width="300" class="right" alt="spectrum from IRTF" /></a> Radar images from Arecibo Observatory on May 29, 30, and 31 unambiguously reveal the binary nature of near-Earth asteroid 66391 (1999 KW4). The images have resolution of 30 meters per pixel in the vertical direction and 0.3 Hz in the horizontal direction and are sums of all data collected at this resolution on each day. The primary component, the larger and wider body at the center of each frame, is more than one kilometer in diameter, while its satellite is about one-third the size of the primary. The width of the echoes depends on the rotation period of the objects: the primary rotates in less than 3 hours, while the rotation of the satellite is likely tidally locked to its orbital period of ~17 hours. The echo of the satellite is also smeared in each frame by its motion in its orbit about the primary. The properties gleaned from the echoes of the two components and their relative orientations will constrain the mass and density of the bodies. As the 1999 KW4 system receded from Earth, the image quality of the data decreased such that later dates required coarser resolution than shown here.
+<br />Observers: Patrick Taylor, Luisa Zambrano-Marin, Sean Marshall, Dylan Hickson, and Anne Virkki. </p>
+<p><a href="/obscamp/1999KW4/gallery/1999KW4.2019May29.s0p378Hz.cw.png"><img src="/obscamp/1999KW4/gallery/1999KW4.2019May29.s0p378Hz.cw.png" width="300" class="right" alt="spectrum from IRTF" /></a>The radar echo-power spectrum of near-Earth asteroid 66391 (1999 KW4) from Arecibo Observatory on 2019 May 29 has the characteristic shape of a binary system. The echo of the satellite is the narrow spike superimposed upon the broadband echo of the larger, faster rotating, primary body. The narrow echo of the satellite is due to its smaller size and slower rotation (typically tidally locked to its orbital period) relative to the primary.
+<br />Observers: Patrick Taylor, Luisa Zambrano-Marin, Sean Marshall, Dylan Hickson, and Anne Virkki. </p>
+<div class="clear"></div>
+
+<h3>Spectra</h3>
+<a name="spectra"></a>
+<p><a href="/obscamp/1999KW4/gallery/1999KW4_NIR.png"><img src="/obscamp/1999KW4/gallery/1999KW4_NIR.png" width="300" class="right" alt="spectrum from IRTF" /></a>Here is the final update from us on the near-IR data from last night. The object has been confirmed to be a Q-type with a meteorite analog of L chondrite (a subtype of ordinary chondrites). We will be working on mutual events data to see if there is any difference between primary and secondary. Plan to have those ready by Monday deadline. Lauren McGraw will be observing the object in 3-microns tonight and Thursday night to see if we can detect any hydration features. </p>
+<div class="clear"></div>
+
+<p><a href="/obscamp/1999KW4/gallery/1999KW4_20190528_DCT_spec.jpeg"><img src="/obscamp/1999KW4/gallery/1999KW4_20190528_DCT_spec.jpeg" width="300" class="left" alt="spectrum from Lowell Observatory & DCT" /></a>DCT visible spectrum of 1999 KW4 obtained the night of May 27-28. The spectrum is consistent with a Q-type taxonomy. </p>
+<div class="clear"></div>
+
+<h3>Canadian <a href="http://www.asc-csa.gc.ca/eng/satellites/neossat/default.asp">NEOSSat</a> image stacks</h3>
+<a name="NEOSSat"></a>
+<p><a href="/obscamp/1999KW4/gallery/NEOSSat_Balam/J99K04W_190514.jpg"><img src="/obscamp/1999KW4/gallery/NEOSSat_Balam/J99K04W_190514.jpg" width="200" class="right" alt="NEOSSat image 2019 May 14" />2019-05-14</a> Canadian NEOSSat image stack of Aten 1999 KW4 on UT 2019 May 14. Start 03:43. This is a 34 minute duration
+image stack (1/3 of a NEOSSat orbit) with effective exposure duration of 1215 seconds. The asteroid is seen at centre with predicted magnitude of 17.0. The NEOSSat field of view is located at solar elongation of 54.4 degrees.
+<br />At the time of observation the geocentric plane-of-sky motion was 162 seconds of arc/hour at position angle 127 degrees (SE).
+<br /><a href="https://youtu.be/RfSYwE0Uy6A">video on YouTube</a> (v1)
+<br /><a href="https://youtu.be/qLhnAoVxVWc">video on YouTube</a> (v2)
+</p>
+
+<div class="clear"></div>
+<p><a href="/obscamp/1999KW4/gallery/NEOSSat_Balam/J99K04W_190513.jpg"><img src="/obscamp/1999KW4/gallery/NEOSSat_Balam/J99K04W_190513.jpg" width="200" class="left" alt="NEOSSat image 2019 May 13" />2019-05-13</a> Canadian NEOSSat image stack of Aten 1999 KW4 on UT 2019 May 13. Start 04:18. This is a 34 minute duration
+image stack (1/3 of a NEOSSat orbit) with effective exposure duration of 1328 seconds. The asteroid is seen at centre with predicted magnitude of 17.2. The NEOSSat field of view is located at solar elongation of 53.6 degrees.
+<br />At the time of observation the geocentric plane-of-sky motion was 140 seconds of arc/hour at position angle 129 degrees (SE).
+</p>
+
+<div class="clear"></div>
+<p> <a href="/obscamp/1999KW4/gallery/NEOSSat_Balam/J99K04W_190510.jpg"><img src="/obscamp/1999KW4/gallery/NEOSSat_Balam/J99K04W_190510.jpg" width="200" class="right" alt="NEOSSat image 2019 May 10" />2019-05-10</a> Canadian NEOSSat image stack of Aten 1999 KW4 on UT 2019 May 10. Start 12:39. This is a 33 minute duration
+image stack (1/3 of a NEOSSat orbit) with effective exposure duration of 1340 seconds. The asteroid is seen at centre with predicted magnitude of 17.6 The NEOSSat field of view is located at solar elongation of 51.1 degrees.
+<br />At the time of observation the geocentric plane-of-sky motion was 97 seconds of arc/hour at position angle 135 degrees (SE).
+<br /></p>
+
+<div class="clear"></div>
+<p> <a href="/obscamp/1999KW4/gallery/NEOSSat_Balam/J99K04W_190501.jpg"><img src="/obscamp/1999KW4/gallery/NEOSSat_Balam/J99K04W_190501.jpg" width="200" class="left" alt="NEOSSat image 2019 May 01" />2019-05-01</a> Canadian NEOSSat image stack of Aten 1999 KW4 on UT 2019 May 01. Start 00:56. This is a 34 minute duration image stack (1/3 of a NEOSSat orbit) with effective exposure duration of 1020 seconds. The asteroid is seen at centre with predicted magnitude of 18.6. The NEOSSat field of view is located at solar elongation of 43.3 degrees.
+<br />At the time of observation the geocentric plane-of-sky motion was 58 seconds of arc/hour at position angle 163 degrees (SE).
+<br /></p>
+
+<div class="clear"></div>
+<p> <a href="/obscamp/1999KW4/gallery/NEOSSat_Balam/NEOSSat_KW4_recovery.jpg"><img src="/obscamp/1999KW4/gallery/NEOSSat_Balam/NEOSSat_KW4_recovery.jpg" width="200" class="right" alt="NEOSSat image 2019 Apr 30" />KW4_recovery - UT 2019 Apr. 30</a> Canadian NEOSSat image stack of Aten 1999 KW4 on UT 2019 Apr. 30. Start 01:31. This is a 46 minute duration image stack (1/2 of a NEOSSat orbit) with effective exposure duration of 1420 seconds. The asteroid is seen at centre with predicted magnitude of 18.7. The NEOSSat field of view is located at solar elongation of 42.4 degrees.
+<br />At the time of observation the geocentric plane-of-sky motion was 58 seconds of arc/hour at position angle 166 degrees (SE). The star trails are now arcs with compensation for the orbital motion of the spacecraft. The image at right id the shift&co-add image and the image at left is a shift&median filter image showing only the target asteroid. </p>
+<p><strong>Credit:</strong> David D. Balam, for image processing and measurement
+<br />NEOSSat is owned and operated by the Canadian Space Agency and Defence Research and Development Canada. Astronomy data obtained with NEOSSat is available via the CSA Open Data platform at <a href="https://open.canada.ca/data/en/dataset/9ae3e718-8b6d-40b7-8aa4-858f00e84b30">open.canada.ca/data/en/dataset/9ae3e718-8b6d-40b7-8aa4-858f00e84b30</a>. </p>
+
+<h2>MOVIES/ANIMATIONS</h2>
+
+<a name="flyby5"></a>
+<h3>KW4 Flyby (Northolt Branch Observatories)</h3>
+<p><a href="https://www.facebook.com/NBObservatories/videos/1209573015898648/">video on Facebook</a>
+<br /><strong>Exposure:</strong> 186 &times; 5s
+<br /><strong>Date:</strong> 2019-05-31
+<br /><strong>Camera:</strong> QHY42
+<br /><strong>Telescope:</strong> 250mm Ritchey-Chr&eacute;tien Astrograph
+<br />
+<br /><strong>Credit:</strong> Northolt Branch Observatories
+<br /><br />
+</p>
+
+<a name="flyby5"></a>
+<h3>KW4 Flyby (Northolt Branch Observatories)</h3>
+<p><a href="https://www.facebook.com/NBObservatories/videos/612602539234109/">video on Facebook</a>
+<br /><strong>Exposure:</strong> ?? &times; 5s
+<br /><strong>Date:</strong> 2019-05-28
+<br /><strong>Camera:</strong> QHY42
+<br /><strong>Telescope:</strong> 250mm Ritchey-Chr&eacute;tien Astrograph
+<br />
+<br /><strong>Credit:</strong> Northolt Branch Observatories
+<br /><br />
+</p>
+
+<a name="flyby4"></a>
+<h3>KW4 Flyby (Las Cumbres)</h3>
+<p><a href="https://www.facebook.com/529078190622222/videos/885669298433940/">video on Facebook</a>
+<br /><strong>Exposure:</strong> 2s; &quot;w&quot; band filter
+<br /><strong>Date:</strong> start: 2019-05-24T16:44:24
+<br /><strong>Camera:</strong> <a href="https://arxiv.org/pdf/1305.2437.pdf">SINISTRO</a>
+<br /><strong>Telescope:</strong> 1.0-m f/8 modified Ritchey-Chretien (MPC code W86)
+<br />
+<br /><strong>Credit:</strong> Dan Dicher, Mililani Mauka Elementary School &amp; Las Cumbres
+<br /><br />
+</p>
+
+<div class="clear"></div>
+
+<a name="flyby3"></a>
+<h3>KW4 Flyby (SONEAR Observatory)</h3>
+<p><a href="https://www.facebook.com/watch/?v=2183760901705134">video on Facebook</a>
+<br /><strong>Exposure:</strong> 300 &times; 10s
+<br /><strong>Date:</strong> UT 2019-05-26 21:46 to 23:42
+<br /><strong>Camera:</strong> FLI 8300
+<br /><strong>Telescope:</strong> 18&quot; f/2.9 reflector
+<br />
+<br /><strong>Credit:</strong> Cristovao Jacques, SONEAR Observatory
+<br /><br />
+</p>
+
+<div class="clear"></div>
+
+<a name="flyby2"></a>
+<h3>KW4 Flyby (J. Bradshaw, Q79)</h3>
+<p><a href="https://youtu.be/uv8wbeOTJk4">video on YouTube</a>
+<br /><strong>Exposure:</strong> 7401 &times; 1 sec, captured with Sharpcap
+<br /><strong>Date:</strong> UT 2019 May 26
+<br /><strong>Camera:</strong> Zwo ASI174mm, no filter
+<br /><strong>Telescope:</strong> 14&quot; Meade SCT with hyperstar running at f/2
+<br />
+<br /><strong>Credit:</strong> Jonathan Bradshaw, Samford Valley Observatory, Australia (Q79)
+<br /><br />
+</p>
+
+<div class="clear"></div>
+
+<a name="flyby1"></a>
+<h3>KW4 Flyby (J. Bradshaw, Q79)</h3>
+<p><a href="https://youtu.be/9pM0pvQna7k">video on YouTube</a>
+<br /><strong>Exposure:</strong> 2830 &times; 1 sec, captured with Sharpcap
+<br /><strong>Date:</strong> UT 2019 May 24 08:29:32 until 09:21:49.
+<br /><strong>Camera:</strong> Zwo ASI174mm, no filter
+<br /><strong>Telescope:</strong> 14&quot; Meade SCT with hyperstar running at f/2
+<br />
+<br /><strong>Credit:</strong> Jonathan Bradshaw, Samford Valley Observatory, Australia (Q79)
+<br /><br />
+</p>
+
+<div class="clear"></div>
+
+<a name="recovery"></a>
+<h3>KW4 Recovery</h3>
+<p>
+<a href="/obscamp/1999KW4/gallery/20190509_recovery_MPC181.gif"><img src="/obscamp/1999KW4/gallery/20190509_recovery_MPC181.gif" width="256" height="256" alt="" class="left" /></a>
+<br /><strong>Exposure:</strong> 2 &times; 90 sec exposures
+<br /><strong>Date:</strong> obtained on 2019 May 09.07 UT
+<br />with the 0.6 m telescope at the Observatoire des Makes, on the French island of R&eacute;union, in the Indian Ocean (MPC code 181)
+<br />object had an altitude of ~20&deg; above the horizon and an elongation of just 50&deg; from the Sun.
+<br /><strong>Credit:</strong> Fr&eacute;d&eacute;ric Vachier, Jerome Berthier (Observatoire de Paris Meudon, CNRS), Marco Micheli, R&uuml;diger Jehn (ESA NEOCC), A. Klotz (IRAP), J.-P. Teng, A. Peyrot, P. Thierry (Observatoire des
+Makes, La R&eacute;union)
+<br /><br /></p>
+
+<div class="clear"></div>
+
+<h3>Orbit Animation</h3>
+<p><a href="/obscamp/1999KW4/gallery/kw4-orbit.mov"><video controls="controls" width="1000" name="Orbital animation of 1999 KW4" src="/obscamp/1999KW4/gallery/kw4-orbit.mov"></video>
+<br />Click to download</a>
+<br /><br /><img src="/obscamp/1999KW4/gallery/kw4-orbital-parameters.png" width="400" alt="" />
+<br />Orbital Parameters, JPL</p>
+
+<h3>Asteroid Rotation Animations</h3>
+
+<table>
+<tr>
+<td><a href="/obscamp/1999KW4/gallery/kw4-rotation.mov"><video controls="controls" width="500" name="Orbital animation of 1999 KW4" src="/obscamp/1999KW4/gallery/kw4-rotation.mov"></video>
+<br />Click to download</a></td>
+
+<td><a href="/obscamp/1999KW4/gallery/kw4-rotation-binary.mov"><video controls="controls" width="500" name="Orbital animation of 1999 KW4" src="/obscamp/1999KW4/gallery/kw4-rotation-binary.mov"></video>
+<br />Click to download</a></td>
+</tr>
+</table>
+<p><img src="/obscamp/1999KW4/gallery/kw4-physical-properties.png" width="1000" alt="" />
+<br />Table of Physical Properties. See also <a href="1999KW4_properties.shtml">Physical Properties</a>
+<br /><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?doi=10.1126/science.1133622" onclick="this.target='_blank'">Ostro et al. 2006, Science 314, 1276-1280.</a></p>
+
+<h3>SHAPE MODEL</h3>
+<ul>
+<li>Primary: <a href="/obscamp/1999KW4/gallery/kw4a.cmod">cmod</a>, <a href="/obscamp/1999KW4/gallery/kw4a.obj">obj</a>, <a href="/obscamp/1999KW4/gallery/kw4a.wrl">wrl</a></li>
+<li>Secondary: <a href="/obscamp/1999KW4/gallery/kw4b.cmod">cmod</a>, <a href="/obscamp/1999KW4/gallery/kw4b.obj">obj</a>, <a href="/obscamp/1999KW4/gallery/kw4b.wrl">wrl</a></li>
+</ul>
+
+<x-model src="/obscamp/1999KW4/gallery/kw4a.obj"></x-model>
+
+
+
+
+
+
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/1999KW4/css-n-inc/footer.inc" -->
+<p class="right">Last updated:
+<!--#config timefmt="%A %B %d, %Y"-->
+<!--#echo var="LAST_MODIFIED" -->
+</p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+
+</html>

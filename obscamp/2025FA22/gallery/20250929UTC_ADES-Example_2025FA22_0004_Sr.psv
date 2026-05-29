@@ -1,0 +1,26 @@
+# version=2017
+# observatory
+! mpcCode F51
+! name Pan-STARRS 1
+# submitter
+! name P. Villa
+! institution Ej?rcito Constitucionalista
+# telescope
+! aperture 1.5
+! design Reflector
+! detector CCD
+# observers
+! name P. Villa
+! name F. Madero
+# measurers
+! name P. Villa
+! name F. Madero
+# comment
+! line This is a comment
+# comment
+! This file was modified from ADES-Master GitHub psv example file list: https://github.com/IAU-ADES/ADES-Master/blob/master/tests/psv/validpsv/ades
+permID |provID     |trkSub  |mode|stn |obsTime                |ra         |dec        |rmsRA|rmsDec|rmsCorr|astCat  |mag  |rmsMag|band|photCat|logSNR|notes|remarks
+       |2025 FA22  |      aa| CCD|F51 |2025-09-29T12:32:34.02Z|  0        | 90        |0.15 |0.13  | 0.21  |   SDSS8|18.92|0.05  |  Sr|   SDSS8|1.443 |kmnt |High winds affected tracking
+       |2025 FA22  |      aa| CCD|F51 |2025-09-29T12:33:45.49Z|  0.1      | 30.0      |0.15 |0.13  | 0.21  |   SDSS8|18.95|0.04  |  Sr|   SDSS8|1.459 |kmnt | 
+       |2025 FA22  |      aa| CCD|F51 |2025-09-29T12:34:54.23Z|  0.1      |-30.0      |0.15 |0.13  | 0.21  |   SDSS8|18.93|0.02  |  Sr|   SDSS8|1.654 |kmnt |Great seeing this frame
+       |2025 FA22  |      aa| CCD|F51 |2025-09-29T12:36:01.19Z| +0.1      |+30.0      |0.15 |0.13  | 0.21  |   SDSS8|18.91|0.08  |  Sr|   SDSS8|1.205 |kmnt |Light clouds

@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>2019&nbsp;XS: 2021 Timing Campaign</title>
+<link rel="stylesheet" href="/obscamp/2019XS/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>2019&nbsp;XS: Timing Assessment</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/2019XS/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>Introduction</h2>
+
+<p>IAWN will conduct a campaign to check the accuracy of the observation times reported by asteroid observers. The goal of the campaign is to provide an opportunity for observers to voluntarily check their timing accuracy by observing near-Earth asteroid 2019&nbsp;XS on November 9th and 10th, 2021, when the asteroid will be as close as 1.5 lunar distances to Earth. The high plane-of-sky rate of motion during the encounter enables the assessment of the accuracy of the reported observation times. Astrometry obtained as part of this campaign should be submitted to the Minor Planet Center as part of regular submission process by November 12th, 2021. Observers interested in contributing to the campaign are encouraged to sign up at the IAWN website (https://iawn.net/obscamp/2019XS/). Pre- and post-flyby teleconferences will be organized to answer any questions and discuss the outcomes of the campaign. Other asteroids with high rates of motion could be considered as additional targets of the campaign in 2022. IAWN campaign coordinator Vishnu Reddy (vishnureddy@arizona.edu) is the point of contact for this campaign.</p>
+
+<ul>
+<li>Close approach to Earth: 2021 November 9 at 3:38 UT, distance = 1.5 LD</li>
+<li>Observations on 2021 November 9-11. Maximum rate of motion 3.8 arcsec/s</li>
+<li>Submit astrometry to the MPC by 2021 November 12 at 23:59 EST. ADES is the preferred format.</li>
+</ul>
+
+<h3>Process</h3>
+<p><img src="gallery/Reddy_fig7.jpg" width="300" class="left" alt="Fig7 From Reddy et al 2019" />Similar to the 2012 TC4 analysis in <a href="https://www.sciencedirect.com/science/article/pii/S0019103518307085">Reddy et al (2019)</a>, astrometric accuracy will be estimated using cross-track residuals. Along-track residuals will be used to assess the timing accuracy. Registrants will receive summary timing analysis for their submissions.</p>
+
+<p><br /><br /><br /><br /></p>
+<p><br /><br /><br /><br /></p>
+
+<h2>Register</h2>
+<p>By registering for this campaign you will be provided with the summary analysis for the observations you reported to the MPC.</p>
+<p>REGISTRATION is closed for this campaign.<!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdG-ghFQD_NAXmBKwKiYrPwOcrF35DhJDD-vNqYD-Fm_OxRuw/viewform">REGISTER</a> --></p>
+
+<ul>
+<li>Register (by 2021 Nov 12, 23:59 UT) if you plan on observing 2019 XS.</li>
+<li>Observe 2019 XS sometime over 2021 Nov 9-11.</li>
+<li>Submit your observation reports as usual to the MPC.</li>
+<li>Our team will then look at the observations submitted to the MPC and analyse.</li>
+<li>Registered campaign observers will receive a report back by the end of the year.</li>
+</ul>
+
+<h2>Tip/Hints</h2>
+<h3>Telescope Location</h3>
+<p>An error in telescope location contributes to the astrometric error and might affect the analysis of the error in the time of the observation. 
+Therefore, participants in the 2019 XS campaign should confirm the accuracy of the coordinates of their observatory: <a href="https://www.minorplanetcenter.net/iau/lists/ObsCodes.html">www.minorplanetcenter.net/iau/lists/ObsCodes.html</a> .In particular, the proper elevation to use is with respect to the WGS84 reference ellipsoid, not with respect to mean sea level.</p>
+<ol>
+<li>Here is a general information link: <a href="https://minorplanetcenter.net/iau/info/ObservatoryCodes.html">minorplanetcenter.net/iau/info/ObservatoryCodes.html</a></li>
+<li>Here is a link to the MPC's Jira Helpdesk: <a href="https://minorplanetcenter.net/contact">minorplanetcenter.net/contact</a>. <em>Please submit any updated coordinates via the Jira helpdesk.</em></li>
+</ol>
+
+<!-- <h3>Stacking</h3>
+<p>Around the time of close approach, 2019 XS ought to be bright enough to avoid the need to stack multiple exposures, even with smaller telescopes. However, if stacking is needed for when 2019 XS is fainter (or in general for other fast-moving NEOs), it is important to note that the average time of the multiple exposures is not necessarily going to be the proper time to associate with the position of the asteroid being reported to the MPC. It is recommended to pick one of the exposures as reference, possibly one close to the mid-time of the observations. That exposure's shift in the stack will be 0,0 by definition, and all other exposures are shifted by the product of the asteroid's motion and (t - tref), where t is the time of the exposure being shifted and tref is the time of the reference exposure. The position of the asteroid measured from the stack then corresponds to the time of the reference exposure, and the pixel coordinates of the asteroid are converted into right ascension and declination using the astrometric solution for the reference exposure.</p> -->
+
+<h3>Exposure time</h3>
+<p>Given the high plane-of-sky rate of motion, short exposure times can help reduce trailing errors.</p>
+
+<h3>Format &amp; Time Precision</h3>
+<p>Observers are encouraged to use ADES to report their observations to the MPC, including the estimated astrometric position and time uncertainties. All significant digits in time should be reported. Observers that use the MPC 80-column observation format should report the observation time to a precision of 0.000001 days.</p>
+
+
+<h2>Results</h2>
+<h3>Map of Timing Campaign Participants</h3>
+<p><a href="gallery/IAWN_K19X00S_obscodes_info.pdf"><img src="gallery/IAWN_K19X00S_obscodes_info.png" width="700" alt="" /></a>
+<br />2021-11-16: A post-CA call was held to briefly assess the observations, and overview the strategy being used to make the more in-depth reports. A preliminary map of participant observation sites is shown above. We anticipate the more detailed individual reports in January after this apparition ends and a final video call in mid-January for participants. Plans are also being made for the next timing campaign later in the year after observers have had some time to implement suggestions.</p>
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/2019XS/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

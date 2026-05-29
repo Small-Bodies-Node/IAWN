@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 14th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">14th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p><strong>The 14th IAWN Steering Committee Meeting - </strong>
+<br /><strong>Virtual</strong>
+<br />8 Feb 2022 -- <a href="/documents/20220208_14th_virtual/14th_IAWN_Mtg_Summary.pdf">Meeting Notes</a></p>
+
+<dl>
+<dt>IAWN Steering Committee members in attendance:</dt>
+<dd>Sergio Camacho (INAOE)
+<br />Paul Chodas (JPL/CNEOS)
+<br />Alan Harris (DLR)
+<br />Lindley Johnson (NASA HQ/PDCO)
+<br />Detlef Koschny (ESA/PDO)
+<br />Patrick Michel (CNRS/OCA)
+<br />Boris Shustov (Russian Academy of Sciences)
+<br />Gonzalo Tancredi (International Astronomical Union)
+<br />Giovanni Valsecchi (INAF)
+</dd>
+
+<dt>IAWN permanent observers in attendance:</dt>
+<dd>Detlef Koschny (ESA/SMPAG chair)
+<br />Romana Kofler (UNOOSA)</dd>
+
+<dt>IAWN.net in attendance:</dt>
+<dd>Tilden Barnes, James Bauer, Tony Farnham, Elizabeth Warner (Univ. Maryland, NASA PDS SBN)
+<br />Vishnu Reddy (Univ. Arizona/Univ. Maryland, NASA PDS SBN)
+<br />Tim Spahr (NEO Sciences, LLC/Univ. Maryland, NASA PDS SBN)
+</dd>
+
+<dt>IAWN Coordinating Officer:</dt>
+<dd>Kelly Fast (NASA HQ/PDCO)</dd>
+
+<dt>IAWN others attendees:</dt>
+<dd>204 - Luca Buzzi
+<br />6ROADS - Michal Zolnowski
+<br />Agenzia Spaziale Italiana - Ettore Perozzi
+<br />ESA PDO - Juan Luis Cano, Luca Conversi, Laura Faggioli, Marco Micheli, Richard Moissl, Regina Rudawska
+<br />European Southern Observatory - Andrew Williams
+<br />Instituto de Astrofisica de Canarias - Javier A Licandro Goldaracena
+<br />Israel Space Agency - Harel Ben-Ami
+<br />KASI - Hong-Kyu Moon
+<br />Keldysh Institute, Russia - Artem Mokhnatkin 
+<br />Minor Planet Center - Federica Spoto
+<br />NASA - Robert Holmes (ARI); Chengxing Zhai (JPL/654); Davide Farnocchia (JPL/CNEOS); Nick Moskovitz (Lowell Obs.); Eric Christensen (Univ. Arizona/Catalina Sky Survey); Robert McMillan (Univ. Arizona/Spacewatch); Larry Denneau (Univ. Hawaii/ATLAS); Linda Billings, Doris Daou, (NASA HQ/PDCO)
+<br />NOAK Observatory, L02, Greece - Nick Sioulas
+<br />Northolt Branch Observatory, UK - Guy Wells
+<br />Romanian Academy, Institutul Astronomic - Mirel Birlan
+<br />SONEAR, Brazil - Cristovao Jacques
+<br />Sormano Observatory, Italy - Francesco Manca
+<br />Squirrel Valley Observatory W34, U.S. - Randy Flynn
+<br />Vi&#154;njan Observatory - Korado Korlevic
+<br />National Astronomical Observatories, Chinese Academy of Sciences, China - Cheng Haowen, Yang Xu
+<br />Zwicky Transient Facility, U.S. - Tom Prince
+</dd>
+
+</dl>
+
+
+<p><strong>Kelly Fast</strong> (NASA/PDCO) openened the meeting and led introductions.</p>
+
+<p>An <em>IAWN update</em> was given by <strong>Tim Spahr</strong> (IAWN.net Manager) who noted that IAWN continues to grow, with 38 signatories now. Tim Spahr invited more content for short articles for the IAWN website, which also campaign websites, has signatory twitter feeds, and close approach lists, noting that issues of communication have come up several times.</p>
+
+<p>A <em>NASA updat</em>e was given by <strong>Lindley Johnson</strong>. DART launched on 23 November 2021. Impact with Dimorphos, satellite of Didymos, will be on 26 September 2022. The Italian Space Agency LICIA cubesat will observe the impact, and the DART investigation team has planned ground-based observations of the impact and orbit change. In NASA's Near-Earth Object Observations Program, new ATLAS sites have some online in the southern hemisphere. NASA's Planeary Data System is beginning to publicly archive NEO survey data sets. The latest discovery statistics were presented, with 28,191 total, 9994 > 140m in size, and just over 2200 in orbits hazardous to Earth. The by-year discovery rates continue to climb, with over 3000 discovered in 2021, but the story is different with the >140m asteroids with 451 discovered in 2021. At the rate of 500/year it would take 30 years to find the 90% of that population. We are at 41% now. NEO surveyor is desgned to address that by accelerating the survey. Key Decision Point B for NEO Survyeor was approved on 11 June 2021, and if fully funded in fiscal year 2022, NEO Surveyor would launch in 2026.</p>
+
+<p>An <em>ATLAS updat</em>e was given by <strong>Larry Denneau</strong> (Univ. of Hawaii). ATLAS is funded by NASA and designed to survey wide and shallow. The telescopes are 0.5 meter f/2, 30 sq. deg fov, ~3.5" PSF, 1.9"/pixel. Two telescopes operate in Hawaii and NASA awarded funding in 2018 for the construction of two additional telescopes at Southern Hemisphere sites in South Africa and Chile. The telescope at the Sutherland Observing Station, South African Astronomical Observatory. COVID limited travel to South Africa so Larry Denneau and John Tonry led a four-day commissioning sprint virtually with the SAAO team led by Nic Erasmus, and that station has already made 2 discoveries. A few weeks later, the same virtual commission process tool place with the Chile at private El Sauce with support from collaborations (Uni. Chile, Millenium Inst. of Astrophysics - MAS, Uni. Cat&oacute;lica, Obstec who leads the site). The hardware the same as Hawaii but there are optical differences and they are dealing with stray light and other issues during commissioning, but expect to have the systems working to full capacity in the coming months. There will be a 4-telescope weather-optimizing schedule. An ATLAS site in the Canary Islands is being developed at IAC using 4x Celestron RASA11 and QHY600 CMOS cameras, which can be processed with the ATLAS pipeline and could go deeper with synthetic tracking. It can give more weather resiliency especially when Hawaii is weathered out.</p>
+
+<p>An <em>ESA update</em> was given by <strong>Detlef Koschny</strong>. <strong>Juan Cano</strong> started coordinating activities funded by European Commission including fireballs, lunar impact flashes, possible European support for a Minor Planet Center activity. <strong>Richard Moissl</strong> will succeed Koschy as the new head of the Planetary Defense Office starting on 1 March 2022. There is internal discussion on what they call a close approach, but at some point this should be brought to IAWN for a commonly agreed definition. There was participation in the IAWN observing campaign, with new observatory codes assigned. There is investigation of radar possibilities in Europe and budget to study a telescope array for asteroid observations. A guide to the asteroid impact threat is almost finalized to explains to agencies what is meant by an asteroid impact threat, along with an impact effect tool to vary parameters and display effects. There is initial study of a space-based infrared telescope concept that would complement the planned NASA IR mission by looking at covering the entire sky. Fly-Eye (7x7 deg FOV) will have factory acceptance in coming weeks with first light planned in 2022 in southern Italy, and then installation in Sicily in 2023. A SMPAG exercise is being led by Camilla Columbo, ASI. The exercise has three questions: What do the nations think the task are, how would they interface with the international community, and what is still missing? This needs close coordination with IAWN for asteroid properties.</p>
+
+<p>A <em>KASI update</em> was given by <strong>Hong-Kyu Moon</strong>. KASI joined the IAWN Apophis campaign with time series photometry using 30 facilities from 14 countries and 50 observers over 256 nights. Visible and near-IR time-series spectroscopy were obtained with the Seimei telescope in Japan, NASA IRTF and Gemini.</p>
+
+<p>The <em>IAC updat</em>e was given by <strong>Javier Liandro</strong> and <strong>Julia De Leon</strong>. (screenshots). Space mission targets, NHATS objects, radar targets, virtual impactors, and PHAs are prioritized with photometry (2 decidated 46 cm telescopes) and visible spectroscopy (Nordic Optical Telescope, Isaac Newton Telescope, Gran Telescopio Canarias).</p>
+
+<p>The <em>Israel Space Agency update</em> was given by <strong>Hari Ben Ami</strong>.</p>
+
+<p><strong>Luca Buzzi</strong> (204) gave an update, noted that the telescope developed for Namibia was being shipped.</p>
+
+<p>The <em>Minor Planet Center update</em> was given by <strong>Matthew Payne</strong> and <strong>Federica Spoto</strong>. MPC participated in the IAWN timing campaign. Issue tracking and community interaction is now handled with Jira helpdesk, and email is low priority. Jira software management is being used for complex projects, established with the help of the new technical manager, Chris Moriarity. There is an MPC announcement email list mainly for important annoucnements such as outages, and requests to be added can be made from the help desk page.
+A beta version of the recovery MPECs had been shown previously and it is now online and functioning. Users are encouraged to use it and to check the astronometry and report any issues.
+<br />Pipeline automation is being improved, such as orbit fitting, TNOs, natural satellites, and identifications. Orbfit will be extended to all the pipelines, which is a long process, but it will improve ease of use. A new orbit data format is being created. For high precision astronometry, MPC io working with occultation group at JPL to ingest using ADES, and a new format is in development.
+MPD will be ready to ingest Gaia DR2 on June 13th 2022, with 20 million observations of 1.5 million objects to be injested in ADES format, making Gaia available from MPC. MPC asks for reports of any problems with ADES.
+<br />MPC is looking at consistency and data quality and is preparing to publicly release a Postgres database of observations and orbits to replace the flat files. Regarding the website and the database, the goal is to make APIs available to replace website scraping.
+Monthly data process was displayed and MPC continues to refine a validation control system, working toward automation and reliability. MPC is preparing for the next generation of surveys, including to-scale exercises with the Vera C. Rubin Observatory.</p>
+
+<p>An analysis of NEO discoveries in 2021 was presented by <strong>Tim Spahr</strong>. He noted that over 3000 NEOs were discovered in 2021, with the majority from Catalina Sky Survey and Pan-STARRS but that successful implementation of digital synthetic tracking had enabled smaller telescopes to go fainter, most notably by MAP W94 in Chile with 56 NEO discoveries in 2021. Tycho Tracker is utilized. The future surveys will likely discover these objects, but the smaller telescopes utilizing digital synthetic tracking can transition to follow-up. There was some discussion and concern about false positivies.</p>
+
+<p>The <em>IAWN Timing Campaign results</em> were presented by <strong>Davide Farnocchia</strong>. The target was asteroid 2019 XS over November 8-12, 2021, which had a well-constrained orbit and was bright and fast-moving at close approach. The goal was not to shame anyone but to help observers identify potential issues and systematics and to resolve them. Understanding timing erros help observers identify possible issues and fix them. Data quality knowledge can inform data treatment in orbit determination. The broad participation was impressive - 69 stations and 891 observations - with good longitudinal coverage which is valuable for when there is not enough time for a station to reach night again, especially for a close approach target. This level of participation is not normally needed for a typical object but it was valuable for this timing analysis. ADES format includes uncertainty reporting which is valuable for orbit determination. More than half of the observations were submitted in ADES, with the uncertainty information used in the analysis, and broader adoption of ADES is encouraged.
+<br />Along-track is with the motion of the object on the sky and manifests positional errors. Cross-track is orthogonal to the motion and is not affected by timing errors. The cross-track reporting looked good, mainly within 0.5 arcsecond. The along-track errors tended to get worse as the rate of motion inreased. Uncertainties appeared to be a mix of overestimated and underestimated uncertainties. A timing error was estimated for each tracklet reported. Most errors were within a second, but there was a clear prevalence of a negative bias in timing, so the reported times are earlier than the actual time when the data were taken. That is common to everyone and would bias orbit determination, so that timing bias needs to be fixed. Reports will be sent to individual observers by CNEOS with feedback on the uncertainty estimate (i.e., if underestimated) and any timing bias, and the aggregate results with published with all participants as coauthors. Observers and work to improve uncertainty and timing, which can be evaluated in a future campaign.</p>
+
+<p>An <em>update on the planning toward an International Year for planetary defense</em> was given by <strong>Romana Kofler</strong>. There is representation of the planning committee by the IAWN steering committee and signatories, and volunteers are welcome. There are discussions regardling the actual title of the International Year given sensitivies to the term "defense." The targeted year is 2029 because of the close-approach of Apophis, which give plenty of time to propose and plan.</p>
+
+<p>A <em>Dark &amp; Quiet Skies update</em> was given by <strong>Andy Williams</strong>, who works in ESO external relations and attends COPUOS and chairs the SatCon working group. Hundreds of thousands of satellites are proposed in ITU filings, so any mid-latitude observations could have 5000 satellites overhead at any time, though not all will be illuminated by the Sun, and they will typically be below 30 degrees elevation. Starlinks were bright when first launched, with V of 3-4 in parking orbits and then 6.5-9 on station, and mitigations such as sunshields can bring them below naked eye visibility. Higher-altitude constellations are fainter but also visible for more of the night. There is no regulation so that motivated the Dark &amp; Quiet Skies project. Bilateral relations are good but challenging with the increasing number of companies, so regulation is needed. There are no laws except for U.S. ban on advertising from space. The situation for radio frequencies is a little better because of protected frequency zones and radio quiet zones, but those do not address space. There are reports online from the SatCon workshops and the Dark &amp; Quiet Skies sessions at conferences.</p>
+
+<p>One of two major updates is that a paper was submitted to the UNCOPUOS Scientific &amp; Technical Subcommittee which included the benfits of interaction with industry, the proposal of voluntary guidelines (as opposed to a regulatory framework). The other update is that the IAU announced a new center for protection of dark and quiet skies hosted by NOIRLab and SKAO. Although multiple groups are addressing the issue and accumulating knowledge, there is a need to coordinate and to have points of contact for industry, so this center is to be the bridge between the stakeholders. SatHub would be analogous to the MPC for collecting satellite position data. Tom Prince of ZTF noted their paper on the analysis of archival obsservations which contained 5000 tracks of satellites, but no NEO observations or other science were affected.</p>
+
+<p>A draft Terms of Reference for the IAWN Steering Committee was presented by Kelly Fast.</p>
+
+
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

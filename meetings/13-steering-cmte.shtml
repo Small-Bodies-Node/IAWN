@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 13th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">13th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p><strong>The 13th IAWN Steering Committee Meeting - </strong>
+<br /><strong>Virtual</strong>
+<br />19-20 October 2021 -- <a href="/documents/20211019_13th_virtual/13th_IAWN_Mtg_Summary.pdf">Meeting Notes</a></p>
+
+<dl>
+<dt>IAWN Steering Committee members in attendance:</dt>
+<dd>Sergio Camacho (INAOE)
+<br />Paul Chodas (JPL/CNEOS)
+<br />Alan Harris (DLR)
+<br />Lindley Johnson (NASAHQ/PDCO)
+<br />Detlef Koschny (ESA/PDO)
+<br />Patrick Michel (CNRS/OCA)
+<br />Boris Shustov (Russian Academy of Sciences)
+<br />Gonzalo Tancredi (International Astronomical Union)
+<br />Giovanni Valsecchi (INAF)
+</dd>
+
+<dt>IAWN permanent observers in attendance:</dt>
+<dd>Detlef Koschny (ESA/SMPAG chair)
+<br />Romana Kofler (UNOOSA)</dd>
+
+<dt>IAWN.net in attendance:</dt>
+<dd>James Bauer (Univ. Maryland, NASA PDS SBN)
+<br />Vishnu Reddy (Univ. Arizona/Univ. Maryland, NASA PDS SBN)
+<br />Tim Spahr (Univ. Maryland, NASA PDS SBN)
+<br />Elizabeth Warner (Univ. Maryland, NASA PDS SBN)
+</dd>
+
+<dt>IAWN Coordinating Officer:</dt>
+<dd>Kelly Fast (NASA HQ/PDCO)</dd>
+
+
+<dt>IAWN others attendees:</dt>
+<dd>204 - Luca Buzzi
+<br />6ROADS - Miko&lstrok;aj Pieniowski, Michal Zolnowski
+<br />Agenzia Spaziale Italiana - Ettore Perozzi
+<br />Spaceguard Consulting, Canada - David Balam 
+<br />ESA PDO - Juan Luis Cano, Luca Conversi, Laura Faggioli, Dora Fohring, Marco Micheli, Richard Moissl 
+<br />Golden Ears Observatory - Balaji Kumar
+<br />Instituto de Astrofisica de Canarias - Javier A Licandro Goldaracena
+<br />Instituto Nacional de Astrof&iacute;sica, &Oacute;ptica y Electr&oacute;nica, Mexico - Jos&eacute; Guichard
+<br />Israel Space Agency - Harel Ben-Ami
+<br />Keldysh Institute, Russia - Artem Mokhnatkin, Viktor Voropaev
+<br />Minor Planet Center - Matthew Payne
+<br />NASA - Robert Holmes (ARI); Jana Chesley, Chengxing Zhai (JPL); Davide Farnocchia (JPL/CNEOS); Teddy Kareta (Lowell Obs.); Eric Christensen (Univ. Arizona/Catalina Sky Survey); Robert McMillan, Melissa Brucker (Univ. Arizona/Spacewatch); Larry Denneau (Univ. Hawaii/ATLAS); Ken Chambers (Univ. Hawaii/Pan-STARRS); David Tholen (Univ. Hawaii); Alyse Beauchemin, Linda Billings, Doris Daou, Michael Kelley (NASA HQ/PDCO)
+<br />Northolt Branch Observatory, UK - Guy Wells
+<br />Romanian Academy, Institutul Astronomic - Mirel Birlan
+<br />SONEAR, Brazil - Cristovao Jacques
+<br />Sormano Observatory, Italy - Francesco Manca
+<br />Squirrel Valley Observatory W34, U.S. - Randy Flynn
+<br />U.S. State Department - Ryan Guglietta
+<br />Xingming Observatory, China - Xing Gao
+<br />Zwicky Transient Facility, U.S. - Tom Prince
+</dd>
+
+</dl>
+
+
+<h1>Day 1</h1>
+
+<h2>Opening</h2>
+<p>Kelly Fast convened the meeting. All participants introduced themselves.</p>
+
+<h2>Reports from Signatories</h2>
+
+<p><strong>NASA</strong>: Lindley Johnson presented an overview of the elements in NASA's Planetary Defense Coordination Office and gave an update on the activities. In addition to the continuing operations of the Catalina Sky Survey, Pan-STARRS, ATLAS, and ZTF NEO data processing, two new ATLAS sites, in Chile and South Africa, will be commissioned in 2021. The LINEAR project should soon be providing observations from the Space Surveillance Telescope. NEOWISE is in its 11th year of operations. NASA funds multiple astrometric follow-up projects and funds the Minor Planet Center. The current discovery statistics tracked at the Center for Near-Earth Object Studies (CNEOS) were presented, which included 27,105 NEAs (9,860 >140m), with 2,958 discovered in 2020 (549 >140m) and 2,369 discovered in 2021 (363 >140m), along with 2,219 PHAs and 117 near-Earth comets. NASA continues its operation of the Infrared Telescope Facility and the Goldstone Planetary Radar for NEA characterization. The NEO Surveillance Mission with the NEO Surveyor space telescope continues development. Other NASA missions of interest that are not planetary defense missions include OSIRIS-Rex (returning a sample from asteroid Bennu), Lucy (launched for a tour of Jupiter Trojans), Psyche (development continues), and Janus (smallsat development for binary asteroids). The goals of U.S. National Near-Earth Object Preparedness Strategy and Action Plan were briefed: Improve NEO detection, tracking, and characterization; Improve NEO modeling and information integration; Test NEO deflection and disruption mitigation; Increase international cooperation; Strengthen and exercise impact protocols. The DART mission is a test to develop a deflection capability by altering the orbit of a smaller asteroid in a binary asteroid system. The launch period for DART opens Nov 24, 2021 EST with impact in late September-early October of 2022. Multiple observatories worldwide will measure the period change of the smaller asteroid for assessing the effectiveness.</p>
+
+<p><strong>ESA</strong>: Detlef Koschny presented an update on ESA's Planetary Defence Office (PDO) contributions to IAWN. F. Gianotto has joined ESA PDO (orbit computations). ESA has advertised the vacancy for a new head of the Planetary Defence Office. The European Commission will fund work on fireballs, lunar impact monitoring, maintenance of physical property database, possible support to MPC, and SMPAG-related mission studies, and also observations of physical properties, but the technical management will be by ESA's PDO. The PDO started an internal discussion on the definition of a 'close approach.' The physical location of the NEO Coordination Centre was recently inaugurated at ESRIN. An observations update was given. A protocol for 'non-observations' was discussed with NASA's CNEOS team. The Sardinia antenna has received signals from the Goldstone radar and the bistatic observations are under evaluation. A new contract is in place for observations with many assets in Europe and other places around the world. There are regular follow-up observations and precovery searches made, along with some light curves, and the southernmost observations from Antarctica. A Python library was created to access ESA data and a contract was started for artificial satellite observations. In the area of impact mitigation, a report on an exercise with the German SSA center is now available. An automated system for producing close approach fact sheets is being tested and a software tool for quickly assessing impact effects is in development. The SMPAG exercise will test internal procedures.</p>
+
+<p><strong>SONEAR (Southern Observatory for Near Earth Asteroids Research)</strong>: Cristovao Jacques presented an update on the first search program for NEOs and comets with telescopes located in Brazil. The observers include Jacques, Pimentel, Barros. There are two telescopes with 16 megapixel cameras (T1: .45m, 2.6 deg2 field-of-view; T2: .27m, field 11.7 deg2 field-of-view). Software in use is TAO, SearchScheduler, SkySift and Tycho. The operational focus is to discover NEOs in southern declinations with T1 (slow cadence and deep exposures to get faint and slow NEOs) and T2 (fast cadence and fast exposures to get bright and fast NEOs). Since operation began in 2014, discoveries include 36 NEAs (8 PHAs) and 9 comets (one near-Earth comet). The clearest nights are during the middle of the year, July. SONEAR is involved in extensive outreach activities in Brazil in Portuguese including the "AstroNEOS" series about Planetary Defense on YouTube, how to use the CNEOS and NEODYS sites, defining NEOCP, SCOUT, and SENTRY, and live coverage of some close approaches such as 2001 FO32. The next steps are to acquire new cameras, begin work with light curves, and continuing outreach work on NEOs.</p>
+
+<p><strong>6ROADS (Remote Observatories for Asteroids and Debris Searching)</strong>: Michal Zolnowski presented on the independent company focused on asteroids and space debris observations comprised of eight people and two owners. 6ROADS owns 8 optical automated observatories across the globe and is involved in a Polish consortium and collaborations with ESA. Project OCTOPUS includes NEO Observation Campaigns from the Southern Hemisphere with two 2-meter telescopes, six 1-meter telescopes, and twelve other smaller telescopes. Project CARMEN (Coordination of Activities Regarding Moon, Earth, and NEOs) involves a telescope network in 6 continents, lunar impact flash monitoring, archive data mining, coordination of fireball observations, and an observers workshop. There are plans for further upgrades of the existing network and expansion to new places. The company is designed for specialty tasks such as very fast response time and individualized approach to observations with very skilled observers and analysts, fast decisions, and elastic strategies</p>
+
+<p><strong>SkyGems Remote Observatory in Namibia for NEOCP/NEO observations</strong>: Luca Buzzi presented on the use of the 50cm telescope. In the first two months, 110 NEOs and 19 comets were observed (85% were NEOCP targets, especially with negative declination). Sky Gems has done 7 NEO recoveries. The faintest asteroid was 2017 TS3, at mag 22 (G). Sky Gems co-discovered the cometary activity in C/2014 UN271 (Bernardinelli-Bernstein). Current and future plans involve use of another 50cm telescope, located in Nerpio, Spain for NEOCP work and shipping a telescope to Namibia to increase the follow-up activities</p>
+
+<p><strong>Pan-STARRS (Panoramic Survey Telescope and Rapid Response System)</strong>: Ken Chambers noted a drop in the sensitivity of PS2 (Pan-STAARS2) vs. PS1 over time, which was caused by the decay the secondary mirror coating much earlier than anticipated. Removal of the secondary for recoating revealed fabrication errors in the mirror support system. The rebuild of the system included replacing custom needle flexures and bipod EDM flexures. The PS2 image quality is now as good as or better than PS1. There is now self-follow-up and an effort to submit NEO candidates within a few hours of observation to allow observation of potential discoveries again on the same night, which can extend the orbital arc from ~1 hour to ~4 hours. Parallax can help to better understand the size and distance of an object.</p>
+
+<p><strong>Astronomical Institute in Romania</strong>: Mirel Birlan gave an overview. The team is comprised of 7 astronomers and 2 PhD students. The .25m and .60m telescopes are in Romania with future worldwide plans, including the southern hemisphere.</p>
+
+<h2>IAWN Observing Campaigns</h2>
+<p>Vishnu Reddy presented the status of IAWN observing campaigns. The 1999 KW4 Campaign (Feb. 2019-August 2019) paper is in a second round of review with resubmission planned for mid-November. The Apophis Campaign (Oct. 2020-April 2021) paper sections have been assembled, with 117 co-authors. The upcoming Tim2019 XS Timing Assessment Campaign (Nov. 2021) has a goal of observing a fast-moving NEA to assess the accuracy of the observation times reported by asteroid observers to the Minor Planet Center (MPC). Interested observers can register on the IAWN website and a pre-close approach teleconference is planned for early November 2021. Observers will collect data like they normally do for any other NEA and submit it to the MPC. The fast rate of motion during close approach can expose clock errors. As astrometric accuracies improve and more fast movers are observed, time inaccuracy becomes an ever more important source of error. There are plans to have additional targets in the upcoming months to assess progress in the community. Observers are strongly encouraged to report observation times with enough precision (use ADES or 6 decimals digits in the MPC 80-col format). Observers are also strongly encouraged to report their estimated uncertainties using ADES format.</p>
+
+<h1>Day 2</h1>
+
+<h2>International Year of Planetary Defense update</h2>
+<p>Doris Daou reported on the status, likely targeted for 2029 (Apophis close-approach to Earth). Work has started on a synopsis and document to present to the UN COPUOS. A small working group from IAWN and represented UN member countries will be formed to work on the document. It was noted that the nomenclature "planetary defense" may mean something different in a UN context, and the working group will look at the nomenclature.</p>
+
+<h2>IAWN.net update</h2>
+<p>Timothy Spahr credited Elizabeth Warner's management of the IAWN website and gave an overview of the website's menu, Twitter feeds, observing campaign pages, close approach list, articles, and current signatories page. The increase in the number of signatories has exceeded expectations and several potential new members are applying.</p>
+
+<h2>Minor Planet Center Update</h2>
+<p>Matthew Payne noted the funding for MPC from NASA's PDCO and gave an overview of staffing. MPC is using the Jira help desk software for managing inquiries and communications (through "tickets") rather than email in order to better manage and track the work load. Observers should use that instead of email. Request made to contact MPC via Jira not email. ADES data is used for MP Electronic Circulars (MPECs) and MPC is working to create ADES XML Downloads for Monthly Publication observations and ADES XML Downloads for Objects. MPC is beta testing a recovery MPEC page. A request was made to make observations of asteroids that have only one tracklet. Updates to the digest2 code were presented as well as a significant increase in end-to-end automation of orbit fitting pipelines. MPC has developed and continued to refine a validation control system for MPC publication. MPC is preparing for the next generation surveys (Vera Rubin Observatory and the NEO Surveyor space telescope), including to-scale processing exercises. </p>
+
+<h2>IAWN and cislunar/artificial objects</h2>
+<p>Lindley Johnson noted that it is becoming more of an issue that increases in artificial satellite traffic in higher orbits can initially appear as NEOs and be placed on the MPC's NEO Confirmation Page. It can take multiple days of tracking to determine the identification of an object observed. MPC has begun to formally keep the data on artificial satellites to aid in disentangling from observations on newly discovered NEOs and has set up a controlled portal to allow access to this database by internationally recognized organizations that provide such data.</p>
+
+<h2>Space Mission Planning Advisory Group (SMPAG)</h2>
+<p>Detlef Koschny noted that the mandate of SMPAG is "to prepare for an international response to a NEO impact threat through the exchange of information, development of options for collaborative research and mission opportunities, and NEO threat mitigation planning activities." The SMPAG work plan items were detailed. The thresholds and criteria for when SMPAG should become active include possible impact within 50 years, with assessed probability greater than 1%, and the object is characterized to be greater than 50 meters in size or roughly equivalent to absolute magnitude of 26 if only brightness data can be collected. SMPAG membership open to all national space agencies and are capable of carrying out a space-based NEO mitigation campaign. Private companies are currently not allowed for membership. SMPAG meets twice per year and reports every February to the Scientific and Technical Subcommittee of COPOUS, as does IAWN. SMPAG is currently planning an exercise to test internal processes to make sure everything is defined properly in the event of an actual impact situation.</p>
+
+<h2>Report on a simulated impact scenario with the German Space Situation Awareness Centre</h2>
+<p>Richard Moissl gave an overview. The objective was to test the notification chain between German SSA Centre and ESA in case of an impact threat. A new format (JSON files) prototype was tested which shall be developed into a fast and partially automated interface. It was a low fidelity exercise using the simulated object 2021 TEST hypothetically discovered on 18 March 2021 and confirmed on 22 March, a relatively faint object only observable every two years. Day 1 covered T-6 years, with high uncertainty, to communicate how the interface works when using it for the first time in a simulated scenario. Day-2 covered T-4 and T-2 years, focusing on the actual information content of the messages and revealing the need for education and training of disaster management/information chains on NEO threats. Day-3 covered T-6 weeks and impact confirmation. The focus was on impact effects estimates, visualization and communication to the public. They learned of need for training of disaster management and response actors, and that communication plans need to be pre-prepared for different scenarios. Day-4 covered T-3 days and effective fast turn-around of information in case of high update frequency. They learned that the communication chain and responsibilities should be understood end-to-end to identify optimal constant points in case of contingencies. Day-5 covered T+1 hour, with post-impact assessment and discussion of public perception of effects. In addition to the report documents, a reference manual is in preparation, there are plans for follow-up training, and there was official recognition of tested interface between ESA and the German SSA Centre by the German administration.</p>
+
+<h2>IAWN Communications</h2>
+<p>Kelly Fast noted the importance of clarity in communication and of credible sources of information. There is a need to better raise the visibility of IAWN, but in a proper context since it is a collaboration and not a separate entity. IAWN is meant for observers, but it is important to clearly communicate with the non-scientific community.</p>
+
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

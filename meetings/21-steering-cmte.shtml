@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 21st Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">21st Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p><strong>21st Meeting of the<br>International Asteroid Warning Network</strong>
+<br><strong>Virtual, 13:00 UTC</strong>
+<br>02 October 2025 -- <a href="/documents/20251002_21st_virtual/21st_IAWN_Mtg_agenda.pdf">Agenda</a>, <a href="/documents/20251002_21st_virtual/21st_IAWN_Mtg_Summary.pdf">Meeting Notes</a></p>
+
+<!-- <dl>
+<dt>IAWN Steering Committee members in attendance:</dt>
+<dd>Paul Chodas (JPL/CNEOS) - Orbit Determination
+<br>Alan Harris (DLR) - Physical Characterization
+<br>Lindley Johnson (NASA HQ/PDCO)
+<br>Patrick Michel (CNRS/OCA) - Public/Media Information
+<br>Richard Moissl (ESA/ESTEC/PDO)
+<br>Boris Shustov (Institute of Astronomy, Moscow)
+<br>Michal Zolnowski (6ROADS) - Small Observatories/Independent Observers
+</dd>
+
+<dt>IAWN permanent observers in attendance</dt>
+<dd>Detlef Koschny (SMPAG chair on behalf of ESA)
+<br>Romana Kofler (UNOOSA)
+</dd>
+
+<dt>IAWN Administration in attendance:</dt>
+<dd>James "Gerbs" Bauer, Elizabeth Warner (Univ. Maryland, NASA PDS SBN)
+<br>Tim Spahr (NEO Sciences/Univ. Maryland, NASA PDS SBN)
+</dd>
+
+<dt>IAWN Coordinating Officer:</dt>
+<dd>Kelly Fast (NASA HQ/PDCO)</dd>
+
+<dt>IAWN attendees:</dt>
+<dd>6ROADS - David Gedek
+<br>ASI - Marco Castronuovo*, Vaisliki Petropoulou*
+<br>ESA/PDO/NEOCC - Juan Luis Cano, Luca Conversi, Marco Micheli, Maxime Devogele, Tobias Hoffman, Francisco Ocana
+<br>ESO - Olivier Hainaut*
+<br>FAI, Kazakhstan - Aleksander Serebryanskiy
+<br>G. Pascoli Obs K63/D63 - Roberto Bacci
+<br>Iota Scorpii Observatory K78 - Giulio Scarfi
+<br>Israel Space Agency - Harel Ben-Ami
+<br>JAXA and P93 Bisei Spaceguard Center - Makoto Yoshikawa*, Nana Higashio*, Seitaro Urakawa
+<br>KAO UrFU - Eduard Kuznetzov
+<br>KASI - Hong Kyu Moon
+<br>KIAM RAS/ISON - Viktor Voropaez
+<br>Klet Observatory, Czech Republic
+<br>Konkoly Observatory - Norton Szab&oacute;
+<br>Minor Planet Center - Matthew Payne, Federica Spoto
+<br>NAOC China - Liu Jing*, Hai Jiang*
+<br>NOAK Observatory/L02, Greece - Nick Sioulas
+<br>NASA PDCO U.S. - Linda Billings, Josh Handal, Adelle Helble
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Johns Hopkins APL - Andy Rivkin
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Astronomical Research Institute (H21, 807) - Robert Holmes, Tyler Linder
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Catalina Sky Survey - Carson Fuls, Alex Gibbs
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JPL CNEOS - Davide Farnocchia, Ryan Park
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Magdalena Ridge Observatory - Eileen Ryan
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEO Surveyor / Caltech - Joe Masiero
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spacewatch U of AZ - Melissa Brucker, Cassandra Lejoly, Bob McMillan
+<br>Schiaparelli 204, Italy - Luca Buzzi
+<br>SONEAR Observatory, Brazil - Cristovao Jacques
+<br>Sormano Observatory - Francesco Manca
+<br>University of New South Wales, Australia - Ed Kruzins
+<br>UK Space Agency - Edward Baker*
+</dd>
+
+<dt>Meeting observers and other attendees:</dt>
+<dd>CNES, France - Pierre Bousquet*
+<br>CSA, Canada - Viqar Abbasi*
+<br>ISRO, India - Bulbul Mukherje 
+</dd>
+
+</dl> -->
+
+<h1>Presentations</h1>
+<ul>
+<li><a href="/documents/20251002_21st_virtual/SMPAG_status_IAWN_20251002.pptx">SMPAG_status_IAWN_20251002.pptx</a></li>
+<li><a href="/documents/20251002_21st_virtual/2024-YR4_Lessons_Learned_IAWN_20251002.pptx">2024-YR4_Lessons_Learned_IAWN_20251002.pptx</a></li>
+<li><a href="/documents/20251002_21st_virtual/Comet_Campaign_IAWN25Bv2.pptx">Comet_Campaign_IAWN25Bv2.pptx</a></li>
+</ul>
+
+
+
+
+<h2>Welcome / Introductions</h2>
+	<ul>
+	<li>Meeting start and remarks from Vishnu</li>
+	<li>Updates on steering committee membership updates and folks rotating off (Chodas, Harris, Shustov)</li>
+	</ul>
+
+<h2>IAWN Update</h2>
+	<ul>
+	<li>Briefing slides on recent signatory updates, comet campaign, and quick 2024 YR4 update</li>
+	</ul>
+
+<h2>IAWN Signatory Updates</h2>
+	<ul>
+	<li><strong>Richard Moissl (ESA)</strong>: In-person remarks detailing ESA's NEO Coordination Centre and planetary defense efforts. Preparing for the next ministerial and plan to provide an update at the next Spring meeting.
+		<ul>
+		<li><strong>Question:</strong> When will ESA have the first Flyeye data submitted for the MPC in terms of discoveries?</li>
+		<li><strong>Answer:</strong> Testbed telescopes have already picked up the odd NEO, but expect to be fully commissioned in mid-to-late 2026</li>
+		</ul></li>
+	<li><strong>Kelly Fast (NASA):</strong> Video remarks on NASA's Planetary Defense Coordination Office and planetary defense efforts, including NEO Surveyor</li>
+	<li><strong>Alessandro Nastasi:</strong> Update from GAL Hassan (Italy). Have been active since 2016 and operate two robotic telescopes. Have observed about 90 NEOs to date. This summer, the team discovered their first NEO: 2025 QK3! This is the first discovery from Italy in more than 19 years and the first-ever discovery from Sicily. The team has also contributed to several NEO precoveries.</li>
+	<li><strong>Bringfried Stecklum:</strong> Update from Karl Schwarzschild Observatory (Germany). Observatory (MPC Code 033) founded in 1960 and features the first 2-m telescope featuring three optical systems. There is a focus on NEOCP follow-up. One of the highlights for the team was stacked TLS images of 2024 BX1.</li>
+	<li><strong>Alain Maury:</strong> Walk-on update from MAP project in Chile. The team has had some equipment problems in 2023 but have resumed observations in April 2025. The team is currently working on integrating their confirmation telescope, as well as putting four more RASA telescopes for a total of eight.</li>
+	<li><strong>Bill Gray:</strong> Walk-on update from the Pluto Project. Provided an update on software tools being developed for astronomers: <a href="https://projectpluto.com/tools.htm" onclick="this.target='_blank'">Project Pluto: Tools for asteroid astrometrists</a>.</li>
+	<li><strong>Luca Buzzi:</strong> Walk-on update from MPC 204/M21. Thanks to Planetary Society - recently upgraded a telescope and now has a limiting magnitude of 21.5 / 22 (36 meter telescope), so the team can now do detections of fainter asteroids.</li>
+	<li><strong>Ed Kruzins:</strong> Walk on update and provided an update that the Australia media did a story on FA22 campaign: <a href="https://www.abc.net.au/news/2025-09-30/the-stargazers-protecting-the-earth-from-a/105837180" onclick="this.target='_blank'">The stargazers protecting the Earth from a possible asteroid impact</a></li>
+	<li><strong>Alex:</strong> Walk-on update Astronomical Observatory Assy-Turgen in Kazakhstan. The team has been working on upgrading several existing telescopes as well as installing new telescopes. There are also plans to develop an &quot;astro hub&quot; area where astronomers can stay, have meetings, and do observations.
+		<ul>
+		<li><strong>Question:</strong> How far is the drive from Almaty</li>
+		<li><strong>Answer:</strong> Approximately 3 hours by car (120 km)</li>
+		</ul></li>
+	</ul>
+
+<h2>Space Mission Planning Advisory Group <a href="/documents/20251002_21st_virtual/SMPAG_status_IAWN_20251002.pptx">(SMPAG) Update</a></h2>
+	<ul>
+	<li>Detlef Koschny (SMPAG Chair on behalf of ESA): Overview of SMPAG and how it coordinates with IAWN. The purpose of SMPAG is to prepare for an international response to a NEO impact threat through the exchange of information, development of options for collaborative research and mission opportunities, and NEO threat mitigation planning activities. SMPAG has official members that are either official space agencies or offices (don't typically accept more than one per country). SMPAG is tasked with investigating space-based responses to potential impactors. Criteria for SMPAG: within 50 years; impact probability &gt; 1%; size &gt; 50 meters. SMPAG (like IAWN) reports information to the UN COPUOS/OOSA.
+		<ul>
+		<li><strong>Question:</strong> Since SMPAG had to deal with 2024 YR4, can you highlight the main difference between running SMPAG exercises versus a real-world scenario</li>
+		<li><strong>Answer:</strong> Never got that far since 2024 YR4's impact probability got just above 1% and lasted only a few weeks before being removed as an impact threat to Earth.</li>
+		<li><strong>Question:</strong> In an alternative universe, if there were still a possible Earth impact, would 2026 have been too late to do something?</li>
+		<li><strong>Answer:</strong> It would have been extremely challenging to do something, but it would not necessarily have been &quot;too late&quot; to do something.</li>
+		</ul></li>
+	</ul>
+
+<h2>International Year (IYAPD) Update</h2>
+	<ul>
+	<li><strong>Romana Kofler (UNOOSA):</strong> 2029 has been declared the International Year for Asteroid Awareness and Planetary Defense. Work has started on the initiative webpage (https://www.un.org/en/observances/asteroid-awareness-year). There is a dark skies workshop (https://www.unoosa.org/oosa/en/ourwork/psa/schedule/2025/UN-SKAO-dark-and-quiet-skies-2025.html). Once activities are in place, there is a desire to work with the IAWN community (observatories / individual astronomers) to engage in the efforts and spread the word.
+		<ul>
+		<li><strong>Question:</strong> Thinking of doing a 2029 campaign with Apophis. Are there plans to engage the wider public that IAWN can integrate in?</li>
+		<li><strong>Answer:</strong> It would be good to think about engaging with member states in the committee of peaceful uses of outer space. Once the website is stood up, that is also an avenue to advertise activities like an IAWN campaign to engage the general public.</li>
+		</ul></li>
+	</ul>
+
+<h2><a href="/documents/20251002_21st_virtual/2024-YR4_Lessons_Learned_IAWN_20251002.pptx">2024 YR4 Lessons Learned</a> and Open Discussion</h2>
+	<ul>
+	<li><strong>Todd Borzych (Former NASA Skillbridge Fellow):</strong> Document posted on NASA's Technical Reports Server: https://ntrs.nasa.gov/citations/20250006886. 2024 YR4 was discovered by ATLAS in Chile (W68) in late December, 2024. The object was confirmed, and more observatories conducted follow-up observations. By Dec. 29, 2024, the object reached Torino 1, and by Jan. 27, 2025 it reached Torino 3. The object eventually fell off the Torino scale and was retired as a risk to Earth by Feb. 24, 2025. For almost two months, 2024 YR4 presented the most apparent near-term risk since the 2004 discovery of Apophis.</li>
+	<li>Some lessons learned:
+		<ul>
+		<li>2024 YR4 occurred at an inconvenient time (discovered over the Christmas holiday, wildfires in California, inauguration in United States, etc.)</li>
+		<li>There is more than can be done regarding alerts and coordination - especially since the astrometric community has more time to react than the characterization community (characterization community can improve performance if alerted earlier)</li>
+		<li>The MPC benefits from early alerts of Torino 1 objects - preparing for increased focus on one object, correcting/replacing observations, vetting of precoveries, etc.</li>
+		<li>Some struggled with what to post (i.e. impact risk corridor) and there appeared to be some confusion over data that is already publicly accessible</li>
+		<li>Established practice of reporting uncertainties was very helpful - especially with bringing more observers into use of ADES data format</li>
+		<li>Vetting of precoveries is necessary to ensure data does not become polluted</li>
+		<li>Meetings like IAWN and the Planetary Defense Conference are critical for global coordination on potential future impact threats and orbit refinement</li>
+		</ul></li>
+	<li><strong>Richard Moissl (ESA):</strong> Many thanks to Todd for his excellent work in compiling lessons learned and for including ESA in the data collection effort. 2024 YR4 meant an improvement in ESA's process and left the planetary defense team more efficient and strengthened collaboration among partners like NASA and NEOdyS. Additionally, the process for determining the difficulties and delicateness of communicating the evolving impact probability with the public will help inform future potential threat events. ESA's communications team stated it was the highest communications item for the agency, and there was excellent coordination with NASA to ensure a unified front. There was also great coordination when numbers fluctuated, and the decision to wait and work numerical discrepancies on the backend before publicly posting was very powerful and made the overall communications very clean and organized.</li>
+	<li><strong>Romana Kofler (UNOOSA):</strong> This is the first time that IAWN notification went out to the 193 member states. On Jan. 29, 2025 received 1.3% impact probability from IAWN coordinator (notified member states on Jan. 30, 2025). By late February received final &quot;all clear&quot; notification from IAWN coordinator, and that was also disseminated to member states.</li>
+	<li><strong>Warren Skidmore (Deputy Director of IRTF):</strong> One of the tasks currently being investigated is the IRTF strategic plan, so lots of thought of how IRTF can rapidly respond and provide physical characterization of asteroid impact threats and alerts. If other big observatories have any thoughts or input on how they respond to alerts, please reach out.</li>
+	</ul>
+
+<h2>MPC Updates and MPC Annex Report</h2>
+	<ul>
+	<li><strong>Matt Payne (MPC Director):</strong> Jorge A. Perez Hern&aacute;ndez joined the MPC in June 2025. Since the last IAWN meeting there have been 128 new Saturnian satellites, and there was a new dwarf planet candidate (2017 OF201) found in May. There was also discovery of comet 3I/ATLAS in July and currently have over 4,000 observations. The MPC has received over 2,600 observations of 2025 FA22. Rubin has submitted over 300,000 observations, including over 2,000 mainbelt objects, as part of their commissioning data. Currently, Rubin is conducting a &quot;Science Validation Survey,&quot; and the team predicts ~250,000 new objects plus many more observations of known objects (MPC has yet to receive this data). Main survey operations are expected to start in the November period, and the MPC expects to receive hundreds of thousands of observations per night. Thus, MPC has been switching its data receipt and ingest process from private, on-premise servers to AWS, improving to an &quot;always-on&quot; capability.
+		<br>Archival and precovery submissions can be very useful for orbit determination, but they can also have significant power in skewing an object's orbit. Thus, the MPC is setting up a Singletons &amp; Archival-Submissions (SARC) committee to help the MPC review certain submissions, especially singletons and archival observations. MPC is now automatically assigning program codes to all new observatory codes. All of these updates - and more - are available on the MPC newsletter (QR code to sign up).
+		<ul>
+		<li><strong>Question:</strong> Do LLST and NEO Surveyor do their own linkages?</li>
+		<li><strong>Answer:</strong> LSST is doing its own linkages. NEO Surveyor will be submitting on a tracklet by tracklet basis (still defining what the team defines as a tracklet), and then the MPC will do the linking</li>
+		</ul></li>
+	<li><strong>Gerbs Baur (UMD / MPC Annex):</strong> Earlier in the year the team performed an IAWN website cleanup. The team also keeps the observations and highlights from previous IAWN campaigns (have been seven so far) on the IAWN website. There are near-future plans for an IAWN Apophis observing campaign, and there was a presentation given at the Planetary Defense Conference and at the recent DPS conference. The MPC Annex distributes the live copies of the MPC database to large observatories and individual observers (there are server requirements).</li>
+	</ul>
+
+<h2>IAWN 2025 FA22 Campaign Update</h2>
+	<ul>
+	<li><strong>Davide Farnocchia (NASA JPL):</strong> 2025 FA22 made a close approach on Sept. 19. 2025, UTC at a distance of two lunar distances. This close approach presented a perfect opportunity for an IAWN campaign. The goal of this campaign is to exercise IAWN's capability to collect position and physical characterization data on this former virtual impactor. For the purpose of the campaign, the team will treat 2024 FA22 as a new discovery from the perspective of physical characterization. There was a kickoff telecon on Aug. 22, 2025 to inform participants on the purpose of the campaign, and the information is available on the IAWN website: https://iawn.net/obscamp/2025FA22/. The campaign concludes at the end of October, and close-out telecon is on Nov. 6, 2025. As has been done previously, the campaign will publish a summary paper capturing the results from the working group and any lessons learned in Planetary Science Journal; individual PIs are free to publish their own papers at any time based on the data they collected - please just let the campaign team know of your plans.</li>
+	</ul>
+
+<h2><a href="/documents/20251002_21st_virtual/Comet_Campaign_IAWN25Bv2.pptx">IAWN Comet Observing Campaign Update</a></h2>
+	<ul>
+	<li><strong>Marco Micheli (ESA NEO Coordination Centre):</strong> Comet campaign workshop is Nov. 10, 2025. All meetings will be recorded and made available for those who can't make it including any slides that are presented. The process: The team needs to acquire ground-truth data from large aperture (4 meter+) telescopes on a night of good-to-excellent visibility (&lt;1 arc second). This data will serve as a reference to evaluate the observations made during the campaign. The target for the ground truth observations will be 3I/ATLAS since it has been (and is still being) observed by a lot of large aperture telescopes.</li>
+	</ul>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

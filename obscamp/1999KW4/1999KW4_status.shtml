@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title>NEA (66391) 1999&nbsp;KW4 Observing Campaign -- Status</title>
+    <link rel="stylesheet" href="/obscamp/1999KW4/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="sitename"></div>
+        <div id="header">
+            <h1>NEA (66391) 1999&nbsp;KW4 -- Current Status</h1>
+        </div>
+
+        <div id="body" class="clear">
+            <!-- Load navigation bar information. -->
+            <!--#include virtual="/obscamp/1999KW4/css-n-inc/nav.inc" -->
+
+            <!--Right hand side (main text) -->
+            <div id="content" class="column-right">
+                <!-- CONTENT -->
+                <h2>What's going on with NEA (66391) 1999&nbsp;KW4?</h2>
+
+                <p></p>
+
+
+                <h3>Status Updates</h3>
+				<p><strong>Jun 27:</strong> <a href="1999KW4_gallery.shtml#radar">new radar observation results</a></p>
+				
+                <p><strong>May 27:</strong> 1999 KW4 was observed from the Discovery Channel Telescope (DCT). The DCT obtained visible (preliminary reduction shown) and NIR spectra. IRTF also observed 1999 KW4 from 0.7-2.5 microns using the SpeX instrument.
+				<br /><br />Lance Benner reports radar echoes were received from 1999 KW4 using bi-static observations transmitting from the Goldstone 34 meter DSS-13 antenna and receiving at the 100 meter Green Bank Telescope.</p>
+
+                <p><strong>May 26:</strong> A team from Univ. of Tennessee, Knoxville observed 1999 KW4 from IRTF obtaining 0.7-2.5 micron reflectance spectra. Further rotation light curve observations, a 3hr span, were acquired from LCO's Australia site.</p>
+
+                <p><strong>May 25:</strong> Observation updates indicate that ESO VTL successfully observed the 1999 KW4 system with the SPHERE-AO instrument, obtaining individual exposures through standard color filters. A team from Las Cumbres Observatory
+                    (LCO) reports low-resolution spectroscopic observations with the FLOYDS instrument on LCO's 2-m Faulkes Telescope South (E10) on 2019-05-25 09:10 UTC, some 14 hours before close approach. Preliminary 400-1000nm spectra appears to confirm
+                    1999 KW4 is S-type. Also, LCO obtained a first pre-approach light curve from it's 1-m at Siding Spring Observatory, Australia (Q64) covering 2019-05-25 08:20-09:15.</p>
+
+                <p><strong>April 29-May 14:</strong> <a href="1999KW4_gallery.shtml#NEOSSat">NEOSSat recovered and observed</a> 1999 KW4, through solar elongation angles of 42-53 degrees. Observations are scheduled to continue through May 29.</p>
+                <p><strong>May 09:</strong> <a href="1999KW4_gallery.shtml#recovery">Recovered!</a> Hi Rob and all, as discussed today in the telecon, I'm attaching an animation of the two recovery frames we got for 1999 KW4, which to my knowledge is the
+                    first ground-based observation of the object during the current apparition. <a href="1999KW4_gallery.shtml#recovery">Observation details</a>.</p>
+
+                <p><strong>2019 Mar 04:</strong> Waiting for southern observers to recover.</p>
+
+
+
+                <!-- CONTENT -->
+
+            </div>
+            <!-- DIV close wrap -->
+        </div>
+        <!-- DIV close content -->
+    </div>
+    <!-- DIV close body -->
+    <div id="footer" class="clear">
+        <!-- Load footer information. -->
+        <!--#include virtual="/obscamp/1999KW4/css-n-inc/footer.inc" -->
+        <p class="right">Last updated:
+            <!--#config timefmt="%A %B %d, %Y"-->
+            <!--#echo var="LAST_MODIFIED" -->
+        </p>
+    </div>
+    <!-- close id footer -->
+    </div>
+    <!-- DIV close wrapper -->
+</body>
+
+</html>

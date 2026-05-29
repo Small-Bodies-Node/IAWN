@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>NEA (66391) 1999&nbsp;KW4 Observing Campaign -- Orbit</title>
+<link rel="stylesheet" href="/obscamp/1999KW4/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>NEA (66391) 1999&nbsp;KW4 -- Orbit</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/1999KW4/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>Orbit of NEA (66391) 1999&nbsp;KW4</h2>
+
+<p><img src="/obscamp/1999KW4/gallery/kw4-orbital-parameters.png" width="300" class="left" alt="" />Orbital elements listed here are taken from the <a href="https://ssd.jpl.nasa.gov/horizons.cgi#top">JPL Horizons website</a>, and represent the current best solution. The orbit will only be perturbed slightly during the close approach to the Earth, but we still provide the Keplerian elements for both the pre- and post-Earth encounter. </p>
+
+<h3>Orbital Elements (Solution JPL#265)</h3>
+<table style="width:100%; border-spacing:0px;">
+<tr>
+<td></td>
+<td>Pre-Earth Encounter</td>
+<td>Post-Earth Encounter</td>
+</tr>
+
+<tr>
+<td>Epoch</td>
+<td>2458619.5 (2019-May-16.0)</td>
+<td>2458639.5 (2019-Jun-05.0)</td>
+</tr>
+
+<tr>
+<td>Perihelion Time</td>
+<td>T = 2019-Mar-22 10:46:42 UT</td>
+<td>T = 2019-Mar-22 10:31:19 UT</td>
+</tr>
+
+<tr>
+<td>Perihelion Time (JD)</td>
+<td>T = 2458564.949101</td>
+<td>T = 2458564.938410</td>
+</tr>
+
+<tr>
+<td>Orbital Period</td>
+<td>P = 0.515 yr</td>
+<td>P = 0.515 yr</td>
+</tr>
+
+<tr>
+<td>Semi-major Axis</td>
+<td>a = 0.6422 AU</td>
+<td>a = 0.6423 AU</td>
+</tr>
+
+<tr>
+<td>Perihelion Distance</td>
+<td>q = 0.1999 AU</td>
+<td>q = 0.2001 AU</td>
+</tr>
+
+<tr>
+<td>Eccentricity</td>
+<td>e = 0.6887</td>
+<td>e = 0.6885</td>
+</tr>
+
+<tr>
+<td>Inclination (J2000)</td>
+<td>i = 38.88&deg;</td>
+<td>i = 38.89&deg;</td>
+</tr>
+
+<tr>
+<td>Ascending Node (J2000)</td>
+<td>&Omega; = 244.91&deg;</td>
+<td>&Omega; = 244.91&deg;</td>
+</tr>
+
+<tr>
+<td>Argument of Perihelion (J2000)</td>
+<td>&omega; = 192.62&deg;</td>
+<td>&omega; = 192.63&deg;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Perigee Time</strong></td>
+<td>t = 2019-May-25 23:04 UT</td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Perigee Distance</strong></td>
+<td>&Delta; = 0.034640 AU <br/>
+ &Delta; = 5.1800&times;10<sup>6</sup> km </td>
+</tr>
+
+<tr>
+<td><strong>Velocity with respect to Earth <br /> at closest approach</strong></td>
+<td>21.17 km/s</td>
+<td></td>
+</tr>
+
+<tr>
+<td><strong>Min. Orbital Intersection Dist. </strong></td>
+<td>MOID = 0.013085 AU</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+</table>
+
+
+<!--
+<h3>Orbit Solution Preclude...</h3>
+<p></p>
+-->
+
+<h3>Full Orbit From Above</h3>
+<p>View of (66391) 1999&nbsp;KW4's pre-encounter orbit as seen from the North ecliptic pole with the asteroid and planets shown at the time of the asteroid's closest approach to Earth. <i>From the JPL Small-Body Database Browser.</i></p>
+<p><a href="Orbits/1999-KW4_orbit_full.png" title="View of 1999&nbspKW4's full orbit"><img src="Orbits/1999-KW4_orbit_full.png" width="80%" alt="View of 1999 KW4's entire orbit." /></a></p>
+<br/>
+
+<h3>Orbit in Oblique View</h3>
+<p>Oblique view of the portion of (66391) 1999&nbsp;KW4's orbit around perigee, viewed from 30&deg; above the ecliptic plane. The black dot denotes the asteroid's and Earth's positions at perigee (2019-May-25). 
+<br /><a href="Orbits/1999-KW4_orbit_plot.png" title="Oblique view of 1999 KW4's orbit"> <img src="Orbits/1999-KW4_orbit_plot.png" width="80%" alt="Oblique view of 1999 KW4's orbit." /></a> 
+<br /><a href="Orbits/1999-KW4_orbit_plot.pdf">PDF Version</a></p>
+
+
+<h3>Orbit in Earth Co-Orbital View</h3>
+<p>The orbit of (66391) 1999&nbsp;KW4 around perihelion, in the Earth's co-orbital reference frame, as seen from above (top panel) and in the ecliptic plane (bottom panel). The black circle denotes the asteroid's position at perihelion (2019-Mar-22) and the open circles show positions at 30-day intervals.
+<br /><a href="Orbits/1999-KW4_orbit_plot_corot.png" title="Orbit of 2012 TC4 in the Earth co-orbital reference frame"> <img src="Orbits/1999-KW4_orbit_plot_corot.png" width="80%" alt="Plot of 1999 KW4's orbit in Earth-co-orbital frame."/></a>
+<br /><a href="Orbits/1999-KW4_orbit_plot_corot.pdf">PDF Version</a></p>
+
+
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/1999KW4/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

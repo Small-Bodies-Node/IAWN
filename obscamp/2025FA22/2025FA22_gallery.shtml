@@ -1,0 +1,259 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>2025&nbsp;FA22 IAWN Campaign -- Gallery</title>
+<link rel="stylesheet" href="/obscamp/2025FA22/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>2025&nbsp;FA22 -- Gallery</h1>
+</div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/2025FA22/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>2025&nbsp;FA22 IAWN Campaign Gallery</h2>
+
+<h3>Animations</h3>
+
+<p><img class="right" src="gallery/2025FA22_Erasmus_20250918.gif" width="450" alt="" />
+<br>2025-09-18T03:08
+<br>1-m Lesedi telescope at the South African Astronomical Observatory
+<br>Each frame is a 1 sec exposure in r-filter
+<br>Nic Erasmus</p>
+<div class="clear"></div>
+
+<p><a href="gallery/2025FA22_AKO_M44_20250918.mp4">
+<video class="left" width="450" autoplay controls>
+<source src="gallery/2025FA22_AKO_M44_20250918.mp4" type="video/mp4">
+</video></a>
+<br>Al Khatim Observatory (M44)
+<br>Mohammad Shawkat Odeh, Abu Dhabi, UAE
+<br>2025 Sep 18.0 UT, 7 hours prior to closest approach.
+<br>Video: 14 images, each with a 10-second exposure, captured while the telescope was tracking at the asteroid's apparent motion.
+<br>0.36m SC, f/7.7 Telescope.</p>
+<div class="clear"></div>
+
+<p><a href="gallery/2025FA22_star_M47.mp4">
+<video class="right" width="450" autoplay controls>
+<source src="gallery/2025FA22_star_M47.mp4" type="video/mp4">
+</video></a>
+<br>Sharjah Astronomical Observatory - M47, Sharjah Academy for Astronomy and Space Science (SAASST)
+<br>Mohammed Fadil Talafha, UAE
+<br>2025 Sep 18
+<br></p>
+<div class="clear"></div>
+
+<p><a href="gallery/2025FA22_Guirguillano.mp4">
+<video class="left" width="450" autoplay controls>
+<source src="gallery/2025FA22_Guirguillano.mp4" type="video/mp4">
+</video></a>
+<br>18-19 Sept 2025
+<br>Pedro Martorell
+<br>Guirguillano Observatory
+<br>0.31m f/4.84 reflector + CCD ST8-XME
+<br>286 x 2s exposure</p>
+<div class="clear"></div>
+
+<p><a href="gallery/2025FA22_Jacques.mp4">
+<video class="right" width="450" autoplay controls>
+<source src="gallery/2025FA22_Jacques.mp4" type="video/mp4">
+</video></a>
+<br><a href="gallery/2025FA22_Jacques.wmv">.wmv</a>
+<br>Crist&oacute;v&atilde;o Jacques
+<br>2025 FA22
+<br>2025 09 19.2 UT
+<br>SONEAR - Wykrota Observatory - Y05
+<br>Serra da Piedade - Caet&eacute; - Brazil
+<br>100 x 2 seconds images
+<br>0.45m reflector f/2.9
+<br>QHY600</p>
+<div class="clear"></div>
+
+<p><img class="left" src="gallery/2025FA22-SBeck.gif" width="450" alt="" />
+<br>Stefan Beck
+<br>Instrument: Newton 200/570 f=2.8
+<br>Camera: ToupTek 2600MP
+<br>Time: 2025-09-19 02:35:45 - 02:38:18 UT
+<br>Location: Holzgerlingen
+<br>Remarks: 19 x 1 sec.</p>
+<div class="clear"></div>
+
+<p><a href="gallery/2025FA22_Wells-NBO.mp4">
+<video class="right" width="450" autoplay controls>
+<source src="gallery/2025FA22_Wells-NBO.mp4" type="video/mp4">
+</video></a>
+<br>Northolt Branch Observatory</p>
+<div class="clear"></div>
+
+<p><a href="gallery/2025FA22_20250921_094143_CharlesTriana.mp4">
+<video class="left" width="450" autoplay controls>
+<source src="gallery/2025FA22_20250921_094143_CharlesTriana.mp4" type="video/mp4">
+</video></a>
+<br>Charles Triana, AstroExplor Observatory (W60), Colombia
+<br>LX200-0.25m f/8
+<br>ATIK 314L+, No filter, Binning 2x2 (1.31 arcsec/pixel)
+<br>108 x 10 sec (images) 2025-09-21 (UT) 09:32:26 to 2025-09-21 (UT) 10:00:34
+<br>6 x 10 sec (video sequence) 2025-09-21 (UT) 09:32:47 to 2025-09-21 (UT) 09:50:39</p>
+<div class="clear"></div>
+
+<p><a href="gallery/2025FA22_20250921_W63.mp4">
+<video class="right" width="450" autoplay controls>
+<source src="gallery/2025FA22_20250921_W63.mp4" type="video/mp4">
+</video></a>
+<!-- <img class="left" src="gallery/2025FA22_20250921_W63.gif" width="450" alt="" /> -->
+<br>Edwin Andr&eacute;s Quintero Salazar
+<br>Observatorio Astron&oacute;mico UTP (W63), Pereira, Colombia
+<br>September 21, 2025
+<br>Meade LX200GPS 16&quot; + SBIG STXL6303E
+</p>
+<div class="clear"></div>
+
+<p><img class="left" src="gallery/2025FA22_Vodniza_20250923.gif" width="450" alt="" />
+<br>Alberto Quijano Vodniza
+<br>University of Nari&ntilde;o Observatory
+</p>
+<div class="clear"></div>
+
+<p><a href="gallery/2025FA22_20250924_M44.mp4">
+<video class="right" width="450" autoplay controls>
+<source src="gallery/2025FA22_20250924_M44.mp4" type="video/mp4">
+</video></a>
+<br>Al Khatim Observatory (M44)
+<br>Mohammad Shawkat Odeh, Abu Dhabi, UAE
+<br>2025 Sep 24.8 UT.
+<br>Video: 30 Images, each one is 5 x 30 seconds images.
+<br>0.36m SC, f/7.7 Telescope.</p>
+<div class="clear"></div>
+
+<p><a href="gallery/2025FA22_NUOVO_3.mp4">
+<video class="left" width="450" autoplay controls>
+<source src="gallery/2025FA22_NUOVO_3.mp4" type="video/mp4">
+</video></a>
+<br>Roberto Bacci
+<br>Images acquired with the IAC80 telescope at the Teide Observatory, Tenerife (Spain). Animation by Roberto Bacci, D63 G. Pascoli Observatory.
+<br>Thanks to the IAC (Instituto de Astrof&iacute;sica de Canarias), specifically Jose Acosta Pulido (Head of the Telescope Operations), Rosa Clavero Jim&eacute;nez, Olga Zamora, and the operating technician Roberto &Aacute;lvarez Hern&aacute;ndez.</p>
+<div class="clear"></div>
+
+<p>&nbsp;</p>
+
+<h3>Polarimetry, Spectra,...</h3>
+
+<p><img class="left" src="gallery/2025FA22_Devogele_polarimetry_20250919_132806.png" width="450" alt="" />
+<br>(submitted 19 Sep)
+<br>We currently have 3 observations in polarimetry (more coming).
+<br>Two from the Calern Observatory in France (Ph. Bendjoya, J.-P. Rivet). Those were obtained yesterday night and last night. 
+<br>One from the VLT (S. Bagnulo, S. Ieva; NEOPOPS project) obtained yesterday night. 
+<br><br>The main result is that FA22 polarization looks similar to S or X-type objects polarization. However, we notice that it is displaying a slightly larger polarization than previously observed object in these groups which might hint toward a low albedo. 
+<br><br>Our first analysis of the polarization suggests that FA22 albedo should be 0.17 (+0.05-0.04) leading to a diameter of 140 (+20-30)m taking into account the H = 21.78 
+<br>Maxime Devogele</p>
+<div class="clear"></div>
+
+<p><img class="right"src="gallery/2023FA22_INAOE_Spectrum_20250921.jpeg" width="450" alt="" />
+<br>Sergio Camacho et al
+<br>Instituto Nacional de Astrof&iacute;sica, &Oacute;ptica y Electr&oacute;nica (M&eacute;xico)
+<br>21 Sept 2025
+<br>0.4 to 0.95 micron region, </p>
+<div class="clear"></div>
+
+<p>&nbsp;</p>
+
+<h3>Images</h3>
+<p><img class="right" src="gallery/2025FA22_Scarmato_20250919.png" width="450" alt="" />
+<br>MPC Code L92
+<br>Toni Scarmato
+<br>Telescope 25 cm Newtonian, f/4.8+CMOS ASI294MC Pro, resolution 1.38 arcsec/pixel
+<br>FOV 41'x37', 60 x 7s exposure
+</p>
+<div class="clear"></div>
+
+
+<p><img class="left" src="gallery/2025FA22_AKO_M44_20250918.png" width="450" alt="" />
+<br>Al Khatim Observatory (M44)
+<br>Mohammad Shawkat Odeh, Abu Dhabi, UAE
+<br>2025 Sep 18.0 UT, 7 hours prior to closest approach.
+<br>Photo: 30 x 1 second images.
+<br>0.36m SC, f/7.7 Telescope.</p>
+<div class="clear"></div>
+
+
+<p><img class="right" src="gallery/2025FA22_M47.png" width="450" alt="" />
+<img class="right" src="gallery/2025FA22_star-fix-0001A+29-33_M47.jpg" width="450" alt="" />
+<br>Sharjah Astronomical Observatory - M47, Sharjah Academy for Astronomy and Space Science (SAASST)
+<br>Mohammed Fadil Talafha, UAE
+<br>2025 Sep 18
+<br></p>
+<div class="clear"></div>
+
+<p><img class="left" src="gallery/2025FA22-19092025-30sek-042845_SBeck.jpg" width="425" alt="" />
+<img class="left" src="gallery/2025FA22-19092025-5x2sek-043052-043124_SBeck.jpg" width="425" alt="" />
+<br>Stefan Beck
+<br>Instrument: Newton 200/570 f=2.8
+<br>Camera: ToupTek 2600MP
+<br>Location: Holzgerlingen
+<br>LEFT
+<br>Time: 2025-09-19 02:30:52 - 02:31:27 UT
+<br>Remarks: 5 x 2 sec.
+<br>RIGHT
+<br>Time: 2025-09-19 02:28:45 - 02:29:15 UT
+<br>Remarks: 1 x 30 sec.
+</p>
+<div class="clear"></div>
+
+<p><img class="right" src="gallery/2025FA22_20250919_MPC-126.png" width="450" alt="" />
+<br>Luigi Sannino and Alfonso Mancuso
+<br>L.Zannoni MPC 126 Observatory, La Spezia, Italy
+<br>September 19, 2025, at 9:05 PM UTC
+</p>
+<div class="clear"></div>
+
+<p><img class="left" src="gallery/Grage1.png" width="425" alt="" />
+<img class="left" src="gallery/Grage2.png" width="425" alt="" />
+<br>Terry Grage
+<br>Mind's Eye Observatory W42</p>
+<div class="clear"></div>
+
+<p><img class="right" src="gallery/2025FA22_J13_FDRomanov.jpg" width="450" alt="" />
+<br>Observer: Filipp Romanov
+<br>The Liverpool Telescope: 2-m f/10 Ritchey-Chretien
+<br>MPC code: J13
+<br>Camera model: pco.edge 4.2 science grade CMOS detector (of MOPTOP)
+<br>MOP-R &quot;Red&quot; filter: 580-695nm</p>
+<div class="clear"></div>
+
+<p><img class="left" src="gallery/2025FA22_20250924_M44.png" width="450" alt="" />
+<br>Al Khatim Observatory (M44)
+<br>Mohammad Shawkat Odeh, Abu Dhabi, UAE
+<br>2025 Sep 24.8 UT.
+<br>Photo: 36 x 30 seconds images
+<br>0.36m SC, f/7.7 Telescope.</p>
+<div class="clear"></div>
+
+<!-- CONTENT -->
+
+</div>
+<!-- DIV close wrap -->
+</div>
+<!-- DIV close content -->
+</div>
+<!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/2025FA22/css-n-inc/footer.inc" -->
+<p class="right">Last updated:
+<!--#config timefmt="%A %B %d, %Y"-->
+<!--#echo var="LAST_MODIFIED" -->
+</p>
+</div><!-- close id footer -->
+</div>
+<!-- DIV close wrapper -->
+</body>
+
+</html>

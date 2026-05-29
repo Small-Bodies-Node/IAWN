@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IAWN Comet Astrometry Campaign -- Orbit</title>
+<link rel="stylesheet" href="/obscamp/3I_ATLAS/css-n-inc/styles.css" type="text/css" />
+<!--#include virtual="/obscamp/3I_ATLAS/css-n-inc/analytics.inc" -->
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>Comet Astrometry Campaign -- Orbit</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/3I_ATLAS/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>Orbit of Comet 3I/ATLAS</h2>
+
+<p>Orbital elements listed here are taken from the <a href="https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3I%2FATLAS" onclick="this.target='_blank'">Small-Body Database Lookup</a>, and represent the current best solution.</p>
+
+<h3>Orbital Elements (Solution JPL#29)</h3>
+<table style="width:100%; border-spacing:0px;">
+
+<tr>
+<td>Epoch</td>
+<td>2460882.5 (2025-Jul-26.0) TDB</td>
+</tr>
+
+<tr>
+<td>Perihelion Time</td>
+<td>T = 2025-Oct-29.48337098</td>
+</tr>
+
+<tr>
+<td>Perihelion Time (JD)</td>
+<td>T = 2460977.983370982484</td>
+</tr>
+
+<tr>
+<td>Orbital Period</td>
+<td>not defined</td>
+</tr>
+
+<tr>
+<td>Semi-major Axis</td>
+<td>a = -0.2639605456438713 au</td>
+</tr>
+
+<tr>
+<td>Perihelion Distance</td>
+<td>q = 1.356062963460816 au</td>
+</tr>
+
+<tr>
+<td>Eccentricity</td>
+<td>e = 6.137369905616049</td>
+</tr>
+
+<tr>
+<td>Inclination</td>
+<td>i = 175.1128860522239&deg;</td>
+</tr>
+
+<tr>
+<td>Ascending Node</td>
+<td>&Omega; = 322.1527181958458&deg;</td>
+</tr>
+
+<tr>
+<td>Argument of Perihelion</td>
+<td>&omega; = 128.012084236624&deg;</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<!-- <tr>
+<td><strong>Close Approach Time</strong></td>
+<td>t = 2022-Nov-23 10:06 &plusmn; &lt; 00:01 UT</td>
+<td></td>
+</tr> -->
+
+<!-- <tr>
+<td><strong>Close Approach Distance</strong></td>
+<td>&Delta; = 0.00762 au
+ &Delta; = 1140089 km</td>
+</tr> -->
+
+<!-- <tr>
+<td><strong>Velocity with respect to Earth <br> at closest approach</strong></td>
+<td></td>
+<td></td>
+</tr> -->
+
+<tr>
+<td><strong>Min. Orbital Intersection Dist.</strong></td>
+<td>MOID = 0.363275 au</td>
+</tr>
+
+</table>
+
+
+<h3>Full Orbit From Above</h3>
+<p>View of Comet 3I/ATLAS orbit as seen from the North ecliptic pole with the comet and planets shown at the time of the comet's minimum orbital distance to Earth. <i>From the JPL Small-Body Database Browser.</i></p>
+<p><a href="Orbits/3I_ATLAS_Orbit_2025.png" title="View of 3I/ATLAS' full orbit"><img src="Orbits/3I_ATLAS_Orbit_2025.png" width="80%" alt="View of 3I/ATLAS' entire orbit." /></a></p>
+
+
+
+<h3>Orbit in Oblique View</h3>
+<p>Oblique view of the portion of Comet 3I/ATLAS orbit around its MOID, viewed from 30&deg; above the ecliptic plane. The black dots denote the positions when the comet is closest to the Earth.
+<br><a href="Orbits/3I_orbit_plot.png" title="Oblique view of 3I/ATLAS' orbit"> <img src="Orbits/3I_orbit_plot.png" width="80%" alt="Oblique view of 3I/ATLAS' orbit." /></a> 
+<!-- <br><a href="Orbits/3I_orbit_plot.pdf">PDF Version</a> --></p>
+
+
+<h3>Orbit in Earth Co-Orbital View</h3>
+<p>The orbit of Comet 3I/ATLAS around perihelion, in the Earth's co-orbital reference frame, as seen from above (top panel) and in the ecliptic plane (bottom panel). The black circle denotes the comet's position on Dec 19 2025, when it is closest to the Earth.
+<br><a href="Orbits/3I_orbit_plot_corot.png" title="Orbit of 2012 TC4 in the Earth co-orbital reference frame"> <img src="Orbits/3I_orbit_plot_corot.png" width="80%" alt="Plot of 3I/ATLAS' orbit in Earth-co-orbital frame."/></a>
+<!-- <br><a href="Orbits/3I_orbit_plot_corot.pdf">PDF Version</a> --></p>
+
+
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/3I_ATLAS/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

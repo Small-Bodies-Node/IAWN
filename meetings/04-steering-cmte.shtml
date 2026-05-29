@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 4th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">4th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p>On 13 October 2016, the IAWN Steering Committee met in Pasadena, California. Those present and virtually present (via Adobe Connect) included Detlef Koschny, Michael Kuppers and Gerhard Drolshagen (ESA); Giovanni Valsecchi (IAPS-INAF), Line Drube Alan Harris (DLR); Linda Billings, Rob Landis, Victoria Friedensen, Kelly Fast, and Lindley Johnson (NASA); Michael A&#8217;hearn (University of Maryland); Tim Spahr (NEO Sciences); Romana Kofler and Daniel Garcia Yarnoz (UNOOSA), Makoto Yoshikawa (JAXA); Sung Ki Cho (KASI); and Clemens Rumpf (UKSA).</p>
+
+<p>Rob Landis began with a general welcome and introductory remarks. His presentation also contained a summary of NASA&#8217;s Planetary Defense Coordination Office (<a href="https://www.nasa.gov/planetarydefense" onclick="this.target='_blank'">PDCO</a>), a plug for the new <a href="http://IAWN.net">IAWN web page</a>, an updated list of IAWN signatories, and a short discussion of IAWN in some upcoming meetings and exercises. Rob&#8217;s presentation is <a href="/documents/201610_4th_Pasadena/Intro_4th_IAWN_13Oct2016.pdf" onclick="this.target='_blank'">here </a>.</p>
+
+<p>Romana Kofler next discussed the interface between the IAWN and the UN&#8217;s Office of Outer Space Affairs. Her presentation <a href="/documents/201610_4th_Pasadena/UNOOSA_IAWN-Interface.pdf" onclick="this.target='_blank'">(here) </a>discusses three main items for IAWN from the OOSA perspective: general communication on NEOs for the public, object-specific communication with member states in the event of a warning, and lastly capacity-building through UN-SPIDER.</p>
+
+<p>Next up, Detlef Koschny gave a very <a href="/documents/201610_4th_Pasadena/ESA-SSA-NEO-HO-0279_1_2_ESA_activities_IAWN_2016-10-13.pdf" onclick="this.target='_blank'">detailed presentation</a> on ESA's NEO-related activities. In particular, Detlef summarized various studies and workshops, and also discussed some astrometric follow-up observations that included observing some NEOs near 27th magnitude!</p>
+
+<p>Gerhard Drolshagen, also of ESA, followed Detlef with a summary presentation of IAWN-related activities. Included in this discussion was an attempt at generating a new impact rating scale, in the spirit of the Torino, Palermo, and Broomfield scales, in hopes of creating some means of communicating this information with the public. Gerhard also discussed communication of a credible threat - this is a subject returned to frequently during this Steering Committee Meeting.</p>
+
+<p>Lindley Johnson next discussed notification criteria <a href="/documents/201610_4th_Pasadena/SMPAG-Task-5.1-Presentation-1.pdf" onclick="this.target='_blank'">here</a>. This relatively simple-looking set of slides took awhile to discuss. Criteria for reporting impacts, and possible impacts, is a knotty subject where actual announcements need to be carefully crafted and discussed. As many other participants noted in the lively discussion at the meeting, there are actual concrete examples of scientists being charged with crimes for improperly discussing or predicting (or failing to predict!) earthquakes in Italy. One expects that there will be plenty of lively discussion about not only reporting criteria, but actual wording of reports of impact alerts in the future.</p>
+
+<p>Following a lunch break, Tim Spahr and Rob Landis led a discussion of thresholds and communication (presentation <a href="/documents/201610_4th_Pasadena/spahr_landis.pdf" onclick="this.target='_blank'">here)</a>. They both stressed the subject is difficult, and that various interested parties might have different criteria (essentially size and impact probabilities) for notification. Further, the tendency to hyperbolize impact threats by the media was driven home by the appearance of a humorous but true article in the Daily Mail (see the presentation for details). Lastly, the presentation showed some of the content on the developing IAWN.net web presence.</p>
+
+<p>Linda Billings ended the formal presentation block by discussing recent work on impact scales (presentation <a href="/documents/201610_4th_Pasadena/IAWN-charts.LB_.rev_.10.13.16.pdf" onclick="this.target='_blank'">here.</a>) She stressed the need for common language and avoiding discussion of impact probabilities with the public, as the general public does not operate well in probability space. Linda&#8217;s presentation also puts forth a standard template for close approach and impact announcements; the IAWN close approach reports are using this template partially, and will embrace it fully in the next version or two of the reporting software.</p>
+
+<p>The meeting concluded with a discussion of future IAWN meetings at UNCOPUOS in late January 2017, and at the next Planetary Defense Conference in Tokyo, Japan (<a href="https://iaaweb.org/content/view/658/866/" onclick="this.target='_blank'">announcement</a>, <a href="http://pdc.iaaweb.org/" onclick="this.target='_blank'">conference site</a>).</p>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

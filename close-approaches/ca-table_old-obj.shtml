@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: Upcoming Close Approaches for Already Discovered NEOs</title>
+<!--#include virtual="/css-n-inc/top.inc"-->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">Upcoming Close Approaches for Already Discovered NEOs</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<div class="art-content-layout">
+<div class="art-content-layout-row">
+<div class="art-layout-cell layout-item-0" style="width: 100%">
+
+<table class="art-article" style="width: 100%; ">
+<thead>
+<tr>
+<td>Object</td>
+<td>Close-Approach<br />(CA) Date</td>
+<td>CA Distance Nominal<br />(LD | au)</td>
+<td>CA Distance Minimum<br />(LD | au)</td>
+<td>V relative (km/s)</td>
+<td>V infinity (km/s)</td>
+<td>H (mag)</td>
+<td>Estimated Diameter</td>
+<td></td>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>153814 (2001 WN5)</td>
+<td>2028-Jun-26 05:23 <br /> &plusmn; &lt; 00:01</td>
+<td>0.65 | 0.00166</td>
+<td>0.65 | 0.00166</td>
+<td>10.24</td>
+<td>10.08</td>
+<td>18.2</td>
+<td>610 m - 1.4 km</td>
+<td>a0153814</td>
+</tr>
+
+<tr>
+<td>99942 Apophis (2004 MN4)</td>
+<td>2029-Apr-13 21:46 <br /> &plusmn; &lt; 00:01</td>
+<td>0.10 | 0.00025</td>
+<td>0.10 | 0.00025</td>
+<td>7.43</td>
+<td>5.84</td>
+<td>19.7</td>
+<td>310 m - 680 m</td>
+<td>a0099942</td>
+</tr>
+
+<tr>
+<td>(2001 AV43)</td>
+<td>2029-Nov-11 15:25 <br /> &plusmn; &lt; 00:01</td>
+<td>0.81 | 0.00209</td>
+<td>0.81 | 0.00209</td>
+<td>4</td>
+<td>3.67</td>
+<td>24.6</td>
+<td>32 m - 71 m</td>
+<td>bK01A43V</td>
+</tr>
+
+<tr>
+<td>(2012 UE34)</td>
+<td>2041-Apr-08 02:50 <br /> &plusmn;    00:25</td>
+<td>0.28 | 0.00073</td>
+<td>0.27 | 0.00070</td>
+<td>6.12</td>
+<td>5.49</td>
+<td>23.3</td>
+<td>58 m - 130 m</td>
+<td>bK12U34E</td>
+</tr>
+
+<tr>
+<td>(2015 XJ351)</td>
+<td>2047-Jun-06 09:07 <br /> &plusmn; 1_20:43</td>
+<td>0.79 | 0.00203</td>
+<td>0.25 | 0.00064</td>
+<td>15.84</td>
+<td>15.76</td>
+<td>22.4</td>
+<td>88 m - 200 m</td>
+<td>bK15XZ1J</td>
+</tr>
+
+<tr>
+<td>(2015 XA378)</td>
+<td>2053-Jun-01 04:41 <br /> &plusmn;    14:29</td>
+<td>0.55 | 0.00140</td>
+<td>0.22 | 0.00057</td>
+<td>18.02</td>
+<td>17.92</td>
+<td>25.9</td>
+<td>18 m - 39 m</td>
+<td>bK15Xb8A</td>
+</tr>
+
+<tr>
+<td>(2018 NL)</td>
+<td>2055-Jun-29 09:17 <br /> &plusmn;    09:53</td>
+<td>0.60 | 0.00155</td>
+<td>0.13 | 0.00034</td>
+<td>8.51</td>
+<td>8.3</td>
+<td>25.4</td>
+<td>22 m - 49 m</td>
+<td>bK18N00L</td>
+</tr>
+
+<tr>
+<td>523809 (2007 TV18)</td>
+<td>2058-Sep-22 10:49 <br /> &plusmn; &lt; 00:01</td>
+<td>0.92 | 0.00236</td>
+<td>0.92 | 0.00236</td>
+<td>10.38</td>
+<td>10.27</td>
+<td>23.8</td>
+<td>46 m - 100 m</td>
+<td>a0523809</td>
+</tr>
+
+<tr>
+<td>(2005 WY55)</td>
+<td>2065-May-28 01:12 <br /> &plusmn; &lt; 00:01</td>
+<td>0.87 | 0.00222</td>
+<td>0.86 | 0.00220</td>
+<td>18.6</td>
+<td>18.54</td>
+<td>20.7</td>
+<td>190 m - 430 m</td>
+<td>bK05W55Y</td>
+</tr>
+
+<tr>
+<td>308635 (2005 YU55)</td>
+<td>2075-Nov-08 07:02 <br /> &plusmn;    00:14</td>
+<td>0.59 | 0.00152</td>
+<td>0.50 | 0.00128</td>
+<td>13.77</td>
+<td>13.64</td>
+<td>21.9</td>
+<td>110 m - 250 m</td>
+<td>a0308635</td>
+</tr>
+
+<tr>
+<td>(2015 XF261)</td>
+<td>2090-Apr-11 07:54 <br /> &plusmn;    00:04</td>
+<td>0.97 | 0.00250</td>
+<td>0.91 | 0.00233</td>
+<td>10.1</td>
+<td>9.99</td>
+<td>25</td>
+<td>27 m - 59 m</td>
+<td>bK15XQ1F</td>
+</tr>
+
+<tr>
+<td>(2015 XX128)</td>
+<td>2095-Dec-09 08:34 <br /> &plusmn; 1_04:17</td>
+<td>0.88 | 0.00226</td>
+<td>0.49 | 0.00125</td>
+<td>3.97</td>
+<td>3.66</td>
+<td>26</td>
+<td>17 m - 38 m</td>
+<td>bK15XC8X</td>
+</tr>
+
+<tr>
+<td>(2013 XY8)</td>
+<td>2095-Dec-11 18:25 <br /> &plusmn;    00:17</td>
+<td>0.89 | 0.00228</td>
+<td>0.83 | 0.00214</td>
+<td>9.33</td>
+<td>9.21</td>
+<td>25</td>
+<td>27 m - 59 m</td>
+<td>bK13X08Y</td>
+</tr>
+
+<tr>
+<td>456938 (2007 YV56)</td>
+<td>2101-Jan-02 04:46 <br /> &plusmn;    00:02</td>
+<td>0.62 | 0.00160</td>
+<td>0.62 | 0.00158</td>
+<td>19.28</td>
+<td>19.19</td>
+<td>21</td>
+<td>170 m - 380 m</td>
+<td>a0456938</td>
+</tr>
+
+<tr>
+<td>(2007 UW1)</td>
+<td>2129-Oct-19 03:25 <br /> &plusmn;    00:30</td>
+<td>0.24 | 0.00062</td>
+<td>0.15 | 0.00040</td>
+<td>5.56</td>
+<td>4.72</td>
+<td>22.7</td>
+<td>77 m - 170 m</td>
+<td>bK07U01W</td>
+</tr>
+
+<tr>
+<td>101955 Bennu (1999 RQ36)</td>
+<td>2135-Sep-25 09:46 <br /> &plusmn;    01:30</td>
+<td>0.77 | 0.00199</td>
+<td>0.31 | 0.00079</td>
+<td>6.17</td>
+<td>5.95</td>
+<td>20.2</td>
+<td>240 m - 540 m</td>
+<td>a0101955</td>
+</tr>
+
+<tr>
+<td>153201 (2000 WO107)</td>
+<td>2140-Dec-01 19:50 <br /> &plusmn; &lt; 00:01</td>
+<td>0.63 | 0.00163</td>
+<td>0.63 | 0.00162</td>
+<td>26.02</td>
+<td>25.96</td>
+<td>19.3</td>
+<td>370 m - 820 m</td>
+<td>a0153201</td>
+</tr>
+
+<tr>
+<td>(2009 DO111)</td>
+<td>2146-Mar-23 08:47 <br /> &plusmn;    00:31</td>
+<td>0.90 | 0.00230</td>
+<td>0.74 | 0.00191</td>
+<td>9.14</td>
+<td>9.02</td>
+<td>22.8</td>
+<td>73 m - 160 m</td>
+<td>bK09DB1O</td>
+</tr>
+
+<tr>
+<td>85640 (1998 OX4)</td>
+<td>2148-Jan-22 03:24 <br /> &plusmn; &lt; 00:01</td>
+<td>0.77 | 0.00198</td>
+<td>0.77 | 0.00198</td>
+<td>12.3</td>
+<td>12.19</td>
+<td>21.1</td>
+<td>160 m - 360 m</td>
+<td>a0085640</td>
+</tr>
+
+<tr>
+<td>(2007 UY1)</td>
+<td>2156-Feb-13 23:22 <br /> &plusmn;    02:56</td>
+<td>0.69 | 0.00176</td>
+<td>0.65 | 0.00168</td>
+<td>5.77</td>
+<td>5.5</td>
+<td>22.9</td>
+<td>70 m - 160 m</td>
+<td>bK07U01Y</td>
+</tr>
+
+<tr>
+<td>(2011 LT17)</td>
+<td>2156-Dec-16 04:58 <br /> &plusmn;    00:16</td>
+<td>1.00 | 0.00256</td>
+<td>0.95 | 0.00245</td>
+<td>14.1</td>
+<td>14.03</td>
+<td>21.6</td>
+<td>130 m - 280 m</td>
+<td>bK11L17T</td>
+</tr>
+
+<tr>
+<td>(2014 SM143)</td>
+<td>2197-Oct-23 03:29 <br /> &plusmn;    08:07</td>
+<td>0.78 | 0.00200</td>
+<td>0.37 | 0.00094</td>
+<td>17.57</td>
+<td>17.49</td>
+<td>20.3</td>
+<td>230 m - 520 m</td>
+<td>bK14SE3M</td>
+</tr>
+
+
+
+
+
+
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper"-->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc"-->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

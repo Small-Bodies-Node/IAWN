@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: SMPAG Open Forum</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">SMPAG Open Forum</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<div class="image-caption-wrapper" style="width: 50%; float: left">
+<img src="/images/DSC_0267-1-768x510.jpg" style="width: 100%; max-width: 600px;" alt="Photo of people at meeting." class="art-lightbox" />
+<p class="caption">Credit: UN OOSA</p>
+</div>
+
+<p>On February 18, 2016 <a href="http://iawn.net/">IAWN</a> and <a href="http://www.cosmos.esa.int/web/smpag" onclick="this.target='_blank'">SMPAG</a> held an <a href="http://www.unoosa.org/oosa/en/outreach/events/2016/open-forum-on-near-earth-object.html" onclick="this.target='_blank'">Open Forum</a> associated with the 53rd session of the United Nations Committee on the Peaceful Uses of Outer Space Science and Technical Subcommittee. The primary purpose of the forum was to provide the community with information on current and worldwide NEO efforts, and also to help stimulate interest to allow for broader, worldwide support for detecting, tracking, warning and mitigating a possible future NEO impact.</p>
+
+<p>Lindley Johnson, <a href="https://www.nasa.gov/planetarydefense" onclick="this.target='_blank'">NASA's Planetary Defense Officer</a>, began with some background, as well as introductions.</p>
+
+<p>The first speaker was Rob Landis also from <a href="https://www.nasa.gov/planetarydefense" onclick="this.target='_blank'">NASA's PDCO</a>, who provided some history of the formation of IAWN, the charter, and current status of some of the programs. His presentation is <a href="/documents/201602_SMPAG/open_forum_landis.pdf" onclick="this.target='_blank'">here</a>.</p>
+
+<p>Tim Spahr, a specialist in ground-based observing and orbit computation, presented slides on current worldwide survey efforts, and some discussion of the orbit computation process. His presentation listed some areas in which worldwide observers might contribute to IAWN. This presentation is <a href="/documents/201602_SMPAG/open_forum_spahr.pdf" onclick="this.target='_blank'">here</a>.</p>
+
+<p>Detlef Koschny of the <a href="http://www.esa.int/ESA" onclick="this.target='_blank'">European Space Agency</a> presented the status of several efforts underway. These include initial construction of a 1-m 'fly-eye' telescope capable of surveying the entire sky every few nights and an update the NEODyS-2 program which computes orbits and impact probabilities for all NEOs. ESA is also interfacing with local agencies in disaster preparedness in the unlikely event of an impact in the area. Detlef's full presentation is located <a href="/documents/201602_SMPAG/neo-forum-03E.pdf" onclick="this.target='_blank'">here</a>.</p>
+
+<p>Linda Billings, from the <a href="http://www.nianet.org/" onclick="this.target='_blank'">National Institute of Aerospace </a>and currently a consultant with NASA's <a href="https://www.nasa.gov/planetarydefense" onclick="this.target='_blank'">PDCO</a> presented and discussed communication efforts, as well as challenges, surrounding NEOs and potential impacts. Linda stressed clear and precise communication, and using existing well-functioning communication models currently in place for other areas such as the World Health Organization's outbreak communication guidelines. Her entire presentation is <a href="/documents/201602_SMPAG/neo-forum-05E.pdf" onclick="this.target='_blank'">here</a>.</p>
+
+<p>Claus Madsen of the <a href="http://www.eso.org/public/" onclick="this.target='_blank'">European Southern Observatory</a> presented on ESO's ability to observe very faint asteroids with the large telescopes at their disposal. In the presentation <a href="/documents/201602_SMPAG/neo-forum-04E.pdf" onclick="this.target='_blank'">here</a>, Claus shows some of the images of faint NEO recoveries and also lists the number of objects where ESO observations have removed any possibility of future impact.</p>
+
+<p>Gerhard Drolshagen, also of <a href="http://www.esa.int/ESA" onclick="this.target='_blank'">ESA</a>, presented a discussion of <a href="http://www.cosmos.esa.int/web/smpag" onclick="this.target='_blank'">Space Mission Planning Advisory Group</a> functions and listed the current entities with membership in the Group. Gerhard also presented on several space missions, some operating and some in planning stages, that will help our current understanding of science and technology requirements for future asteroid deflection.</p>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

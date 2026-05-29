@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: Workshop on Communicating about Asteroid Impact Warnings and Mitigation Plans</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">Workshop on Communicating about Asteroid Impact Warnings and Mitigation Plans</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p>In September 2014, <a href="http://swfound.org" onclick="this.target='_blank'">Secure World Foundation</a> hosted a <a href="https://swfound.org/events/2014/asteroid-impact-risk-communication-workshop" onclick="this.target='_blank'">two-day workshop on communication</a> about Near-Earth Object (NEO) hazards and impact mitigation. The workshop was organized at the request and for the benefit of the International Asteroid Warning Network (IAWN).</p>
+
+<p>The workshop brought together a diverse group of experts from the NEO science, risk communication, policy, and emergency management communities to provide communication guidance and advice to managers and directors of IAWN member programs and institutions.</p>
+
+<p>A report was prepared for IAWN and a PDF copy can be downloaded <a href="/documents/201409_Communications/iawn_communication_workshop_report.pdf" onclick="this.target='_blank'">here</a>. The report captures key findings and recommendations derived from the workshop, and also includes an executive summary and a full list of participants.</p>
+
+<p>The case studies prepared for the workshop and discussed in the report are available below:</p>
+<ul>
+<li><a href="/documents/201409_Communications//2007-vk184-case-study-iawn-delgado-9-14.pdf" onclick="this.target='_blank'">2007 VK184 Case Study</a>
+<br /><em>Laura Delgado L&oacute;pez</em></li>
+<li><a href="/documents/201409_Communications//2012-da14-chelyabinsk-case-study-iawn-galache-9-14.pdf" onclick="this.target='_blank'">2012 DA14 and Chelyabinsk Meteor Case Study</a>
+<br /><em>J.L. Galache</em></li>
+<li><a href="/documents/201409_Communications//apophis-case-study-iawn-david-9-141.pdf" onclick="this.target='_blank'">Apophis Case Study</a>
+<br /><em>Leonard David</em></li>
+<li><a href="/documents/201409_Communications//2011-ag5-case-study-iawn-billings-9-14.pdf" onclick="this.target='_blank'">2011 AG5 Case Study</a>
+<br /><em>Linda Billings</em></li>
+</ul>
+
+<h3>Participants at the First IAWN Communications Workshop</h3>
+<ul>
+<li>Linda Billings (NASA/NAI), Organizer</li>
+<li>Laura Delgado L&oacute;pez (SWF), Co-organizer</li>
+<li>Sergio Camacho (CRECTEALC)</li>
+<li>Amber Charlesworth (US Department of State)</li>
+<li>Maryanne Culpepper (formerly National Geographic TV)</li>
+<li>Leonard David (Space journalist)</li>
+<li>Gerhard Drolshagen (ESA)</li>
+<li>Jos&eacute; Luis Galache (Minor Planet Center)</li>
+<li>Doug Isbell (NASA JPL)</li>
+<li>Lindley Johnson (NASA)</li>
+<li>Leviticus A. Lewis (FEMA)</li>
+<li>Susanna Priest (University of Washington)</li>
+<li>Cheryl Reed (Johns Hopkins University Applied Physics Laboratory)</li>
+<li>Michael Simpson (SWF)</li>
+</ul>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

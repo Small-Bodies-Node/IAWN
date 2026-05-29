@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Comet 2I/Borisov Observing Campaign -- Observations</title>
+<link rel="stylesheet" href="/obscamp/Borisov/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+<div id="sitename"></div>
+<div id="header"><h1>Comet 2I/Borisov -- Observations</h1></div>
+
+<div id="body" class="clear">
+<!-- Load navigation bar information. -->
+<!--#include virtual="/obscamp/Borisov/css-n-inc/nav.inc" -->
+
+<!--Right hand side (main text) -->
+<div id="content" class="column-right">
+<!-- CONTENT -->
+<h2>Planned, Scheduled and Completed Observations</h2>
+
+<p><a href="https://script.google.com/a/umd.edu/macros/s/AKfycbxFDE4F9NBzZg8SNxGYI_JtlFFq0XIliATXykqNsv6g1Cx23jRr/exec?target=2I">Plots and tables showing a summary of the observing information that has been submitted to date.</a> Plots are sorted into monthly blocks and color coded with respect to the type of observation.</p>
+
+<p><a href="borisov_obs_input.shtml">Form for submitting your own information</a></p>
+
+<!-- CONTENT -->
+
+</div><!-- DIV close wrap -->
+</div><!-- DIV close content -->
+</div><!-- DIV close body -->
+<div id="footer" class="clear">
+<!-- Load footer information. -->
+<!--#include virtual="/obscamp/Borisov/css-n-inc/footer.inc" -->
+<p class="right">Last updated: <!--#config timefmt="%A %B %d, %Y"--><!--#echo var="LAST_MODIFIED" --></p>
+</div><!-- close id footer -->
+</div><!-- DIV close wrapper -->
+</body>
+</html>

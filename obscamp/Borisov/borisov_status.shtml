@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title>Comet 2I/Borisov Observing Campaign -- Status</title>
+    <link rel="stylesheet" href="/obscamp/Borisov/css-n-inc/styles.css" type="text/css" />
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="sitename"></div>
+        <div id="header">
+            <h1>Comet 2I/Borisov -- Current Status</h1>
+        </div>
+
+        <div id="body" class="clear">
+            <!-- Load navigation bar information. -->
+            <!--#include virtual="/obscamp/Borisov/css-n-inc/nav.inc" -->
+
+            <!--Right hand side (main text) -->
+            <div id="content" class="column-right">
+                <!-- CONTENT -->
+                <h2>What's going on with Comet 2I/Borisov?</h2>
+
+                <p></p>
+
+<a name="brightness_plot"></a><h3>Borisov's Lightcurve</h3>
+<img src="Secular_lightcurve/2I_mag_status.png" width="100%"      alt="Lightcurve of comet 2I/Borisov" /><br/>
+<p>Lightcurve of comet  2I/Borisov (colored dots), compiled from observations
+  reported to the Minor Planet Center<sup><a href="#mpc_fn"
+  id="mpc">1</a></sup> (solid circles) and the Comet Observer's
+  Database<sup><a href="#cobs_fn" id="cobs">2</a></sup> (open circles).
+</p><br/>
+
+  <h3>Status Updates</h3>
+			
+  
+  <p><strong>2020 Apr 2:</strong> 2I/Borisov appears to have fragmented 
+      (<a href="http://www.astronomerstelegram.org/?read=13611">ATEL 13611</a>). </p>
+  <p><strong>2019 Aug 30:</strong> Discovered by Gennady Borisov at the MARGO observatory.</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p><sup id="mpc_fn">1.</sup> Thanks to the Minor Planet Center (MPC),
+operated by the Smithsonian Astrophysical Observatory (SAO) under the
+auspices of International Astronomical Union (IAU) for compiling brightness
+and astrometric measurements.<a href="#mpc" title="Jump back to footnote 1 in the text.">&#8617;</a></p>
+
+<p><sup id="cobs_fn">2.</sup> We acknowledge with thanks the comet
+observations from the COBS Comet Observation Database contributed by
+observers worldwide and used in this research.<a href="#cobs" title="Jump back to footnote 2 in the text.">&#8617;</a></p><br/>
+
+
+                <!-- CONTENT -->
+
+            </div>
+            <!-- DIV close wrap -->
+        </div>
+        <!-- DIV close content -->
+    </div>
+    <!-- DIV close body -->
+    <div id="footer" class="clear">
+        <!-- Load footer information. -->
+        <!--#include virtual="/obscamp/Borisov/css-n-inc/footer.inc" -->
+        <p class="right">Last updated:
+            <!--#config timefmt="%A %B %d, %Y"-->
+            <!--#echo var="LAST_MODIFIED" -->
+        </p>
+    </div>
+    <!-- close id footer -->
+    </div>
+    <!-- DIV close wrapper -->
+</body>
+
+</html>

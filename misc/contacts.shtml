@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: Contacts</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">Contacts</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<dl>
+
+<!-- ******************** email obfuscator ******************************************** -->
+<!-- ******************** + http://www.albionresearch.com/misc/obfuscator.php ********* -->
+<!-- ******************** + https://www.browserling.com/tools/text-to-html-entities *** -->
+
+<dt>Signatory Application</dt>
+<dd><a href="mailto:%69%61%77%6E%40%61%73%74%72%6f%2e%75%6d%64%2e%65%64%75">IAWN application</a></dd>
+
+<hr>
+
+<dt>ADDRESS</dt>
+<dd>UMD-Department of Astronomy
+<br />1113 Physical Sciences Complex, Bldg. 415
+<br />College Park, MD 20742</dd>
+
+<dt>Dr. James &quot;Gerbs&quot; Bauer</dt>
+<dd>Small Bodies Node Principal Investigator, <a href='mailto&#58;&#103;erb&#115;&#98;&#64;as&#116;r%6F&#46;umd&#46;&#37;&#54;5d&#37;7&#53;'>ge&#114;bsb&#64;a&#115;tro&#46;&#117;md&#46;e&#100;u</a></dd>
+
+<dt>Dr. Vishnu Reddy</dt>
+<dd>IAWN Manager: <a href='ma&#105;&#108;to&#58;%6D&#37;6F%6Fnyguy&#64;&#103;ma%&#54;&#57;l&#46;c&#111;m'>&#109;&#111;o&#110;y&#103;uy&#64;gmail&#46;&#99;om</a></dd>
+
+<dt>Dr. Tim Spahr</dt>
+<dd>Senior Advisor, <a href='mai&#108;to&#58;tsp%61&#104;r4&#37;34%&#52;0&#103;&#37;6D%&#54;&#49;%6&#57;%6C%2&#69;c%&#54;Fm'>&#116;sp&#97;&#104;r44&#64;gmai&#108;&#46;&#99;om</a></dd>
+
+<dt>Elizabeth Warner</dt>
+<dd>Website Manager, <a href='m&#97;ilt&#111;&#58;&#119;ar&#110;ere&#109;&#64;&#37;61s&#37;7&#52;ro&#37;2&#69;u&#109;d&#46;&#101;d&#37;7&#53;'>warner&#101;&#109;&#64;a&#115;t&#114;o&#46;um&#100;&#46;edu</a>
+<br />301-405-6555</dd>
+</dl>
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

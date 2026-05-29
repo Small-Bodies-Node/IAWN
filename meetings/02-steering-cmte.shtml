@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 2nd Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">2nd Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p>On November 11, 2014, the second meeting of the International Asteroid Warning Network (IAWN) Steering Committee took place in Tucson, AZ, coinciding with the week-long American Astronomical Society's Division of Planetary Sciences meeting. <!-- The agenda is available <a href="/2014-tucson-agenda/">here</a>. --></p>
+
+<p>The presentations prepared for this meeting:</p>
+<ul>
+<li><a href="/documents/201411_2nd_Tucson/Spahr_Tucson_IAWN.pdf" onclick="this.target='_blank'">IAWN: Recent Updates and MPC Summary</a>
+<br /><em>Tim Spahr (MPC)</em></li>
+
+<li><a href="/documents/201411_2nd_Tucson/Galache_DPS-2014-IAWN-Steering-Committee-Meeting1.pdf" onclick="this.target='_blank'">IAWN Communication Workshop notes</a>
+<br /><em>J.L. Galache (MPC)</em></li>
+
+<li><a href="/documents/201411_2nd_Tucson/IAWN_ALCDEF.pdf" onclick="this.target='_blank'">Asteroid Lightcurve Database</a>
+<br /><em>Brian Warner (Center for Solar System Studies)</em></li>
+
+<li><a href="/documents/201411_2nd_Tucson/IAWN14_Moskovitz.pdf" onclick="this.target='_blank'">Rapid-Response Characterization of Near-Earth Objects</a>
+<br /><em>N. Moskovitz (Lowell Observatory)</em></li>
+
+<li><a href="/documents/201411_2nd_Tucson/Bauer_IAWNb.pdf" onclick="this.target='_blank'">NEOWISE/WISE Characterization Results</a>
+<br /><em>J. Bauer (JPL)</em></li>
+
+<li><a href="/documents/201411_2nd_Tucson/Howell_IAWN-Arecibo.pdf" onclick="this.target='_blank'">Arecibo Radar Observations of Near-Earth Asteroids</a>
+<br /><em>P.A. Taylor (Arecibo Observatory/USRA)</em></li>
+</ul>
+
+<!-- <p>JW Marriott Starr Pass, Tucson, AZ
+<br />
+<br />11 November 2014</p>
+<h3>Agenda</h3>
+<p>8:30 <a href="/documents/201411_2nd_Tucson/Spahr_Tucson_IAWN.pdf" onclick="this.target='_blank'">IAWN Updates and Information</a>
+<br />Tim Spahr (MPC) and Lindley Johnson (NASA Headquarters)</p>
+<p>9:30 - 11:30 Discussion of Documents; Letter of Intent; Items from European
+<br />colleagues; SMPAG/STSC reports and planning</p>
+<p>11:45 - 1:30 Lunch</p>
+<p>1:40 - 2:10 <a href="/documents/201411_2nd_Tucson/Galache_DPS-2014-IAWN-Steering-Committee-Meeting1.pdf" onclick="this.target='_blank'">IAWN Communication Workshop notes</a>
+<br />J.L. Galache (MPC)</p>
+<p>2:15 - 2:40 <a href="/documents/201411_2nd_Tucson/IAWN_ALCDEF.pdf" onclick="this.target='_blank'">Asteroid Lightcurve Database</a>
+<br />Brian Warner (Center for Solar System Studies)</p>
+<p>2:40 - 3:10 <a href="/documents/201411_2nd_Tucson/IAWN14_Moskovitz.pdf" onclick="this.target='_blank'">Rapid-Response Characterization of Near-Earth Objects</a>
+<br />N. Moskovitz (Lowell Observatory)</p>
+<p>3:10 - 3:20 Short break</p>
+<p>3:25 - 3:55 <a href="/documents/201411_2nd_Tucson/Bauer_IAWNb.pdf" onclick="this.target='_blank'">NEOWISE/WISE Characterization Results</a>
+<br />J. Bauer (JPL)</p>
+<p>4:00 - 4:30 <a href="/documents/201411_2nd_Tucson/Howell_IAWN-Arecibo.pdf" onclick="this.target='_blank'">Arecibo Radar Observations of Near-Earth Asteroids</a>
+<br />E. Howell, presented by P. Taylor (Arecibo Observatory/USRA)</p>
+<p>4:30 - 6:30 Open discussion, letter of intent, items from earlier slot for further discussion</p> -->
+
+
+
+
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

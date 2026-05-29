@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 3rd Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">3rd Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p>On 8 November 2015, the third meeting of the International Asteroid Warning Network (IAWN) Steering Committee was held at National Harbor, Maryland (near Washington, DC). The agenda is available <a href="/documents/201511_3rd_Washington/3rd_IAWN_Agenda_DRAFT_RevI.pdf" onclick="this.target='_blank'">here</a>.</p>
+
+<p>The presentations prepared for this meeting are available below:</p>
+
+<ul>
+<li><a href="/documents/201511_3rd_Washington/NEO_Program_update.pdf" onclick="this.target='_blank'">NASA Near-Earth Object Observations (NEOO) Program</a>
+<br /><em>Lindley Johnson (NASA Headquarters)</em></li>
+
+<li><a href="/documents/201511_3rd_Washington/MPC_IAWN_Holman.pdf" onclick="this.target='_blank'">MPC Status and Survey Update</a>
+<br /><em>Matt Holman (MPC)</em></li>
+
+<li><a href="/documents/201511_3rd_Washington/Koschny_IAWN_SSA-NEO_overview_2015-11-06.pdf" onclick="this.target='_blank'">ESA SSA Status</a>
+<br /><em>Detlef Koschny (ESTEC)</em></li>
+
+<li><a href="/documents/201511_3rd_Washington/IAWN_Status_Final_3rd_SCmtg.pdf" onclick="this.target='_blank'">IAWN Status </a>
+<br /><em>Rob Landis (NASA Headquarters)</em></li>
+
+<li><a href="/documents/201511_3rd_Washington/Reddy_IWAN_NEO.pdf" onclick="this.target='_blank'">Real-time Characterization of Hazardous Asteroids: Lessons from Recent Flybys</a>
+<br /><em>Vishnu Reddy (PSI)</em></li>
+
+<li><a href="/documents/201511_3rd_Washington/IAWN2015.pdf" onclick="this.target='_blank'">NEOWISE Update; NEOCam in Phase A</a>
+<br /><em>Amy Mainzer (JPL)</em></li>
+
+<li><a href="/documents/201511_3rd_Washington/Communications_planning_LBillings.pdf" onclick="this.target='_blank'">Communication Planning, One Year Later: Time for Action</a>
+<br /><em>Linda Billings (National Inst. of Aerospace/NASA Headquarters)</em></li>
+
+<li><a href="/documents/201511_3rd_Washington/Space_Policy.NEO_comms.LB.8.15.pdf" onclick="this.target='_blank'">Words matter: A call for responsible communication about asteroid impact hazards and plans for planetary defense</a>
+<br /><em>Linda Billings (National Inst. of Aerospace/NASA Headquarters)</em></li>
+
+<li><a href="/documents/201511_3rd_Washington/Op-ed_Building_International_Infrastructure_for_Planetary_Defense_-_SpaceNews.com.pdf" onclick="this.target='_blank'">Building International Infrastructure for Planetary Defense</a>
+<br /><em>Linda Billings (National Inst. of Aerospace/NASA Headquarters)</em>
+<br /><em>Sergio Camacho (UNCOPUOS)</em></li>
+</ul>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

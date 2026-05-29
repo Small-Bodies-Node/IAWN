@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 11th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">11th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p><strong>The 11th IAWN Steering Committee Meeting - </strong>
+<br /><strong>Virtual</strong>
+<br />23 September 2020 -- <a href="/documents/20200923_11th_virtual/11th_IAWN_Mtg_Summary.pdf">Meeting Notes</a></p>
+
+<dl>
+<dt>IAWN Steering Committee members in attendance:</dt>
+<dd>Sergio Camacho (INAOE)
+<br />Paul Chodas (JPL-CNEOS)
+<br />Alan Harris (DLR)
+<br />Lindley Johnson (NASA-PDCO)
+<br />Detlef Koschny (ESA-PDO)
+<br />Boris Shustov (INASAN)
+<br />Giovanni Valsecchi (INAF-NEODyS)
+<br />Patrick Michel (CNRS/OCA)
+</dd>
+
+<dt>IAWN permanent observers in attendance:</dt>
+<dd>Gerhard Drolshagen (ESA-U. Oldenburg, SMPAG chair)
+<br />Romana Kofler (UN-OOSA)</dd>
+
+<dt>IAWN Signatory representatives in attendance:</dt>
+<dd>ASI/Ettore Perozzi (pending)
+<br />Baldone Observatory/Eglitis Ilgmars (pending)
+<br />Caltech-ZTF/George Helou
+<br />Caltech-ZTF/Tom Prince
+<br />Dominion Astrophys. Obs./David Balam
+<br />ESA/Juan Luis Cano
+<br />ESA/Luca Conversi
+<br />ESA/Marco Micheli
+<br />ESA/Richard Moissl
+<br />ESO/Andrew Williams
+<br />GAL Hassin/Alessandro Nastasi
+<br />Great Shefford Obs./Peter Birtwhistle
+<br />Israel Space Agency/Harel Ben-Ami
+<br />Israel Space Agency/David Polishook
+<br />KASI/Hong-Kyu Moon
+<br />KIAM RAS/Artem Mokhnatkin
+<br />KIAM RAS/Sergei Schmalz
+<br />KIAM RAS/Viktor Voropaev
+<br />Kourovka Astron. Obs./Eduard Kuznetsov
+<br />NAOC/Yang Xu
+<br />NASA-UH-ATLAS/Larry Denneau
+<br />NASA-UA-CSS/Eric Christensen
+<br />NASA-UA/John Mester
+<br />NASA-UA/Vishnu Reddy
+<br />NASA-UA-Spacewatch/Melissa Brucker
+<br />NASA-PDCO/Linda Billings
+<br />NASA-PDCO/Doris Daou
+<br />NASA-PDCO/Mike Kelley
+<br />Northolt Branch Observatories/Guy Wells
+<br />Obs. Paus B49/Jordi Camarasa (pending)
+<br />SONEAR/Crist&oacute;v&atilde;o Jacques
+<br />Sormano Astron. Obs.-587/Manca Francesco
+</dd>
+
+<dt>IAWN.net (U. of Maryland) representatives in attendance</dt>
+<dd>James "Gerbs" Bauer
+<br />Tony Farnham
+<br />Carrie Holt
+<br />Patricia Lawton
+<br />Andrei Mamoutkine
+<br />Elizabeth Warner
+</dd>
+
+<dt>11th IAWN Meeting Observers:</dt>
+<dd>Ryan Guglietta (U.S. Dept. of State)
+<br />Alissa J. Haddaji (Harvard University)
+</dd>
+
+<dt>11th IAWN meeting organizer:</dt>
+<dd>Kelly Fast (NASA-PDCO)</dd>
+</dl>
+
+<h2>Welcome and Introductions </h2>
+<p>Kelly Fast convened the virtual meeting and invited each member of the IAWN Steering Committee and each Permanent Observer to introduce themselves.
+<br />IAWN now has 26 signatories and 3 more applications pending approval (Steering Committee members and Signatory capabilities can be found on the IAWN website at iawn.net).
+</p>
+
+<h2>IAWN Signatory Updates</h2>
+<p>Some IAWN Signatory representatives in attendance gave introductions or updates, and slides will be made available on the IAWN website at iawn.net:</p>
+
+<p>ESA's Planetary Defence Office - Detlef Koschny gave an update on ESAs Planetary Defence Office, part of its Space Safety Programme. Its three pillars are observations, information provision, and mitigation, with twelve personnel and one trainee in Frascati, Italy. The optical contribution to IAWN is mainly in the area of follow up on multiple telescopes. The NEMO system continues to scan social media for fireballs to check with the CTBTO infrasound database. The Flyeye telescope site loan agreement is being negotiated, 16 cameras being manufactured, and a suboptimal point spread function is being investigated. Meerkat is ready, using MPC tracklets for objects on NEOCP to identify imminent impactors. In the area of mitigation, a knowledge base for impact effects has been developed, with plans for an operational tool to quickly determine impact effects. There is continued production of close-approach fact sheets, and Koschny brought up the issue of the definition of a close approach and the question of where IAWN stands on text boxes for information messages.</p>
+
+<p>NASA's Planetary Coordination Office - Kelly Fast gave background on the Planetary Defense Program and in particular the NEO Observations Program, which funds the Minor Planet Center, major NEO survey projects (e.g., Pan-STARRS, Catalina, ATLAS, NEOWISE), follow-up projects, and characterization assets such as NASA's Infrared Telescope Facility (IRTF) and the Goldstone and Arecibo planetary radars. Current status under COVID-19 was given, with the current major impacts being the continued closure of Kitt Peak (affecting Spacewatch) and Cerro Tololo (affecting Astronomical Research Institute). Although the observation rate to the Minor Planet Center dropped in late March when even more observatories temporarily closed, the observation rate has gone back up. The NEO discovery status indicates that the 2020 total might surpass 2019, but the 140m and larger total will likely be lower and appears to have plateaued in recent years. Lindley Johnson noted that a little under 60 percent of the predicted NEOs larger than 140 meters remain to be found, and presented the status of NASA's NEO Surveillance Mission (NEOSM), a space-based infrared observatory that would find 65% of undiscovered PHAs greater than 140 m in 5 years (90% in 10 years), and retrieve size estimates. NEOSM is expected to move to Phase B in the fall. The Double Asteroid Redirection Test (DART) is still on schedule for launch on July 22 2021 and impact Dimorphos (Didymos B) on Sept 20, 2022.</p>
+
+<p>Italian Institute for Astrophysics (Instituto Nazionale di Astrofisica, INAF) - Giovanni Valsecchi gave an update on NEOROCKS, which has 14 different participants in the goal to improve understanding of NEOs, contribute to the selection of NEO targets for space missions, and network ground-based facilities. The challenge is that the only opportunity to dynamically and physically characterize a NEO is just after the discovery, and the window gets smaller with smaller targets. The current priority list is a protocol to provide a list of observable NEO targets to observers according to a priority defined by the observability conditions and dynamical constraints. The algorithm needs a necessary review for observing smaller objects, and also take the Moon and the galactic latitude into account. A new priority list will prioritize objects according to observational and dynamical considerations also. The new service would include automatic daily (or configurable) email to subscribers with some personalization (observatory code ephemerides, limiting magnitude, declination range).</p>
+
+<p>Observatoire de la C&ocirc;te d'Azur (OCA) and French National Center for Scientific Research (CNRS) - Patrick Michel gave an update on NEO-MAPP which has 15 partners and is funded for 3 years (2020 Feb kickoff) by the H2020 program of the European Commission. The goal is to advance our understanding on the response of NEOs to external forces and the associated measurements by a spacecraft, and also to push the limits of modeling of the response of NEOs to a kinetic impact, as well as of their physical and dynamical properties (e.g., cratering physics on different asteroid surface structures, binary dynamics, structural stability and internal structure modeling).</p>
+
+<p>Israel Space Agency - Harel Ben-Ami noted ISA's involvement in IAWN and upcoming paper, and noted that code had been written to smartly use astrometric data to calculate rotational parameters in a timely manner.</p>
+
+<p>Korea Astronomy and Space Science Institute (KASI) - Hong-Kyu Moon presented plans for a ground-based observation campaign for the Apophis apparition in 2020-2021. Apophis is an S-type Aten NEA around 350 meters in size and will approach the Earth to come within the orbit of the geosynchronous satellites during the 2029 encounter. During the Nov 2020-April 2021 apparition, Apophis will be observable in both hemispheres, Vmag ~ 16.1, phase angle 21-115 degrees. Moon suggested an IAWN-led global observation campaign to refine the shape model and spin states, which KASI will do using high temporal resolution time-series photometric observations with three Korea Microlensing Telescope Network (KMTNet) telescopes, and to check surface composition variations with higher temporal resolution time-series spectroscopy.</p>
+
+<p>GAL Hassin Astronomical Center in Sicily - Fast presented Alessandro Nastasi's slides due to audio issues. GAL Hassin has measured 90 NEOs and offers low night sky brightness with typical seeing of ~ 1 arcsec. The upcoming wide-field Mufara Telescope (10 km away) will have Sloan filters and will fill a gap in coverage.</p>
+
+<p>Zwicky Transient Facility (ZTF) - Caltech's Tom Prince noted that ZTF does a wide range of time domain astrophysics, focuses on twilight observation for solar system objects, and utilizes machine learning techniques. ZTF has been funded for an additional 3 years by the U.S. National Science Foundation and the ZTF-2 survey will begin Oct 1, with expanded twilight observations.</p>
+
+<p>Italian Space Agency (Agenzia Spaziale Italiana, pending member) - Ettore Perozzi noted involvement in NEOROCKS, NEODyS, and Flyeye, and will be happy to be involved in IAWN.</p>
+
+<p>National Institute of Astrophysics, Optics and Electronics, Mexico (Instituto Nacional de Astrof&iacute;sica, &oacute;ptica y Electr&oacute;nica, INAOE) - Sergio Camacho shared that the Schmidt camera has been shut down due to COVID-19, and that the institute is under minimal operation. However, the 2.1m telescope at the Observatorio Astron&oacute;mio Guillermo Haro (OAGH) is now robotic and spectrographic observations are ongoing.</p>
+
+<p><em>Additional updates just prior to the MPC update, but noted here in the minutes:</em></p>
+
+<p>The Southern Observatory for Near Earth Asteroid Research (SONEAR) - Crist&oacute;v&atilde;o Jacques gave introductory remarks.</p>
+
+<p>Keldysh Institute of Applied Mathematics, Russian Academy of Sciences (KIAM RAS) - Artem Mokhnatkin noted that it was an honor to be involved in IAWN and contribute to the goals. KIAM RAS has several telescopes from 35-80 cm that can regularly participate in IAWN campaigns.</p>
+
+<h2>IAWN.net update</h2>
+<p>Gerbs Bauer gave an update on iawn.net activities, which is supported by NASA's Planetary Data System Small Bodies Node at the University of Maryland as part of its Minor Planet Center management activities. Webpage development continues, including twitter feeds of IAWN Signatories, close approaches, and stories. New content from signatories, such as new highlights, are welcomed. The major news was the announcement of plans for an Apophis observing campaign during its next close approach in March 2021 at ~0.11 au, with favorable Earth-based observing conditions. This will be the last observing opportunity before its 2029 close approach, and it's an excellent opportunity for an IAWN-led observing campaign. Vishnu Reddy of the University of Arizona and NASA's Mike Kelley will lead the campaign.</p>
+
+<h2>Concept for an International Year of Planetary Defense</h2>
+<p>Doris Daou (NASA PDCO) proposed an International Year of Planetary Defense, along the lines of the International Year of Astronomy in 2009 in which Daou participated. The preparation work took 2-3 years, and it was an international effort initiated by the International Astronomical Union, led by Italy, worked with the United Nations, and endorsed by the UN. Romana Kofler of UNOOSA agreed that it would be a great idea to bring awareness to planetary defense. The International Year of Astronomy became a UN General Assembly resolution. Kofler noted that her office was involved, that such an effort needs to be justified and being initiated early, and that she will look into the process at the UN Secretariat. Daou noted that one possibility for timing and justification is the Apophis encounter in 2029. Daou will continue to seek input and welcomes input from IAWN. Sergio Camacho also noted that the process takes a long time, and that International Asteroid Day was successful due to COPUOS being sensitized by the annual IAWN and SMPAG reports. Camacho thinks it would be important to keep UNESCO in the loop, as well as different societies, and to move the process forward through COPUOS.</p>
+
+<h2>Minor Planet Center update</h2>
+<p>Gerbs Bauer gave an update on the status of Minor Planet Center activities. More automated pipeline processing and personnel cross-training has resulted in reduced time to issue MPECs about confirmed discoveries, and a number of new tools and products are in beta testing. They are working toward a live Postgres database as the primary means of distributing products to active NEO observers. They have taken a "lite" systems engineering approach to planning and implementing the development of the new data processing pipeline. These developments are needed to accommodate the 10- to 100-fold increase in observations expected from the Vera Rubin Observatory and from NASA's NEO Surveillance Mission.</p>
+
+<p>MPC collects, processes, distributes all positional measurements and discovery info, alerts NASA PDCO, helps coordinates observers worldwide. The MPC has reached its full complement of new hires, and cross-training on MPC operations is complete. The time to MPEC an object has been reduced due to more automated pipeline processing and cross-training. Web pages in beta testing include an MPEC search tool and submission of JSON formatted info to report linkages. New MPC products mentioned at the last meeting include cometary activity observations, submissions and queries for a pointings database, an observation disposition search page, an observatory code request form, and information on previous NEOCP objects. There are beta versions of plots showing NEOCP statistics. The preparation for MPC database distribution continues, working toward live Postgres B as the primary means of distributing products to active NEO observers. Recent hardware upgrades include a dedicated MPC database server, and a failover server at the Planetary Science Institute subnode is being prepared. Preparation for wider Postgres database public distribution is underway, and a beta release copy is available by request. The Maria database will be phased out and clear instructions on how to replicate the Postgres database live copy will be added. A "lite" systems engineering approach has been take to planning and implementing the development of the new data processing pipeline, with a short- and long-term schedule with milestones, full inventories of products in the current and future pipeline, end-to-end design of processing flows, weekly meetings with the Small Bodies Node and systems engineers for tracking pipeline development, and database processing pipeline reviews. These developments are needed to accommodate the 10- to 100-fold increase in observations expected from the Vera Rubin Observatory and from NASA's NEO Surveillance Mission. The required system needs to be database-centric, with modernized orbit-fitting and check routines, and better written/documented code. Recent milestones include Postgres ID & NEOCP tables and resumption of sungrazing comet processing. The MPC participated in NASA's Small Bodies Assessment Group meetings and hosted the 7th MPC Users Group (MUG) meeting.</p>
+
+<p>Crist&oacute;v&atilde;o Jacques (SONEAR) asked if there is a procedure to find unidentified artificial satellites. Bauer noted that they are currently removed from the public database, and that work is underway on a policy for handling the data. The current satellite page is not being updated. Koschny noted that ESA is adding an artsat identification program as well. Melissa Brucker (Spacewatch) asked about the speed of artsat identificaton, and Bauer noted that the lag is unavoidable at this point.</p>
+
+<h2>Recent modifications to computations of Palermo Scale</h2>
+<p>Paul Chodas (NASA JPL) discussed the recent modifications to the computations of the Palermo Scale, a technical scale of impact hazard. A Palermo Scale value for an object incorporates, among other factors, how far away in time a potential impact would take place, but once calculated, the Palermo value was not updated with decreased time. Such an update now happens annually for objects on the risk list, with the decreased time of impact incorporated into the calculation on the pre-anniversary date of potential impact. ESA is also exploring an idea involving the synodic period which would essentially add a new scale but it would offer an additional technical risk assessment for NEOs on the risk list.</p>
+
+<h2>Planetary Defense Conference 2021</h2>
+<p>Romana Kofler (UNOOSA) gave an update on the planning of the 2021 Planetary Defense Conference, which will take place 26-30 April 2021 at the Vienna International Center and include some virtual participation for those who cannot travel, unless a fully-virtual conference becomes the only option.</p>
+
+<h2>Executive Session (Steering Committee only)</h2>
+<p>The Steering Committee gave input on a draft Minor Planet Center policy for observations found to not be of natural objects and removed from the NEO Confirmation Page. The Steering Committee will begin drafting a policy for the IAWN Steering Committee, to ensure it continues to represent the core capabilities of IAWN but also incorporate rotational opportunities for the growing body of IAWN Signatories.</p>
+
+<p>The IAWN Steering Committee plans to meet as usual during UNCOPUOS STSC, on the day before the Space Mission Planning Advisory Group (SMPAG), likely on Tuesday, 2 February 2021. The meeting will take place virtually if an in-person meeting at UNCOPUOS is not possible.</p>
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>

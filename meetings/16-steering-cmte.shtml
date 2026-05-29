@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>iawn: 16th Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">16th Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+
+<p><strong>The 16th IAWN Steering Committee Meeting - </strong>
+<br /><strong>Virtual / Vienna International Centre</strong>
+<br />07 Feb 2023 -- <a href="/documents/20230207_16th_Vienna/16th_IAWN_Mtg_Summary.pdf">Meeting Notes</a></p>
+
+<dl>
+<dt>IAWN Steering Committee members in attendance (<span class="highlight">*</span> denotes virtual attendance):</dt>
+<dd><span class="highlight">*</span>Sergio Camacho (INAOE)
+<br /><span class="highlight">*</span>Paul Chodas (JPL/CNEOS)
+<br />Alan Harris (DLR)
+<br />Lindley Johnson (NASA HQ/PDCO)
+<br /><span class="highlight">*</span>Patrick Michel (CNRS/OCA)
+<br />Richard Moissl (ESA/ESTEC/PDO)
+<br /><span class="highlight">*</span>Boris Shustov (INASAN)
+<br /><span class="highlight">*</span>Gonzalo Tancredi (International Astronomical Union)
+</dd>
+
+<dt>IAWN permanent observers in attendance (<span class="highlight">*</span> denotes virtual attendance)</dt>
+<dd>Detlef Koschny (ESA/SMPAG chair, representing ESA)
+<br />Romana Kofler (UNOOSA)</dd>
+
+<dt>IAWN.net in attendance (<span class="highlight">*</span> denotes virtual attendance):</dt>
+<dd><span class="highlight">*</span>Vishnu Reddy (Univ. Arizona/Univ. Maryland, NASA PDS SBN)</dd>
+
+<dt>IAWN Coordinating Officer:</dt>
+<dd>Kelly Fast (NASA HQ/PDCO)</dd>
+
+<dt>IAWN others attendees (<span class="highlight">*</span> denotes virtual attendance)</dt>
+<dd>6ROADS - Michal Zolonowski
+<br />204 Italy - Luca Buzzi
+<br />Agenzia Spaziale Italiana (ASI) - <span class="highlight">*</span>Ettore Perozzi
+<br />NAOC China - <span class="highlight">*</span>Hai Jiang, <span class="highlight">*</span>Tang Xuwen, <span class="highlight">*</span>Yu Yang
+<br />ESA/NEOCC/PDO - <span class="highlight">*</span>Juan Luis Cano, <span class="highlight">*</span>Marco Micheli, <span class="highlight">*</span>Dario Oliviero, <span class="highlight">*</span>Dora Forhring 
+<br />ESA/PDO - <span class="highlight">*</span>Fracisco Ocana
+<br />European Southern Observatory - Andrew Williams
+<br />GAL Hassin - <span class="highlight">*</span>Alessandro Nastasi
+<br />Northolt Branch Observatory, UK - <span class="highlight">*</span>Guy Wells
+<br />Israel Space Agency - <span class="highlight">*</span>Harel Ben-Ami
+<br />KASI Korea - <span class="highlight">*</span>Hong-Kyu Moon
+<br />NASA - Eric Christensen (CSS)
+<br />NOAK Observatory/L02, Greece - <span class="highlight">*</span>Nick Sioulas
+<br />Northolt Branch Observatory - Guy Wells
+<br />Romanian Academy, Institutul Astronomic - <span class="highlight">*</span>Mirel Birlan
+<br />Zwicky Transient Facility U.S. - <span class="highlight">*</span>George Helou, <span class="highlight">*</span>Tom Prince
+</dd>
+
+<dt>Meeting observers and other attendees (<span class="highlight">*</span> denotes virtual attendance):</dt>
+<dd>
+<br />Australian Government Astronomer at Large - Fred Watson
+<br />Canadian Space Agency - Viqar Abbasi
+<br />ISRO - Anil Kumar, <span class="highlight">*</span>Bulbul Mukherje, <span class="highlight">*</span>Brikram Pradhan
+<br />Kenya Space Agency - Andrew Nyawade, Jackson Cole
+<br />JAXA - Makoto Yoshikawa
+<br />UN OOSA - Jorge Del Rio Vera 
+<br />UN SPIDER - Juan Carlos Villagran, Karla Gilgenberg, Clarissa Lanaj, Bauleni Bumbwe Malawi
+</dd>
+</dl>
+
+<h2>Presentations</h2>
+<ul>
+<li><a href="/documents/20230207_16th_Vienna/20230207_IAWN_meeting_introduction.pdf">Meeting Introduction</a></li>
+<li><a href="/documents/20230207_16th_Vienna/20230207_NASA_update-to-IAWN_v2.pdf">NASA presentation</a></li>
+<li><a href="/documents/20230207_16th_Vienna/ESA-S2P-PD-HO-0186_ESA_Planetary_Defence_Updates_IAWN_Feb23.pdf">ESA PDO presentation</a></li>
+<li><a href="/documents/20230207_16th_Vienna/iawn-2023a-status-report-kasi.pdf">KASI presentation</a></li>
+</ul>
+
+<h2>IAWN membership update</h2>
+<p><a href="/documents/20230207_16th_Vienna/20230207_IAWN_meeting_introduction.pdf">Meeting Introduction</a></p>
+
+<h3>NASA PDCO Update</h3>
+<p><a href="/documents/20230207_16th_Vienna/20230207_NASA_update-to-IAWN_v2.pdf">NASA presentation</a></p>
+<p><strong>Lindley Johnson</strong> gave an update on NASA's Planetary Defense Coordination Office activities, which cover survey detection and follow-up, characterization such as radar, and planning and coordinating within the U.S. government and with IAWN and SMPAG. NASA funds technology demonstrations to deflect an asteroid in space, such as DART, but also prepares to work with FEMA and other capabilities, and to assist around the world, if deflection is not possible. NASA's survey network is mainly in the northern hemisphere, in the southwest U.S. and Hawaii. The ATLAS network of smaller telescopes managed by the University of Hawaii has two telescopes in Hawaii, one in South Africa, and one in Chile. The Mauna Loa ATLAS access was blocked by the recent volcanic eruption, and power issues on Haleakala have affected that ATLAS. Another southern observatory is the collaboration between U.S. Space Force and the Royal Australian Air Force in western Australia, the Space Surveillance Telescope, from which initial data on natural objects have been reported to the Minor Planet Center. Zwicky Transient Facility, which discovered Comet ZTF, is supported with a data processing award for NEOs. NASA funds characterization efforts such as the Infrared Telescope Facility (IRTF) and Goldstone Radar and is participating in a U.S. interagency study to look at the national needs for deep space radar. Goldstone imagery of 2011 AG5 from 4 Feb. 2023 was shown, which was thought to be a possible impactor back in 2011 before the orbit was better understood.</p>
+
+<p>There were 123 known close approaches within one lunar distance, with one as large as 53m (comparable to Tunguska). IRTF observations of 2022 BU showed it to be common like Eros, and it was a real-world exercise to look at the orbit and to characterize physical properties. There were two small impactors in 2022 predicted by NASA JPL CNEOS and ESA's NEOCC and NEODyS. The 2022 EB5 impactor over the Norwegian sea northeast of Iceland was confirmed by webcams and U.S. government sensors. Another predicted small impact, 2022 WJ1, with observations by Catalina Sky Survey and Farpoint Observatory, was witnessed over western Ontario.</p>
+
+<p>CNEOS reports over 31,000 NEAs of all sizes, with over 10,000 >140m. 2022 saw 3188 NEO discoveries, breaking records. For >140m, 451 were discovered, and we have to wait for the population to come within range to detect them. The population is thought to be 25,000, so the survey is 42% complete. It will take 30 years at current rate but the NEO Surveyor mission will cut the time in half. It is a space-based IR mission designed to find 65% of PHAs in 5 years and 90% in 10. It passed KDP-C (confirmation review) in September and Preliminary Design Review in November, with launch no later than 2028.</p>
+
+<p>Johnson gave a short overview of DART impact results, with LICIACube. A worldwide network, many in IAWN, participated in the observations of the impact and the period change. Africa was best positioned to observe the impact, with Kenya the first to return images, also ATLAS in South Africa. Observatories around the world from all continents participated in observing. The orbital period of Dimorphos about Didymos was reduced by 33 minutes.</p>
+
+<p>NEOWISE is proposing for an extension of another year. The orbit has continued to be adequate with respect to the Sun during this cycle but it is expected to degrade in the coming years.</p>
+
+<h3>ESA PDO Update</h3>
+<p><a href="/documents/20230207_16th_Vienna/ESA-S2P-PD-HO-0186_ESA_Planetary_Defence_Updates_IAWN_Feb23.pdf">ESA PDO presentation</a></p>
+<p><strong>Richard Moissl</strong> gave an update on ESA's Planetary Defense Office which covers three main areas - observation, assessment, and mitigation. Recent highlights include the ministerial council and second period of space safety and new record level of funding, entering a new level of complexity and overhead. For the 2029 Apophis flyby, ESA is studying a small cost-efficient reconnaissance mission, Satis, to be with the asteroid during close approach. The second mission is NEOMIR, a space telescope to complement NASA's NEO Surveyor. ESA hosted two conferences in Darmstadt - Imminent Impactors (with the European Union) and NEOs and Space Debris (second installment). Synergies between NEO and space surveillance are growing. Special highlights include the 10 year anniversary of the NEOCC at Frascati coming up in May 2023. Detlef Koschny retired, representing the end of an era, and Moissl noted that he was honored to follow in his footsteps. Koschny is still chairing SMPAG for ESA.</p>
+
+<p>ESA observations are separated into survey and follow-up. Follow-up is active as a network, partly in collaboration with other observatories (e.g., a contract with 6ROADS). Survey is being developed as Flyeye, which is progressing on the technical development to be mounted at the preliminary site in Matera for integration and testing. Redesign is being looked at for the next generation of performance.</p>
+
+<p>Other highlights include the small impactors 2022 EB5 and 2022 WJ1, prompted a workshop to bring the community closer. Other observation highlights include 2020 XL5 (Earth Trojan), faint targets (2021 GN2 and 2021 QM1) and DART impact observations.</p>
+
+<p>ESA is studying NEOMIR for detecting impactors coming from the Sun direction and fast movers that are small and close to Earth, to be an early warning mission on the day side and to search the blind spot for potential impactors in the short term.</p>
+
+<p>A core pillar is assessment, such as orbit determination and impact monitoring. ESA renamed the impact monitoring software to Aegis (shield of Zeus), which was migrated from NEODyS by SpaceDyS. Meerkat is the imminent impactor warning system at ESA, performing well for both 2022 impactors and supporting the notifications to observers.</p>
+
+<p>Mitigation and information provision is addressed through participation in IAWN and SMPAG, close approach fact sheets, visualization tools, and supporting threat awareness month with national civil protection agencies. There is also support to Hera, to the potential Satis mission to Apophis, and to M-ARGO and LUMIO.</p>
+
+<p>Apophis reconnaissance by Satis would be a heliocentric rendezvous with 12UXL cubesat (M-ARGO design). The study is funded through end of a planning period. Reuse of Hera flight heritage parts is also being considered as an upgrade option.</p>
+
+<p>Hera closed its sybsystem CDRs, and an engineering model was delivered, and it is go for launch in 2024, but since an Ariane 6 will not be available, it will launch on a Falcon 9.</p>
+
+<p>Moissl was asked if the plan is to have one Flyeye in north and one in south and the answer was "yes," driven by discovery statistics. Moissl was also asked when NEOMIR might launch, and he noted the target is 2030 or early 2030s.</p>
+
+<h3>KASI Update</h3>
+<p><a href="/documents/20230207_16th_Vienna/iawn-2023a-status-report-kasi.pdf">KASI presentation</a></p>
+<p><strong>Hong Kyu Moon</strong> noted that KASI participated in IAWN campaign (timing) with five OWL-Net stations. KASI also joined DART impact plume monitoring and light curve observations using KMTNet. All six OWL-Net telescopes were used in the IAWN timing campaigns (Mt. Lemmon, Morocco, Israel, Mongolia, Korea). Data were transferred to the HQ station and automatically processed. The observed impact plume and ejecta tails from the Didymos system after DART impact showed development of the impact plume.</p>
+
+<h3>ISA</h3>
+
+<p><strong>Harel Ben Ami</strong> gave a general update on Israel Space Agency, which has participated in the observing campaigns.</p>
+
+<h3>CSA</h3>
+
+<p><strong>Viqar Abassi</strong> of the Canadian Space Agency shared observations during the DART impact period from NEOSat, which is an Earth-orbiting telescope at 800 km altitude. CSA is also a partner in OSIRIS-Rex sample return. NEOSat can observe down to 35 degrees from the Sun, and when in Earth eclipse season it can observe as close as 20 degrees solar elongation. It is supporting NEO follow-up and exoplanets now that it is working again.</p>
+
+<p>Addressing questions, Abassi noted that the DART observations had not yet been shared with the DART investigation team, and that NEOSat could go to 19th magnitude if the lighting conditions are good. Comet follow-up and near-Sun comets have been prioritized. The Guest Observer program runs cycles for different experiments and shares 50% of time with space debris. NEO follow-up is prioritized by David Balam, and there is follow-up on TESS and K2 exoplanet transits. IAWN members encouraged follow-up since the surveys are operating at 21 and 22 magnitude, but follow-up depends on how close newly discovered NEOs come, and it is very valuable for orbits that do not have many obs. Abassi invited input on priority targets.</p>
+
+<h2>SMPAG update</h2>
+
+<p><strong>Detlef Koschny</strong> noted that Action Team 14 was created after Unispace 99 conference to define how to deal with asteroid impact threat. The SMPAG concept was presented in 2014 and adopted in Oct 2014. SMPAG focuses on activities that can be done by national space agencies and space offices (payloads, building systems, expertise). Information is at smpag.net. There are minutes and documents from the meetings. There are currently18 member delegations, 7 observers, 1 ex-officio (IAWN), and a few new members in the pipeline. Current observers of the meetings are requested to become members.</p>
+
+<p>The SMPAG hypothetical asteroid impact exercise is prepared and coordinated by ASI, with three "sprints" to determine how it should function. It is not like Planetary Defense Conference (PDC) exercises, but is trying to identify what SMPAG should do as a group and what is still missing. For PDC, SMPAG will look at the scenario as presented to discuss and prepare a response. There will be statements from SMPAG that will also be seen by the heads of agencies participating in PDC.</p>
+
+<p>During discussion, it was noted that IAWN provides information early in the event of an identified impact threat, and SMPAG steps in later. Both provide public information to UNOOSA which would contact the office of humanitarian affairs. It was also noted that NASA and ESA have different systems that are checks on each other. The validated media usually refer to ESA or NASA/CNEOS for authoritative information when a story comes up. They and IAWN may not be the first with the information because they want to verify and validate, but the goal is to be the most trusted source of accurate information about an event.</p>
+
+<h2>Definition of a close approach</h2>
+
+<p><strong>Detlef Koschny</strong> noted that, within IAWN, we have the possibility to agree on certain definitions such a close approaches, as was done with albedo values to use for converting absolute magnitude to sizes. In the news and internet, there are extreme stories about close approaches that ultimately have very far approaches. Koschny offered a proposal to trigger discussion. The web portal of NEOCC, if the apparent mag is brighter than 11, triggers a fact sheet. That is the brightness that an amateur would see in a telescope. ESA has a color code for how often a close approach happens, and perhaps the "rarity" could figure into the definition. Apparent magnitude takes into account distance and size, and also coupled is the frequency of a given object of a given size. Very small objects pass close more often than larger.</p>
+
+<p>It was suggested that CNEOS and NEOCC meet and discuss a similar definition, but the lists themselves are different. IAWN recommends that these groups discuss the definition.</p>
+
+<p>Johnson noted that distance speaks to close approach but not to interest. The distance to the Moon is a level for close approach, and then an index for the interest of the close approach could bring in size and rarity. Apparent magnitude could be a threshold of interest. A standard distance definition coupled with an interested rating (size, magnitude) could figure in. Shustov shared a diagram illustrating close approaches, that bodies larger than d come within distances at a certain frequency. Cano noted that those distances are factored into the coefficients.</p>
+
+
+<h2>2023 IAA Planetary Defense Conference overview</h2>
+
+<p><strong>Romana Kofler</strong> noted that OOSA is pleased to host the 2023 PDC and they encourage other countries to join the global collaborative effort. The conference will take place at the Vienna International Centre Monday through Thursday, and at the Austrian Academy of Sciences on Sunday and Friday. It will open with Sunday public event on DART. Monday and Tuesday will include high level events and panels and the hypothetical impact scenario. The intention is to engage with the diplomatic community on how things would play out for IAWN and SMPAG. High-level space agency and disaster agency representatives have been invited. The technical sessions will take place the remainder of the week. Tuesday poster viewing will be in the VIC Rotunda. The movie ASTEROID HUNTERS will be shown to the public on Wednesday, and Thursday will be the conference dinner. The PDC will be a hybrid conference.</p>
+
+<h2>2023 PDC Hypothetical Asteroid Impact Scenario</h2>
+
+<p>The scenario is available at <a href="https://cneos.jpl.nasa.gov/pd/cs/pdc23/" onclick="this.target='_blank'">cneos.jpl.nasa.gov/pd/cs/pdc23/</a>. <strong>Paul Chodas</strong> noted that the scenario target is a large asteroid, 500-1 km in range, H=19.4, with sub-global impact effects. A large asteroid is less likely but worth studying. For plausibility, it has an Earth-like orbit with long synodic period (50 years), and with discovery at very low solar elongation (40-45 deg). The warning time is 13 years, with potential impact in 2036, ultimately narrowed to Africa. Two reconnaissance missions are proposed, both rapid response and rendezvous. Mitigation will require nuclear deflection. The storyline will stop just before launch of the proposed deflection mission.</p>
+
+<p>The hypothetical asteroid name is 2023 PDC. The scenario's Epoch 1 will have 1% impact prob, and a standard range of albedos will yield 220-660 meters. The Earth and the asteroid will continue to orbit the Sun 13 times until they meet. At discovery, part of that period will be in the solar exclusion zone. Orbit improvement can be predicted, since you know when an asteroid will be observable. But it will be too distant for radar, and we would not know until 2033 the impact location to 100-km accuracy.</p>
+
+<p>The asteroid would need to be deflected early, otherwise the velocity requirements would climb quickly. Launch timelines are fixed by orbital dynamics. Flyby reconnaissance would help with constraining mass but it would be especially important for narrowing orbit, hence the impact location. Nuclear deflection options will be discussed at the conference. Mass is key parameter in any deflection mission but it is the most difficult parameter to determine. A rendezvous mission would directly get mass, though a flyby could help with less accurate information.</p>
+
+<p>Scenario Epoch 2 is 18 months after discovery, where the impact probability goes to 100%. Color and spectroscopy from ground-based observations help with constraining some physical properties, i.e., spectral type. By this time, the possible impact locations are only across Africa. The damage swatch includes the size of the impact effects, which is related to the mass. The Epoch 3 footprint extends across Nigeria. Epochs 3 and 4 are still being finalized. IAWN and SMPAG decisions will be based on Epoch 1 and 2.</p>
+
+<p>Discussion of precoveries ensued, such as whether one could have been found in IRAS in 1982, to constrain size to 10%. Space assets could not observe because of the Sun avoidance angle. Ocean impacts and keyholes were discussed.</p>
+
+<p>At PDC on Day 1 in the afternoon, there will be a 15-minute presentation of the impact scenario followed by presentations by IAWN and SMPAG on their notifications/recommendations. IAWN notifies at the first Epoch (1% probability), and SMPAG will be interested but does not make recommendations until an impact probability of 10% (Epoch 2 will jump to 100%).</p>
+
+<p>IAWN will develop the text that would be given to OOSA and posted publicly on the website. The text must address, in general terms, what the observability and impact effects might be. NASA and ESA notifications and previous PDC fact sheets will be explored for ideas. Chodas will generate the 1 page summaries for the early Epochs.</p>
+
+<p>The purpose for permanent mission representatives present is to just become aware. The disaster management community needs to understand the time frames. If an impact is to be 5-10 years from now, they may not react in the same way as a short warning impact.</p>
+
+<h2>UN-designated "international year" update</h2>
+
+<p>An update was given toward proposing an international year. Doris Daou (NASA) and Romana Kofler (UNOOSA) are the key points of contact.</p>
+
+<h2>Update on the Dec 2022 IAWN timing campaign 2005 LW3 and future campaigns</h2>
+
+<p><strong>Vishnu Reddy</strong> presented on the second IAWN campaign dealing with astrometric timing uncertainties. 1046 observations were made from 82 participating stations in both the southern and northern hemispheres. 664 observations were reported in ADES format and 382 in 80 column format. 17 stations used low precision 0.8s in their timing reports. As for star catalogs, most used Gaia, some ACAC4 or ATLAS, but there was no specific bias due to star catalog. Position uncertainties come from cross track error and the timing error. Participating stations receive a report about errors. The broad participation was good, but this campaign did not see improvement over the previous campaign in the integrated observations. There are still timing biases and optimistic uncertainties. Individual feedback reports will be sent, and there is the potential for individual feedback toward improvement. The campaigns (timing and others) will be presented at PDC. There will be no timing campaign in 2023, but there will a short warning characterization campaign is planned.</p>
+
+<p>In terms of improvement, a diverse set of tools is being used in the community, so it is hard to identify causes for all errors. But if observers have a computer synchronized to a standard timing source (i.e., GPS), and if they know how their shutter figures in, that goes a long way toward improving timing. Some observers only do one or the other. Timing improvement comes at a cost, but it can be a small investment compared to the capital costs of the station.</p>
+
+<h2>Steering committee nominations</h2>
+
+<p>The IAWN Steering Committee <a href="/documents/charter/IAWN_Steering_Committee_ToR_2023.pdf">Terms of Reference</a> [updated <a href="/documents/charter/IAWN_Steering_Committee_ToR_2024.pdf">2024</a>] were reviewed (available at iawn.net), and Steering Committee nominations were invited.</p>
+
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div><!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div><!-- close class="art-layout-cell art-content" -->
+
+</div><!-- close class="art-content-layout-row" -->
+</div><!-- close class="art-content-layout" -->
+</div><!-- close class="art-layout-wrapper" -->
+
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" --><!--#echo var="LAST_MODIFIED" --></p>
+</footer>
+
+</div><!-- close class=art-sheet -->
+</div><!-- close id=art-main -->
+
+</body>
+</html>
