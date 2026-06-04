@@ -1,13 +1,14 @@
 <div id="sidebar" class="column-left">
 <ul>
 <li><a href="/obscamp/Apophis/index.shtml" title="Top Level Home Page for the Apophis Observing Campaign"><strong>Campaign Home page</strong></a></li>
-<li><a href="/obscamp/Apophis/apophis_status.shtml" title="Current status of NEA Apophis">Current Status</a></li>
-<!-- <li><a href="/obscamp/Apophis/apophis_2019.shtml" title="Details about the 2019 close approach of NEA Apophis">2021 Apparition</a></li> -->
+
+<li><a href="/obscamp/Apophis/apophis_obs.shtml" title="Information about planned, scheduled and in-hand observations of NEA Apophis">Planned Observations</a></li>
+<li><a href="/obscamp/Apophis/apophis_geometry.shtml" title="Geometry and other information about observing conditions for NEA Apophis">Observing Geometry</a></li>
+<li><a href="/obscamp/Apophis/apophis_orbit.shtml" title="Information about the current orbit of NEA Apophis">Orbit</a></li>
 <li><a href="/obscamp/Apophis/apophis_properties.shtml" title="Physical and chemical properties that are known about NEA Apophis.">Physical Properties</a></li>
 
-<li><a href="/obscamp/Apophis/apophis_obs.shtml" title="Information about planned, scheduled and in-hand observations of NEA Apophis">Observations</a></li>
-<li><a href="/obscamp/Apophis/apophis_orbit.shtml" title="Information about the current orbit of NEA Apophis">Orbit</a></li>
-<li><a href="/obscamp/Apophis/apophis_geometry.shtml" title="Geometry and other information about observing conditions for NEA Apophis">Observing Geometry</a></li>
+<!-- <li><a href="/obscamp/Apophis/apophis_status.shtml" title="Current status of NEA Apophis">Current Status</a></li> -->
+<!-- <li><a href="/obscamp/Apophis/apophis_2019.shtml" title="Details about the 2019 close approach of NEA Apophis">2021 Apparition</a></li> -->
 <!-- <li><a href="/obscamp/Apophis/apophis_history.shtml" title="History and interesting facts about NEA Apophis">History</a></li> -->
 <!-- <li><a href="/obscamp/Apophis/apophis_media.shtml" title="Press releases and news related to NEA Apophis">Media</a></li> -->
 <li><a href="/obscamp/Apophis/apophis_gallery.shtml" title="NEA Apophis gallery">Gallery</a></li>
