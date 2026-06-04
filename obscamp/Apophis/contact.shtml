@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>99942 Apophis 2021 Observing Campaign -- Contact page</title>
+<title>99942 Apophis Observing Campaign -- Contact page</title>
 <link rel="stylesheet" href="/obscamp/Apophis/css-n-inc/styles.css" type="text/css" />
 </head>
 
 <body>
 <div id="wrapper">
 <div id="sitename"></div>
-<div id="header"><h1>99942 Apophis 2021 -- Contact Us</h1></div>
+<div id="header"><h1>99942 Apophis -- Contact Us</h1></div>
 
 <div id="body" class="clear">
 <!-- Load navigation bar information. -->
@@ -21,8 +21,8 @@
 <h2>Contact Us</h2>
 
 <p>If you have questions or comments about this site, the asteroid in general, or want to be added to the Campaign email list, please feel free to contact us.</p>
-<br />
-<br />
+<br>
+<br>
 <form name="contactform" method="post" action="/obscamp/Apophis/css-n-inc/send_form_email.php">
 <table style="width:85%; border-spacing:0px;">
 <tr>
