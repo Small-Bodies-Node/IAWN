@@ -30,7 +30,7 @@
 
 <p>Due to Apophis' relatively faint visual magnitude and short observing windows, the 2027 and 2028 opportunities will concentrate on refining its rotation state and gathering additional visible spectra. The IAWN will coordinate the large ground-based telescopes and space telescopes observing efforts. Observers will self-organize but will be advocated by the IAWN when they apply for telescope time. Scientific results from these efforts will be published independently by respective PIs with coordination from the IAWN. The 2029 close approach will be the primary focus for more direct IAWN efforts. Some of the campaign themes we are exploring include: a traditional IAWN campaign treating Apophis as a newly-discovered NEA, which would be similar to our 2021 Apophis campaign; enabling participation of small telescopes (&lt;1 meter aperture) that is aligned with the proposed International Year of Planetary Defense; better coordination with Planetary Defense Conference exercise if there is one planned around Apophis in 2029 and integrating results from spacecraft rendezvous missions planned at or near the Apophis closest approach.</p>
 
-<p>This site will contain background information about Asteroid 99942 Apophis, a list of observations that are planned/scheduled/obtained for the apparitions in 2027, 2028, and 2029, and <a href="apophis_status.shtml">status reports</a> on the events leading up to the encounter. We have an email exploder for disseminating updates to subscribers. Experienced observers may contact Campaign Lead <a href="mailto:reddy@lpl.arizona.edu">Dr. Vishnu Reddy</a> to subscribe. Campaign communications to the broader IAWN community will begin a a few months prior to the campaign observing window.</p>
+<p>This site will contain background information about Asteroid 99942 Apophis, a list of observations that are planned/scheduled/obtained for the apparitions in 2027, 2028, and 2029, and <a href="apophis_status.shtml">status reports</a> on the events leading up to the encounter. Information from the <a href="https://iopscience.iop.org/article/10.3847/PSJ/ac66eb">IAWN 2021 Apophis campaign</a> has been published as well. We have an email exploder for disseminating updates to subscribers. Experienced observers may contact Campaign Lead <a href="mailto:reddy@lpl.arizona.edu">Dr. Vishnu Reddy</a> to subscribe. Campaign communications to the broader IAWN community will begin a a few months prior to the campaign observing window.</p>
 
 <!-- <p>Welcome to the website for the 99942 Apophis Observing Campaigns. Our intention is to provide a central clearinghouse for basic information about the near Earth asteroid Asteroid 99942 Apophis and about the observations that will be obtained during its upcoming 2021 apparition. Although the 2021 apparition is not very close to the Earth, Apophis is of particular interest because in 2029, it will approach to within ~40,000 km.</p>
 <p>These campaigns are organized by the <a href="http://iawn.net/index.shtml">International Asteroid Warning Network (IAWN)</a> to exercise the observing resources and characterization capabilities that may be applied to a near-Earth object on a reasonably short timescale. The 2021 Apophis campaign was the third such campaign to be organized by IAWN, the first being organized for the <a href="http://2012tc4.astro.umd.edu/">2012 TC4 close approach</a> in October of 2017.</p>
@@ -38,15 +38,19 @@
 
 </div>
 
+<!-- ******************** This starts the tab section ******************** -->
+
 <div class="container">
 <div>
 <ul class="nav nav-tabs" role="tablist">
 <li class="nav-item" role="presentation"><a class="nav-link" role="tab" data-bs-toggle="tab" href="#tab-1">2021</a></li>
-<li class="nav-item" role="presentation"><a class="nav-link active" role="tab" data-bs-toggle="tab" href="#tab-2">2027</a></li>
+<li class="nav-item" role="presentation"><a class="nav-link active" role="tab" data-bs-toggle="tab" href="#tab-2"><h3>2027</h3></a></li>
 <!-- <li class="nav-item" role="presentation"><a class="nav-link" role="tab" data-bs-toggle="tab" href="#tab-3">2028</a></li> -->
 <!-- <li class="nav-item" role="presentation"><a class="nav-link" role="tab" data-bs-toggle="tab" href="#tab-4">2029</a></li> -->
 </ul>
 <div class="tab-content">
+
+<!-- ******************** TAB 1 ******************** -->
 <div class="tab-pane" role="tabpanel" id="tab-1">
 <h2>2021 News</h2>
 	<ul>
@@ -76,6 +80,7 @@
 <p>The 2021 apparition is not particularly close to the Earth, so conditions do not change dramatically around close approach. The viewing geometry is such that it is visible from mid-latitudes (both North and South) for several months around close approach.</p>
 </div>
 
+<!-- ******************** TAB 2 ******************** -->
 <div class="tab-pane active" role="tabpanel" id="tab-2">
 <h2>2027 News</h2>
 <ul>
@@ -86,21 +91,22 @@
 <h3>Brightness</h3>
 <p>Current estimates suggest .....</p>
 	<ul>
-	<li>Closest approach to the Earth occurs on 2027-Dec-29 14:2 UT.
+	<li>Closest approach to the Earth occurs on 2027-Dec-29 14:23 UT.
 		<ul>
-		<li>Speed with respect to Earth is ??? km/sec</li>
+		<li>Speed with respect to Earth is 14.69 km/s</li>
 		</ul></li>
-	<li>Geocentric Distance (current best value - JPL#???)
+	<li>Geocentric Distance (current best value - JPL#220)
 		<ul>
 		<li>0.29361 au</li>
 		<li>114 Lunar distances</li>
 		<li>4.3 &times; 10<sup>6</sup> km</li>
 		</ul></li>
 	</ul>
-<h3>Observing conditions (for observations at visible wavelengths)</h3>
-<p>The 2027 apparition ......</p>
+<h3>Observing conditions</h3>
+<p>Please review the <a href="apophis_geometry.shtml">Observing Geometry</a> plots.</p>
 </div>
 
+<!-- ******************** TAB 3 ******************** -->
 <!-- <div class="tab-pane" role="tabpanel" id="tab-3">
 <h2>2028 News</h2>
 	<ul>
@@ -130,6 +136,7 @@
 <p>The 2028 apparition ......</p>
 </div> -->
 
+<!-- ******************** TAB 4 ******************** -->
 <!-- <div class="tab-pane" role="tabpanel" id="tab-4">
 <h2>2029 News</h2>
 	<ul>
@@ -163,10 +170,12 @@
 </div>
 </div>
 
+<!-- ******************** This ends the tab section ******************** -->
+
 <div class="container">
-<h2>History</h2>
+<!-- <h2>History</h2>
 <h3>Discovery</h3>
-<p></p>
+<p></p> -->
 </div>
 
 <!-- CONTENT -->
