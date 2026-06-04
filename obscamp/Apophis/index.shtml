@@ -89,13 +89,13 @@
 
 <h2>Summary of the 2027 Apparition</h2>
 <h3>Brightness</h3>
-<p>Current estimates suggest .....</p>
+<p>Current estimates suggest it will be about mag 21 during the feb-Apr 2027 observing window.</p>
 	<ul>
 	<li>Closest approach to the Earth occurs on 2027-Dec-29 14:23 UT.
 		<ul>
 		<li>Speed with respect to Earth is 14.69 km/s</li>
 		</ul></li>
-	<li>Geocentric Distance (current best value - JPL#220)
+	<li>Geocentric Distance (current best value - <a href="https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=Apophis">JPL#220</a>)
 		<ul>
 		<li>0.29361 au</li>
 		<li>114 Lunar distances</li>
