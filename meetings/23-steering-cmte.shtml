@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>iawn: 23rd Meeting of the Steering Committee</title>
+<!--#include virtual="/css-n-inc/top.inc" -->
+<!--#include virtual="/css-n-inc/menu_geometry.inc"-->
+<div class="art-layout-cell art-content">
+<article class="art-post art-article">
+<h1 class="art-postheader">23rd Meeting of the Steering Committee</h1>
+<div class="art-postcontent art-postcontent-0 clearfix">
+<!-- ************************* BEGIN MAIN CONTENT ************************* -->
+<p>
+<strong>23rd Meeting of the<br>International Asteroid Warning Network</strong>
+<br>
+<strong>Virtual, 13:00 UTC</strong>
+<br>24 September 2026 -- <a href="/documents/20260924_23rd_virtual/23rd_IAWN_Mtg_agenda.pdf">Agenda</a>, <a href="/documents/20260924_23rd_virtual/23rd_IAWN_Mtg_Summary.pdf">Meeting Notes</a></p>
+
+<h2>Welcome / Introductions</h2>
+<ul>
+<li><strong>Vishnu Reddy (IAWN Manager):</strong> Welcomed participants to the 23rd IAWN meeting, held virtually, and reviewed the agenda. The fall meeting provides a forum for signatory updates, campaign results, tools, and scientific discussion; an executive Steering Committee session followed the public meeting.</li>
+<li><strong>Kelly Fast (NASA) and Gerbs Bauer (UMD):</strong> Welcomed attendees and thanked signatories and the University of Maryland support team for sustaining IAWN coordination and meetings.</li>
+</ul>
+
+<h2>IAWN Update and Steering Committee Report</h2>
+<ul>
+<li><strong>Vishnu Reddy (IAWN):</strong> IAWN has 97 signatories representing 32 countries. The 2025 FA22 observing campaign engaged 186 coauthors from 31 countries, illustrating that campaigns provide an effective avenue for broad international participation and new signatories.</li>
+<li>IAWN is administered through NASA and the PDS Small Bodies Node at the University of Maryland. The network coordinates observations and analysis of potential impactors to establish impact time, location, and severity, while SMPAG examines potential space mission responses.</li>
+<li>The Steering Committee includes representatives of NASA, ESA, UNOOSA, the IAU, SMPAG, and technical specialists. A position focused on the emergency management interface remains unfilled; Steering Committee terms and future replacements were discussed.</li>
+<li>Additional JWST observations have ruled out a possible lunar impact by 2024 YR4. Planning is underway for the UN designated 2029 International Year of Asteroid Awareness and Planetary Defense, including opportunities related to Apophis. The 2027 Planetary Defense Conference will be held in Montr&eacute;al.</li>
+</ul>
+
+<h2>IAWN Signatory Updates</h2>
+<ul>
+<li><strong>Richard Moissl (ESA):</strong> Presented ESA planetary defense activities, including its worldwide astrometric follow up network and NEO Coordination Centre (NEOCC) in Frascati. ESA uses orbit and impact monitoring and short warning alert services alongside international partner observations.</li>
+<li>The rapid worldwide response to the small impactor 2026 RW1, discovered hours before its Sept. 6 atmospheric entry, produced an estimated entry position accurate to better than 100 m and timing better than 0.1 seconds. Additional space-based observing capabilities, including JWST and JUICE data, were highlighted.</li>
+<li>ESA continues concept development for NEOMIR, a proposed Sun-Earth L1 infrared survey mission complementary to NEO Surveyor, with Phase B study work planned for 2027. ESA is also studying rapid, lower cost asteroid reconnaissance concepts and a potential European backup capability to strengthen MPC service resilience.</li>
+<li><strong>Flyeye survey telescope development:</strong> Commissioning work has been completed and construction at Monte Mufara in Sicily is progressing. The second Flyeye is planned for Las Campanas, Chile, with design improvements to reduce complexity and improve performance.</li>
+<li><strong>Question (Vishnu Reddy):</strong> How will Flyeye complement Rubin and ATLAS? <strong>Answer (Richard Moissl):</strong> Flyeye is designed to detect nearby, fast-moving small objects; the southern site adds sky coverage, while Rubin data should be particularly valuable for precovery.</li>
+<li><strong>Question (Bill Gray):</strong> What will change in Flyeye 2? <strong>Answer (Richard Moissl):</strong> The updated optical design and advances in detectors allow fewer channels (eight rather than sixteen), simpler alignment and maintenance, and improved performance.</li>
+<li><strong>Kelly Fast (NASA PDCO):</strong> Reviewed NASA funded surveys (including Catalina, ATLAS and Pan-STARRS), follow up and characterization work, MPC support, impact assessment, and coordination with other US agencies and international partners. The 2024 YR4 event demonstrated formal notification procedures.</li>
+<li>NASA continues development, integration, and testing of NEO Surveyor, planned to survey from Sun-Earth L1. Complementary ground based observations and potential combined visible/infrared characterization were emphasized as important opportunities for IAWN.</li>
+<li><strong>Emily Frank (Armagh Observatory):</strong> Presented asteroid polarimetry and its use in determining albedo and constraining size and surface characteristics; discussed the value of coordinating polarimetric measurements with other physical characterization data.</li>
+<li><strong>Makoto Yoshikawa (JAXA):</strong> Updated participants on recent asteroid spacecraft activities, including a successful close flyby, and continuing work on radar observations of asteroids.</li>
+<li><strong>Tetsu Fuse (NAOJ):</strong> Provided a walk on update on Japanese observing facilities, telescope improvements, and their potential contributions to NEO observations.</li>
+<li><strong>Michal Zo&lstrok;nowski (6ROADS):</strong> Outlined the network's follow up observing activities and the contribution of coordinated observatories to time-sensitive astrometry.</li>
+<li><strong>Warren Skidmore (IRTF):</strong> Discussed the importance of making large telescope characterization facilities responsive to planetary defense targets.</li>
+<li><strong>Bikram Pradhan (ISRO):</strong> Presented an update on Indian planetary defense and observing activities.</li>
+</ul>
+
+<h2>Space Mission Planning Advisory Group (SMPAG) Update</h2>
+<ul>
+<li><strong>Richard Moissl (ESA/SMPAG):</strong> Reviewed SMPAG coordination, preparedness for credible impact threats, and work on mitigation related mission options and technical guidance for decision makers. Discussion included future exercises and links between observational warning and space mission planning.</li>
+<li>Participants discussed coordinated observations and mission activities for the 2029 Apophis encounter, with emphasis on communicating plans early, minimizing duplicated effort, and maximizing scientific return.</li>
+</ul>
+
+<h2>MPC Updates and MPC Data Access</h2>
+<ul>
+<li><strong>Matthew Payne (MPC Director):</strong> The MPC currently receives roughly 45-50 million observations annually and is preparing for as much as a tenfold increase over the next two to three years with next generation surveys. Infrastructure, pipelines, and services are being expanded to handle increased throughput.</li>
+<li>The MPC described improvements to submissions, automated validation, APIs, and handling of duplicate observations and remeasurements. Plans include rejecting submissions with inconsistent tracklets and distinguishing corrected remeasurements from duplicative or conflicting measurements.</li>
+<li>A new committee now supports quality control for archival and isolated observations. The MPC also continues to improve public software, including digest2, and invites observer feedback through its help desk and newsletter.</li>
+<li><strong>Question (David Tholen):</strong> How will multiple independent extractions of the same archived imagery be treated? <strong>Answer (Matthew Payne):</strong> Provenance, timing, program codes, and quality information are relevant when deciding which measurements to prefer or retain.</li>
+<li><strong>Daniel Darg (UMD):</strong> Demonstrated MAQI (MPC Advanced Query Interface), which provides registered users a web-based way to run SQL queries against an MPC database replica hosted on AWS. Preset queries and access without maintaining a full local replica were highlighted; interested users can request accounts.</li>
+</ul>
+
+<h2>NEOFixer and Observing Tools</h2>
+<ul>
+<li><strong>Carson Fuls (Catalina Sky Survey):</strong> Presented NEOFixer enhancements for coordinating high priority follow up. New filters identify targets needing characterization and distinguish objects with existing light curves, colors, or spectra from those lacking particular data products.</li>
+<li>NEOFixer is integrating observing plans from major surveys to avoid assigning scarce follow up resources to targets likely to be recovered independently. Rubin and Catalina inputs are being tested; score adjustments based on survey plans were described as planned rather than fully deployed.</li>
+<li>A live view visualization displays participating facilities and their intended targets across the sky, including recent activity. Observers were encouraged to submit their targeting intentions, through either the website or API, to reduce overlapping observations.</li>
+<li><strong>Question/discussion:</strong> NEOFixer tracks observing intentions and statuses rather than receiving the astrometry itself; observations remain the MPC's responsibility. Participants discussed bringing additional characterization archives, including IRTF and ESA resources, into its data discovery filters.</li>
+<li><strong>Andis Zari&ncedil;&scaron; (Baldone Observatory):</strong> Reported on synthetic tracking and image stacking approaches for recovering faint moving targets with modest facilities and discussed processing requirements and limitations.</li>
+<li><strong>Benjamin Sharkey (UMD):</strong> Demonstrated the Comet Astrometry Tool, developed to help measure comet positions more consistently by accounting for coma-related offsets and supporting reproducible astrometric corrections.</li>
+</ul>
+
+<h2>IAWN Observing Campaign Updates</h2>
+<ul>
+<li><strong>Vishnu Reddy (IAWN):</strong> Reported that the 2025 FA22 campaign paper, involving 186 co-authors, has been submitted for journal review. Participants were asked to route manuscript questions, corrections, and acknowledgement updates through their working group leads.</li>
+<li><strong>Gerbs Bauer (UMD):</strong> Reviewed analysis and manuscript progress from the 3I/ATLAS comet observing campaign. Figures have been completed and approximately half of the sections were fully drafted at the time of the meeting; the remaining sections were being prepared for circulation to participating authors.</li>
+</ul>
+
+<h2>Future IAWN Observing Campaigns and Discussion</h2>
+<ul>
+<li><strong>Marco Micheli (ESA):</strong> Proposed exploring whether small and medium aperture observatories could reach much fainter NEO targets through long integrations and motion compensated image stacking. Examples illustrated detections around magnitude 24, but substantial observing time and careful data processing are required.</li>
+<li>Discussion addressed non-linear apparent motion during long observations, errors associated with stacking on uncertain rates, potential false detections, and the need for independent verification and defensible astrometry. Tools and methods for efficient faint-object follow-up were discussed.</li>
+<li><strong>Vishnu Reddy (IAWN):</strong> Emphasized that many IAWN participants operate modest telescopes and that the expanding Rubin and NEO Surveyor discovery streams will make faint-object follow up a growing challenge. A future campaign could test practical methods and broaden the contribution of smaller observatories.</li>
+<li>The public session concluded with thanks to speakers and participating signatories, followed by a separate IAWN Steering Committee executive session.</li>
+</ul>
+
+<!-- ************************* END MAIN CONTENT ************************* -->
+</div>
+<!-- close class="art-postcontent art-postcontent-0 clearfix" -->
+</article>
+</div>
+<!-- close class="art-layout-cell art-content" -->
+</div>
+<!-- close class="art-content-layout-row" -->
+</div>
+<!-- close class="art-content-layout" -->
+</div>
+<!-- close class="art-layout-wrapper" -->
+<footer class="art-footer">
+<!--#include virtual="/css-n-inc/footer.inc" -->
+<p class="art-page-footer">Updated: <!--#config timefmt="%d-%h-%Y" -->
+<!--#echo var="LAST_MODIFIED" -->
+</p>
+</footer>
+</div>
+<!-- close class=art-sheet -->
+</div>
+<!-- close id=art-main -->
+</body>
+</html>

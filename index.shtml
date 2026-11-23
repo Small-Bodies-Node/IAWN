@@ -61,19 +61,17 @@
 <div class="art-layout-cell layout-item-0" style="width: 33%">
 <h3>Recent Signatories</h3>
 <ul>
+<!-- added 23 Nov 2026 -->
+<li>Observatorio Astronomico (MPC-R49), Spain</li>
+
+<!-- added 27 Oct 2026 -->
+<li>Japan Spaceguard Association (JSGA)</li>
 
 <!-- added 17 Aug 2026 -->
 <li>Santa Maria de Montmagastrell Observatory (MPC-B74), Spain</li>
 
 <!-- added 15 May 2026 -->
 <li>The National Astronomical Observatory of Japan (NAOJ)</li>
-
-<!-- added 13 Feb 2026 -->
-<li>Armagh Observatory</li>
-
-<!-- added 31 Jan 2026 -->
-<li>Indian Space Research Organisation (ISRO)</li>
-
 
 </ul>
 <p><a href="/about/members.shtml" class="art-button">All IAWN Members</a></p>
